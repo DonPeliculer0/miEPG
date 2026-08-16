@@ -6,6 +6,11 @@ Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
 SPORT.TV+.HD.pt,Sport TV + FHD 🇵🇹,https://i.ibb.co/wFnkxzXG/Sport-TV.png
 SPORT.TV1.HD.pt,Sport TV 1 🇵🇹,https://i.ibb.co/0yxjWhBJ/Sport-TV-1.png
+5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png
+5f1ac8099c49f600076579b2,Pluto TV Cine Comedia,https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png
+ESBC3500002PW,Ideas en 5 Minutos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png
+ES42000022E,Xataka,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES42000022E_20251202T002550SQUARE.png
+6a1610bebdf296985fd95603-6876f76054325376973fd314,Pink Panther,https://provider-static.plex.tv/epg/cms/production/3c31975b-e818-4f3b-bbe2-7e433a07d5f0/PinkPanther_logo_dark_-_Carl_HoffeldercolorwhittexteREX.png
 RNE.TV,RNE para todos,https://i.ibb.co/7xC54M6s/RNE-para-todos.png
 ElPais.TV,El Pais,https://i.ibb.co/R4HvVhgC/IMG-8727.png
 Negocios.TV,Negocios TV, https://i.ibb.co/yFYwT6tf/IMG-8738.png
