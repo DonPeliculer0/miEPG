@@ -48,6 +48,22 @@
     <display-name>La Sexta UHD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" />
   </channel>
+  <channel id="Sport TV + FHD 🇵🇹">
+    <display-name>Sport TV + FHD 🇵🇹 SD</display-name>
+    <display-name>Sport TV + FHD 🇵🇹 HD</display-name>
+    <display-name>Sport TV + FHD 🇵🇹 4K</display-name>
+    <display-name>Sport TV + FHD 🇵🇹 Full HD</display-name>
+    <display-name>Sport TV + FHD 🇵🇹 UHD</display-name>
+    <icon src="https://i.ibb.co/wFnkxzXG/Sport-TV.png" />
+  </channel>
+  <channel id="Sport TV 1 🇵🇹">
+    <display-name>Sport TV 1 🇵🇹 SD</display-name>
+    <display-name>Sport TV 1 🇵🇹 HD</display-name>
+    <display-name>Sport TV 1 🇵🇹 4K</display-name>
+    <display-name>Sport TV 1 🇵🇹 Full HD</display-name>
+    <display-name>Sport TV 1 🇵🇹 UHD</display-name>
+    <icon src="https://i.ibb.co/0yxjWhBJ/Sport-TV-1.png" />
+  </channel>
 	<programme start="20260816070000 +0200" stop="20260816100500 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | TP | ★6.2/10
@@ -9609,6 +9625,1649 @@
     <title>Cine</title>
     <desc>· Programa por determinar...</desc>
 	</programme>
+  <programme start="20260815001500 +0000" stop="20260815004600 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815004600 +0000" stop="20260815021500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogo A Jogo</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1fccc754ee7c4a339bc666dcb9b768c5&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815021500 +0000" stop="20260815024500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815024500 +0000" stop="20260815031500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Antevisão FA Community Shield</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4766d703591341779efed193d7d77daf&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815031500 +0000" stop="20260815033100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Vamos À Bola - Best Of Liga Portugal 2</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff539561a4b6445b38a8e8e0d87b95b9b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815033100 +0000" stop="20260815040100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815040100 +0000" stop="20260815050100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">UFC Countdown 2026 - UFC 330 - Makhachev x Machado Garry</title>
+    <sub-title lang="pt">Desportos Combate</sub-title>
+    <desc lang="pt">Antevisão de mais um combate - que promete ser inesquecível! - do UFC.</desc>
+    <category lang="pt">Desportos de combate</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc08dafb5e5bd4bedbc8e120831a4bbf5&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815050100 +0000" stop="20260815060700 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">NASCAR Cup Series 2026 - Highlights - Iowa Corn 350 - Resumo</title>
+    <sub-title lang="pt">Automobilismo</sub-title>
+    <category lang="pt">Automobilismo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F9055c3f33caa4018b7435cf90adb1b3e&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815060700 +0000" stop="20260815063700 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">GP Magazine</title>
+    <sub-title lang="pt">Desportos Motorizados</sub-title>
+    <desc lang="pt">Se tem motor, é veloz e é notícia passa no GP Magazine com a Diana Pereira. \nSão os 25 minutos mais rápidos da televisão portuguesa.</desc>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4ed5ea78269e4060a690a2e9d16a7b30&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815063700 +0000" stop="20260815065900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Motociclismo - Magazine</title>
+    <sub-title lang="pt">Motociclismo</sub-title>
+    <category lang="pt">Motociclismo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8ac9128633344a3e9eff0035077729cb&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815065900 +0000" stop="20260815085900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC (Sporttv+ Replay)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815085900 +0000" stop="20260815092700 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Superliga Turca 2026-27 - Galatasaray x Corum Fk</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F61d128a302d9460eacd850a1de75317f&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815092700 +0000" stop="20260815100000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogar Em Casa - Pepa - Treinador CF Estrela da Amadora</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fcb96ed98f0df46cd822e20ee70aa0162&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815100000 +0000" stop="20260815102800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815102800 +0000" stop="20260815110000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815110000 +0000" stop="20260815112900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Superliga Turca 2026-27 - Galatasaray x Corum Fk</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F61d128a302d9460eacd850a1de75317f&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815112900 +0000" stop="20260815120000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Antevisão FA Community Shield</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4766d703591341779efed193d7d77daf&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815120000 +0000" stop="20260815122800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815122800 +0000" stop="20260815124900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - Antevisão União De Leiria x SL Benfica B</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff0347086dc81455bb3803023896ce0d8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815124900 +0000" stop="20260815151000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - União De Leiria x SL Benfica B (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb07132b46184eccb4ef1fdf8fabda41&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815151000 +0000" stop="20260815171400 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Grande Jornada (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações "live". Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F13f0b4e239d04a909373c79f4477a116&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815171400 +0000" stop="20260815174400 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogos De Preparação 2026 - Man. United x AC Milan</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fed274893f0174384b357a2d9936b054d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815174400 +0000" stop="20260815181800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Grande Jornada (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações "live". Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F13f0b4e239d04a909373c79f4477a116&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815181800 +0000" stop="20260815191700 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Antevisão Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815191700 +0000" stop="20260815202000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogo Grande - Rio Ave FC x FC Porto (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fff0726edd56c4800b99d7302800143e2&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815202000 +0000" stop="20260815202800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Fique a par de tudo o que se passa no mundo do desporto.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815202800 +0000" stop="20260815213000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogo Grande - Rio Ave FC x FC Porto (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fff0726edd56c4800b99d7302800143e2&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815213000 +0000" stop="20260815222800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rescaldo Rio Ave FC x FC Porto</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815222800 +0000" stop="20260815225900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815225900 +0000" stop="20260815233200 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815233200 +0000" stop="20260816000100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Arábia Saudita 2026-27 - Al-Nassr x Al Fateh</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff53f047e9d13482aa40a28b0f5408667&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816000100 +0000" stop="20260816010100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">UFC Countdown 2026 - UFC 330 - Makhachev x Machado Garry</title>
+    <sub-title lang="pt">Desportos Combate</sub-title>
+    <desc lang="pt">Antevisão de mais um combate - que promete ser inesquecível! - do UFC.</desc>
+    <category lang="pt">Desportos de combate</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fc08dafb5e5bd4bedbc8e120831a4bbf5&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816010100 +0000" stop="20260816013000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816013000 +0000" stop="20260816032900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto (Sporttv+ Replay)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816032900 +0000" stop="20260816040100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogos De Preparação 2026 - Man. United x AC Milan</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fed274893f0174384b357a2d9936b054d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816040100 +0000" stop="20260816043100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816043100 +0000" stop="20260816050100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Antevisão FA Community Shield</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4766d703591341779efed193d7d77daf&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816050100 +0000" stop="20260816070100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Arábia Saudita 2026-27 - Al-Nassr x Al Fateh</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff53f047e9d13482aa40a28b0f5408667&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816070100 +0000" stop="20260816073000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Auto Gear Magazine</title>
+    <sub-title lang="pt">Automobilismo</sub-title>
+    <desc lang="pt">As novidades do mercado automóvel, sem esquecer os temas relevantes, como a mobilidade sustentável e a segurança rodoviária.</desc>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8f2bba45ebb14512befc3900dd370572&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816073000 +0000" stop="20260816093000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto (Sporttv+ Replay)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816093000 +0000" stop="20260816100000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Superliga Turca 2026-27 - Gençlerbirligi x Fenerbahçe</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Faeaa20f6b78e45b89687fbe77a43e664&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816100000 +0000" stop="20260816102900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Fique a par de tudo o que se passa no mundo do desporto.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816102900 +0000" stop="20260816110000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogos De Preparação 2026 - Man. United x AC Milan</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fed274893f0174384b357a2d9936b054d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816110000 +0000" stop="20260816112900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Arábia Saudita 2026-27 - Al-Nassr x Al Fateh</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff53f047e9d13482aa40a28b0f5408667&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816112900 +0000" stop="20260816120000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816120000 +0000" stop="20260816122900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816122900 +0000" stop="20260816124900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - Antevisão Amarante FC x Lourosa FC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff0347086dc81455bb3803023896ce0d8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816124900 +0000" stop="20260816150900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - Amarante FC x Lourosa FC (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F697d0678eb344228977d00ed8691ef85&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816150900 +0000" stop="20260816170000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Grande Jornada (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações "live". Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F13f0b4e239d04a909373c79f4477a116&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816170000 +0000" stop="20260816172800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">FA Community Shield - Arsenal x Man. City</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0e24ef2f2072443ca1b5c814a2f40450&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816172800 +0000" stop="20260816182400 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Grande Jornada (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações "live". Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F13f0b4e239d04a909373c79f4477a116&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816182400 +0000" stop="20260816192000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Superliga Turca 2026-27 - Besiktas x Eyupspor (1ª Parte) (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0d34f6ea6e4f4b348c4714badf346cf4&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816192000 +0000" stop="20260816193000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Fique a par de tudo o que se passa no mundo do desporto.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816193000 +0000" stop="20260816202800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Superliga Turca 2026-27 - Besiktas x Eyupspor (2ª Parte) (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0d34f6ea6e4f4b348c4714badf346cf4&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816202800 +0000" stop="20260816205900 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Grande Jornada (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada com sinalização de golos, resultados e classificações "live". Antevisões e rescaldos em direto, bem como resumos dos jogos dos principais campeonatos.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F13f0b4e239d04a909373c79f4477a116&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816205900 +0000" stop="20260816212800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Supertaça De França 2026-27 - PSG x Lens</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F25925f1445e440fb8bf8edcc95d75159&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816212800 +0000" stop="20260816222800 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Só Golos (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Veja ou reveja os golos marcados nos principais campeonatos e competições de futebol.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F2fca33d9b5864d4a8d3fa8627b7d3cdd&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816222800 +0000" stop="20260816230100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816230100 +0000" stop="20260817010500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">FA Community Shield - Arsenal x Man. City</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0e24ef2f2072443ca1b5c814a2f40450&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817010500 +0000" stop="20260817013300 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Supertaça De França 2026-27 - PSG x Lens</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F25925f1445e440fb8bf8edcc95d75159&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817013300 +0000" stop="20260817023200 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Só Golos</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Veja ou reveja os golos marcados nos principais campeonatos e competições de futebol.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F2fca33d9b5864d4a8d3fa8627b7d3cdd&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817023200 +0000" stop="20260817030100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817030100 +0000" stop="20260817033100 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">FA Community Shield - Arsenal x Man. City</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0e24ef2f2072443ca1b5c814a2f40450&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817033100 +0000" stop="20260817040000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Supertaça De França 2026-27 - PSG x Lens</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F25925f1445e440fb8bf8edcc95d75159&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">UFC - PPV 2026 - UFC 330 - Makhachev x Machado Garry - Philadelphia</title>
+    <sub-title lang="pt">Desportos Combate</sub-title>
+    <desc lang="pt">Não perca as emoções de mais um combate do Ultimate Fighting Championship.</desc>
+    <category lang="pt">Desportos de combate</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F9f6c3b874c134108aa60ffe4ecd12afa&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817050000 +0000" stop="20260817052000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Motociclismo - Magazine</title>
+    <sub-title lang="pt">Motociclismo</sub-title>
+    <category lang="pt">Motociclismo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8ac9128633344a3e9eff0035077729cb&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817052000 +0000" stop="20260817055000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Campeonato Europeu De Ralis 2026 - Highlights - Rali da Chéquia - Resumo</title>
+    <sub-title lang="pt">Automobilismo</sub-title>
+    <category lang="pt">Automobilismo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F5f8b9f6a9c2b4868a855a42ce7ccc131&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817055000 +0000" stop="20260817075500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">FA Community Shield - Arsenal x Man. City</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0e24ef2f2072443ca1b5c814a2f40450&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817075500 +0000" stop="20260817092500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Manhã Informativa (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">De segunda a sexta-feira, a "Manhã Informativa" lança o dia informativo, através dos principais jornais nacionais e internacionais, passando ainda pelas redes sociais.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F41a05a6d0edf4d679208c06fc4b00773&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817092500 +0000" stop="20260817095500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Supertaça De França 2026-27 - PSG x Lens</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F25925f1445e440fb8bf8edcc95d75159&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817095500 +0000" stop="20260817102500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">FA Community Shield - Arsenal x Man. City</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0e24ef2f2072443ca1b5c814a2f40450&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817102500 +0000" stop="20260817105500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Resumo da Jornada - Resumo da Jornada</title>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817105500 +0000" stop="20260817115500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Grande Jornal (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">O Grande Jornal da Sport TV faz-lhe chegar toda a informação desportiva de relevo, com a máxima atualidade.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3837ad419d204731bdc15d10b1b25437&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817115500 +0000" stop="20260817125500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Inside Serie A - Antevisão da Nova Época</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F52e18e223550438a8259bc3a7ee60cd8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817125500 +0000" stop="20260817133000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817133000 +0000" stop="20260817142500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Taça Libertadores 2026 - Highlights - Magazine</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff55a484139d640f6a844b64dea042b0f&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817142500 +0000" stop="20260817145500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Supertaça De França 2026-27 - PSG x Lens</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F25925f1445e440fb8bf8edcc95d75159&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817145500 +0000" stop="20260817153000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Mercados</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F309add10b84c4851a8dea3768b43c1e2&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817160000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Resumo da Jornada - Resumo da Jornada</title>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817160000 +0000" stop="20260817163000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Tarde Informativa (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F960572727f984829895f810ee0231346&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817163000 +0000" stop="20260817165000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - Antevisão FC Felgueiras x AFS</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff0347086dc81455bb3803023896ce0d8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817165000 +0000" stop="20260817191000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - FC Felgueiras x AFS (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8d4494b0eaad4e4fa99ee52a27a9e738&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817191000 +0000" stop="20260817201000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogo Grande - Casa Pia AC x SL Benfica (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8cc0078854cf4ea3bf66009f3c742958&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817201000 +0000" stop="20260817202000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Fique a par de tudo o que se passa no mundo do desporto.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817202000 +0000" stop="20260817211500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Jogo Grande - Casa Pia AC x SL Benfica (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8cc0078854cf4ea3bf66009f3c742958&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817211500 +0000" stop="20260817221500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rescaldo Casa Pia AC x SL Benfica</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817221500 +0000" stop="20260817233000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Titulares (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Os comentadores Ricardo Rocha, Chaínho e Nélson fazem o balanço da jornada futebolística.</desc>
+    <category lang="pt">Debate desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa98757b25b894b8da363490c024b2323&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817233000 +0000" stop="20260818000000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818000000 +0000" stop="20260818020000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Casa Pia AC x SL Benfica (Sporttv+ Replay)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa00a65a84427483a9f743e510fe6a968&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818020000 +0000" stop="20260818023000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818023000 +0000" stop="20260818033000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Taça Sul-Americana 2026 - Highlights - Magazine</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1c3777ccb54341af9fe5e1680adc1e41&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818033000 +0000" stop="20260818043000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Taça Libertadores 2026 - Highlights - Magazine</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff55a484139d640f6a844b64dea042b0f&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818043000 +0000" stop="20260818050000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Auto Gear Magazine</title>
+    <sub-title lang="pt">Automobilismo</sub-title>
+    <desc lang="pt">As novidades do mercado automóvel, sem esquecer os temas relevantes, como a mobilidade sustentável e a segurança rodoviária.</desc>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8f2bba45ebb14512befc3900dd370572&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818050000 +0000" stop="20260818060000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Inside Serie A - Antevisão da Nova Época</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F52e18e223550438a8259bc3a7ee60cd8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818060000 +0000" stop="20260818075500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Casa Pia AC x SL Benfica (Sporttv+ Replay)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa00a65a84427483a9f743e510fe6a968&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818075500 +0000" stop="20260818093000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Manhã Informativa (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">De segunda a sexta-feira, a "Manhã Informativa" lança o dia informativo, através dos principais jornais nacionais e internacionais, passando ainda pelas redes sociais.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F41a05a6d0edf4d679208c06fc4b00773&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818093000 +0000" stop="20260818100000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Casa Pia AC x SL Benfica</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa00a65a84427483a9f743e510fe6a968&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818100000 +0000" stop="20260818105500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Taça Libertadores 2026 - Highlights - Magazine</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff55a484139d640f6a844b64dea042b0f&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818105500 +0000" stop="20260818120000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Grande Jornal (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">O Grande Jornal da Sport TV faz-lhe chegar toda a informação desportiva de relevo, com a máxima atualidade.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F3837ad419d204731bdc15d10b1b25437&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818120000 +0000" stop="20260818125500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Taça Sul-Americana 2026 - Highlights - Magazine</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F1c3777ccb54341af9fe5e1680adc1e41&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818125500 +0000" stop="20260818132500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818132500 +0000" stop="20260818142500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Inside Serie A - Antevisão da Nova Época</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F52e18e223550438a8259bc3a7ee60cd8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818142500 +0000" stop="20260818145500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Resumo da Jornada - Resumo da Jornada</title>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818145500 +0000" stop="20260818153000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Mercados</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F309add10b84c4851a8dea3768b43c1e2&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818153000 +0000" stop="20260818160000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Casa Pia AC x SL Benfica</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa00a65a84427483a9f743e510fe6a968&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818160000 +0000" stop="20260818172500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Tarde Informativa (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F960572727f984829895f810ee0231346&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818172500 +0000" stop="20260818173500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Golos da Jornada - Golos da 2ª Jornada</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818173500 +0000" stop="20260818175500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Vamos À Bola - Best Of Liga Portugal Betclic</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff539561a4b6445b38a8e8e0d87b95b9b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818175500 +0000" stop="20260818183000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Mercados</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F309add10b84c4851a8dea3768b43c1e2&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818183000 +0000" stop="20260818185500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Notícias</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff9b573e83f934df89a6b6e08941d7659&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818185500 +0000" stop="20260818195000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Noite Informativa (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Programa assente no resumo do dia informativo com debate sobre os principais temas da atualidade e espaços de reflexão semanais.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6f5f5d1913464e1ba8f5302888889dd6&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818195000 +0000" stop="20260818195500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Agora Sim - 2ª Jornada Liga Portugal Betclic</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fedf50dee86d343ffb27808c6172b565b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818195500 +0000" stop="20260818220000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Noite Informativa (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">Programa assente no resumo do dia informativo com debate sobre os principais temas da atualidade e espaços de reflexão semanais.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6f5f5d1913464e1ba8f5302888889dd6&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818220000 +0000" stop="20260818223000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">UEFA Champions League 2026-2027 - Jogos - Fenerbahçe x Lyon - 1ª Mão do Playoff</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa131b04dcae447faaa57d26165a1d6e2&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818223000 +0000" stop="20260818230000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <desc lang="pt">As novidades que marcam o mundo do desporto neste último espaço informativo do dia da Sport TV.</desc>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ffda3667048b949f3a8f1d07f57c8c242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818230000 +0000" stop="20260818233000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">EFL Championship 2025-26 - Magazine Premier League - Resumo da Jornada</title>
+    <desc lang="pt">Compacto dos golos e melhores momentos da Liga Inglesa de futebol.</desc>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F25ad1f44fb154a06ac8c72fbda11d800&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818233000 +0000" stop="20260818235000 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - Magazine</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff0347086dc81455bb3803023896ce0d8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818235000 +0000" stop="20260818235500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Agora Sim - 2ª Jornada Liga Portugal Betclic</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fedf50dee86d343ffb27808c6172b565b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818235500 +0000" stop="20260819002500 +0000" channel="Sport TV + FHD 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Resumo da Jornada - Resumo da Jornada</title>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815000900 +0000" stop="20260815022000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815022000 +0000" stop="20260815024900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Antevisão FA Community Shield</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4766d703591341779efed193d7d77daf&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815024900 +0000" stop="20260815044900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Arábia Saudita 2026-27 - Al-Hilal x Al Faysaly</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa380f87ad29941a985735889674ceb91&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815044900 +0000" stop="20260815065000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">EFL Championship 2025-26 - Wolverhampton x Blackburn Rovers</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F19139d0008af444cb9d9c5d40d1c748d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815065000 +0000" stop="20260815072000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815072000 +0000" stop="20260815091500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Taça de Itália 2026-27 - Fiorentina x Benevento - 1ª Eliminatória</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F234ff1661b5645e1bd84ed6761b3192d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815091500 +0000" stop="20260815110900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Superliga Turca 2026-27 - Galatasaray x Corum Fk</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F61d128a302d9460eacd850a1de75317f&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815110900 +0000" stop="20260815131900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815131900 +0000" stop="20260815135800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Bancada Livre - Nova Época - Liga Portugal Betclic</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Faa889d91e9c5444495798e8a57e7923c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815135800 +0000" stop="20260815141900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Antevisão FC Alverca x CF Estrela da Amadora</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815141900 +0000" stop="20260815164800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - FC Alverca x CF Estrela da Amadora (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdbdba8caca2448cb81dda6f3144174ff&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815164800 +0000" stop="20260815171800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Antevisão FA Community Shield</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4766d703591341779efed193d7d77daf&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815171800 +0000" stop="20260815175100 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815175100 +0000" stop="20260815181800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Jogos De Preparação 2026 - Man. United x AC Milan</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fed274893f0174384b357a2d9936b054d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815181800 +0000" stop="20260815191800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Antevisão Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815191800 +0000" stop="20260815213000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815213000 +0000" stop="20260815222600 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rescaldo Rio Ave FC x FC Porto</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815222600 +0000" stop="20260815225900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Arábia Saudita 2026-27 - Al-Nassr x Al Fateh</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff53f047e9d13482aa40a28b0f5408667&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815225900 +0000" stop="20260815232900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Jogos De Preparação 2026 - Man. United x AC Milan</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fed274893f0174384b357a2d9936b054d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815232900 +0000" stop="20260815235900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260815235900 +0000" stop="20260816000900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Golos Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816000900 +0000" stop="20260816021300 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Argentina 2026-27 - Platense x Boca Juniors (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe454036f404241e7a8fa1046e2cea242&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816021300 +0000" stop="20260816042500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816042500 +0000" stop="20260816063500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Académico x Santa Clara</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F56d7094c8957418ab54f2b713e1009bf&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816063500 +0000" stop="20260816064500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Golos Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816064500 +0000" stop="20260816085900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - FC Alverca x CF Estrela da Amadora</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdbdba8caca2448cb81dda6f3144174ff&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816085900 +0000" stop="20260816092900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816092900 +0000" stop="20260816094900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - Antevisão Portimonense x FC Vizela</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff0347086dc81455bb3803023896ce0d8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816094900 +0000" stop="20260816121200 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - Portimonense x FC Vizela (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fed9f8a28a2c54b8c80293bd643be6672&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816121200 +0000" stop="20260816122800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Vamos À Bola - Best Of Liga Portugal 2</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff539561a4b6445b38a8e8e0d87b95b9b&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816122800 +0000" stop="20260816125800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Arábia Saudita 2026-27 - Al-Nassr x Al Fateh</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff53f047e9d13482aa40a28b0f5408667&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816125800 +0000" stop="20260816132800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816132800 +0000" stop="20260816135700 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816135700 +0000" stop="20260816141900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Antevisão CD Nacional x Estoril</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816141900 +0000" stop="20260816164700 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - CD Nacional x Estoril (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8dbd9ec8e75b4fc3b630e023b7ead43c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816164700 +0000" stop="20260816171900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">FA Community Shield - Arsenal x Man. City</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0e24ef2f2072443ca1b5c814a2f40450&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816171900 +0000" stop="20260816174800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Jogos De Preparação 2026 - Man. United x AC Milan</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fed274893f0174384b357a2d9936b054d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816174800 +0000" stop="20260816181900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Arábia Saudita 2026-27 - Al-Nassr x Al Fateh</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff53f047e9d13482aa40a28b0f5408667&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816181900 +0000" stop="20260816182800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Golos Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816182800 +0000" stop="20260816185900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816185900 +0000" stop="20260816191900 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Antevisão SC Braga x Gil Vicente FC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816191900 +0000" stop="20260816214800 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - SC Braga x Gil Vicente FC (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe08e8c91beef44c08806b8846ee65798&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260816214800 +0000" stop="20260817000400 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">FA Community Shield - Arsenal x Man. City</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0e24ef2f2072443ca1b5c814a2f40450&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817000400 +0000" stop="20260817021400 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - SC Braga x Gil Vicente FC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe08e8c91beef44c08806b8846ee65798&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817021400 +0000" stop="20260817024700 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Resumo da Jornada - Resumo da Jornada</title>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817024700 +0000" stop="20260817044400 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Argentina 2026-27 - River Plate x Argentinos Juniors</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff325f0715f2842a1b3e2e2680a556956&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817044400 +0000" stop="20260817064000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Jogos De Preparação 2026 - Newcastle x RC Strasbourg</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F547e26721b6e40e7a3d90ccff7abf8d9&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817064000 +0000" stop="20260817085500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - FC Arouca x Moreirense FC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F5ec4246a2bcb4b50bb273263d133863a&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817085500 +0000" stop="20260817110500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - CD Nacional x Estoril</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F8dbd9ec8e75b4fc3b630e023b7ead43c&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817110500 +0000" stop="20260817132000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - SC Braga x Gil Vicente FC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe08e8c91beef44c08806b8846ee65798&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817132000 +0000" stop="20260817153000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - FC Famalicão x Marítimo</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4f6676d20c8449e7a43bc1bb94c093a1&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817174500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Supertaça De França 2026-27 - PSG x Lens</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F25925f1445e440fb8bf8edcc95d75159&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817174500 +0000" stop="20260817181500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Resumo da Jornada - Resumo da Jornada</title>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817181500 +0000" stop="20260817190500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Antevisão Casa Pia AC x SL Benfica</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817190500 +0000" stop="20260817211500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Casa Pia AC x SL Benfica (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa00a65a84427483a9f743e510fe6a968&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817211500 +0000" stop="20260817221500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rescaldo Casa Pia AC x SL Benfica</title>
+    <sub-title lang="pt">Informação</sub-title>
+    <category lang="pt">Informação desportiva</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817221500 +0000" stop="20260817231500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Inside Serie A - Antevisão da Nova Época</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F52e18e223550438a8259bc3a7ee60cd8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260817231500 +0000" stop="20260818012500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Casa Pia AC x SL Benfica</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa00a65a84427483a9f743e510fe6a968&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818012500 +0000" stop="20260818015500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Resumo da Jornada - Resumo da Jornada</title>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818015500 +0000" stop="20260818035000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Taça de Itália 2026-27 - Sassuolo x Cesena - 1ª Eliminatória</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe6605cf45ad44a589ba817eb48020f19&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818035000 +0000" stop="20260818054500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Argentina 2026-27 - Lanús x Independiente</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fabb3b9b7dd7c4664a3af5ae1e5f3fbaa&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818054500 +0000" stop="20260818080000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">FA Community Shield - Arsenal x Man. City</title>
+    <desc lang="pt">Assista ao jogo da Supertaça de Inglaterra, a FA Community Shield, que se realiza antes do início de mais uma época da Premier League.</desc>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F0e24ef2f2072443ca1b5c814a2f40450&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818080000 +0000" stop="20260818101000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Sporting CP x Vitória SC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F6a65943e723d4d4d87b25f90635c482d&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818101000 +0000" stop="20260818122000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Rio Ave FC x FC Porto</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdb1312a074b548448dd0e89a8394c0dc&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818122000 +0000" stop="20260818143000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Casa Pia AC x SL Benfica</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fa00a65a84427483a9f743e510fe6a968&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818143000 +0000" stop="20260818163500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - SC Braga x Gil Vicente FC</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fe08e8c91beef44c08806b8846ee65798&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818163500 +0000" stop="20260818184500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - FC Alverca x CF Estrela da Amadora</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Fdbdba8caca2448cb81dda6f3144174ff&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818184500 +0000" stop="20260818191000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal 2 2026-27 - Magazine</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff0347086dc81455bb3803023896ce0d8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818191000 +0000" stop="20260818194000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Liga Portugal Betclic 2026-27 - Resumo da Jornada - Resumo da Jornada</title>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F790966f40cd04cbf9c406f1ecc0a8793&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818194000 +0000" stop="20260818200500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">EFL Championship 2025-26 - Magazine Premier League - Resumo da Jornada</title>
+    <desc lang="pt">Compacto dos golos e melhores momentos da Liga Inglesa de futebol.</desc>
+    <category lang="pt">Magazine desportivo</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F25ad1f44fb154a06ac8c72fbda11d800&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818200500 +0000" stop="20260818210000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Inside Serie A - Antevisão da Nova Época</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F52e18e223550438a8259bc3a7ee60cd8&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818210000 +0000" stop="20260818215500 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Taça Libertadores 2026 - Highlights - Magazine</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2Ff55a484139d640f6a844b64dea042b0f&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20260818215500 +0000" stop="20260819000000 +0000" channel="Sport TV 1 🇵🇹">
+    <title lang="pt">Taça Libertadores 2026 - Ind. Rivadavia x Fluminense - 2ª Mão dos Oitavos-de-Final (Direto)</title>
+    <category lang="pt">Futebol</category>
+    <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F7b887f9fd21d4881b7d774d59f446117&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI.pt" />
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
   <programme start="20260815001500 +0200" stop="20260815004000 +0200" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Made in Italy</title>
     <sub-title lang="pl">Inter</sub-title>
