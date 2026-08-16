@@ -6,6 +6,10 @@ Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
 SPORT.TV+.HD.pt,Sport TV + FHD 🇵🇹,https://i.ibb.co/wFnkxzXG/Sport-TV.png
 SPORT.TV1.HD.pt,Sport TV 1 🇵🇹,https://i.ibb.co/0yxjWhBJ/Sport-TV-1.png
+L'Equipe.fr,L'Equipe,https://television.telerama.frhttps://focus.telerama.fr/0000/00/01/clear-192.png
+More.than.Sports.TV.de,More than Sports TV
+DAZN.1.de
+DAZN.2.de
 5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png
 5f1ac8099c49f600076579b2,Pluto TV Cine Comedia,https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG_1769092378955.png
 ESBC3500002PW,Ideas en 5 Minutos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20241022T051025SQUARE.png
