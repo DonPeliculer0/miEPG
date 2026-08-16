@@ -64,6 +64,30 @@
     <display-name>Sport TV 1 🇵🇹 UHD</display-name>
     <icon src="https://i.ibb.co/0yxjWhBJ/Sport-TV-1.png" />
   </channel>
+  <channel id="More than Sports TV">
+    <display-name>More than Sports TV SD</display-name>
+    <display-name>More than Sports TV HD</display-name>
+    <display-name>More than Sports TV 4K</display-name>
+    <display-name>More than Sports TV Full HD</display-name>
+    <display-name>More than Sports TV UHD</display-name>
+    
+  </channel>
+  <channel id="">
+    <display-name> SD</display-name>
+    <display-name> HD</display-name>
+    <display-name> 4K</display-name>
+    <display-name> Full HD</display-name>
+    <display-name> UHD</display-name>
+    <icon src="https://sender.epglogos.de/svg/12188.svg" />
+  </channel>
+  <channel id="">
+    <display-name> SD</display-name>
+    <display-name> HD</display-name>
+    <display-name> 4K</display-name>
+    <display-name> Full HD</display-name>
+    <display-name> UHD</display-name>
+    <icon src="https://sender.epglogos.de/svg/12189.svg" />
+  </channel>
   <channel id="Pluto TV Cine Estelar">
     <display-name>Pluto TV Cine Estelar SD</display-name>
     <display-name>Pluto TV Cine Estelar HD</display-name>
@@ -11332,6 +11356,316 @@
       <value>M3</value>
     </rating>
   </programme>
+  <programme start="20260816110000 +0000" stop="20260816141000 +0000" channel="More than Sports TV">
+    <title lang="de">Timbersports: Rookie-WM</title>
+    <sub-title lang="de">Budapest</sub-title>
+    <date>2026</date>
+    <category lang="de">Kraftsport</category>
+    <icon src="http://img.tvspielfilm.de/c0/2b/4a/6177d1b08189652ccb4a2bc0.jpeg" />
+  </programme>
+  <programme start="20260816141000 +0000" stop="20260816151000 +0000" channel="More than Sports TV">
+    <title lang="de">Motorsport: Indy Car Series</title>
+    <sub-title lang="de">Barber 1</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e2/07/19/545a2546e4b0f17a831907e2.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260816151000 +0000" stop="20260816155500 +0000" channel="More than Sports TV">
+    <title lang="de">Faultless – The riders, their horses, and the pursuit of excellence (2)</title>
+    <date>2026</date>
+    <category lang="de">Springreiten-Sportdoku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20260816155500 +0000" stop="20260816164500 +0000" channel="More than Sports TV">
+    <title lang="de">Motorsport: Indy Car Series</title>
+    <sub-title lang="de">Indianapolis 2</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e2/07/19/545a2546e4b0f17a831907e2.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260816164500 +0000" stop="20260816183500 +0000" channel="More than Sports TV">
+    <title lang="de">Rugby: NRL Premiership</title>
+    <sub-title lang="de">Wests Tigers – Brisbane Broncos</sub-title>
+    <desc lang="de">Das Rugby-Format begleitet die höchste australische Rugby‑League‑Spielklasse und zeigt Woche für Woche die intensivsten Momente dieser dynamischen Sportart.\n\nDie Teams der Liga liefern sich harte Zweikämpfe, schnelle Spielzüge und taktisch geprägte Duelle, die über die gesamte Saison hinweg für Spannung sorgen.\n\nDie Sendung bietet einen Überblick über Highlights, entscheidende Spielszenen, herausragende Spielerleistungen sowie Entwicklungen innerhalb der Clubs.\n\nSo entsteht ein umfassender Einblick in die Faszination und Intensität der NRL. (Senderinfo).</desc>
+    <category lang="de">Rugby</category>
+    <icon src="http://img.tvspielfilm.de/5f/5b/5e/5e3c066b818965221b5e5b5f.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260816183500 +0000" stop="20260816210000 +0000" channel="More than Sports TV">
+    <title lang="de">Motorsport: Indy Car Series</title>
+    <sub-title lang="de">Children's of Alabama Indy GP, Barber Motorsports Park, Alabama</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e2/07/19/545a2546e4b0f17a831907e2.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260816210000 +0000" stop="20260816230000 +0000" channel="More than Sports TV">
+    <title lang="de">Rugby: Super League</title>
+    <sub-title lang="de">Bradford Bulls – Hull FC</sub-title>
+    <desc lang="de">Die Sendung präsentiert die höchste europäische Spielklasse des Rugby League und zeigt Woche für Woche, warum dieser Wettbewerb für intensiven Körpereinsatz, hohes Tempo und taktische Raffinesse steht.\n\nDie Teams liefern sich packende Duelle, in denen jeder Ballgewinn und jede gelungene Aktion den Verlauf der Partie entscheidend beeinflussen kann.\n\nDas Format bietet einen umfassenden Blick auf Highlights, Schlüsselspieler, strategische Entwicklungen und die besondere Atmosphäre, die die Super League zu einem der spannendsten Rugby‑Wettbewerbe Europas macht. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Rugby</category>
+    <icon src="http://img.tvspielfilm.de/5d/01/4a/6177c2ad8189652ccb4a015d.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260816230000 +0000" stop="20260817040000 +0000" channel="More than Sports TV">
+    <title lang="de">Infomercial</title>
+    <desc lang="de">Eine längere TV-Werbung, dargeboten in Form einer ansprechenden Fernsehsendung für diverse Produkte wie vornehmlich Küchenutensilien, Haushaltsgeräte, Pflegeprodukte oder Sportartikel.</desc>
+    <category lang="de">Werbesendung</category>
+    <icon src="http://img.tvspielfilm.de/4c/38/1f/56385bcfea60e556a31f384c.jpeg" />
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817120000 +0000" channel="More than Sports TV">
+    <title lang="de">Infomercial</title>
+    <desc lang="de">Eine längere TV-Werbung, dargeboten in Form einer ansprechenden Fernsehsendung für diverse Produkte wie vornehmlich Küchenutensilien, Haushaltsgeräte, Pflegeprodukte oder Sportartikel.</desc>
+    <category lang="de">Werbesendung</category>
+    <icon src="http://img.tvspielfilm.de/4c/38/1f/56385bcfea60e556a31f384c.jpeg" />
+  </programme>
+  <programme start="20260817120000 +0000" stop="20260817140000 +0000" channel="More than Sports TV">
+    <title lang="de">Rugby: NRL Premiership</title>
+    <sub-title lang="de">New Zealand Warriors – Dolphins</sub-title>
+    <desc lang="de">Das Rugby-Format begleitet die höchste australische Rugby‑League‑Spielklasse und zeigt Woche für Woche die intensivsten Momente dieser dynamischen Sportart.\n\nDie Teams der Liga liefern sich harte Zweikämpfe, schnelle Spielzüge und taktisch geprägte Duelle, die über die gesamte Saison hinweg für Spannung sorgen.\n\nDie Sendung bietet einen Überblick über Highlights, entscheidende Spielszenen, herausragende Spielerleistungen sowie Entwicklungen innerhalb der Clubs.\n\nSo entsteht ein umfassender Einblick in die Faszination und Intensität der NRL. (Senderinfo).</desc>
+    <category lang="de">Rugby</category>
+    <icon src="http://img.tvspielfilm.de/5f/5b/5e/5e3c066b818965221b5e5b5f.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817143000 +0000" channel="More than Sports TV">
+    <title lang="de">FastZone</title>
+    <desc lang="de">Die Sendung nimmt das Publikum mit in die faszinierende Welt des internationalen Rennsports. Das Format verbindet packende Motorsport‑Action mit fundierten Analysen und liefert einen umfassenden Überblick über bedeutende Rennserien rund um den Globus. Neben spektakulären Szenen auf der Strecke bietet das Format spannende Hintergrundberichte, technische Einblicke und Geschichten über Fahrer, Teams und ihre Herausforderungen. So entsteht ein vielseitiger Blick auf Geschwindigkeit, Wettbewerb und die Leidenschaft, die den Motorsport weltweit antreibt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260817143000 +0000" stop="20260817152500 +0000" channel="More than Sports TV">
+    <title lang="de">Top Speed Classics</title>
+    <sub-title lang="de">Top Speed Stories mit Richard Kaan und Franz Wittner</sub-title>
+    <desc lang="de">In Seefeld in Tirol empfängt Top Speed Moderator Martin Utberg in jeder Folge zwei prominente Gäste aus der Welt des Motorsports. Die Gäste stehen 24 Stunden im Mittelpunkt der Aufmerksamkeit, und die Zuschauer erhalten die einzigartige Gelegenheit, sie auf eine ganz andere Weise kennenzulernen, als sie es gewohnt sind. In dieser Sendung sind Oldtimerexperte Franz Wittner und Oldtimerexperte und Autor Richard Kaan. (Senderinfo).</desc>
+    <category lang="de">Motorsportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">A</country>
+  </programme>
+  <programme start="20260817152500 +0000" stop="20260817162000 +0000" channel="More than Sports TV">
+    <title lang="de">Top Speed Classics</title>
+    <sub-title lang="de">Top Speed Stories mit Leopold Prinz von Bayern</sub-title>
+    <desc lang="de">Moderator Martin Utberg empfängt Leopold Prinz von Bayern in dessen Heimatort Seefeld in Tirol, wobei die Gesprächsthemen von interessanten Fakten über "Poldi.</desc>
+    <category lang="de">Motorsportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">A</country>
+  </programme>
+  <programme start="20260817162000 +0000" stop="20260817180000 +0000" channel="More than Sports TV">
+    <title lang="de">Motocross: FIM X-Trial World Championship</title>
+    <sub-title lang="de">Grand Prix of Tarragona, Spain</sub-title>
+    <desc lang="de">Die Fédération Internationale de Motocyclisme organisiert seit 1993 jährlich die X-Trial World Championship. Die X-Trail-Wettkämpfe finden, im Gegensatz zur Outdoor-Disziplin, in der Halle statt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motocross</category>
+    <icon src="http://img.tvspielfilm.de/e0/40/4a/6177d8cf8189652ccb4a40e0.jpeg" />
+  </programme>
+  <programme start="20260817180000 +0000" stop="20260817183000 +0000" channel="More than Sports TV">
+    <title lang="de">FastZone</title>
+    <desc lang="de">Die Sendung nimmt das Publikum mit in die faszinierende Welt des internationalen Rennsports. Das Format verbindet packende Motorsport‑Action mit fundierten Analysen und liefert einen umfassenden Überblick über bedeutende Rennserien rund um den Globus. Neben spektakulären Szenen auf der Strecke bietet das Format spannende Hintergrundberichte, technische Einblicke und Geschichten über Fahrer, Teams und ihre Herausforderungen. So entsteht ein vielseitiger Blick auf Geschwindigkeit, Wettbewerb und die Leidenschaft, die den Motorsport weltweit antreibt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260817183000 +0000" stop="20260817193000 +0000" channel="More than Sports TV">
+    <title lang="de">Isle of Man Tourist Trophy 2019</title>
+    <sub-title lang="de">Supersport Race 1</sub-title>
+    <desc lang="de">Erneut wetterbedingter Totalausfall des Renntags auf der Isle of Man, aber dafür die Gelegenheit uns ausführlicher mit den Crowe-Brüdern und Davey Todd zu unterhalten und einen Blick zurück auf die spektakulärsten Rennen der Woche zu werfen. (Senderinfo).</desc>
+    <date>2026</date>
+    <icon src="http://img.tvspielfilm.de/28/5e/4a/6177e1678189652ccb4a5e28.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260817193000 +0000" stop="20260817220500 +0000" channel="More than Sports TV">
+    <title lang="de">Australian Football League</title>
+    <sub-title lang="de">Port Adelaide – Sydney Swans</sub-title>
+    <desc lang="de">Die Australian Football League zählt zu den bedeutendsten Profiligen des Landes und prägt den einzigartigen Charakter dieser dynamischen Sportart. Insgesamt 18 Teams bestreiten eine lange Saison mit 24 Spieltagen, in der Ausdauer, Taktik und Athletik im Mittelpunkt stehen. Anschließend kämpfen die acht besten Mannschaften in einer intensiven Finalrunde um den Einzug ins prestigeträchtige Grand Final, das jedes Jahr Millionen begeistert. Australian Football gehört zu den populärsten Sportarten des Landes und steht im Beliebtheitsranking direkt hinter Cricket. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Football</category>
+    <icon src="http://img.tvspielfilm.de/28/5e/4a/6177e1678189652ccb4a5e28.jpeg" />
+  </programme>
+  <programme start="20260817220500 +0000" stop="20260817230000 +0000" channel="More than Sports TV">
+    <title lang="de">Motorsport: Indy Car Series</title>
+    <sub-title lang="de">Indianapolis 2</sub-title>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e2/07/19/545a2546e4b0f17a831907e2.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260817230000 +0000" stop="20260818120000 +0000" channel="More than Sports TV">
+    <title lang="de">Infomercial</title>
+    <desc lang="de">Eine längere TV-Werbung, dargeboten in Form einer ansprechenden Fernsehsendung für diverse Produkte wie vornehmlich Küchenutensilien, Haushaltsgeräte, Pflegeprodukte oder Sportartikel.</desc>
+    <category lang="de">Werbesendung</category>
+    <icon src="http://img.tvspielfilm.de/4c/38/1f/56385bcfea60e556a31f384c.jpeg" />
+  </programme>
+  <programme start="20260818120000 +0000" stop="20260818135500 +0000" channel="More than Sports TV">
+    <title lang="de">Rugby: NRL Premiership</title>
+    <sub-title lang="de">9. Spieltag: Canberra Raiders – Penrith Panthers</sub-title>
+    <desc lang="de">Das Rugby-Format begleitet die höchste australische Rugby‑League‑Spielklasse und zeigt Woche für Woche die intensivsten Momente dieser dynamischen Sportart. Die Teams der Liga liefern sich harte Zweikämpfe, schnelle Spielzüge und taktisch geprägte Duelle, die über die gesamte Saison hinweg für Spannung sorgen. Die Sendung bietet einen Überblick über Highlights, entscheidende Spielszenen, herausragende Spielerleistungen sowie Entwicklungen innerhalb der Clubs. So entsteht ein umfassender Einblick in die Faszination und Intensität der NRL. (Senderinfo).</desc>
+    <category lang="de">Rugby</category>
+    <icon src="http://img.tvspielfilm.de/5f/5b/5e/5e3c066b818965221b5e5b5f.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260818135500 +0000" stop="20260818145000 +0000" channel="More than Sports TV">
+    <title lang="de">Top Speed Classics</title>
+    <sub-title lang="de">Im Fokus – Das Finale</sub-title>
+    <desc lang="de">In Top Speed im Fokus dreht sich alles um klassische Fahrzeuge – gesehen durch die Augen ambitionierter Hobbyfotografen. In drei Vorrunden treten insgesamt neun Kandidaten gegeneinander an. In jeder Vorrunde kämpften drei Teilnehmer mit zwei Fotoaufgaben um Punkte und den Einzug ins große Finale. Heute entscheidet sich, wer mit dem besten Gespür für Bildkomposition, Technik und Storytelling überzeugt. In dem Finale treten Jens, Chiara und Ralf gegeneinander an. Gedreht wird diese Episode im Top Mountain Motorrad Museum in Hochgurgl. Bewertet werden die Arbeiten erneut von Daniel Reinhard, international renommierter Motorsport-Fotograf. Profes (Senderinfo).</desc>
+    <category lang="de">Motorsportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">A</country>
+  </programme>
+  <programme start="20260818145000 +0000" stop="20260818164500 +0000" channel="More than Sports TV">
+    <title lang="de">Rugby: Super League</title>
+    <sub-title lang="de">St. Helens RFC – Hull FC</sub-title>
+    <desc lang="de">Die Sendung präsentiert die höchste europäische Spielklasse des Rugby League und zeigt Woche für Woche, warum dieser Wettbewerb für intensiven Körpereinsatz, hohes Tempo und taktische Raffinesse steht. Die Teams liefern sich packende Duelle, in denen jeder Ballgewinn und jede gelungene Aktion den Verlauf der Partie entscheidend beeinflussen kann. Das Format bietet einen umfassenden Blick auf Highlights, Schlüsselspieler, strategische Entwicklungen und die besondere Atmosphäre, die die Super League zu einem der spannendsten Rugby‑Wettbewerbe Europas macht. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Rugby</category>
+    <icon src="http://img.tvspielfilm.de/5d/01/4a/6177c2ad8189652ccb4a015d.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260818164500 +0000" stop="20260818175000 +0000" channel="More than Sports TV">
+    <title lang="de">New Zealand Jetsprint Championship</title>
+    <sub-title lang="de">World Championship 1, Superboats</sub-title>
+    <desc lang="de">The New Zealand Jetsprint Championship is the most important sprint boat competition from New Zealand, the country where the sport was founded in 1981. Jetsprinting is comparable to rally sports, but there is only one boat on the track at any given time and boats drive at very high speeds. The up to 500 HP strong jet sprint boats therefore try to achieve the best time on the tracks. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Wassersport</category>
+    <icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg" />
+    <country lang="de">NZ</country>
+  </programme>
+  <programme start="20260818175000 +0000" stop="20260818184000 +0000" channel="More than Sports TV">
+    <title lang="de">Motorboot: Australian Boat Racing</title>
+    <sub-title lang="de">6Liter National Driver's Championship, Mildura</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorbootsport</category>
+    <icon src="http://img.tvspielfilm.de/9b/71/4a/6177e3808189652ccb4a719b.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260818184000 +0000" stop="20260818193500 +0000" channel="More than Sports TV">
+    <title lang="de">Isle of Man Tourist Trophy 2019</title>
+    <sub-title lang="de">Sidecar Race 2</sub-title>
+    <desc lang="de">Bei einem auf 3 Runden verkürzten ersten Supersport-Rennen war die Frage ob Hicky seine Dominanz aus dem Superbikerennen wieder ausspielen könnte, ob Lee Johnston seinen Vorjahreserfolg wiederholen kann oder ob Michael Dunlup hier seiner Favoritenrolle gerecht wird. Es war ein heißer Kampf! (Senderinfo).</desc>
+    <date>2026</date>
+    <icon src="http://img.tvspielfilm.de/28/5e/4a/6177e1678189652ccb4a5e28.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260818193500 +0000" stop="20260818212500 +0000" channel="More than Sports TV">
+    <title lang="de">Rugby: NRL Premiership</title>
+    <sub-title lang="de">11. Spieltag: Manly-Warringah Sea Eagles – Gold Coast Titans</sub-title>
+    <desc lang="de">Das Rugby-Format begleitet die höchste australische Rugby‑League‑Spielklasse und zeigt Woche für Woche die intensivsten Momente dieser dynamischen Sportart. Die Teams der Liga liefern sich harte Zweikämpfe, schnelle Spielzüge und taktisch geprägte Duelle, die über die gesamte Saison hinweg für Spannung sorgen. Die Sendung bietet einen Überblick über Highlights, entscheidende Spielszenen, herausragende Spielerleistungen sowie Entwicklungen innerhalb der Clubs. So entsteht ein umfassender Einblick in die Faszination und Intensität der NRL. (Senderinfo).</desc>
+    <category lang="de">Rugby</category>
+    <icon src="http://img.tvspielfilm.de/5f/5b/5e/5e3c066b818965221b5e5b5f.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260818212500 +0000" stop="20260818223000 +0000" channel="More than Sports TV">
+    <title lang="de">Motorsport: Indy Car Series</title>
+    <sub-title lang="de">Indianapolis 1</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e2/07/19/545a2546e4b0f17a831907e2.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260818223000 +0000" stop="20260818230000 +0000" channel="More than Sports TV">
+    <title lang="de">FastZone</title>
+    <desc lang="de">Die Sendung nimmt das Publikum mit in die faszinierende Welt des internationalen Rennsports. Das Format verbindet packende Motorsport‑Action mit fundierten Analysen und liefert einen umfassenden Überblick über bedeutende Rennserien rund um den Globus. Neben spektakulären Szenen auf der Strecke bietet das Format spannende Hintergrundberichte, technische Einblicke und Geschichten über Fahrer, Teams und ihre Herausforderungen. So entsteht ein vielseitiger Blick auf Geschwindigkeit, Wettbewerb und die Leidenschaft, die den Motorsport weltweit antreibt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Motorsportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260818230000 +0000" stop="20260819120000 +0000" channel="More than Sports TV">
+    <title lang="de">Infomercial</title>
+    <desc lang="de">Eine längere TV-Werbung, dargeboten in Form einer ansprechenden Fernsehsendung für diverse Produkte wie vornehmlich Küchenutensilien, Haushaltsgeräte, Pflegeprodukte oder Sportartikel.</desc>
+    <category lang="de">Werbesendung</category>
+    <icon src="http://img.tvspielfilm.de/4c/38/1f/56385bcfea60e556a31f384c.jpeg" />
+  </programme>
+  <programme start="20260819120000 +0000" stop="20260819145000 +0000" channel="More than Sports TV">
+    <title lang="de">Australian Football League</title>
+    <sub-title lang="de">GWS Giants – Hawthorn Hawks</sub-title>
+    <desc lang="de">Die Australian Football League zählt zu den bedeutendsten Profiligen des Landes und prägt den einzigartigen Charakter dieser dynamischen Sportart. Insgesamt 18 Teams bestreiten eine lange Saison mit 24 Spieltagen, in der Ausdauer, Taktik und Athletik im Mittelpunkt stehen. Anschließend kämpfen die acht besten Mannschaften in einer intensiven Finalrunde um den Einzug ins prestigeträchtige Grand Final, das jedes Jahr Millionen begeistert. Australian Football gehört zu den populärsten Sportarten des Landes und steht im Beliebtheitsranking direkt hinter Cricket. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Football</category>
+    <icon src="http://img.tvspielfilm.de/28/5e/4a/6177e1678189652ccb4a5e28.jpeg" />
+  </programme>
+  <programme start="20260819145000 +0000" stop="20260819151500 +0000" channel="More than Sports TV">
+    <title lang="de">Top Speed Classics</title>
+    <sub-title lang="de">Heidelberg Historic 2026</sub-title>
+    <desc lang="de">Zusammen mit seinem Teampartner Nikolei Nussbaumer nimmt Moderator Martin Utberg in einem Porsche 356 Cabrio an der Heidelberg Historic teil, einer der schönsten Oldtimerrallyes Deutschlands. Vom Technik Museum Sinsheim aus führen die Teilnehmer über reizvolle Strecken und stellen ihr Können bei den Wertungsprüfungen unter Beweis. Zu den Höhepunkten gehören die Fahrt über die Alte Brücke von Heidelberg und durch die Fußgängerzone der Altstadt. Kurzum: eine Top-Speed-Classic-Folge, die man nicht verpassen sollte. (Senderinfo).</desc>
+    <category lang="de">Motorsportmagazin</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">A</country>
+  </programme>
+  <programme start="20260819151500 +0000" stop="20260819154500 +0000" channel="More than Sports TV">
+    <title lang="de">Going Pro</title>
+    <desc lang="de">Die siebte Staffel der Going Pro TV-Serie begleitet Damon Surzyshyn und die gesamte PROsport Racing-Mannschaft in der ADAC GT4 Germany-Saison 2026 (Senderinfo).</desc>
+    <credits>
+      <producer>Damon Surzyshyn</producer>
+    </credits>
+    <category lang="de">Motorsportdokureihe</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <country lang="de">Kan.</country>
+  </programme>
+  <programme start="20260819154500 +0000" stop="20260819163500 +0000" channel="More than Sports TV">
+    <title lang="de">Faultless – The riders, their horses, and the pursuit of excellence (2)</title>
+    <date>2026</date>
+    <category lang="de">Springreiten-Sportdoku</category>
+    <icon src="http://img.tvspielfilm.de/0a/0c/4a/6177c5e58189652ccb4a0c0a.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20260819163500 +0000" stop="20260819183000 +0000" channel="More than Sports TV">
+    <title lang="de">Rugby: NRL Premiership</title>
+    <sub-title lang="de">North Queensland Cowboys – Manly-Warringah Sea Eagles</sub-title>
+    <desc lang="de">Das Rugby-Format begleitet die höchste australische Rugby‑League‑Spielklasse und zeigt Woche für Woche die intensivsten Momente dieser dynamischen Sportart. Die Teams der Liga liefern sich harte Zweikämpfe, schnelle Spielzüge und taktisch geprägte Duelle, die über die gesamte Saison hinweg für Spannung sorgen. Die Sendung bietet einen Überblick über Highlights, entscheidende Spielszenen, herausragende Spielerleistungen sowie Entwicklungen innerhalb der Clubs. So entsteht ein umfassender Einblick in die Faszination und Intensität der NRL. (Senderinfo).</desc>
+    <category lang="de">Rugby</category>
+    <icon src="http://img.tvspielfilm.de/5f/5b/5e/5e3c066b818965221b5e5b5f.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260819183000 +0000" stop="20260819192500 +0000" channel="More than Sports TV">
+    <title lang="de">Isle of Man Tourist Trophy 2019</title>
+    <sub-title lang="de">John McGuinness: TT Winner</sub-title>
+    <desc lang="de">Würde das Superstockrennen zu einer Blaupause des Superbike-Rennens werden? Mit einer weiteren dominanten Vorstellung von Hicky? Darüber waren sich die Experten nicht so ganz einig. Ein Rennen voller Überraschungen und einem interessanten Podium. (Senderinfo).</desc>
+    <date>2026</date>
+    <icon src="http://img.tvspielfilm.de/28/5e/4a/6177e1678189652ccb4a5e28.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260819192500 +0000" stop="20260819212000 +0000" channel="More than Sports TV">
+    <title lang="de">Rugby: Super League</title>
+    <sub-title lang="de">Catalans Dragons – Hull KR</sub-title>
+    <desc lang="de">Die Sendung präsentiert die höchste europäische Spielklasse des Rugby League und zeigt Woche für Woche, warum dieser Wettbewerb für intensiven Körpereinsatz, hohes Tempo und taktische Raffinesse steht. Die Teams liefern sich packende Duelle, in denen jeder Ballgewinn und jede gelungene Aktion den Verlauf der Partie entscheidend beeinflussen kann. Das Format bietet einen umfassenden Blick auf Highlights, Schlüsselspieler, strategische Entwicklungen und die besondere Atmosphäre, die die Super League zu einem der spannendsten Rugby‑Wettbewerbe Europas macht. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Rugby</category>
+    <icon src="http://img.tvspielfilm.de/5d/01/4a/6177c2ad8189652ccb4a015d.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260819212000 +0000" stop="20260819223000 +0000" channel="More than Sports TV">
+    <title lang="de">Motorsport: Indy Car Series</title>
+    <sub-title lang="de">Portland</sub-title>
+    <date>2026</date>
+    <category lang="de">Motorsport</category>
+    <icon src="http://img.tvspielfilm.de/e2/07/19/545a2546e4b0f17a831907e2.jpeg" />
+    <country lang="de">USA</country>
+  </programme>
+  <programme start="20260819223000 +0000" stop="20260819230000 +0000" channel="More than Sports TV">
+    <title lang="de">Going Pro</title>
+    <desc lang="de">Die siebte Staffel der Going Pro TV-Serie begleitet Damon Surzyshyn und die gesamte PROsport Racing-Mannschaft in der ADAC GT4 Germany-Saison 2026 (Senderinfo).</desc>
+    <credits>
+      <producer>Damon Surzyshyn</producer>
+    </credits>
+    <category lang="de">Motorsportdokureihe</category>
+    <icon src="http://img.tvspielfilm.de/e9/40/4a/6177d8d78189652ccb4a40e9.jpeg" />
+    <country lang="de">USA</country>
+    <country lang="de">Kan.</country>
+  </programme>
+  <programme start="20260819230000 +0000" stop="20260820120000 +0000" channel="More than Sports TV">
+    <title lang="de">Infomercial</title>
+    <desc lang="de">Eine längere TV-Werbung, dargeboten in Form einer ansprechenden Fernsehsendung für diverse Produkte wie vornehmlich Küchenutensilien, Haushaltsgeräte, Pflegeprodukte oder Sportartikel.</desc>
+    <category lang="de">Werbesendung</category>
+    <icon src="http://img.tvspielfilm.de/4c/38/1f/56385bcfea60e556a31f384c.jpeg" />
+  </programme>
   <programme start="20260816171616 +0000" stop="20260816190416 +0000" channel="Pluto TV Cine Estelar">
     <title>Leyenda</title>
     <episode-num system="original-air-date">19851025000000 +0000</episode-num>
@@ -11501,16 +11835,6 @@
     <category>Comedy</category>
     <category>Movie</category>
   </programme>
-  <programme start="20260816200502 +0000" stop="20260816202241 +0000" channel="Ideas en 5 Minutos">
-    <title>Brillantes Hacks de Reparación de Bricolaje e Ideas Inteligentes de Herramientas</title>
-    <desc>Desde herramientas de reparación recicladas hasta conexiones de cables ingeniosas y muebles transformables, estos arreglos creativos facilitan la vida. ¡Mira cómo los objetos ordinarios reciben una segunda vida con soluciones de bricolaje ingeniosas!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_844947881_0_20250430T093817567Z_132_imageprocessorclient-tvplus-linear-6fb5b47f79-hkn9j.png"/>
-  </programme>
-  <programme start="20260816202241 +0000" stop="20260816204651 +0000" channel="Ideas en 5 Minutos">
-    <title>Consejos Esenciales para una Boda sin Estrés</title>
-    <desc>Descubre trucos asombrosos para bodas, desde consejos de planificación sin estrés hasta joyas únicas de bricolaje y zapatos hechos de zapatillas. Además, descubre trucos esenciales para el embarazo que mantendrán todo funcionando sin problemas.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_844946716_0_20250430T093817189Z_77_imageprocessorclient-tvplus-linear-6fb5b47f79-hkn9j.jpeg"/>
-  </programme>
   <programme start="20260816204651 +0000" stop="20260816211034 +0000" channel="Ideas en 5 Minutos">
     <title>Moda Creativa: Estilo Hecho a Mano y Sostenible</title>
     <desc>Desde bolsas recicladas hechas de latas hasta zapatos elaborados con hojas reales, estas piezas de moda únicas redefinen la creatividad. ¡Observa cómo los materiales cotidianos se transforman en accesorios elegantes y únicos en su clase!</desc>
@@ -11586,13 +11910,15 @@
     <desc>Perfectos para artesanos de todos los niveles, estos consejos de expertos te inspirarán para perfeccionar tus habilidades y crear con pasión y precisión. ¡ahora y comenzar a comenzar artesanía obras maestras hoy!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1158640019_0_20250829T113224134Z_98_imageprocessorclient-tvplus-linear-5db7c6bc99-4h9xv.jpeg"/>
   </programme>
-  <programme start="20260816173000 +0000" stop="20260816203000 +0000" channel="Xataka">
-    <title>Lo mejor de Especiales Parte 5</title>
-    <desc>‘Especiales' es el formato con vídeos únicos y variados para aprender y entretenerte con la tecnología</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1262474852_0_20251017T061612184Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
+  <programme start="20260817023022 +0000" stop="20260817025820 +0000" channel="Ideas en 5 Minutos">
+    <title>Reimaginar y reutilizar: Ideas creativas de reciclaje</title>
+    <desc>Únete a nosotros en este vídeo en el que mostramos formas ingeniosas de reciclar y reutilizar objetos cotidianos. Inspírate para influir positivamente en el medio ambiente con estas innovadoras ideas de reciclaje.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1158651764_0_20250829T113224135Z_48_imageprocessorclient-tvplus-linear-5db7c6bc99-4h9xv.jpeg"/>
+  </programme>
+  <programme start="20260817025820 +0000" stop="20260817032150 +0000" channel="Ideas en 5 Minutos">
+    <title>Hechas a mano con maestría: Obras maestras de artesanos expertos</title>
+    <desc>Descubra el mundo de la artesanía, donde artesanos experimentados transforman materias primas en creaciones asombrosas. Cada pieza es un testimonio de su habilidad y dedicación, y muestra técnicas únicas y un profundo conocimiento de su ARTESANÍA.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1158642839_0_20250829T113224134Z_120_imageprocessorclient-tvplus-linear-5db7c6bc99-4h9xv.jpeg"/>
   </programme>
   <programme start="20260816203000 +0000" stop="20260816211500 +0000" channel="Xataka">
     <title>Entrevistas</title>
@@ -11630,6 +11956,14 @@
   </programme>
   <programme start="20260817013000 +0000" stop="20260817030000 +0000" channel="Xataka">
     <title>Lo mejor de Primeras impresiones Parte 7</title>
+    <desc>Nuestros expertos comparten sus primeras sensaciones después de usar un dispositivo</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1262474852_0_20251017T061612184Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260817030000 +0000" stop="20260817040000 +0000" channel="Xataka">
+    <title>Lo mejor de Primeras impresiones Parte 9</title>
     <desc>Nuestros expertos comparten sus primeras sensaciones después de usar un dispositivo</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1262474852_0_20251017T061612184Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.jpeg"/>
     <rating>
@@ -14569,6 +14903,24 @@
 		<icon src="https://www.movistarplus.es/recorte/n/caratula5/MNEGOTVP1907604" />
 		<category>NEWS</category>
 	</programme>
+  <programme start="20260816200502 +0000" stop="20260816202241 +0000" channel="Ideas en 5 Minutos">
+    <title>Brillantes Hacks de Reparación de Bricolaje e Ideas Inteligentes de Herramientas</title>
+    <desc>Desde herramientas de reparación recicladas hasta conexiones de cables ingeniosas y muebles transformables, estos arreglos creativos facilitan la vida. ¡Mira cómo los objetos ordinarios reciben una segunda vida con soluciones de bricolaje ingeniosas!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_844947881_0_20250430T093817567Z_132_imageprocessorclient-tvplus-linear-6fb5b47f79-hkn9j.png"/>
+  </programme>
+  <programme start="20260816202241 +0000" stop="20260816204651 +0000" channel="Ideas en 5 Minutos">
+    <title>Consejos Esenciales para una Boda sin Estrés</title>
+    <desc>Descubre trucos asombrosos para bodas, desde consejos de planificación sin estrés hasta joyas únicas de bricolaje y zapatos hechos de zapatillas. Además, descubre trucos esenciales para el embarazo que mantendrán todo funcionando sin problemas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_844946716_0_20250430T093817189Z_77_imageprocessorclient-tvplus-linear-6fb5b47f79-hkn9j.jpeg"/>
+  </programme>
+  <programme start="20260816173000 +0000" stop="20260816203000 +0000" channel="Xataka">
+    <title>Lo mejor de Especiales Parte 5</title>
+    <desc>‘Especiales' es el formato con vídeos únicos y variados para aprender y entretenerte con la tecnología</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1262474852_0_20251017T061612184Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme start="20260815001500 +0200" stop="20260815004000 +0200" channel="Eleven Sports 1 Polonia">
     <title lang="pl">Made in Italy</title>
     <sub-title lang="pl">Inter</sub-title>
