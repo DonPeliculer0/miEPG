@@ -1,6 +1,5 @@
 https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
-https://github.com/matthuisman/i.mjh.nz/blob/master/all/epg.xml
 https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
 https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz
