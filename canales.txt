@@ -6,6 +6,6 @@ Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
 SPORT.TV+.HD.pt,Sport TV + FHD 🇵🇹,https://i.ibb.co/wFnkxzXG/Sport-TV.png
 SPORT.TV1.HD.pt,Sport TV 1 🇵🇹,https://i.ibb.co/0yxjWhBJ/Sport-TV-1.png
-RNE para todos,RNE para todos,https://i.ibb.co/7xC54M6s/RNE-para-todos.png
-El País,El Pais,https://i.ibb.co/R4HvVhgC/IMG-8727.png
+RNE.TV,RNE para todos,https://i.ibb.co/7xC54M6s/RNE-para-todos.png
+ElPais.TV,El Pais,https://i.ibb.co/R4HvVhgC/IMG-8727.png
 NegociosTV.es,Negocios TV, https://i.ibb.co/yFYwT6tf/IMG-8738.png
