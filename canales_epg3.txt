@@ -117,7 +117,7 @@
 62fa8176b9884200074ef5ae,The Walking Dead Universe,https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png
 62f2ce24f328e00007e7f55a,Stories by AMC,https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png
 5cbf6a868a1bce4a3d52a5e9,Midsomer Murders,https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png
-60f5d389985a0c0007357304,BritBox Mysteries,https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG.png
+60f5d389985a0c0007357304,BritBox Mysteries,https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG_1786980983531.png
 6a4fd96d7652851fb490204f,Pluto TV Royal Drama,https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png
 65775af3b3801200084a3aa4,Feel Good Drama,https://images.pluto.tv/channels/65775af3b3801200084a3aa4/colorLogoPNG.png
 5f24662bebe0f0000767de32,Supernatural Drama,https://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png
@@ -1540,9 +1540,6 @@
 6868152657543d1f8be4ece3,Concert Channel,https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png
 5f85ca40eda1b10007b967cd,Conciertos por Stingray,https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
 5f85cf621d6d2200079f1de0,Karaoke por Stingray,https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png
-6a68dd013ee9d9664278cfb6,NFL Channel,https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png
-6a56ae6e0cbe9fec861af567,Touched By An Angel,https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png
-6a56ae45c868f8fd9818d59a,7th Heaven,https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png
 62e920403bd6940007fb68b8,Family Ties,https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png
 6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
 6a56ae15bd858f210ae007fe,Classic TV Comedy,https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png
