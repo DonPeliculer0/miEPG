@@ -1,7 +1,1093 @@
-La 1 HD,La 1,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-Eleven Sports 1,Eleven Sports 1 Polonia,+2
-Eleven Sports 2,Eleven Sports 2 Polonia,+2
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s,-2
-Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
+La 1 HD,La 1
+La 2,La 2
+Antena 3 HD,Antena 3
+Cuatro HD,Cuatro
+Telecinco HD,Telecinco
+La Sexta HD,La Sexta
+La 7 CyL,La 7 Castilla y Leon
+,La 8 Valladolid
+24 Horas,Canal 24h
+Ten,Ten
+DMAX,DMax
+DKISS,DKiss
+TR3CE,Trece
+Veo7,Veo 7
+Squirrel TV,Squirrel
+Squirrel 2,Squirrel Dos
+Be Mad,Be Mad
+Mega,Mega
+Energy,Energy
+Atreseries,A3Series
+Neox,Neox
+Factoría de Ficción,FDF
+Divinity,Divinity
+Nova,Nova
+Teledeporte,Teledeporte
+Real Madrid TV,Real Madrid TV
+Clan,Clan
+Boing,Boing
+Movistar Plus HD,Movistar Plus
+Movistar Plus HD,Movistar Plus FHD
+M+ Cero,M+ Cero
+,M+ Originales
+,M+ Originales FHD
+,M+ Documentales FHD
+BBC Food,BBC Food
+Canal Cocina,Canal Cocina
+Canal Cocina,Canal Cocina FHD
+Canal Cocina,Canal Cocina UHD
+AMC Living,AMC Living
+AMC Living,AMC Living FHD
+AMC Living,AMC Living UHD
+MTV España,MTV
+BBC Lifestyle,BBC LifeStyle FHD
+BBC Earth,BBC Earth FHD
+BBC History,BBC History
+Historia,Historia
+Discovery,Discovery Channel
+SELEKT,AMC Selekt
+AMC Break,AMC Break
+AMC Break,AMC Break HD
+AMC Crime,AMC Crime
+BBC Top Gear,BBC Top Gear
+Odisea,Odisea
+National Geographic HD,National Geographic
+Nat Geo Wild HD,Nat Geo Wild
+Caza y Pesca HD,Caza y Pesca
+Iberalia TV,Iberalia
+,Iberalia 100% Caza
+,Iberalia 100% Pesca
+,Cazavision
+,Onetoro TV
+,Torole TV
+M+ Estrenos HD,M+ Estrenos
+M+ Estrenos HD,M+ Estrenos FHD
+M+ Hits HD,M+ Hits
+M+ Hits HD,M+ Hits FHD
+M+ Indie HD,M+ Indie FHD
+M+ Comedia HD,M+ Comedia
+M+ Comedia HD,M+ Comedia FHD
+M+ Acción HD,M+ Accion
+M+ Acción HD,M+ Accion FHD
+M+ Drama HD,M+ Drama
+M+ Drama HD,M+ Drama FHD
+M+ Clásicos HD,M+ Clasicos
+M+ Clásicos HD,M+ Clasicos FHD
+M+ Cine Español,M+ Cine Español
+M+ Cine Español,M+ Cine Español FHD
+M+ PopUp,M+ Vacaciones FHD
+M+ PopUp,M+ Vacaciones FHD
+M+ PopUp 2,M+ Orgullo
+M+ PopUp 2,M+ Orgullo FHD
+Somos,Somos
+Canal FlixOlé 1,FlixOle 1
+Canal FlixOlé 2,FlixOle 2
+Canal Hollywood HD,Canal Hollywood
+Canal Hollywood HD,Canal Hollywood FHD
+TCM HD,TCM
+TCM HD,TCM FHD
+AMC HD,AMC
+AMC HD,AMC FHD
+AMC Western,AMC Western
+Sundance TV,Sundance TV
+Sundance TV,Sundance TV FHD
+AXN HD,AXN
+,AXN FHD
+AXN Movies HD,AXN Movies
+AXN Movies HD,AXN Movies FHD
+XTRM,XTRM
+DARK,Dark
+DARK,Dark / Dorcel
+Calle 13 HD,Calle 13
+Calle 13 HD,Calle 13 FHD
+Warner TV HD,Warner TV
+STAR Channel HD,Star Channel
+SyFy HD,SyFy
+SyFy HD,SyFy FHD
+SkyShowtime,Sky Showtime 1
+HBO Max Avances,HBO Max Avances
+HBO Max Avances,HBO Max Avances FHD
+Cosmo HD,Cosmo
+Comedy Central HD,Comedy Central
+Comedy Central HD,Comedy Central FHD
+VinTV,Vin TV
+VinTV,Vin TV FHD
+BBC Series,BBC Series
+BBC Series,BBC Series FHD
+,M+ Multideporte 
+M+ Vamos HD,M+ Vamos
+M+ Vamos HD,M+ Vamos FHD
+M+ Vamos 2,M+ Vamos 2
+M+ Vamos 3,M+ Vamos 3
+M+ LaLiga HD,M+ LaLiga
+M+ LaLiga HD,M+ LaLiga FHD
+M+ LaLiga 2 HD,M+ LaLiga 2
+M+ LaLiga 2 HD,M+ LaLiga 2 FHD
+M+ LaLiga 3 HD,M+ LaLiga 3
+M+ LaLiga 3 HD,M+ LaLiga 3 FHD
+M+ LaLiga 4,M+ LaLiga 4
+DAZN LaLiga HD,DAZN LaLiga
+DAZN LaLiga HD,DAZN LaLiga HD
+DAZN LaLiga HD,DAZN LaLiga FHD
+DAZN LaLiga 2 HD,DAZN LaLiga 2
+DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
+DAZN LaLiga 2 HD,DAZN LaLiga 2 FHD
+LaLiga TV BAR HD,LaLigaTV Bar
+LaLiga TV Hypermotion HD,LaLigaTV Hypermotion
+LaLiga TV Hypermotion HD,LaLigaTV Hypermotion FHD
+LaLiga TV Hypermotion 2,LaLigaTV Hypermotion 2
+LaLiga TV Hypermotion 2,LaLigaTV Hypermotion 2 FHD
+LaLiga TV Hypermotion 3,LaLigaTV Hypermotion 3
+LaLiga TV Hypermotion 3,LaLigaTV Hypermotion 3 FHD
+Primera Federación,M+ Primera Federacion
+,M+ Copa del Rey
+,M+ Copa del Rey HD
+,M+ Copa del Rey FHD
+,M+ Supercopa
+M+ Liga de Campeones HD,M+ Liga de Campeones
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Liga de Campeones HD,M+ Liga de Campeones FHD
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 FHD
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3
+M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+ Liga de Campeones 5,M+ Liga de Campeones 5
+M+ Liga de Campeones 6,M+ Liga de Campeones 6
+M+ Liga de Campeones 7,M+ Liga de Campeones 7
+M+ Liga de Campeones 8,M+ Liga de Campeones 8
+M+ Deportes HD,M+ Deportes
+M+ Deportes HD,M+ Deportes FHD
+M+ Deportes 2 HD,M+ Deportes 2
+M+ Deportes 2 HD,M+ Deportes 2 FHD
+M+ Deportes 3,M+ Deportes 3
+M+ Deportes 4,M+ Deportes 4
+M+ Deportes 5,M+ Deportes 5
+M+ Deportes 6,M+ Deportes 6
+M+ Deportes 7,M+ Deportes 7
+M+ Golf HD,M+ Golf
+M+ Golf 2 HD,M+ Golf 2
+DAZN 1 HD,DAZN 1
+DAZN 1 HD,DAZN 1 FHD
+DAZN 2 HD,DAZN 2
+DAZN 2 HD,DAZN 2 FHD
+DAZN 3 HD,DAZN 3
+DAZN 4 HD,DAZN 4
+DAZN Baloncesto,DAZN Baloncesto
+DAZN Baloncesto,DAZN Baloncesto HD
+DAZN Baloncesto,DAZN Baloncesto FHD
+DAZN Baloncesto 2,DAZN Baloncesto 2
+DAZN Baloncesto 2,DAZN Baloncesto 2 HD
+DAZN Baloncesto 2,DAZN Baloncesto 2 FHD
+DAZN Baloncesto 3,DAZN Baloncesto 3
+DAZN Baloncesto 3,DAZN Baloncesto 3 HD
+DAZN Baloncesto 3,DAZN Baloncesto 3 FHD
+DAZN MotoGP,DAZN Moto GP
+DAZN MotoGP,DAZN Moto GP FHD
+DAZN F1 HD,DAZN F1
+DAZN F1 HD,DAZN F1 FHD
+Eurosport 1 HD,Eurosport 1
+Eurosport 1 HD,Eurosport 1 FHD
+Eurosport 2,Eurosport 2
+Eurosport 2,Eurosport 2 FHD
+GOL,Gol
+,Gol Classics
+UBEAT,Ubeat
+,Aragon Deporte 
+,Vinx TV Asturias 
+,ETB Deportes
+Esport 3,Esport 3
+,Top Barca
+,La Liga Inside
+,UEFA Champions League
+,FIFA+
+,ITSF TV
+,FSM TV
+,Olympic Channel
+,Billiard TV
+,Tennis Channel
+,MyPadel TV
+,Moto ADV
+,DBike
+,Rally TV (WRC)
+,Monster Jam
+Garage TV,Garage TV
+,Surf Channel
+,Red Bull TV
+,WWE USA
+,Hard Knocks
+,Strongman Champions
+,NFL Network
+,NHL Network
+,Hoop TV
+,NBA TV
+,Los Angeles Lakers
+,New York Knicks
+,LaLiga HighLights
+,LaLiga Replay 1 
+,LaLiga Replay 2
+,LaLiga Replay 3
+,LaLiga Replay 4
+,LaLiga Replay 5
+,LaLiga Replay 6
+,LaLiga Replay 7
+,LaLiga Replay 8
+,LaLiga Replay 9
+,LaLiga Replay 10
+,Replay Hypermotion
+,Replay Hypermotion 1
+,Replay Hypermotion 2
+,Replay Hypermotion 3
+,Replay Hypermotion 4
+,Replay Hypermotion 5
+,Replay Hypermotion 6
+,Replay Hypermotion 7
+,Replay Hypermotion 8
+,Replay Hypermotion 9
+,Replay Hypermotion 10
+,Replay Hypermotion 11
+,Canal 24h
+,+24 (1)
+,+24 (2)
+,+24 (3)
+,+24 (4)
+,RNE para todos
+3CatInfo,3cat info
+,Actualidad 360
+,EbS Live
+,EbS+ Live
+,Canal Parlamento
+,Canal Sur Mas Noticias
+EuroNews,Euronews Espanol
+EuroNews,Euronews
+France 24 (en Francais),France 24
+,France 24 Español
+,DW Espanol
+,RT Español
+,Univision+ 24/7
+,Rai News 24
+,SIC Noticias
+,CNN Portugal
+,CNN Espanol
+,CNN Headlines International
+CNN International Europe,CNN International
+BBC World News Europe HD,BBC World News
+,Sky News
+,Reuters
+,ABC News
+,CBS News
+,FOX News
+,FOX Business
+,Newsmax HD
+,Global News National
+CNBC Europe HD,CNBC
+Bloomberg TV Europe,Bloomberg
+,Yahoo Finance
+,Globo News
+,TRT World
+Al Jazeera English HD,Al Jazeera News
+,CGTN News
+Sol Música,Sol Musica
+,Hit TV
+,Cadena Elite
+,ActivaTV
+,Verbena TV
+,RTVE Los conciertos de Radio 3
+,Clips don´t lie
+,MTV Flow Latino
+,MTV Spankin' New
+,MTV Biggest Pop
+,MTV Live
+,MTV Classic
+TRACE Urban,Trace Urban
+TRACE Latina,Trace Latina
+,XITE Hits
+,XITE Nuevo Latino
+,XITE Siempre Latino
+,XITE Celebrates
+,XITE 80s Flashback
+,XITE 90's Throwback
+,Vevo Latino
+,Vevo 70s
+,Vevo 80s
+,Vevo 90s
+,That's 70s
+,That's 80s
+,That's 90s 00s 
+,Now 70s
+,Now 80s
+,Now 90s 00s
+,VH1 Classics
+,Ocko Star
+,Retro Music TV
+,Retro Plus TV 
+,All Flamenco
+,The Country Network
+,DJazz
+,Deluxe Lounge
+,Movie Music
+Classica HD,Classica
+Mezzo,Mezzo
+Mezzo Live HD,Mezzo Live
+,Stingray Karaoke
+Disney Channel,Disney Channel
+Baby TV,Baby TV
+Nickelodeon HD,Nickelodeon
+Nick JR,Nick JR
+Dreamworks HD,DreamWorks
+,Kidz
+Telemadrid,Telemadrid
+La Otra,La Otra
+Canal Sur HD,Canal Sur 1
+,Canal Sur 2
+Canal Sur Andalucía,Canal Sur Andalucia
+Andalucía TV,Andalucia Television
+,Canal Andalucia Turismo
+,Canal Andalucia Cocina
+,Canal Sur Mas Noticias
+CMM TV,CMM
+Aragón TV,Aragon TV
+La 7 Murcia,La7 Murcia
+Canal Extremadura,Canal Extremadura
+,TPA7
+,TPA8
+TV Canaria,Television Canaria
+IB3 TV Illes Balears,IB3
+TVG,TVG
+TVG2,TVG 2
+TVG Europa HD,Galicia TV
+À Punt,A punt
+TV3,TV3
+,TV3 El Temps
+,Euskadi Meteo
+etb1,ETB 1
+etb1ON,ETB 1 ON
+etb2,ETB 2
+etb2ON,ETB 2 ON
+,La 1 Castilla y Leon
+,La 7 Castilla y Leon
+,La 8 Avila
+,La 8 Burgos
+,La 8 Leon
+,La 8 Bierzo
+,La 8 Palencia
+,La 8 Salamanca
+,La 8 Segovia
+,La 8 Soria
+,La 8 Valladolid
+,La 8 Zamora
+,Junta de Castilla y Leon 
+,Cortes Castilla y Leon | Hemiciclo
+,Cortes Castilla y Leon | Sala Campos de Castilla
+,Cortes Castilla y Leon | Sala Cortes de Leon
+,Cortes Castilla y Leon | Sala Castillo de Fuensaldana
+El Toro TV,ElToro TV
+Negocios TV,Negocios TV
+,El Pais
+,El Confidencial
+,The Guardian
+CGTN Español,CGTN Español
+,¡Hola! Play
+,¡Hola! TV
+,Crafty Panda
+,Ideas en 5 minutos
+,Pluto TV Hogar
+,Pluto TV Diseño
+,El Mueble
+,Estilo y vida
+,Love The Planet
+,My Zen TV
+,Armonia Teve Sana
+,FitDance 
+,Fashion TV
+,Xataka
+,Cirque du Soleil
+,Pluto TV Viajes
+,Dviaje FHD
+,Ciudadanos por el mundo
+,Escapa TV FHD
+,Travelxp
+,NatureTime
+,Weather Spy
+,Drone TV
+,Space Live
+,NASA TV
+,NASA TV ISS Live
+,Pluto TV Historia
+,Historia y vida
+,Crimen e historia
+,Sangre fria
+,Tuning
+,Motorvision
+,Kaloopy
+,En el punto de mira
+,Sin filtros
+,Oficios perdidos
+,Comedia Made in Spain
+,Wipeout
+,Vaya semanita
+Vivir con gatos,Vivir con gatos
+Vivir con perros,Vivir con perros
+,Cats 24/7
+,Dogs 24/7
+,Curiosity Animales
+,The Pet Collective
+,Just for Laughs
+,Just for Laughs Gags
+,Always Funny en español
+,FailArmy
+,People Are Awesome
+Atlántico TV,Atlantico Television
+,7TV Sevilla
+,7TV Sevilla
+,101TV Sevilla
+,PTV Sevilla
+,Canal Doñana
+,Costa Noroeste TV
+,7TV Jerez
+,7TV Jerez
+,7TV Cadiz
+,Onda Cadiz
+,Trailers
+,TVCortos
+,Paramount Network
+BOM Cine,BOM Cine
+,8madrid
+,Planeta de Cine
+,Sensacine TV
+,Acontra+
+,RTVE Somos Cine
+,Multicine Atresplayer 
+,A3Cine
+Runtime Cine y Series,Runtime
+Runtime Acción,Runtime Accion
+Runtime Crimen,Runtime Crimen
+Runtime Thriller-Terror,Runtime Thriller+Terror
+Runtime Comedia,Runtime Comedia
+Runtime Romance,Runtime Romance
+RunTime Familia,Runtime Familia
+RunTime Clásicos,Runtime Clasicos
+,Rakuten TV Peliculas Top
+,Rakuten TV Accion
+,Rakuten TV Thrillers
+,Rakuten TV Sci-Fi
+,Rakuten TV Drama
+,Rakuten TV Comedia
+,Rakuten TV Romantico
+,Rakuten TV En Familia
+,Rakuten TV Cine Español
+,Pluto TV Cine Estelar
+,Pluto TV Cine Accion
+,Pluto TV Catastrofes
+,Pluto TV Horror
+,Pluto TV Psycho
+,Pluto TV Zombies
+,Pluto TV Sci-Fi
+,Pluto TV Cine Comedia
+,Pluto TV Comedias romanticas
+,Pluto TV Western
+,Pluto TV Cine Romantico
+,Pluto TV Thrillers
+,Pluto TV Cine Drama
+,Pluto TV Cine de autor
+,Pluto TV Cine Clasico
+,ARTFLIX Clasicos
+,Cine Friki
+Cines Verdi TV,Cines Verdi TV
+Cine Feel Good,Verdi TV Feel Good
+,MyTime Movie Network
+,Movies Central by TV Player
+,Film&Co
+,FilmRise Sci-Fi
+,Dark Matter TV
+,Horror Vision
+,Bjgtjme
+,Grjngo Westerns
+,Sony One | Hits Accion
+,Sony One | Hits Comedia
+,Sony One | Exitos
+,Sony One | Series Thriller
+,Sony One | Series Comedia
+,BBC Series
+Runtime Series,Runtime Series
+,Pluto TV Series criminales
+,Pluto TV Series Sci-Fi
+,Medium
+,Poirot & Miss Marple
+,Los asesinatos de Midsomer
+,El Detective Endeavour
+,Merli
+,M+ Clasicos
+,TCM
+,Sensacine TV
+,ARTFLIX Clasicos
+,Charlie
+,Oro TV
+,Pluto TV Cine Clasico
+,Runtime Clasicos
+,Be Mad
+,Veo 7
+,BOM Cine
+,Squirrel
+,Squirrel Dos
+,A3Cine
+,8madrid
+,Trece
+,Real Madrid TV
+,ElToro TV
+,Distrito TV
+,Univers TV
+La Ocho Mediterráneo,La 8 Mediterraneo
+,Lancelot TV
+,Popular TV Murcia
+,Popular TV Cantabria
+,7 teleValencia
+,Onda Valencia
+,Elche 7 TV
+,GCM
+,Punt 3 Vall Uixo
+,Ribera TV
+,Television Aranda 
+,Imas Television
+Betevé,Beteve
+,Classic Movies Channel
+,Filmstream 
+,Vin TV
+,Pluto TV Series Retro
+,Pippi Calzaslargas
+,MacGyver
+,Curro Jimenez
+,Mr. Bean
+,Misterios sin resolver
+,Misterios sin resolver
+,40 anos da TVG
+,Teleclasica
+,Mi TV Clasica
+,Best Clasicos TV
+,TVS
+,Telesistema
+,Canal 17 TV Nosara
+,19 Telered
+,Evavision Retro
+,RetroX TV
+,RetroX Plus
+,Retro TV Online
+,Canal 5
+,Cucuta Retro TV
+,La Red
+,STV Sarapiqui 
+,Dreiko TV
+,TV Cartago Digital
+,Xtrema Retro Series
+,Xtrema Retro Cartoons
+,Multivox Retro Series
+,Multivox Retro Cartoons
+,The BIG Channel
+,ACS Network TV
+,TV Retro Palmares
+,Latino Classic TV
+,TV Tres
+,Garabito TV
+,EnerGeek Retro
+,GAM TV
+,FM Super Classic
+,Canal 14 Catorce
+,WOW Movies
+,Canal Family
+,Ciudad Magica
+,Retro Magico
+,Super Kaos TV
+,Gogoplay TV
+,Locomotion
+,Toonami TV
+,Clasicos Animados
+,Retro Toons
+,Cartoon Classics
+,Tigueritos TV
+,TV Charlip
+,Dinosaurios
+,Los Simpsons
+,South Park
+,Pink Panther
+,Los caballeros del Zodiaco
+,Cuentos de la cripta
+,Tom & Jerry
+,Los pitufos
+,Erase una vez…
+,Heidi
+,Marco
+,La abeja Maya
+,Las Tortugas Ninja
+,Retroplus TV 
+,Retroplus TV 2
+,Retroplus TV 3
+,Solidaria TV
+,Canal Cocina
+,RTVE Cocina
+,RTVE Cocina
+,RTVE Cocina (Samsung TV)
+,BBC Food
+,A bocados
+,Pluto TV Cocina
+,Pluto TV Cocina
+,Canal Andalucia Cocina
+,Cocina Familiar 
+,Cocina Mediterranea
+,Fusion
+,Tastemade
+,Gusto TV
+,El Gourmet
+,Food Network
+,Saborear TV
+,Cooking Panda
+,Viajes & Sabores
+,Love Wine
+,Wineman
+,La 1 (Ottera)
+,La 2 (Ottera)
+,Canal 24h (Ottera)
+,Teledeporte (Ottera)
+,Clan (Ottera)
+,La 1 (TDT Channels)
+,La 2 (TDT Channels)
+,Canal 24h (TDT Channels)
+,Teledeporte (TDT Channels)
+,Clan (TDT Channels)
+,La 1 (TDT Channels)
+,La 2 (TDT Channels)
+,Canal 24h (TDT Channels)
+,Teledeporte (TDT Channels)
+,Clan (TDT Channels)
+,+24
+,+24
+,+24
+,+24
+,Teledeporte
+,tdp 2
+,tdp 3
+,tdp 4
+,tdp play
+,tdp play
+,tdp play
+,tdp play
+,tdp play
+,La 1 (Samsung TV)
+,La 2 (Samsung TV)
+,Canal 24h (Samsung TV)
+,Teledeporte (Samsung TV)
+,Clan (Samsung TV)
+,La 1 UHD
+,La 1 (Subs.) (Web)
+,La 2 (Subs.) (Web)
+,Canal 24h (Subs.) (Web)
+,Teledeporte (Subs.) (Web)
+,Clan (Subs.) (Web)
+,TVE Internacional Europa (Web)
+,TVE Internacional America
+,TVE Internacional Asia Oceania (Web)
+,Star TVE Europa
+,Star TVE America
+,Aguila Roja (Rakuten TV)
+,Aguila Roja (Pluto TV)
+,RTVE Somos cine
+,RTVE Somos Cine (Samsung TV)
+,RTVE Cuentame
+,RTVE Cuentame (Samsung TV)
+,RTVE La Promesa
+,RTVE La Promesa (Samsung TV)
+,RTVE La Moderna (Samsung TV)
+,RTVE Cocina
+,RTVE Cocina
+,RTVE Cocina
+,RTVE Cocina (Samsung TV)
+,RTVE Saber y Ganar (Samsung TV)
+,RTVE La Revuelta
+,RTVE Al cielo con ella
+,RTVE Los conciertos de Radio 3
+,RTVE En Play
+,RNE para todos
+,Antena 3
+,La Sexta
+,Mega
+,Neox
+,Nova
+,A3Series
+,A3Series Internacional
+,A3Cine
+,Antena 3 Internacional
+,Flooxer
+,El club de la comedia
+,El hormiguero
+,Equipo de investigacion
+,Inquietos Atresplayer
+,Multicine Atresplayer
+,Clasicos Atresplayer
+,Comedia Atresplayer
+,Aqui no hay quien viva
+,Fisica o quimica
+,Kidz
+,Cuatro
+,Telecinco
+,Be Mad
+,Energy
+,FDF
+,Divinity
+,Boing
+,Gran Hermano 24h
+,BBC One
+,BBC Two
+,BBC Three
+,BBC Four
+,BBC Parliament
+,BBC News
+,BBC World News
+,BBC Food
+,BBC Travel
+,BBC Home & Garden
+,BBC Earth
+,BBC History
+,BBC Earth FHD
+,BBC Food
+,BBC LifeStyle FHD
+,BBC Top Gear
+,BBC Series
+,BBC Series FHD
+,RNE
+,Radio 3
+,Radio 4
+,Radio 4
+,Radio 5
+,Radio 5
+,RNE para todos
+,RNE para todos
+,Onda Cero
+,Onda Madrid
+,Sport TV + FHD 🇵🇹
+,Sport TV 1 🇵🇹
+,Sport TV 1 FHD 🇵🇹
+,Sport TV 2 🇵🇹
+,Sport TV 2 FHD 🇵🇹
+,Sport TV 3 🇵🇹
+,Sport TV 3 FHD 🇵🇹
+,Sport TV 4 🇵🇹
+,Sport TV 4 FHD 🇵🇹
+,Sport TV 5 🇵🇹
+,Sport TV 5 FHD 🇵🇹
+,Sport TV 6 FHD 🇵🇹
+,Sport TV 7 FHD 🇵🇹
+,Eurosport 1 FHD 🇵🇹
+,Eurosport 2 FHD 🇵🇹
+,BeIN Sports 1 🇫🇷
+,BeIN Sports 1 FHD 🇫🇷
+,BeIN Sports 2 🇫🇷
+,BeIN Sports 2 FHD 🇫🇷
+,BeIN Sports 3 🇫🇷
+,BeIN Sports 3 FHD 🇫🇷
+,BeIN Sports 4 MAX 🇫🇷
+,BeIN Sports 5 MAX 🇫🇷
+,BeIN Sports 6 MAX 🇫🇷
+,BeIN Sports 7 MAX 🇫🇷
+,BeIN Sports 8 MAX 🇫🇷
+,BeIN Sports 9 MAX 🇫🇷
+,BeIN Sports 10 MAX 🇫🇷
+,L’Equipe 🇫🇷
+,Infosport+ 🇫🇷
+,Canal+ Sport 🇫🇷
+,Canal+ Sport 360 🇫🇷
+,Canal+ Foot 🇫🇷
+,Canal+ Ligue 1 🇫🇷
+,Canal+ Premier League 🇫🇷
+,Canal+ Formula 1 🇫🇷
+,Canal+ Moto GP 🇫🇷
+,Canal+ Top 14 Rugby 🇫🇷
+,Eurosport 1 🇫🇷
+,Eurosport 1 FHD 🇫🇷
+,Eurosport 2 🇫🇷
+,Eurosport 2 FHD 🇫🇷
+,Eurosport 360 1 🇫🇷
+,Eurosport 360 2 🇫🇷
+,Eurosport 360 3 🇫🇷
+,Eurosport 360 4 🇫🇷
+,Eurosport 360 5 🇫🇷
+,Eurosport 360 6 🇫🇷
+,Eurosport 360 7 🇫🇷
+,Eurosport 360 8 🇫🇷
+,Premier Sports 1 FHD 🇬🇧
+,Premier Sports 2 FHD 🇬🇧
+,TNT Sports 1 🇬🇧
+,TNT Sports 2 🇬🇧
+,TNT Sports 3 🇬🇧
+,TNT Sports 4 🇬🇧
+,TNT Sports 5 🇬🇧
+,TNT Sports 6 🇬🇧
+,TNT Sports 7 🇬🇧
+,TNT Sports 8 🇬🇧
+,Sky Sports News 🇬🇧
+,Sky Sports News FHD 🇬🇧
+,Sky Sports Main Event 🇬🇧
+,Sky Sports Main Event FHD 🇬🇧
+,Sky Sports+ 🇬🇧
+,Sky Sports+ FHD 🇬🇧
+,Sky Sports Mix HD 🇬🇧
+,Sky Sports Mix FHD 🇬🇧
+,Sky Sports Football 🇬🇧
+,Sky Sports Football FHD 🇬🇧
+,Sky Sports Premier League 🇬🇧
+,Sky Sports Premier League FHD 🇬🇧
+,Sky Sports Action 🇬🇧
+,Sky Sports Action FHD 🇬🇧
+,Sky Sports F1 🇬🇧
+,Sky Sports F1 FHD 🇬🇧
+,Sky Sports Golf 🇬🇧
+,Sky Sports Golf FHD 🇬🇧
+,Sky Sports Cricket 🇬🇧
+,Sky Sports Cricket FHD 🇬🇧
+,Sky Sports Racing 🇬🇧
+,Sky Sports Racing FHD 🇬🇧
+,More Than Sports TV 🇩🇪
+,Sport1 🇩🇪
+,Sport1+ 🇩🇪
+,DAZN 1 🇩🇪
+,DAZN 2 🇩🇪
+,Sky Sport News 🇩🇪
+,Sky Sport Top Event FHD 🇩🇪
+,Sky Sport Mix 🇩🇪
+,Sky Sport Mix FHD 🇩🇪
+,Sky Sport Premier League 🇩🇪
+,Sky Sport Premier League FHD 🇩🇪
+,Sky Sport F1 🇩🇪
+,Sky Sport Tennis 🇩🇪
+,Sky Sport Tennis FHD 🇩🇪
+,Sky Sport Golf 🇩🇪
+,Sky Sport Golf FHD 🇩🇪
+,Sky Sport 1 🇩🇪
+,Sky Sport 2 🇩🇪
+,Sky Sport 3 🇩🇪
+,Sky Sport 4 🇩🇪
+,Sky Sport 5 🇩🇪
+,Sky Sport 6 🇩🇪
+,Sky Sport 7 🇩🇪
+,Sky Sport 8 🇩🇪
+,Sky Sport 9 🇩🇪
+,Sky Sport 10 🇩🇪
+,Sky Sport Austria 1 🇦🇹
+,Eurosport 1 🇮🇹
+,Eurosport 2 🇮🇹
+,Rai Sport 🇮🇹
+,Sky Sport 24 FHD 🇮🇹
+,Sky Sport Uno FHD 🇮🇹
+,Sky Sport Arena FHD 🇮🇹
+,Sky Sport Max FHD 🇮🇹
+,Sky Sport Mix FHD 🇮🇹
+,Sky Sport Calcio FHD 🇮🇹
+,Sky Sport F1 FHD 🇮🇹
+,Sky Sport MotoGP FHD 🇮🇹
+,Sky Sport Basket FHD 🇮🇹
+,Sky Sport Tennis FHD 🇮🇹
+,Sky Sport Legend FHD 🇮🇹
+,beIN Sports News 🇸🇦
+,beIN Sports 1 🇸🇦
+,beIN Sports 2 🇸🇦
+,beIN Sports 3 🇸🇦
+,beIN Sports 4 🇸🇦
+,beIN Sports 5 🇸🇦
+,beIN Sports 6 🇸🇦
+,beIN Sports 7 🇸🇦
+,beIN Sports 8 🇸🇦
+,beIN Sports 9 🇸🇦
+,beIN Sports 🇸🇦
+,beIN Sports English 1 🇸🇦
+,beIN Sports English 2 🇸🇦
+,beIN Sports French 1 🇸🇦
+,beIN Sports French 2 🇸🇦
+,beIN Sports XTRA 1 🇸🇦
+,beIN Sports XTRA 2 🇸🇦
+,beIN Sports XTRA 3 🇸🇦
+,beIN Sports XTRA 4 🇸🇦
+,beIN Sports XTRA 5 🇸🇦
+,beIN Sports XTRA 6 🇸🇦
+,beIN Sports XTRA 7 🇸🇦
+,beIN Sports XTRA 8 🇸🇦
+,beIN Sports XTRA 9 🇸🇦
+,beIN Sports MAX 1 🇸🇦
+,beIN Sports MAX 2 🇸🇦
+,beIN Sports MAX 3 🇸🇦
+,beIN Sports MAX 4 🇸🇦
+,beIN Sports MAX 5 🇸🇦
+,beIN Sports MAX 6 🇸🇦
+,BeIN Sports ñ 🇺🇸
+,BeIN Sports XTRA ñ 🇺🇸
+,ESPN 🇦🇷
+,ESPN 2 🇦🇷
+,ESPN 3 🇦🇷
+,ESPN 4 🇦🇷
+,ESPN 5 🇦🇷
+,ESPN 6 🇦🇷
+,ESPN 7 🇦🇷
+,TyC Sports 🇦🇷
+,DSports + 🇦🇷
+,DSports 1 🇦🇷
+,DSports 2 🇦🇷
+,TUDN 🇲🇽
+,FOX Sports 1 🇲🇽
+,FOX Sports 2 🇲🇽
+,FOX Sports 3 🇲🇽
+,ESPN Deportes 🇲🇽
+,ESPN 🇲🇽
+,ESPN 2 🇲🇽
+,ESPN 3 🇲🇽
+,ESPN 4 🇲🇽
+,Sky Sports LaLiga SD 🇲🇽
+,Sky Sports LaLiga HD 🇲🇽
+,Sky Sports LaLiga FHD 🇲🇽
+,Sky Sports LaLiga 🇲🇽
+Primera Federación,M+ Primera Federacion FHD
+,Primera Federacion FHD (Orange)
+,Primera Federacion FHD (LaLiga+)
+,Primera Federacion G1 | Eventos 1
+,Primera Federacion G1 | Eventos 2
+,Primera Federacion G1 | Eventos 3 
+,Primera Federacion G1 | Eventos 4
+,Primera Federacion G1 | Eventos 5
+,Primera Federacion G1 | Eventos 6
+,Primera Federacion G1 | Eventos 7 
+,Primera Federacion G1 | Eventos 8
+,Primera Federacion G1 | Eventos 9
+,Primera Federacion G1 | Eventos 10
+,Primera Federacion G2 | Eventos 1
+,Primera Federacion G2 | Eventos 2
+,Primera Federacion G2 | Eventos 3
+,Primera Federacion G2 | Eventos 4
+,Primera Federacion G2 | Eventos 5
+,Primera Federacion G2 | Eventos 6
+,Primera Federacion G2 | Eventos 7
+,Primera Federacion G2 | Eventos 8
+,Primera Federacion G2 | Eventos 9
+,Primera Federacion G2 | Eventos 10
+,Segunda Federacion | Eventos 1
+,Segunda Federacion | Eventos 2
+,Segunda Federacion | Eventos 3
+,Segunda Federacion | Eventos 4
+,Segunda Federacion | Eventos 5
+,Segunda Federacion | Eventos 6
+,Segunda Federacion | Eventos 7
+,Segunda Federacion | Eventos 9
+,Segunda Federacion | Eventos 10
+,Segunda Federacion | Eventos 11
+,Segunda Federacion | Eventos 12
+,Segunda Federacion | Eventos 13
+,Segunda Federacion | Eventos 14
+,Segunda Federacion | Eventos 15
+,RFEF TV | Eventos 1
+,RFEF TV | Eventos 2
+,RFEF TV | Eventos 3
+,RFEF TV | Eventos 4
+,RFEF TV | Eventos 5
+,RFEF TV | Eventos 6
+,RFEF TV | Eventos 7
+,RFEF TV | Eventos 8
+,RFEF TV | Eventos 9
+,RFEF TV | Eventos 10
+,RFEF TV | Eventos 11
+,RFEF TV | Eventos 12
+,RFEF TV | Eventos 13
+,RFEF TV | Eventos 14
+,RFEF TV | Eventos 15
+,RFEF TV | Eventos 16
+,RFEF TV | Eventos 17
+,RFEF TV | Eventos 18
+,RFEF TV | Eventos 19
+,DAZN Liga F | Eventos 1
+,DAZN Liga F | Eventos 2
+,DAZN Liga F | Eventos 3
+,DAZN Liga F | Eventos 4
+,DAZN Liga F | Eventos 5
+,DAZN Bundesliga | Eventos 1
+,DAZN Bundesliga | Eventos 2 
+,DAZN Bundesliga | Eventos 3
+,DAZN Bundesliga | Eventos 4
+,DAZN Bundesliga | Eventos 5
+,DAZN Bundesliga | Eventos 6
+,DAZN Serie A | Eventos 1
+,DAZN Serie A | Eventos 2
+,DAZN Serie A | Eventos 3
+,DAZN Serie A | Eventos 4
+,DAZN Serie A | Eventos 5
+,DAZN Serie A | Eventos 6
+,Liga Endesa | Eventos 1
+,Liga Endesa | Eventos 2
+,Liga Endesa | Eventos 3
+,Liga Endesa | Eventos 4
+,Liga Endesa | Eventos 5
+,NBA TV
+,NBA TV
+,NBA TV
+,NBA TV
+,NBA TV
+,NBA TV
+,NBA TV
+,NBA Fast Channel
+,NBA | Eventos 1
+,NBA | Eventos 2
+,NBA | Eventos 3
+,NBA | Eventos 4
+,NBA | Eventos 5
+,NBA | Eventos 6
+,NBA | Eventos 7
+,NBA | Eventos 8
+,NBA | Eventos 9
+,NBA | Eventos 10
+,NBA | Eventos 11
+,NBA | Eventos 12
+,NBA | Eventos 13
+,NBA | Eventos 14
+,NBA | Eventos 15
+,NBA | Eventos 16
+,NBA | Eventos 17
+,NBA | Eventos 18
+,NBA | Eventos 19
+,NBA | Eventos 20
+,NBA | Eventos 21
+,NBA | Eventos 22
+,NBA | Eventos 23
+,NBA | Eventos 24
+,NBA | Eventos 25
+,NBA | Eventos 26
+,NBA | Eventos 27
+,NBA | Eventos 28
+,NBA League Pass | Los Angeles Lakers
+,NBA League Pass | Los Angeles Clippers
+,NBA League Pass | New York Knicks
+,NBA League Pass | Boston Celtics
+,NBA League Pass | Cleveland Cavaliers
+,NBA League Pass | Detroit Pistons
+,NBA League Pass | Atlanta Hawks
+,NBA League Pass | San Antonio Spurs
+,NBA League Pass | Portland Trail Blazers
+,NBA League Pass | Utah Jazz
+,NBA League Pass | Golden State Warriors
+,NBA League Pass | Philadelphia 76ers
+,NBA League Pass | Toronto Raptors
+,NBA League Pass | Indiana Pacers
+,NBA League Pass | Milwaukee Bucks
+,NBA League Pass | Phoenix Suns
+,NBA League Pass | Sacramento Kings
+,NBA League Pass | Dallas Mavericks
+,NBA League Pass | Houston Rockets
+,NBA League Pass | Memphis Grizzlies
+,NBA League Pass | New Orleans Pelicans
+,NFL Network
+,DAZN NFL | Eventos 1
+,DAZN NFL | Eventos 2
+,DAZN NFL | Eventos 3
+,DAZN NFL | Eventos 4
+,DAZN NFL | Eventos 5
+,DAZN NFL | Eventos 6
+,DAZN NFL | Eventos 7
+,DAZN NFL | Eventos 8
+,DAZN NFL | Eventos 9
+,DAZN NFL | Eventos 10
+,DAZN NFL | Eventos 11
+,DAZN NFL | Eventos 12
+,DAZN NFL | Eventos 13
+,DAZN NFL | Eventos 14
+,DAZN NFL | Eventos 15
