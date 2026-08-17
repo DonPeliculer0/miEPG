@@ -2,7 +2,7 @@ La 1 HD,La 1 HD
 La 2,La 2
 Antena 3 HD,Antena 3 HD
 Cuatro HD,Cuatro HD
-Telecinco HD,Telecinco HE
+Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
 La 7 CyL,La 7 CyL
 La 8 Valladolid,La 8 Valladolid
@@ -34,7 +34,7 @@ BBC Food,BBC Food
 Canal Cocina,Canal Cocina
 AMC Living,AMC Living
 MTV España,MTV España
-BBC Lifestyle,BBC LifeStyle
+BBC Lifestyle,BBC Lifestyle
 BBC Earth,BBC Earth
 BBC History,BBC History
 Historia,Historia
@@ -58,9 +58,9 @@ M+ Estrenos HD,M+ Estrenos HD
 M+ Hits HD,M+ Hits HD
 M+ Indie HD,M+ Indie HD
 M+ Comedia HD,M+ Comedia HD
-M+ Acción HD,M+ Accion HD
+M+ Acción HD,M+ Acción HD
 M+ Drama HD,M+ Drama HD
-M+ Clásicos HD,M+ Clasicos HD
+M+ Clásicos HD,M+ Clásicos HD
 M+ Cine Español,M+ Cine Español
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
@@ -78,9 +78,9 @@ XTRM,XTRM
 DARK,DARK
 Calle 13 HD,Calle 13 HD
 Warner TV HD,Warner TV HD
-STAR Channel HD,Star Channel HD
+STAR Channel HD,STAR Channel HD
 SyFy HD,SyFy HD
-SkyShowtime,Sky Showtime 1
+SkyShowtime,SkyShowtime
 HBO Max Avances,HBO Max Avances
 Cosmo HD,Cosmo HD
 Comedy Central HD,Comedy Central
@@ -96,11 +96,11 @@ M+ LaLiga 3 HD,M+ LaLiga 3 HD
 M+ LaLiga 4,M+ LaLiga 4
 DAZN LaLiga HD,DAZN LaLiga HD
 DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
-LaLiga TV BAR HD,LaLigaTV BAR HD
-LaLiga TV Hypermotion HD,LaLigaTV Hypermotion HD
-LaLiga TV Hypermotion 2,LaLigaTV Hypermotion 2
-LaLiga TV Hypermotion 3,LaLigaTV Hypermotion 3
-Primera Federación,M+ Primera Federación
+LaLiga TV BAR HD,LaLiga TV BAR HD
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
+LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
+LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
+Primera Federación,Primera Federación
 M+ Copa del Rey,M+ Copa del Rey
 M+ Supercopa,M+ Supercopa
 M+ Liga de Campeones HD,M+ Liga de Campeones HD
@@ -127,7 +127,7 @@ DAZN 4 HD,DAZN 4
 DAZN Baloncesto,DAZN Baloncesto
 DAZN Baloncesto 2,DAZN Baloncesto 2
 DAZN Baloncesto 3,DAZN Baloncesto 3
-DAZN MotoGP,DAZN Moto GP
+DAZN MotoGP,DAZN MotoGP
 DAZN F1 HD,DAZN F1 HD
 Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
@@ -272,10 +272,10 @@ Mezzo Live HD,Mezzo Live
 ,Stingray Karaoke
 Disney Channel,Disney Channel
 Baby TV,Baby TV
-Nickelodeon HD,Nickelodeon
+Nickelodeon HD,Nickelodeon HD
 Nick JR,Nick JR
-Dreamworks HD,DreamWorks
-,Kidz
+Dreamworks HD,DreamWorks HD
+Kidz,Kidz
 Telemadrid,Telemadrid
 La Otra,La Otra
 Canal Sur HD,Canal Sur HD
@@ -300,12 +300,10 @@ TVG Europa HD,Galicia TV
 TV3,TV3
 ,TV3 El Temps
 ,Euskadi Meteo
-etb1,ETB 1
-etb1ON,ETB 1 ON
-etb2,ETB 2
-etb2ON,ETB 2 ON
-,La 1 Castilla y Leon
-,La 7 Castilla y Leon
+etb1,etb1
+etb1ON,etb1ON
+etb2,etb2
+etb2ON,etb2ON
 ,La 8 Avila
 ,La 8 Burgos
 ,La 8 Leon
@@ -314,7 +312,6 @@ etb2ON,ETB 2 ON
 ,La 8 Salamanca
 ,La 8 Segovia
 ,La 8 Soria
-,La 8 Valladolid
 ,La 8 Zamora
 ,Junta de Castilla y Leon 
 ,Cortes Castilla y Leon | Hemiciclo
@@ -394,7 +391,7 @@ Atlántico TV,Atlantico Television
 BOM Cine,BOM Cine
 ,8madrid
 ,Planeta de Cine
-,Sensacine TV
+676e7b4a4bd636000819c6a7,SensaCine TV x Pluto
 ,Acontra+
 ,RTVE Somos Cine
 ,Multicine Atresplayer 
