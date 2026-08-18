@@ -9,4 +9,5 @@ https://www.tdtchannels.com/epg/TV.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
 http://tropical.jungle-team.online/epg/koala3.xml
