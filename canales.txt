@@ -657,16 +657,17 @@ RNE_Radio4.TV,RNE_Radio4.TV
 RNE_Radio5.TV,RNE_Radio5.TV
 OndaCero.TV,OndaCero.TV
 ,Onda Madrid
-PT | Sport TV +,PT | Sport TV +
-PT | Sport TV 1,PT | Sport TV 1
-PT | Sport TV 2,PT | Sport TV 2
-PT | Sport TV 3,PT | Sport TV 3
-PT | Sport TV 4,PT | Sport TV 4
-PT | Sport TV 5,PT | Sport TV 5
-PT | Sport TV 6,PT | Sport TV 6
-PT | Sport TV 7,PT | Sport TV 7
+SPORT.TV+.HD.pt,SPORT TV+ HD
+SPORT.TV1.HD.pt,SPORT TV1 HD
+SPORT.TV2.HD.pt,SPORT TV2 HD
+SPORT.TV3.HD.pt,SPORT TV3 HD
+SPORT.TV4.HD.pt,SPORT TV4 HD
+SPORT.TV5.HD.pt,SPORT TV5 HD
+SPORT.TV6.HD.pt,SPORT TV6 HD
+SPORT.TV7.HD.pt,SPORT TV7 HD
 PT | Eurosport 1 HD,PT | Eurosport 1
-PT | Eurosport 2 HD,PT | Eurosport 2
+Eurosport.1.HD.pt,Eurosport 1 HD
+Eurosport.2.HD.pt,Eurosport 2 HD
 FR · beIN SPORTS 1,FR · beIN SPORTS 1
 FR · beIN SPORTS 2,FR · beIN SPORTS 2
 FR · beIN SPORTS 3,FR · beIN SPORTS 3
@@ -681,12 +682,14 @@ FR · L’Equipe,FR · L’Equipe
 FR · Infosport+,FR · Infosport+
 FR · CANAL+ Sport,FR · CANAL+ Sport
 FR · CANAL+ Sport 360,FR · CANAL+ Sport 360
-,Canal+ Foot 🇫🇷
+Canal+.Foot.fr,Canal+ Foot
 ,Canal+ Ligue 1 🇫🇷
 ,Canal+ Premier League 🇫🇷
 ,Canal+ Formula 1 🇫🇷
 ,Canal+ Moto GP 🇫🇷
 ,Canal+ Top 14 Rugby 🇫🇷
+Eurosport.1.fr,Eurosport 1
+Eurosport.2.fr,Eurosport 2
 FR · Eurosport 1,FR · Eurosport 1
 FR · Eurosport 2,FR · Eurosport 2
 FR · Eurosport 3,FR · Eurosport 3
@@ -719,8 +722,8 @@ UK | Sky Sports Racing,UK | Sky Sports Racing
 DE | More than Sports TV,DE | More than Sports TV
 DE | sport1,DE | sport1
 DE | sport1+,DE | sport1+
-DE | DAZN,DE | DAZN
-DE | DAZN 2,DE | DAZN 2
+DAZN.1.de,DAZN 1
+DAZN.2.de,DAZN 2
 DE | Sky Sport News,DE | Sky Sport News
 DE | Sky Sport Top Event,DE | Sky Sport Top Event
 DE | Sky Sport Mix,DE | Sky Sport Mix
@@ -738,7 +741,7 @@ DE | Sky Sport Golf,DE | Sky Sport Golf
 ,Sky Sport 8 🇩🇪
 ,Sky Sport 9 🇩🇪
 ,Sky Sport 10 🇩🇪
-,Sky Sport Austria 1 🇦🇹
+Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1 HD
 ,Eurosport 1 🇮🇹
 ,Eurosport 2 🇮🇹
 ,Rai Sport 🇮🇹
