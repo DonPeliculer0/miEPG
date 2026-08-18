@@ -1,0 +1,83 @@
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz
+Canal.1.(Colombia).ar,Canal 1 (Colombia),https://imagenes.gatotv.com/logos/canales/oscuros/1_colombia-mediano.png
+Canal.13.de.Argentina.(El.Trece).ar,Canal 13 de Argentina (El Trece),https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina-mediano.png
+Canal.24.Horas.(TVE).ar,Canal 24 Horas (TVE),https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_tve-mediano.png
+Canal.AXN.(Argentina).ar,Canal AXN (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
+Canal.America.TV.(Argentina).ar,Canal America TV (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png
+Canal.Animal.Planet.(Argentina).ar,Canal Animal Planet (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
+Canal.Baby.TV.(Latinoamérica).ar,Canal Baby TV (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
+Canal.CNN.Internacional.ar,Canal CNN Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png
+Canal.CNN.en.Español.ar,Canal CNN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
+Canal.Cablenoticias.ar,Canal Cablenoticias,https://imagenes.gatotv.com/logos/canales/oscuros/cablenoticias-mediano.png
+Canal.Capital.(Colombia).ar,Canal Capital (Colombia),https://imagenes.gatotv.com/logos/canales/oscuros/capital_colombia-mediano.png
+Canal.Cartoon.Network.(Argentina).ar,Canal Cartoon Network (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
+Canal.Cartoonito.(Argentina).ar,Canal Cartoonito (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
+Canal.Cinecanal.(Argentina).ar,Canal Cinecanal (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
+Canal.City.TV.ar,Canal City TV,https://imagenes.gatotv.com/logos/canales/oscuros/city_tv-mediano.png
+Canal.DW.(Latinoamérica).ar,Canal DW (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
+Canal.De.Película.ar,Canal De Película,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
+Canal.Discovery.Kids.(Argentina).ar,Canal Discovery Kids (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
+Canal.Discovery.Theater.(Latinoamérica).ar,Canal Discovery Theater (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
+Canal.Discovery.Turbo.(Latinoamérica).ar,Canal Discovery Turbo (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
+Canal.Discovery.World.Latinoamérica.ar,Canal Discovery World Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
+Canal.Disney.Channel.(Argentina).ar,Canal Disney Channel (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
+Canal.Disney.Junior.(Argentina).ar,Canal Disney Junior (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
+Canal.ESPN.(Argentina).ar,Canal ESPN (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
+Canal.ESPN.2.(Bolivia).ar,Canal ESPN 2 (Bolivia),https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
+Canal.ESPN.3.(Argentina).ar,Canal ESPN 3 (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
+Canal.ESPN.3.(Bolivia).ar,Canal ESPN 3 (Bolivia),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
+Canal.EWTN.en.Español.ar,Canal EWTN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/ewtn_en_espanol-mediano.png
+Canal.Elgourmet.ar,Canal Elgourmet,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png
+Canal.Enlace.(TBN).ar,Canal Enlace (TBN),https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
+Canal.Europa.Europa.ar,Canal Europa Europa,https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png
+Canal.Film.&amp;.Arts.ar,Canal Film &amp; Arts,https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png
+Canal.Galicia.TV.ar,Canal Galicia TV,https://imagenes.gatotv.com/logos/canales/oscuros/galicia_tv-mediano.png
+Canal.Golden.(Argentina).ar,Canal Golden (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
+Canal.HBO.(Argentina).ar,Canal HBO (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
+Canal.HBO.Family.Latinoamérica.ar,Canal HBO Family Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png
+Canal.HBO.Mundi.ar,Canal HBO Mundi,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png
+Canal.HBO.Plus.ar,Canal HBO Plus,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
+Canal.HBO.Pop.ar,Canal HBO Pop,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
+Canal.HBO.Signature.Latinoamérica.ar,Canal HBO Signature Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png
+Canal.HBO.Xtreme.ar,Canal HBO Xtreme,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png
+Canal.HTV.ar,Canal HTV,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
+Canal.History.2.(Argentina).ar,Canal History 2 (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
+Canal.Institucional.(Colombia).ar,Canal Institucional (Colombia),https://imagenes.gatotv.com/logos/canales/oscuros/institucional_colombia-mediano.png
+Canal.La.Tele.(Paraguay).ar,Canal La Tele (Paraguay),https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png
+Canal.Las.Estrellas.(Argentina).ar,Canal Las Estrellas (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
+Canal.Lifetime.(Argentina).ar,Canal Lifetime (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
+Canal.MTV.(Argentina).ar,Canal MTV (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
+Canal.MTV.00s.ar,Canal MTV 00s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
+Canal.MTV.80s.ar,Canal MTV 80s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_80s-mediano.png
+Canal.MTV.Hits.ar,Canal MTV Hits,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png
+Canal.MTV.Live.HD.ar,Canal MTV Live HD,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png
+Canal.Más.Chic.Latinoamérica.ar,Canal Más Chic Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png
+Canal.NHK.World.ar,Canal NHK World,https://imagenes.gatotv.com/logos/canales/oscuros/nhk_world-mediano.png
+Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar,Canal NTN24 (Nuestra Tele Noticias 24 Horas),https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png
+Canal.Nick.Jr..(Argentina).ar,Canal Nick Jr. (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
+Canal.NickMusic.ar,Canal NickMusic,https://imagenes.gatotv.com/logos/canales/oscuros/nick_music-mediano.png
+Canal.Pakapaka.ar,Canal Pakapaka,https://imagenes.gatotv.com/logos/canales/oscuros/paka_paka-mediano.png
+Canal.Paravisión.ar,Canal Paravisión,https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png
+Canal.RAI.International.ar,Canal RAI International,https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png
+Canal.SNT.(Paraguay).ar,Canal SNT (Paraguay),https://imagenes.gatotv.com/logos/canales/oscuros/snt_paraguay-mediano.png
+Canal.Señal.Colombia.ar,Canal Señal Colombia,https://imagenes.gatotv.com/logos/canales/oscuros/senal_colombia-mediano.png
+Canal.Sony.(Argentina).ar,Canal Sony (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
+Canal.Space.(Argentina).ar,Canal Space (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
+Canal.Star.Channel.(Argentina).ar,Canal Star Channel (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
+Canal.Sun.Channel.ar,Canal Sun Channel,https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png
+Canal.TLNovelas.(Argentina).ar,Canal TLNovelas (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
+Canal.TNT.(Argentina).ar,Canal TNT (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
+Canal.TNT.Novelas.(Argentina).ar,Canal TNT Novelas (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
+Canal.TV.Chile.ar,Canal TV Chile,https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png
+Canal.TV.Globo.Internacional.ar,Canal TV Globo Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/tv_globo_internacional-mediano.png
+Canal.TVE.Internacional.(Televisión.Española).ar,Canal TVE Internacional (Televisión Española),https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
+Canal.Teleantioquia.ar,Canal Teleantioquia,https://imagenes.gatotv.com/logos/canales/oscuros/teleantioquia-mediano.png
+Canal.Telecaribe.ar,Canal Telecaribe,https://imagenes.gatotv.com/logos/canales/oscuros/telecaribe-mediano.png
+Canal.Telefé.(Argentina).ar,Canal Telefé (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina-mediano.png
+Canal.Telehit.ar,Canal Telehit,https://imagenes.gatotv.com/logos/canales/oscuros/telehit-mediano.png
+Canal.Telenostalgia.ar,Canal Telenostalgia,https://imagenes.gatotv.com/logos/canales/oscuros/telenostalgia-mediano.png
+Canal.Televisión.Pública.(Argentina).ar,Canal Televisión Pública (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png
+Canal.Tooncast.ar,Canal Tooncast,https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png
+Canal.TyC.Sports.ar,Canal TyC Sports,https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png
+Canal.USA.Network.(Argentina).ar,Canal USA Network (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
+Canal.Warner.TV.(Argentina).ar,Canal Warner TV (Argentina),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png

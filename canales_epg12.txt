@@ -1,282 +1,193 @@
-# Fuente: http://tropical.jungle-team.online/epg/koala3.xml
-VEO 7,VEO 7,
-Clan HD,Clan HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CLANTV.png
-DAZN Baloncesto,DAZN Baloncesto,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png
-M+ Cine HD,M+ Cine HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png
-TV5MONDE,TV5MONDE,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TV5.png
-BOING,BOING,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png
-M+ CLÁSICOS HD,M+ CLÁSICOS HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png
-COPE,COPE,https://myradioonline.es/public/uploads/radio_img/cope/list_45.jpg
-M+LCAMPEON17,M+LCAMPEON17,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP16.png
-SQUIRREL,SQUIRREL,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SQUIRREL_176x122.png
-M+ LALIGA TV HD,M+ LALIGA TV HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png
-MTV 00s,MTV 00s,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VH1.png
-Movistar Plus+ HD,Movistar Plus+ HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png
-M+ ACCIÓN HD,M+ ACCIÓN HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png
-Flamenco Radio,Flamenco Radio,https://myradioonline.es/public/uploads/radio_img/flamenco-radio/list_45.jpg
-DISCOVERY,DISCOVERY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCR.png
-CNN Int.,CNN Int.,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CNN.png
-Aragón TV,Aragón TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARAGTV.png
-DAZN 4 HD,DAZN 4 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png
-Runtime Accion,Runtime Accion,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_ACTION_WHITE_176x122
-M+ LaLiga TV 7,M+ LaLiga TV 7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG6.png
-COSMO HD,COSMO HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/COSMO.png
-CGTN,CGTN,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CCTV-E.png
-ETB,ETB,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB.png
-Telemadrid,Telemadrid,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TELMAD.png
-M+LCAMPEONES,M+LCAMPEONES,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png
-CALLE 13 HD,CALLE 13 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CL13.png
-betevé,betevé,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BTV.png
-Clásicos atresplayer,Clásicos atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%c3%a1sicos%20atresplayer.png
-Rock FM,Rock FM,https://myradioonline.es/public/uploads/radio_img/rock-fm/list_45.jpg
-Esport 3,Esport 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP3.png
-AMC Living,AMC Living,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_LIVING_176x122
-Nature Time,Nature Time,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/NATURE_TIME_176x122
-DAZN LaLiga 4,DAZN LaLiga 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png
-M+ Cero,M+ Cero,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FREELI.png
-UHD1 by ASTRA / HD+,UHD1 by ASTRA / HD+,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP4K.png
-M+ ESTRENOS 2 HD,M+ ESTRENOS 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEST2.png
-Radio Clasica HQ RNE,Radio Clasica HQ RNE,https://myradioonline.es/public/uploads/radio_img/radio-clasica/list_45.jpg
-Onda Cero,Onda Cero,https://myradioonline.es/public/uploads/radio_img/onda-cero/list_45.jpg
-M+DEPORTES2HD,M+DEPORTES2HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png
-CADENA 100,CADENA 100,https://myradioonline.es/public/uploads/radio_img/cadena-100/list_45.jpg
-EUROSPORT 2 HD,EUROSPORT 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png
-Canal Fiesta R.,Canal Fiesta R.,https://myradioonline.es/public/uploads/radio_img/canal-fiesta-radio/list_45.jpg
-France 24 (en Francais),France 24 (en Francais),https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FRANCE.png
-M+ La Resistencia,M+ La Resistencia,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/RESIST.png
-XTRM,XTRM,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/XTRM_176x122
-M+ LaLiga TV 9,M+ LaLiga TV 9,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG8.png
-Somos,Somos,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/SOMOS_176x122
-NICKELODEONHD,NICKELODEONHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICK.png
-M+ LaLiga TV 6,M+ LaLiga TV 6,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG5.png
-M+DEPORTES3,M+DEPORTES3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png
-ETB 2 HD,ETB 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB2.png
-M+LCAMPEON3,M+LCAMPEON3,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_3_176x122.png
-M+LCAMPEON10,M+LCAMPEON10,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP9.png
-ETB 1 HD,ETB 1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB1.png
-GUIA,GUIA,
-M+ LaLiga TV 10,M+ LaLiga TV 10,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG9.png
-LALIGA TV HYPERMOTION 2,LALIGA TV HYPERMOTION 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png
-DAZN LaLiga 5,DAZN LaLiga 5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL5.png
-IB3,IB3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/IB3.png
-ANTENA 3 HD,ANTENA 3 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png
-Runtime Crimen,Runtime Crimen,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CRIME_WHITE_176x122
-BBC EARTH,BBC EARTH,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBCEAR.png
-TV3,TV3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TV3CAT.png
-HIT FM,HIT FM,https://myradioonline.es/public/uploads/radio_img/hit-fm/list_45.jpg
-M+DEPORTESHD,M+DEPORTESHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png
-M+ ESTRENOS HD,M+ ESTRENOS HD,
-AMC+ Connect,AMC+ Connect,
-Negocios TV,Negocios TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NEGOTV.png
-DAZN F1 HD,DAZN F1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png
-GARAGE TV,GARAGE TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GARAGE.png
-FoQ,FoQ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FoQ.png
-GOL PLAY,GOL PLAY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOL.png
-CLASSICA,CLASSICA,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CLASSD.png
-ARAGON TV INT,ARAGON TV INT,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARAGON.png
-Ubeat,Ubeat,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/UBEAT.png
-M+ LALIGA TV 2 HD,M+ LALIGA TV 2 HD,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_TV_2_176x122.png
-Mega,Mega,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png
-M+LCAMPEON18,M+LCAMPEON18,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP18.png
-DreamWorks HD,DreamWorks HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DWSP.png
-Andalucia TV,Andalucia TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ANDATV.png
-CANAL COCINA,CANAL COCINA,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_COCINA_4K_176x122.png
-NICK JR,NICK JR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICKJR.png
-SER,SER,https://myradioonline.es/public/uploads/radio_img/cadena-ser/list_45.jpg
-Max,Max,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MAXAVA.png
-M+ Originales HD,M+ Originales HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png
-La 7 HD,La 7 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CYLTV.png
-Be Mad HD,Be Mad HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png
-M+ GOLF HD,M+ GOLF HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF%2B.png
-DIAL,DIAL,https://myradioonline.es/public/uploads/radio_img/cadena-dial/list_45.jpg
-Nautica Channel,Nautica Channel,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NAUTIC.png
-33,33,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C33.png
-M+LCAMPEON16,M+LCAMPEON16,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP15.png
-M+ SERIES HD,M+ SERIES HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV2.png
-DIVINITY,DIVINITY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DIVINI.png
-PORTADA,PORTADA,
-Canal Sur Radio,Canal Sur Radio,https://myradioonline.es/public/uploads/radio_img/canal-sur-radio/list_45.jpg
-DKISS,DKISS,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DKISS.png
-Nova HD,Nova HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NOVA.png
-AXN MOVIES,AXN MOVIES,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SET.png
-DAZN MOTO GP,DAZN MOTO GP,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png
-WARNERTV HD,WARNERTV HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TNT.png
-Runtime Cine y Series,Runtime Cine y Series,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CINE_Y_SERIES_WHITE_176x122
-AMC Western,AMC Western,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_WESTERN_176x122
-M+ SERIES 2 HD,M+ SERIES 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPSER.png
-M+ Indie HD,M+ Indie HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png
-DAZN Baloncesto 2,DAZN Baloncesto 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png
-DAZN 2 HD,DAZN 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png
-M+ LALIGA TV 4 HD,M+ LALIGA TV 4 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png
-El Toro TV,El Toro TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/INTECO.png
-M+DEPORTES6,M+DEPORTES6,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI8.png
-Aquí no hay quién viva,Aquí no hay quién viva,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%c3%ad%20no%20hay%20qui%c3%a9n%20viva.png
-M+LCAMPEON15,M+LCAMPEON15,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP14.png
-M+ LALIGA TV 3 HD,M+ LALIGA TV 3 HD,https://orangetv.orange.es/pc/api/rtv/v1/images/x_fbceb9643c81f7fc46cad0a6e
-SYFY HD,SYFY HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SCI-FI.png
-Kiss FM,Kiss FM,https://myradioonline.es/public/uploads/radio_img/kiss-fm/list_45.jpg
-DARK,DARK,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_21c53db99c70d70f49a133e00
-M+LCAMPEON6,M+LCAMPEON6,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP5.png
-M+ HITS HD,M+ HITS HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png
-EXTREMADURA SAT,EXTREMADURA SAT,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/EXTREM.png
-CAZAyPESCA HD,CAZAyPESCA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CAZPES.png
-RNE Andalucía,RNE Andalucía,https://myradioonline.es/public/uploads/radio_img/radio-andalucia-informacion/list_45.jpg
-PARAMOUNT NETWORK,PARAMOUNT NETWORK,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PARCH.png
-Europa FM,Europa FM,https://myradioonline.es/public/uploads/radio_img/europa-fm/list_45.jpg
-SELEKT,SELEKT,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SELEKT_176x122
-Primera Federacion,Primera Federacion,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png
-DAZN 1 HD,DAZN 1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png
-Canal Sur HD,Canal Sur HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CANSUR.png
-Escapa TV,Escapa TV,https://imageservice.agiletv.es/v1?width=100&amp;format=WEBP&amp;resize=RATIO&amp;image=https%3A%2F%2Fagiletv-images.s3.eu-west-1.amazonaws.com%2Fchannelicons%2Fescapatv.png|
-CUATRO HD,CUATRO HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png
-TEN,TEN,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TEN.png
-Teledeporte HD,Teledeporte HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png
-M+ Baloncesto 3,M+ Baloncesto 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC3.png
-Loca FM,Loca FM,https://myradioonline.es/public/uploads/radio_img/loca-fm/list_45.jpg
-M+LCAMPEON4,M+LCAMPEON4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP3.png
-AMC,AMC,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/AMC_176x122.png
-Levante TV,Levante TV,
-M+DEPORTES8,M+DEPORTES8,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI9.png
-M+LCAMPEONES BAR,M+LCAMPEONES BAR,
-M+ Liga de Campeones2 HDR,M+ Liga de Campeones2 HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHHDR2.png
-IBERALIA TV,IBERALIA TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/IBERAL.png
-M+ DRAMA HD,M+ DRAMA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png
-TELESUR HD,TELESUR HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TLESUR.png
-DMAX,DMAX,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/DMAX_176x122
-Runtime Series,Runtime Series,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_SERIES_WHITE_176x122
-AMC Anime,AMC Anime,https://cdn.sincroguia.tv/storage/images/d/7/6/xlogo-amc-anime-sincroguiatv.png.pagespeed.ic.rB3taSZjgb.png
-TCM HD,TCM HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TCM.png
-Betis TV,Betis TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/BETISTV_176x122
-LOS40,LOS40,https://myradioonline.es/public/uploads/radio_img/los40/list_45.jpg
-M+ Baloncesto,M+ Baloncesto,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALCT.png
-MegaStar FM,MegaStar FM,https://myradioonline.es/public/uploads/radio_img/megastarfm/list_45.jpg
-SQUIRREL 2,SQUIRREL 2,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SQUIRREL_DOS_176x122
-LA 1 HD,LA 1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png
-M+LCAMPEON8,M+LCAMPEON8,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP7.png
-M+ LALIGA HDR,M+ LALIGA HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png
-M+DEPORTES4,M+DEPORTES4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png
-Real Madrid TV HD,Real Madrid TV HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/REALM.png
-BBC World News Europe HD,BBC World News Europe HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBC.png
-Canal RED,Canal RED,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/RED.png
-M+ Liga de Campeones HDR,M+ Liga de Campeones HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHHDR.png
-LALIGA TV HYPERMOTION,LALIGA TV HYPERMOTION,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png
-TRECE,TRECE,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/13TV.png
-NG WILD HD,NG WILD HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGW.png
-Radio Marca,Radio Marca,https://myradioonline.es/public/uploads/radio_img/radio-marca/list_45.jpg
-Gozadera FM,Gozadera FM,https://myradioonline.es/public/uploads/radio_img/gozadera-fm/list_45.jpg
-M+ VAMOSHD,M+ VAMOSHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png
-M+ VAMOS 2 HD,M+ VAMOS 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAM2SD.png
-Equipo de investigación,Equipo de investigación,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%c3%b3n.png
-Televisión Canaria,Televisión Canaria,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CANAR.png
-Bloomberg Europe TV,Bloomberg Europe TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BL.png
-Castilla la Mancha TV,Castilla la Mancha TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png
-Radiolé,Radiolé,https://myradioonline.es/public/uploads/radio_img/radiole/list_45.jpg
-BBC HISTORY,BBC HISTORY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBHIS.png
-BOM,BOM,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BOM_176x122
-ENFAMILIA,ENFAMILIA,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ENFAMILIA_BLANCO_176X122
-BBC TOP GEAR,BBC TOP GEAR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBGEA.png
-EWTN,EWTN,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/EWTN.png
-M+DEPORTES7,M+DEPORTES7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png
-Cubavision Internacional,Cubavision Internacional,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CUBAV.png
-TV Colombia,TV Colombia,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/COLOMB.png
-7 RM,7 RM,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/7TVMUR.png
-Al Jazeera English,Al Jazeera English,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ALJAZE.png
-El Hormiguero,El Hormiguero,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png
-Runtime Clásicos,Runtime Clásicos,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CLASSICS_WHITE_176x122
-HISTORIA,HISTORIA,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_HISTORIA_LOGO_176x122.png
-M+LCAMPEON11,M+LCAMPEON11,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP10.png
-DAZN LaLiga 3,DAZN LaLiga 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png
-Neox HD,Neox HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NEOX.png
-Flooxer,Flooxer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png
-Comedia atresplayer,Comedia atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedia%20atresplayer.png
-Runtime Romance,Runtime Romance,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_ROMANCE_WHITE_176x122
-M+ LaLiga TV 5,M+ LaLiga TV 5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG4.png
-24h HD,24h HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/24H.png
-M+LCAMPEON7,M+LCAMPEON7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP6.png
-BAJO DEMANDA,BAJO DEMANDA,
-La 2 HD,La 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png
-Atreseries HD,Atreseries HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ATRESS.png
-Discovery MAX,Discovery MAX,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCRMAX.png
-COMEDYCENTRALHD,COMEDYCENTRALHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PCM.png
-AMC CRIME,AMC CRIME,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_CRIME_176x122.png
-ENERGY,ENERGY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ENERGY.png
-ALQUILER 1,ALQUILER 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TQ1.png
-M+ LaLiga TV 8,M+ LaLiga TV 8,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG7.png
-DAZN 3 HD,DAZN 3 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png
-M+ Eurosport 4K,M+ Eurosport 4K,
-BabyTV,BabyTV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BABY.png
-TVG 2,TVG 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVG2.png
-Canal Sur 2,Canal Sur 2,
-M+ Vacaciones,M+ Vacaciones,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVCIVA.png
-M+LCAMPEON5,M+LCAMPEON5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP4.png
-M+LCAMPEON13,M+LCAMPEON13,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP12.png
-DAZN LALIGA HD,DAZN LALIGA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png
-Horse TV,Horse TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/HORSE_TV_176x122
-La 1 UHD,La 1 UHD,
-M+ OSCARS,M+ OSCARS,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MOSCAR.png
-M+LCAMPEON19,M+LCAMPEON19,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP19.png
-LALIGA TV HYPERMOTION 3,LALIGA TV HYPERMOTION 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png
-VinTV,VinTV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/VIN_TV_176x122
-BBC FOOD,BBC FOOD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBFOO.png
-CANAL ODISEA,CANAL ODISEA,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ODISEA_4K_176x122
-LaOtra,LaOtra,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/OTRA.png
-MULTIDEPORTE,MULTIDEPORTE,
-MEZZO,MEZZO,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEZZO.png
-DISNEY JR,DISNEY JR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PLAYDC.png
-CMM TV,CMM TV,
-Canal Extremadura,Canal Extremadura,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/EXTRE.png
-AMC BREAK,AMC BREAK,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_BREAK_176x122.png
-LALIGATV BAR 2,LALIGATV BAR 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LIGBA1.png
-M+Cine Español,M+Cine Español,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png
-NAT GEO HD,NAT GEO HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png
-Cines Verdi TV,Cines Verdi TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CINE_VERDI_CIRCULAR_176X122
-TELECINCO HD,TELECINCO HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png
-ATRESplayer PREMIUM,ATRESplayer PREMIUM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png
-CANAL SUR A.,CANAL SUR A.,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ANTV.png
-Runtime Comedia,Runtime Comedia,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_COMEDY_WHITE_176x122
-OneToro TV,OneToro TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3a%2f%2fvip.repositories.local.internal%2fRepositories.EPG%2fOttChannelIcons%2fOneToroTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png
-DAZN LALIGA 2 HD,DAZN LALIGA 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png
-Inquietos atresplayer,Inquietos atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Inquietos%20atresplayer.png
-STAR Channel,STAR Channel,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FOXGE.png
-SUNDANCE TV,SUNDANCE TV,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_def6ba5cbe35084391ddfc6f5
-M+ GOLF 2 HD,M+ GOLF 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png
-M+DEPORTES5,M+DEPORTES5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png
-El club de la comedia,El club de la comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png
-M+LCAMPEON12,M+LCAMPEON12,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP11.png
-MTV ESPAÑA,MTV ESPAÑA,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MTV.png
-AXN HD,AXN HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/AXN.png
-M+COMEDIA HD,M+COMEDIA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png
-M+LCAMPEON2,M+LCAMPEON2,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_2_176x122.png
-La 8 Mediterraneo HD,La 8 Mediterraneo HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEDITE.png
-EUROSPORT 1 HD,EUROSPORT 1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png
-Canal de las estrellas,Canal de las estrellas,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GALAV.png
-BBC SERIES,BBC SERIES,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBDRA.png
-Telemadrid Int.,Telemadrid Int.,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TELMIN.png
-TVG,TVG,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVGAL.png
-ALQUILER HD,ALQUILER HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/HDTQ10.png
-M+ VAMOS 3,M+ VAMOS 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png
-M+ VAMOS BAR,M+ VAMOS BAR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMHOR.png
-FDF,FDF,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FDFIC.png
-Multicine atresplayer,Multicine atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png
-M+LCAMPEON14,M+LCAMPEON14,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP13.png
-NHK WORLD-JPN,NHK WORLD-JPN,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NHK.png
-DAZN Baloncesto 3,DAZN Baloncesto 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png
-LALIGATV BAR 4,LALIGATV BAR 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LIGBA4.png
-FlixOlé 1,FlixOlé 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FLIX1.png
-ETB 3,ETB 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB3.png
-BBC LIFESTYLE,BBC LIFESTYLE,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBCLIF.png
-M+LCAMPEON9,M+LCAMPEON9,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP8.png
-LA SEXTA HD,LA SEXTA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SEXTA.png
-A Punt HD,A Punt HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/APUNT.png
-FlixOlé 2,FlixOlé 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FLIX2.png
-LALIGATV BAR 3,LALIGATV BAR 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LIGBA2.png
-TVGA HD EUROPA,TVGA HD EUROPA,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVG.png
-CNBC Europe,CNBC Europe,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NBC.png
-LALIGATV BAR,LALIGATV BAR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LIGBAR.png
-TPA7,TPA7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TPA.png
-M+ LALIGA 2 HDR,M+ LALIGA 2 HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIUHD.png
-M+Documentales HD,M+Documentales HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png
-Kidz,Kidz,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kidz.png
-SkyShowtime,SkyShowtime,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png
-M+ Baloncesto 2,M+ Baloncesto 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC2.png
-HOLLYWOOD,HOLLYWOOD,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_HOLLYWOOD_176x122.png
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
+Sky.Uno.it,Sky Uno,https://guidatv.sky.it/logo/477skyuno_Light_Fit.png?checksum=cd37fd56-01f7-443e-a62d-ff99bf4c1b1c?tr=n-logo_80
+Sky.Uno.+1.it,Sky Uno +1,
+Sky.Atlantic.it,Sky Atlantic,https://guidatv.sky.it/logo/226skyatlantic_Light_Fit.png?checksum=55e0b430-8ac2-482a-80eb-d79e3678ea49?tr=n-logo_80
+Sky.Atlantic.Maratone.it,Sky Atlantic Maratone,
+Sky.Serie.it,Sky Serie,https://guidatv.sky.it/logo/684skyserie_Light_Fit.png?checksum=9fa612b4-52c6-4a22-9c98-40495a42475b?tr=n-logo_80
+Sky.Serie.Maratone.it,Sky Serie Maratone,
+Sky.Investigation.it,Sky Investigation,https://guidatv.sky.it/logo/686skyinvestigation_Light_Fit.png?checksum=224897bb-44bb-41a3-9691-e19eacc670f0?tr=n-logo_80
+Sky.Investigation.+1.HD.it,Sky Investigation +1 HD,
+Sky.Crime.it,Sky Crime,https://guidatv.sky.it/logo/249skycrime_Light_Fit.png?checksum=7d65e0c6-d90b-42d1-a014-46ba4d06b16b?tr=n-logo_80
+Sky.Arte.it,Sky Arte,https://guidatv.sky.it/logo/74skyarte_Light_Fit.png?checksum=e7a7ddb0-6afa-42c8-93d8-b2a4f5c726e1?tr=n-logo_80
+Sky.Arte.+1.it,Sky Arte +1,
+Sky.Documentaries.it,Sky Documentaries,https://guidatv.sky.it/logo/697skydocumentaries_Light_Fit.png?checksum=53245dbe-0b73-4190-b492-376dc7d53d2d?tr=n-logo_80
+Sky.Documentaries.+1.it,Sky Documentaries +1,https://guidatv.sky.it/logo/928skydocumentaries1hd_Light_Fit.png?checksum=0d9c1b59-6e0f-4cea-9985-fb9ffc00a6fe?tr=n-logo_80
+Sky.Nature.it,Sky Nature,https://guidatv.sky.it/logo/695skynature_Light_Fit.png?checksum=6a2c90be-bac2-4622-af95-39ec6b75e3b4?tr=n-logo_80
+TV8.HD.it,TV8 HD,https://guidatv.sky.it/logo/260tv8hd_Light_Fit.png?checksum=938addc1e1adaac5be9fdf942d4c7f25?tr=n-logo_80
+Comedy.Central.it,Comedy Central,https://guidatv.sky.it/logo/404comedycentral_Light_Fit.png?checksum=4358511eb68a75a7115053855c57e91b?tr=n-logo_80
+Comedy.+1.it,Comedy +1,
+MTV.HD.it,MTV HD,https://guidatv.sky.it/logo/763mtvhd_Light_Fit.png?checksum=a680f63a-0d64-4670-afb3-8671652356c2?tr=n-logo_80
+MTV.Music.it,MTV Music,
+Gambero.Rosso.HD.it,Gambero Rosso HD,https://guidatv.sky.it/logo/229gamberorossohd_Light_Fit.png?checksum=8a41e8b81f56528923c0997396d75be5?tr=n-logo_80
+Classica.HD.it,Classica HD,https://guidatv.sky.it/logo/170170_Light_Fit.png?checksum=288e38e2-8835-4ef0-bb84-246dbc2cf492?tr=n-logo_80
+cielo.it,cielo,https://guidatv.sky.it/logo/120cielo_Light_Fit.png?checksum=0e2ccaf0-752f-44f6-b273-9aad1e4edadf?tr=n-logo_80
+Explorer.HD.Channel.it,Explorer HD Channel,
+Sky.Cinema.Uno.it,Sky Cinema Uno,https://guidatv.sky.it/logo/202skycinemauno_Light_Fit.png?checksum=2945a0fc-4fd0-4f78-891d-b4b6e23e4ecf?tr=n-logo_80
+Sky.Cinema.Uno.+24.it,Sky Cinema Uno +24,https://guidatv.sky.it/logo/224skycinemauno24_Light_Fit.png?checksum=f37575e8-343d-4e8a-b76d-5b65e442cec9?tr=n-logo_80
+Sky.Cinema.Due.it,Sky Cinema Due,https://guidatv.sky.it/logo/564skycinemastories_Light_Fit.png?checksum=3da2307e-7577-4ae1-b1d6-ea940bd2317c?tr=n-logo_80
+Sky.Cinema.Due.+24.it,Sky Cinema Due +24,
+Sky.Cinema.Collection.it,Sky Cinema Collection,https://guidatv.sky.it/logo/204skycinemacollection_Light_Fit.png?checksum=722bd48e-0c75-456a-9222-8d26e65bfde9?tr=n-logo_80
+Sky.Cinema.Family.it,Sky Cinema Family,https://guidatv.sky.it/logo/255skycinemafamily_Light_Fit.png?checksum=d1656464-20a9-4f0e-b7f9-49f01c1beea7?tr=n-logo_80
+Sky.Cinema.Action.it,Sky Cinema Action,https://guidatv.sky.it/logo/206skycinemaaction_Light_Fit.png?checksum=18c61378-c967-4828-a506-4fbd8cf6bc1c?tr=n-logo_80
+Sky.Cinema.Suspense.it,Sky Cinema Suspense,https://guidatv.sky.it/logo/47skycinemasuspense_Light_Fit.png?checksum=9ee51b22-c9fe-49f3-a7d1-2a22e1948a4d?tr=n-logo_80
+Sky.Cinema.Romance.it,Sky Cinema Romance,https://guidatv.sky.it/logo/231skycinemaromance_Light_Fit.png?checksum=29a51632-5782-41fc-9ece-7019fe0112e5?tr=n-logo_80
+Sky.Cinema.Drama.it,Sky Cinema Drama,https://guidatv.sky.it/logo/769skycinemadrama_Light_Fit.png?checksum=2fc851a5-dcfd-4c55-b42e-60e0ea35642c?tr=n-logo_80
+Sky.Cinema.Comedy.it,Sky Cinema Comedy,https://guidatv.sky.it/logo/30skycinemacomedy_Light_Fit.png?checksum=a34e113d-5437-4753-b036-5969ea84dfe0?tr=n-logo_80
+Sky.Sport.Uno.it,Sky Sport Uno,https://guidatv.sky.it/logo/23skysportuno_Light_Fit.png?checksum=fc0371cf-624c-4def-ba61-947712639f2e?tr=n-logo_80
+Sky.Sport.Calcio.it,Sky Sport Calcio,https://guidatv.sky.it/logo/209skysportcalcio_Light_Fit.png?checksum=f6193dc9-1bcd-4609-a0a3-e13d181464d7?tr=n-logo_80
+Sky.Sport.Tennis.it,Sky Sport Tennis,https://guidatv.sky.it/logo/559skysporttennis_Light_Fit.png?checksum=94c5f900-a8d2-497c-8fec-a333a9ad879a?tr=n-logo_80
+Sky.Sport.Golf.it,Sky Sport Golf,https://guidatv.sky.it/logo/768skysportgolf_Light_Fit.png?checksum=ff599287-1197-42d6-928c-9ea48a970118?tr=n-logo_80
+Sky.Sport.F1.it,Sky Sport F1,https://guidatv.sky.it/logo/478skysportf1_Light_Fit.png?checksum=745d5eea-e5ec-41d8-b7d1-3d053bb3aae0?tr=n-logo_80
+Sky.Sport.MotoGP.it,Sky Sport MotoGP,https://guidatv.sky.it/logo/483skysportmotogp_Light_Fit.png?checksum=33c38de9-c5a3-4844-a558-6cac9a44b0ef?tr=n-logo_80
+Sky.Sport.NBA.it,Sky Sport NBA,https://guidatv.sky.it/logo/764skysportbasket_Light_Fit.png?checksum=a0aa8bed-e8e7-43bf-b4c7-3c31a62954e7?tr=n-logo_80
+Sky.Sport.Max.it,Sky Sport Max,https://guidatv.sky.it/logo/248skysportmax_Light_Fit.png?checksum=3e774f96-84ba-46f0-a7a8-8e21a825028d?tr=n-logo_80
+Sky.Sport.Arena.it,Sky Sport Arena,https://guidatv.sky.it/logo/24skysportarena_Light_Fit.png?checksum=7e3a6085-0021-4fc2-a4ca-ce8059d18ffb?tr=n-logo_80
+Sky.Adventure.it,Sky Adventure,https://guidatv.sky.it/logo/962skyadventure_Light_Fit.png?checksum=7454eb33-b386-4e89-8872-8c32b2fbbc3f?tr=n-logo_80
+Sky.Sport.Mix.it,Sky Sport Mix,https://guidatv.sky.it/logo/579skysportmix_Light_Fit.png?checksum=68d457d4-ae25-40ec-8198-2be42327d82d?tr=n-logo_80
+Sky.Sport.Legend.it,Sky Sport Legend,https://guidatv.sky.it/logo/578skysportlegend_Light_Fit.png?checksum=4887b8c8-ab51-46c9-890e-2367de4fa38e?tr=n-logo_80
+Sky.Sport..251.it,Sky Sport  251,
+Sky.Sport..252.it,Sky Sport  252,
+Sky.Sport..253.it,Sky Sport  253,
+Sky.Sport..254.it,Sky Sport  254,
+Sky.Sport..255.it,Sky Sport  255,
+Sky.Sport..256.it,Sky Sport  256,
+Sky.Sport..257.it,Sky Sport  257,
+Sky.Sport..258.it,Sky Sport  258,
+Sky.Sport..259.it,Sky Sport  259,
+Sky.Calcio.10..260.it,Sky Calcio 10  260,
+Sky.Calcio.11..261.it,Sky Calcio 11  261,
+SuperTennis.HD.it,SuperTennis HD,https://guidatv.sky.it/logo/5246supertennishd_Light_Fit.png?checksum=13f5cbb1646d848fde3af6fccba8dd4c?tr=n-logo_80
+Sky.Sport.4K.it,Sky Sport 4K,https://guidatv.sky.it/logo/628skysport4k_Light_Fit.png?checksum=37f0c69c-afda-4481-a242-c60d1aeb3d3f?tr=n-logo_80
+DAZN4.it,DAZN4,
+DAZN5.it,DAZN5,
+EQUtv.it,EQUtv,https://guidatv.sky.it/logo/5439equtv_Light_Fit.png?checksum=07447ee2-da21-47d7-83f0-0db7793013b2?tr=n-logo_80
+Horse.TV.HD.it,Horse TV HD,https://guidatv.sky.it/logo/5290horsetvhd_Light_Fit.png?checksum=ea332b454a1f1651548d847506cc7b47?tr=n-logo_80
+BIKE.it,BIKE,
+ACI.Sport.Tv.it,ACI Sport Tv,https://guidatv.sky.it/logo/445sporttv_Light_Fit.png?tr=n-logo_80
+Milan.TV.it,Milan TV,https://guidatv.sky.it/logo/261milantv_Light_Fit.png?checksum=b78acf3bc981bb6d87c595b24540e7dc?tr=n-logo_80
+Inter.TV.it,Inter TV,https://guidatv.sky.it/logo/487intertv_Light_Fit.png?checksum=3e72d3b0f67c78debf143812729c442d?tr=n-logo_80
+CACCIA.e.Pesca.it,CACCIA e Pesca,https://guidatv.sky.it/logo/344cacciaepesca_Light_Fit.png?checksum=26abc2dcd1a555b19172485e63873fa0?tr=n-logo_80
+Caccia.e.PESCA.it,Caccia e PESCA,https://guidatv.sky.it/logo/350cacciaepesca_Light_Fit.png?checksum=2c27f7a1c4dbecd7801362884f16078d?tr=n-logo_80
+Discovery.+1.it,Discovery +1,
+History.it,History,https://guidatv.sky.it/logo/513history_Light_Fit.png?checksum=49ccc5de-9b3e-4cad-86f5-0960f921c901?tr=n-logo_80
+History.+1.it,History +1,
+QVC.it,QVC,
+Fashion.TV.it,Fashion TV,
+VALUE.24.TV.it,VALUE 24 TV,
+Sky.TG24.it,Sky TG24,https://guidatv.sky.it/logo/521skytg24_Light_Fit.png?checksum=da35dbfe-8079-4ba1-adcb-fa9e2cfe3392?tr=n-logo_80
+Sky.Meteo24.it,Sky Meteo24,
+TG24PrimoPiano.it,TG24PrimoPiano,
+Class.CNBC.it,Class CNBC,https://guidatv.sky.it/logo/433classcnbc_Light_Fit.png?checksum=5d79825c-e37a-4e81-8e9a-69ea5593279e?tr=n-logo_80
+TG.NORBA.24.it,TG NORBA 24,
+Emilia.Romagna.24.it,Emilia Romagna 24,
+TRM.h24.it,TRM h24,https://guidatv.sky.it/logo/5421trmh24_Light_Fit.png?checksum=550c404365a3b09ee9d2cb21d22ab992?tr=n-logo_80
+San.Marino.RTV.it,San Marino RTV,https://guidatv.sky.it/logo/5407sanmarinortv_Light_Fit.png?checksum=b427cf09-e93d-4aa9-aea3-1f5ce6a5cade?tr=n-logo_80
+Euronews.it,Euronews,https://guidatv.sky.it/logo/801euronews_Light_Fit.png?checksum=277e1027b916e49f4f386e93321cf63c?tr=n-logo_80
+Sky.News.it,Sky News,https://guidatv.sky.it/logo/108skynews_Light_Fit.png?checksum=7aed4b47-0ec3-443a-9bfd-df84af1ad880?tr=n-logo_80
+Fox.News.it,Fox News,https://guidatv.sky.it/logo/103foxnews_Light_Fit.png?tr=n-logo_80
+CNN.Intl..it,CNN Intl.,https://guidatv.sky.it/logo/211cnnintl_Light_Fit.png?checksum=9b32c1b66584bbd6a1e1ff740832e9b0?tr=n-logo_80
+Fox.Business.it,Fox Business,https://guidatv.sky.it/logo/544foxbusiness_Light_Fit.png?checksum=a5000f5a853556b4ec8fa81ba8ebc49d?tr=n-logo_80
+CNBC.HD.it,CNBC HD,https://guidatv.sky.it/logo/245cnbchd_Light_Fit.png?checksum=69f69b25-6dac-411c-9061-38a6aa95111e?tr=n-logo_80
+Bloomberg.it,Bloomberg,https://guidatv.sky.it/logo/5256bloomberg_Light_Fit.png?checksum=4dac5d207fbd2d8c7ceb88b478de2a58?tr=n-logo_80
+BBC.World.News.it,BBC World News,
+France.24.English.HD.it,France 24 English HD,https://guidatv.sky.it/logo/5296france24englishhd_Light_Fit.png?checksum=19a1afb854c82083a56fa52df0314262?tr=n-logo_80
+Al.Jazeera.Intl..HD.it,Al Jazeera Intl. HD,https://guidatv.sky.it/logo/5113aljazeeraintlhd_Light_Fit.png?checksum=ed7559f4b200ba2a8c6e0e1980db9e1e?tr=n-logo_80
+NHK.World.TV.HD.it,NHK World TV HD,https://guidatv.sky.it/logo/5297nhkworldtvhd_Light_Fit.png?checksum=8fee1659-d5d6-438e-b1d5-2500d47d7966?tr=n-logo_80
+France.24.Francais.HD.it,France 24 Francais HD,https://guidatv.sky.it/logo/5119france24francaishd_Light_Fit.png?checksum=4c392aa5ac1031cf85fac4cf4b221a50?tr=n-logo_80
+DeAKids.it,DeAKids,https://guidatv.sky.it/logo/460deakids_Light_Fit.png?checksum=f2a1c5a2-1292-4b7e-b5bc-cfe2f12fc97f?tr=n-logo_80
+DeAKids.+1.it,DeAKids +1,
+Nick.Jr.it,Nick Jr,https://guidatv.sky.it/logo/424nickjr_Light_Fit.png?checksum=888d7b93d39b68714e414336cdb7ebd5?tr=n-logo_80
+Nick.Jr..+1.it,Nick Jr. +1,
+Nickelodeon.it,Nickelodeon,https://guidatv.sky.it/logo/320nickelodeon_Light_Fit.png?checksum=b3341710a4c547732edfcd2773b3be9b?tr=n-logo_80
+Nickelodeon.+1.it,Nickelodeon +1,
+Cartoon.Network.it,Cartoon Network,https://guidatv.sky.it/logo/258cartoonnetwork_Light_Fit.png?checksum=1e2be2fd-68f5-4979-8a3f-3eaaf144c2c8?tr=n-logo_80
+CN.Lego.days.it,CN Lego days,
+Boomerang.it,Boomerang,https://guidatv.sky.it/logo/367boomerang_Light_Fit.png?checksum=0671910302f4ecae3e6359bf65b54dfe?tr=n-logo_80
+Boomerang.+1.it,Boomerang +1,
+DeAJunior.it,DeAJunior,https://guidatv.sky.it/logo/313deajunior_Light_Fit.png?checksum=e4d97f25-ee48-4b68-be28-434bc11b2ca6?tr=n-logo_80
+Deejay.TV.it,Deejay TV,https://guidatv.sky.it/logo/304deejaytv_Light_Fit.png?checksum=11b1a939093a39a925ebb98ed7b44990?tr=n-logo_80
+Radio.Italia.TV.HD.it,Radio Italia TV HD,https://guidatv.sky.it/logo/5454radioitaliatvhd_Light_Fit.png?checksum=9cc02777-f1a0-44f1-a432-a1de036be5b7?tr=n-logo_80
+Radio.Italia.Trend.Tv.HD.it,Radio Italia Trend Tv HD,https://guidatv.sky.it/logo/5438radioitalialive_Light_Fit.png?tr=n-logo_80
+RADIONORBA.TV.it,RADIONORBA TV,https://guidatv.sky.it/logo/5430radionorbatv_Light_Fit.png?checksum=c7f071b6f964bd33edf77eccdffa06b6?tr=n-logo_80
+RTL.102.5.HD.it,RTL 102.5 HD,https://guidatv.sky.it/logo/812rtl1025hd_Light_Fit.png?checksum=abbc96b26d53d6eadc8fc7d148e7c3d7?tr=n-logo_80
+RADIOFRECCIA.HD.it,RADIOFRECCIA HD,https://guidatv.sky.it/logo/5465radiofrecciahd_Light_Fit.png?checksum=a2e0135c4b8958cb151b619397abb6a0?tr=n-logo_80
+LA7.HD.it,LA7 HD,https://guidatv.sky.it/logo/407la7hd_Light_Fit.png?checksum=d9bcc8bf-703c-4d33-823d-5171697fe8a5?tr=n-logo_80
+LA7D.it,LA7D,https://guidatv.sky.it/logo/9024la7cinema_Light_Fit.png?tr=n-logo_80
+LA7.CINEMA.it,LA7 CINEMA,https://guidatv.sky.it/logo/9024la7cinema_Light_Fit.png?tr=n-logo_80
+Top.Crime.it,Top Crime,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/topcrime.png
+TGCom.it,TGCom,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/tgcom.png
+Rete.4.it,Rete 4,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/r4.png
+Mediaset.Extra.it,Mediaset Extra,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/extra.png
+La.5.it,La 5,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/la5.png
+Italia.2.it,Italia 2,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/i2.png
+Italia.1.it,Italia 1,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/i1.png
+Iris.it,Iris,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/iris.png
+Canale.5.it,Canale 5,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/c5.png
+27.Twentyseven.it,27 Twentyseven,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/ts.png
+Mediaset.Italia.-.Europa.e.Africa.it,Mediaset Italia - Europa e Africa,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/my.png
+Mediaset.Italia.-.America.it,Mediaset Italia - America,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/mw.png
+Mediaset.Italia.-.Australia.e.Asia.it,Mediaset Italia - Australia e Asia,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/mg.png
+Radio.105.it,Radio 105,
+Cine34.it,Cine34,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/b6.png
+RMC.it,RMC,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/bb.png
+GF.VIP.-.Un’ora.fa.it,GF VIP - Un’ora fa,
+GF.VIP.-.Regia.2.it,GF VIP - Regia 2,
+GF.VIP.-.Regia.1.it,GF VIP - Regia 1,
+R101tv.it,R101tv,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/er.png
+Cartoonito.it,Cartoonito,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/la.png
+Boing.it,Boing,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/kb.png
+Virgin.Radio.it,Virgin Radio,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/ew.png
+Focus.it,Focus,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/focus.png
+20.it,20,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/20.png
+Rai.1.HD..101.it,Rai 1 HD  101,https://guidatv.sky.it/logo/899rai1hd_Light_Fit.png?checksum=a6521fec-8ea7-4c06-a333-0bd5a8a9cb44?tr=n-logo_80
+Rai.2.HD..102.it,Rai 2 HD  102,https://guidatv.sky.it/logo/898rai2hd_Light_Fit.png?checksum=625b50f4-7f5c-4479-8166-5d5986760a34?tr=n-logo_80
+Rai.3.HD..103.it,Rai 3 HD  103,https://guidatv.sky.it/logo/897rai3hd_Light_Fit.png?checksum=09ac6562-d139-4eef-a388-9f06e5368b3c?tr=n-logo_80
+Rai.4..5021.it,Rai 4  5021,https://guidatv.sky.it/logo/9008rai4_Light_Fit.png?checksum=5bc88a8061538ed670efd52b23713714?tr=n-logo_80
+Rai.5..5023.it,Rai 5  5023,https://guidatv.sky.it/logo/9019rai5_Light_Fit.png?checksum=50ad2f3fa2824c6892a9034b74fdf481?tr=n-logo_80
+Rai.Movie..5024.it,Rai Movie  5024,https://guidatv.sky.it/logo/9018raimovie_Light_Fit.png?checksum=92238f13a601f8cf0aa1d45e85117ae3?tr=n-logo_80
+Rai.Premium..5025.it,Rai Premium  5025,https://guidatv.sky.it/logo/9020raipremium_Light_Fit.png?checksum=4c57604572943859fa1e63b7151f2f5c?tr=n-logo_80
+Rai.Storia..5054.it,Rai Storia  5054,https://guidatv.sky.it/logo/9037raistoria_Light_Fit.png?checksum=50d4cf25b8eb9ee506f245a1a231b02e?tr=n-logo_80
+Rai.Gulp..5042.it,Rai Gulp  5042,https://guidatv.sky.it/logo/9038raigulp_Light_Fit.png?checksum=f8c15ab686a53bd2bee7668cf2afcb49?tr=n-logo_80
+Rai.Yoyo..5043.it,Rai Yoyo  5043,https://guidatv.sky.it/logo/9016raiyoyo_Light_Fit.png?checksum=94bea23198794542bed166fbf6fa2590?tr=n-logo_80
+RAI.Sport...227.it,RAI Sport   227,https://guidatv.sky.it/logo/807raisport_Light_Fit.png?tr=n-logo_80
+Rai.News.24..508.it,Rai News 24  508,https://guidatv.sky.it/logo/895rainews24_Light_Fit.png?checksum=86f8436980494b1ff2dfe36d5437e601?tr=n-logo_80
+Rai1.it,Rai1,
+Rai2.it,Rai2,
+Rai3.it,Rai3,
+Rai4.it,Rai4,
+Rai5.it,Rai5,
+RaiMovie.it,RaiMovie,
+RaiPremium.it,RaiPremium,
+RaiGulp.it,RaiGulp,
+RaiYoyo.it,RaiYoyo,
+RaiStoria.it,RaiStoria,
+RaiScuola.it,RaiScuola,
+RaiNews24.it,RaiNews24,
+RaiSport.it,RaiSport,
+RaiRadio2.it,RaiRadio2,
+NOVE.HD..149.it,NOVE HD  149,
+Real.Time.HD..160.it,Real Time HD  160,https://s3.eu-west-1.amazonaws.com/loma-media-it/realtime-image-478eeded-06d7-40b4-95da-6159158f774f.jpg
+GIALLO.HD..167.it,GIALLO HD  167,
+TOPcrime.HD..168.it,TOPcrime HD  168,https://guidatv.sky.it/logo/5445topcrimehd_Light_Fit.png?checksum=edd63a3f-b86f-4e86-bc9d-046db071416a?tr=n-logo_80
+DMAX.HD..170.it,DMAX HD  170,https://s3.eu-west-1.amazonaws.com/loma-media-it/dmax-image-6caff319-410d-4a8d-b4d1-4eef4d34ee6a.png
+Food.Network.HD..417.it,Food Network HD  417,https://s3.eu-west-1.amazonaws.com/loma-media-it/foodnetwork-image-656afb80-8eb1-455f-b3db-386928393c3b.png
+HGTV.HD..418.it,HGTV HD  418,https://s3.eu-west-1.amazonaws.com/loma-media-it/hgtv-image-c6085fc6-e92f-43ba-b533-b540af9ec457.jpg
+Motor.Trend.HD..419.it,Motor Trend HD  419,https://s3.eu-west-1.amazonaws.com/loma-media-it/motortrend-it-image-e06c95eb-15aa-4bc9-a91e-3736ec7d6612.png
+Warner.TV.it,Warner TV,https://s3.eu-west-1.amazonaws.com/loma-media-it/warnertvit-image-ad904cbb-b41c-477e-8302-1eec6933bf6a.png
+Nove.it,Nove,https://s3.eu-west-1.amazonaws.com/loma-media-it/nove-image-cd3bbd59-377e-479d-8abf-49b82f21f527.jpg
+DMAX.it,DMAX,
+Giallo.TV.it,Giallo TV,https://s3.eu-west-1.amazonaws.com/loma-media-it/giallo-image-12834c8c-1d28-4def-ac91-e86d0d3a16b5.png
+Real.Time.it,Real Time,
+HGTV.it,HGTV,
+Food.Network.it,Food Network,
+Motor.Trend.it,Motor Trend,
+Discovery.Channel.it,Discovery Channel,https://www.tivu.tv/_common/images/loghi_epg/logo_15212.png
+Solocalcio.it.it,Solocalcio,https://www.tivu.tv/_common/images/loghi_epg/logo_4996.png
+DAZN.1.it.it,DAZN 1,https://guidatv.sky.it/logo/566dazn1_Light_Fit.png?checksum=c755def2-ca8b-4941-a87c-345487727272?tr=n-logo_80
+DAZN.2.it.it,DAZN 2,https://guidatv.sky.it/logo/535dazn2_Light_Fit.png?checksum=af9c8e0f-77ec-4da7-913c-af23e2519823?tr=n-logo_80
+Eurosport.Italia.it,Eurosport Italia,https://d204lf4nuskf6u.cloudfront.net/italy-images/8343236da6c44edffaa0eadab4db5191.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV9335mzzLd1qjPF5ZtPr%2FpynYfyi8eU%2BISJWSQ%2Bv9lxKlw%3D%3D
+Eurosport.2.Italia.it,Eurosport 2 Italia,https://d204lf4nuskf6u.cloudfront.net/italy-images/bdc123c2e9e52128b2783e43737e338a.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90UcGISh2j0btl%2F5FhYcGk22%2FWSUJb%2B1RhwAXIY7xu%2Ftg%3D%3D
+K2.it,K2,https://d204lf4nuskf6u.cloudfront.net/italy-images/86e27ea0bcf3fab878541853a720fe1f.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90Ycz1UNs1q7kq7e1epwh%2F63UA56jfEAG2BZYPdbq6ucQ%3D%3D
+Frisbee.it,Frisbee,https://d204lf4nuskf6u.cloudfront.net/italy-images/d4dd0eaf9407c46b093279f96ca8c3db.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV93PuO81gqESNrk60xp%2F29E8
+Sky.Sport.24.it,Sky Sport 24,https://iptvx.one/picons/sky-sport24-it.png
+Super!.it,Super!,https://guidatv.sky.it/logo/421super_Light_Fit.png?checksum=306fe7e2-fe34-43a1-9fd5-5967814574eb?tr=n-logo_80
