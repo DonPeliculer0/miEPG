@@ -940,7 +940,7 @@ DAZN Serie A 6,DAZN Serie A 6
 ,NBA League Pass | Houston Rockets
 ,NBA League Pass | Memphis Grizzlies
 ,NBA League Pass | New Orleans Pelicans
-6a6a02ae3ee9d966427e62c4,NFL Channel
+6a6a02ae3ee9d966427e62c4,NFL Network (DAZN)
 ,DAZN NFL | Eventos 1
 ,DAZN NFL | Eventos 2
 ,DAZN NFL | Eventos 3
