@@ -140,7 +140,7 @@ Vinx.TV,Vinx.TV
 ,ETB Deportes
 Esport3 Catalunya,Esport3 Catalunya
 Top Barça,Top Barça
-,La Liga Inside
+LALIGA.Inside.es,La Liga Inside
 65ea8b928145cb0008509426,UEFA Champions League
 FIFA+,FIFA+
 ,ITSF TV
@@ -622,7 +622,8 @@ RTVE_En_Play.TV,RTVE_En_Play.TV
 RTVE_PopUp.TV,RTVE_PopUp.TV,
 RTVE_PopUp2.TV,RTVE_PopUp2.TV
 RNE.TV,RNE.TV
-,A3Series Internacional
+Atreseries Internacional,Atreseries Internacional
+Antena 3 Internacional,Antena 3 Internacional
 Flooxer,Flooxer
 El club de la comedia,El club de la comedia
 El Hormiguero,El Hormiguero
@@ -742,20 +743,20 @@ DE | Sky Sport Golf,DE | Sky Sport Golf
 ,Sky Sport 9 🇩🇪
 ,Sky Sport 10 🇩🇪
 Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1 HD
-,Eurosport 1 🇮🇹
-,Eurosport 2 🇮🇹
-,Rai Sport 🇮🇹
-,Sky Sport 24 FHD 🇮🇹
-,Sky Sport Uno FHD 🇮🇹
-,Sky Sport Arena FHD 🇮🇹
-,Sky Sport Max FHD 🇮🇹
-,Sky Sport Mix FHD 🇮🇹
-,Sky Sport Calcio FHD 🇮🇹
-,Sky Sport F1 FHD 🇮🇹
-,Sky Sport MotoGP FHD 🇮🇹
-,Sky Sport Basket FHD 🇮🇹
-,Sky Sport Tennis FHD 🇮🇹
-,Sky Sport Legend FHD 🇮🇹
+Eurosport.Italia.it,Eurosport Italia
+Eurosport.2.Italia.it,Eurosport 2 Italia
+RAI.Sport...227.it,RAI Sport   227
+Sky.Sport.24.it,Sky Sport 24
+Sky.Sport.Uno.it,Sky Sport Uno
+Sky.Sport.Arena.it,Sky Sport Arena
+Sky.Sport.Max.it,Sky Sport Max
+Sky.Sport.Mix.it,Sky Sport Mix
+Sky.Sport.Calcio.it,Sky Sport Calcio
+Sky.Sport.F1.it,Sky Sport F1
+Sky.Sport.MotoGP.it,Sky Sport MotoGP
+Sky.Sport.NBA.it,Sky Sport NBA
+Sky.Sport.Tennis.it,Sky Sport Tennis
+Sky.Sport.Legend.it,Sky Sport Legend
 ,beIN Sports News 🇸🇦
 ,beIN Sports 1 🇸🇦
 ,beIN Sports 2 🇸🇦
