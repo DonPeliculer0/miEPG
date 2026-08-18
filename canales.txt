@@ -1,3 +1,955 @@
-5f28009b150b2500077766b8,Vaya semanita
-6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas
+La 1 HD,La 1 HD
+La 2,La 2
+Antena 3 HD,Antena 3 HD
+Cuatro HD,Cuatro HD
+Telecinco HD,Telecinco HD
+La Sexta HD,La Sexta HD
+La 7 CyL,La 7 CyL
+La 8 Valladolid,La 8 Valladolid
+24 Horas,24 Horas
+Ten,Ten
+DMAX,DMAX
+DKISS,DKISS
+TR3CE,TR3CE
+Veo7,Veo7
+Squirrel TV,Squirrel TV
+Squirrel 2,Squirrel 2
+Be Mad,Be Mad
+Mega,Mega
+Energy,Energy
+Atreseries,Atreseries
+Neox,Neox
+Factoría de Ficción,Factoría de Ficción
+Divinity,Divinity
+Nova,Nova
+Teledeporte,Teledeporte
+Real Madrid TV,Real Madrid TV
+Clan,Clan
+Boing,Boing
+Movistar Plus HD,Movistar Plus HD
+M+ Cero,M+ Cero
+M+ Originales HD,M+ Originales HD
+M+ Documentales HD,M+ Documentales HD
+BBC Food,BBC Food
+Canal Cocina,Canal Cocina
+AMC Living,AMC Living
+MTV España,MTV España
+BBC Lifestyle,BBC Lifestyle
+BBC Earth,BBC Earth
+BBC History,BBC History
+Historia,Historia
+Discovery,Discovery
+SELEKT,SELEKT
+AMC Break,AMC Break
+AMC Break,AMC Break
+AMC Crime,AMC Crime
+BBC Top Gear,BBC Top Gear
+Odisea,Odisea
+National Geographic HD,National Geographic HD
+Nat Geo Wild HD,Nat Geo Wild HD
+Caza y Pesca HD,Caza y Pesca HD
+Iberalia TV,Iberalia TV
+Iberalia caza,Iberalia caza
+Iberalia pesca,Iberalia pesca
+Cazavisión,Cazavisión
+Onetoro,Onetoro
+Torolé TV,Torolé TV
+M+ Estrenos HD,M+ Estrenos HD
+M+ Hits HD,M+ Hits HD
+M+ Indie HD,M+ Indie HD
+M+ Comedia HD,M+ Comedia HD
+M+ Acción HD,M+ Acción HD
+M+ Drama HD,M+ Drama HD
+M+ Clásicos HD,M+ Clásicos HD
+M+ Cine Español,M+ Cine Español
+M+ PopUp,M+ PopUp
+M+ PopUp 2,M+ PopUp 2
+Somos,Somos
+Canal FlixOlé 1,FlixOlé 1
+Canal FlixOlé 2,FlixOlé 2
+Canal Hollywood HD,Canal Hollywood HD
+TCM HD,TCM HD
+AMC HD,AMC HD
+AMC Western,AMC Western
+Sundance TV,Sundance TV
+AXN HD,AXN HD
+AXN Movies HD,AXN Movies HD
+XTRM,XTRM
+DARK,DARK
+Dark Rojo,Dark Rojo
+Calle 13 HD,Calle 13 HD
+Warner TV HD,Warner TV HD
+STAR Channel HD,STAR Channel HD
+SyFy HD,SyFy HD
+SkyShowtime,SkyShowtime
+HBO Max Avances,HBO Max Avances
+Cosmo HD,Cosmo HD
+Comedy Central HD,Comedy Central
+VinTV,VinTV
+BBC Series,BBC Series
+MULTIDEPORTE,MULTIDEPORTE
+M+ Vamos HD,M+ Vamos HD
+M+ Vamos 2,M+ Vamos 2
+M+ Vamos 3,M+ Vamos 3
+M+ LaLiga HD,M+ LaLiga HD
+M+ LaLiga 2 HD,M+ LaLiga 2 HD
+M+ LaLiga 3 HD,M+ LaLiga 3 HD
+M+ LaLiga 4,M+ LaLiga 4
+DAZN LaLiga HD,DAZN LaLiga HD
+DAZN LaLiga 2 HD,DAZN LaLiga 2 HD
+LaLiga TV BAR HD,LaLiga TV BAR HD
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion HD
+LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
+LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
+Primera Federación,Primera Federación
+M+ Copa del Rey,M+ Copa del Rey
+M+ Supercopa,M+ Supercopa
+M+ Liga de Campeones HD,M+ Liga de Campeones HD
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2 HD
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3 HD
+M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+ Liga de Campeones 5,M+ Liga de Campeones 5
+M+ Liga de Campeones 6,M+ Liga de Campeones 6
+M+ Liga de Campeones 7,M+ Liga de Campeones 7
+M+ Liga de Campeones 8,M+ Liga de Campeones 8
+M+ Deportes HD,M+ Deportes HD
+M+ Deportes 2 HD,M+ Deportes 2 HD
+M+ Deportes 3,M+ Deportes 3
+M+ Deportes 4,M+ Deportes 4
+M+ Deportes 5,M+ Deportes 5
+M+ Deportes 6,M+ Deportes 6
+M+ Deportes 7,M+ Deportes 7
+M+ Golf HD,M+ Golf HD
+M+ Golf 2 HD,M+ Golf 2 HD
+DAZN 1 HD,DAZN 1 HD
+DAZN 2 HD,DAZN 2 HD
+DAZN 3 HD,DAZN 3
+DAZN 4 HD,DAZN 4
+DAZN Baloncesto,DAZN Baloncesto
+DAZN Baloncesto 2,DAZN Baloncesto 2
+DAZN Baloncesto 3,DAZN Baloncesto 3
+DAZN MotoGP,DAZN MotoGP
+DAZN F1 HD,DAZN F1 HD
+Eurosport 1 HD,Eurosport 1 HD
+Eurosport 2,Eurosport 2
+GOL,GOL
+UBEAT,UBEAT
+Aragón_Deporte1.TV,Aragón_Deporte1.TV
+Aragón_Deporte2.TV,Aragón_Deporte2.TV 
+Vinx.TV,Vinx.TV
+,ETB Deportes
+Esport3 Catalunya,Esport3 Catalunya
+Top Barça,Top Barça
+,La Liga Inside
+65ea8b928145cb0008509426,UEFA Champions League
+FIFA+,FIFA+
+,ITSF TV
+Futsalmafer.tv,FSM TV
+,Olympic Channel
+643054b1fc3be59477853717-6334a8e48a7b2a349d903b8c,Billiard TV
+Tennis Channel,Tennis Channel
+MyPadel TV,MyPadel TV
+Moto ADV,Moto ADV
+DBike,DBike
+DE | Rally TV,DE | Rally TV
+65c347ae3a116800078c93c5,Monster Jam
+Garage TV,Garage TV
+Surf Channel,Surf Channel
+Red Bull TV,Red Bull TV
+,WWE USA
+643054b1fc3be59477853717-5fd115bdb7ef8d002dcf1820,Hard Knocks
+643054b1fc3be59477853717-644b13a3a1c0a5b2024c8403-es,Strongman Champions
+NFL Network (DAZN),NFL Network
+,NHL Network
+,Hoop TV
+NBA TV,NBA TV
+,Los Angeles Lakers
+,New York Knicks
+,LaLiga HighLights
+,LaLiga Replay 1 
+,LaLiga Replay 2
+,LaLiga Replay 3
+,LaLiga Replay 4
+,LaLiga Replay 5
+,LaLiga Replay 6
+,LaLiga Replay 7
+,LaLiga Replay 8
+,LaLiga Replay 9
+,LaLiga Replay 10
+,Replay Hypermotion
+,Replay Hypermotion 1
+,Replay Hypermotion 2
+,Replay Hypermotion 3
+,Replay Hypermotion 4
+,Replay Hypermotion 5
+,Replay Hypermotion 6
+,Replay Hypermotion 7
+,Replay Hypermotion 8
+,Replay Hypermotion 9
+,Replay Hypermotion 10
+,Replay Hypermotion 11
+,+24 (1)
+,+24 (2)
+,+24 (3)
+,+24 (4)
+3CatInfo Catalunya,3CatInfo Catalunya
+67517fae5534bb0008187997,Actualidad 360
+EbS.be,EbS Live
+EbSPlus.be,EbS+ Live
+,Canal Parlamento
+,Canal Sur Mas Noticias
+643054b1fc3be59477853717-60089d97f682a3002c34829d,Euronews Español
+EuroNews,Euronews
+France 24 (en Francais),France 24
+,France 24 Español
+ES1300001QC,DW
+,RT Español
+,Univision+ 24/7
+,Rai News 24
+,SIC Noticias
+,CNN Portugal
+ES34000039I,CNN en Español
+66c45c0de7f5e80008b82005,CNN Headlines International
+CNN International Europe,CNN International
+BBC World News Europe HD,BBC World News
+Sky News International,Sky News International
+643054b1fc3be59477853717-5eea71d65252710041e0ccbc,The Reuters 60
+,ABC News
+6231ede1be5b460007f91bc1,CBS News 24/7
+,FOX News
+FoxBusinessNetwork.us@SD,FOX Business
+643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335,Newsmax2
+,Global News National
+CNBC Europe HD,CNBC
+Bloomberg TV Europe,Bloomberg
+643054b1fc3be59477853717-5f170f01b898490041b49dd1,Yahoo Finance
+,Globo News
+,TRT World
+Al Jazeera English HD,Al Jazeera News
+,CGTN News
+Sol Música,Sol Música
+HITTV.es,Hit TV
+,Cadena Elite
+ActivaTV.es,ActivaTV
+,Verbena TV
+ES32000027M,CLIPS don't lie
+6686796619311200085310a0,MTV Flow Latino
+5d14fdb8ca91eedee1633117,MTV Spankin' New
+65410176770cf1000866bf31,MTV Biggest Pop
+MTVLive.us@SD,MTV Live
+MTV Classic,MTV Classic
+TRACE Urban,Trace Urban
+TRACE Latina,Trace Latina
+XITEHits.nl@NL,XITE Hits
+XITENuevoLatino.us@SD,XITE Nuevo Latino
+XITESiempreLatino.us@SD,XITE Siempre Latino
+,XITE Celebrates
+,XITE 80s Flashback
+XITE90sThrowback.us@SD,XITE 90's Throwback
+ESBC2100002LV,Vevo Latino
+ESBD230000289,Vevo Retro
+ESBC2100001IU,Vevo Pop
+,Vevo 70s
+,Vevo 80s
+,Vevo 90s
+,That's 70s
+,That's 80s
+,That's 90s 00s 
+GB300032DX,Now 70s
+GBBC900003B2,Now 80s
+GB300033HI,Now 90s 00s
+6076cd1df8576d0007c82193,VH1 Classics
+,Ocko Star
+,Retro Music TV
+,Retro Plus TV 
+,All Flamenco
+TheCountryNetwork.us@SD,The Country Network
+DJazz,DJazz
+samsung-ESBA1500001C4,Deluxe Lounge
+643054b1fc3be59477853717-62fbf197c67d52bddf74cc87,Movie Music by Stingray
+Stingray Classica,Stingray Classica
+Mezzo,Mezzo
+Mezzo Live HD,Mezzo Live
+643054b1fc3be59477853717-62d7f6904d0067dd4d60d0de,Stingray Karaoke
+Disney Channel,Disney Channel
+Baby TV,Baby TV
+Nickelodeon HD,Nickelodeon HD
+Nick JR,Nick JR
+Dreamworks HD,DreamWorks HD
+Kidz,Kidz
+Telemadrid,Telemadrid
+La Otra,La Otra
+Canal Sur HD,Canal Sur HD
+,Canal Sur 2
+Canal Sur Andalucía,Canal Sur Andalucía
+Andalucía TV,Andalucia Television
+,Canal Andalucia Turismo
+,Canal Andalucia Cocina
+,Canal Sur Mas Noticias
+CMM TV,CMM
+Aragón TV,Aragón TV
+La 7 Murcia,La7 Murcia
+Canal Extremadura,Canal Extremadura
+TPA7 Asturias,TPA7 Asturias
+TPA8 Asturias,TPA8 Asturias
+TV Canaria,Television Canaria
+IB3 TV Illes Balears,IB3
+TVG,TVG
+TVG2,TVG 2
+TVG Europa HD,Galicia TV
+À Punt,A punt
+TV3 Catalunya,TV3 Catalunya
+,TV3 El Temps
+,Euskadi Meteo
+etb1,etb1
+etb1ON,etb1ON
+etb2,etb2
+etb2ON,etb2ON
+La 8 Ávila,La 8 Ávila
+La 8 Bierzo,La 8 Bierzo
+La 8 Burgos,La 8 Burgos
+La 8 León,La 8 León
+La 8 Palencia,La 8 Palencia
+La 8 Salamanca,La 8 Salamanca
+La 8 Segovia,La 8 Segovia
+La 8 Soria,La 8 Soria
+La 8 Zamora,La 8 Zamora
+,Junta de Castilla y Leon 
+,Cortes Castilla y Leon | Hemiciclo
+,Cortes Castilla y Leon | Sala Campos de Castilla
+,Cortes Castilla y Leon | Sala Cortes de Leon
+,Cortes Castilla y Leon | Sala Castillo de Fuensaldana
+El Toro TV,ElToro TV
+Negocios TV,Negocios TV
+ElPais.TV,ElPais.TV
+ElConfidencial.TV,ElConfidencial.TV
+,The Guardian
+CGTN Español,CGTN Español
+ES26000025M,¡Hola! Play
+,¡Hola! TV
+,Crafty Panda
+643054b1fc3be59477853717-6365779dde08f8eec6c3f21f,CraftsyTV (????)
+ESBC3500002PW,Ideas en 5 Minutos #(Pluto TV)
+643054b1fc3be59477853717-64a355697d24564fba37bab8,Ideas En 5 Minutos #(Plex)
+,Pluto TV Hogar
+64db2e0835425100080f2f5a,Pluto TV Diseño
 690dd10a37b131228d76d5b1,El Mueble
+Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV)
+Love the Planet,Love the Planet
+643054b1fc3be59477853717-61e9d9979da6ee6e05278269,Wellbeing TV
+,Armonia Teve Sana
+,FitDance 
+643054b1fc3be59477853717-6490c01f3b3ce9e1aaad95be,FashionTV
+ES42000022E,Xataka
+643054b1fc3be59477853717-67642f277c5e3b38af72dcdb,Cirque du Soleil
+,Pluto TV Viajes
+,Dviaje FHD
+622f42b831233300078658cc,Ciudadanos por el mundo
+Escapa TV,Escapa TV
+,Travelxp
+60dd6b1da79e4d0007309455,Nature Time
+643054b1fc3be59477853717-5f0ff266d71dcb00449ec030,WeatherSpy
+,Drone TV
+69b3db5d61e8e298254c7108,Space Live
+,NASA TV
+,NASA TV ISS Live
+61cd7b49543066000713b620,Pluto TV Historia
+Historia y Vida,Historia y Vida
+64ddcbb14c5ed80008fad416,Crimen &amp; Historia
+Sangre Fría,Sangre Fría
+,Tuning
+Motorvision,Motorvision
+,Kaloopy
+61922be835f3910007fc58f6,En el punto de mira
+,Sin filtros
+,Oficios perdidos
+5f1abce155a03d0007718834,Pluto TV Comedia made in Spain
+604f8125c6669b00077f7699,Wipeout
+5f28009b150b2500077766b8,Vaya semanita #(Pluto TV)
+Vivir con gatos,Vivir con gatos
+Vivir con perros,Vivir con perros
+,Cats 24/7
+,Dogs 24/7
+,Curiosity Animales
+ESAJ4500016BH,The Pet Collective
+ESBC2700008SK,Just For Laughs
+643054b1fc3be59477853717-64704954e536e0faaf10be9f,Just For Laughs Gags
+,Always Funny en español
+5f1abf5fafb5ee0007d4d0ca,FailArmy
+ESAJ4500023Y5,People Are Awesome
+Atlántico TV,Atlantico Television
+7TV_Andalucía.TV,7TV_Andalucía.TV
+,101TV Sevilla
+PTV_Sevilla.TV,PTV_Sevilla.TV
+,Canal Doñana
+,Costa Noroeste TV
+,7TV Jerez
+,7TV Jerez
+,7TV Cadiz
+Onda Cádiz TV,Onda Cádiz TV
+ESBC1700004PX,Trailers
+,TVCortos
+68d566603d3a9580eb461251,Paramount Network de Pluto TV
+BOM Cine,BOM Cine
+8madrid TV,8madrid TV
+ES2800001G7,Planeta de Cine
+676e7b4a4bd636000819c6a7,SensaCine TV x Pluto
+acontra+,acontra+
+Atrescine,Atrescine
+Runtime Cine y Series,Runtime Runtime Cine y Series
+Runtime Acción,Runtime Acción
+Runtime Crimen,Runtime Crimen
+Runtime Thriller-Terror,Runtime Thriller-Terror
+Runtime Comedia,Runtime Comedia
+Runtime Romance,Runtime Romance
+RunTime Familia,Runtime Familia
+RunTime Clásicos,Runtime Clásicos
+Pelis Top (Rakuten TV),Pelis Top (Rakuten TV)
+Acción (Rakuten TV),Acción (Rakuten TV)
+Thrillers (Rakuten TV),Thrillers (Rakuten TV)
+Sci-Fi (Rakuten TV),Sci-Fi (Rakuten TV)
+Dramas (Rakuten TV),Dramas (Rakuten TV)
+Comedias (Rakuten TV),Comedias (Rakuten TV)
+Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV)
+En Familia (Rakuten TV),En Familia (Rakuten TV)
+Cine Español (Rakuten TV),Cine Español (Rakuten TV)
+5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar
+5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción
+645a309c5a0cd5000873f609,Pluto TV Catástrofes
+6267d4d1fb694f0007a6af0e,Pluto TV Horror
+65ce480a78df2200131c597b,Pluto TV Psycho
+65786888b228b7000843ad9a,Pluto TV Zombies
+5f6a38eaa5b68b0007a00e7a,Pluto TV Sci-Fi
+5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
+655b5d865812e80008843bd1,Pluto TV Comedias Románticas
+6385e82900ab2e000768a058,Pluto TV Western
+5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
+5f1ac8a87cd38d000745d7cf,Pluto TV Thrillers
+5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
+60cc807324d60a0007708dc8,Pluto TV Cine de autor
+61373bb45168fe000773eecd,Pluto TV Cine Clásico
+,ARTFLIX Clasicos
+Cine Friki,Cine Friki
+Cines Verdi TV,Cines Verdi TV
+Cine Feel Good,Verdi TV Feel Good
+MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV)
+,Movies Central by TV Player
+,Film&Co
+643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi
+,Dark Matter TV
+,Horror Vision
+ESBC2700003T8,Bigtime
+ESBC2700002LO,Grjngo
+Sony One Hits Acción,Sony One Hits Acción
+Sony One Hits Comedia,Sony One Hits Comedia
+Sony One Éxitos,Sony One Éxitos
+Sony One Series Thriller,Sony One Series Thriller
+Sony One Series Comedia,Sony One Series Comedia
+Runtime Series,Runtime Series
+655f62ff954b020008c91ec6,Pluto TV Series criminales
+65ddec1ef7f0af0008be4b65,Pluto TV Series Sci-Fi
+6578808014fbe400086e21bc,Medium
+6304f530440dc90007f514d3,Poirot &amp; Miss Marple
+5f1aca8310a30e00074fab92,Los Asesinatos de Midsomer
+619b9f16b8fee4000832d447,El Detective Endeavour
+683457aebbc703dfd45a89eb,Merlí (Pluto TV)
+,Merlí (Plex)
+676e7b4a4bd636000819c6a7,SensaCine TV x Pluto
+,ARTFLIX Clasicos
+,Charlie
+,Oro TV
+Distrito TV,Distrito TV
+,Univers TV
+La Ocho Mediterráneo,La 8 Mediterraneo
+,Lancelot TV
+Popular TV Región de Murcia,Popular TV Región de Murcia
+Popular TV Cantabria,Popular TV Cantabria
+7teleValencia,7teleValencia
+,Onda Valencia
+Elche 7 TV,Elche 7 TV
+GCM,GCM
+,Punt 3 Vall Uixo
+,Ribera TV
+,Television Aranda 
+Imás TV,Imás TV
+Betevé,Beteve
+,Classic Movies Channel
+,Filmstream 
+,Vin TV
+5de802659167b10009e7deba,Pluto TV Series Retro
+6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas
+63eb95baa99571000898a078,MacGyver
+5f1acd36779de70007a680d1,Curro Jiménez
+,Mr. Bean
+,Misterios sin resolver
+643054b1fc3be59477853717-64d79408e5f67b0fab47ff24,Misterios sin Resolver #(Plex)
+,40 anos da TVG
+,Teleclasica
+,Mi TV Clasica
+,Best Clasicos TV
+,TVS
+,Telesistema
+,Canal 17 TV Nosara
+,19 Telered
+,Evavision Retro
+,RetroX TV
+,RetroX Plus
+,Retro TV Online
+,Canal 5
+,Cucuta Retro TV
+,La Red
+,STV Sarapiqui 
+,Dreiko TV
+,TV Cartago Digital
+,Xtrema Retro Series
+,Xtrema Retro Cartoons
+,Multivox Retro Series
+,Multivox Retro Cartoons
+,The BIG Channel
+,ACS Network TV
+,TV Retro Palmares
+,Latino Classic TV
+,TV Tres
+,Garabito TV
+EnergeekRetro.TV,EnergeekRetro.TV
+,GAM TV
+,FM Super Classic
+,Canal 14 Catorce
+,WOW Movies
+,Canal Family
+,Ciudad Magica
+,Retro Magico
+,Super Kaos TV
+,Gogoplay TV
+,Locomotion
+,Toonami TV
+,Clasicos Animados
+,Retro Toons
+,Cartoon Classics
+,Tigueritos TV
+,TV Charlip
+,Dinosaurios
+,Los Simpsons
+628751bb7154a40007168843,South Park
+,Pink Panther
+680ba8c3a48b3ead0db701cc,Los caballeros del Zodiaco
+,Cuentos de la cripta
+,Tom & Jerry
+68d27949793c71d988ca624c,Los Pitufos
+63c69c87808b740007599fe1,Érase una vez...
+68779a09c691b3f0964127c6,Heidi
+,Marco
+ESBD3200002V5,La Abeja Maya
+61373f1a12dd9f00077dcd6f,Las Tortugas Ninja
+,Retroplus TV 
+,Retroplus TV 2
+,Retroplus TV 3
+Solidaria TV España,Solidaria TV España
+,A bocados
+5f1acdaa8ba90f0007d5e760,Pluto TV Cocina
+,Canal Andalucia Cocina
+,Cocina Familiar 
+,Cocina Mediterranea
+,Fusion
+643054b1fc3be59477853717-65cd316a40ab06259e8168a0,Tastemade en Español
+643054b1fc3be59477853717-5f8746eabd529300418246d9,GUSTOTV
+,El Gourmet
+,Food Network
+,Saborear TV
+643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda,Cooking Panda
+Viajes y Sabores,Viajes y Sabores
+Love Wine,Love Wine
+643054b1fc3be59477853717-68645f7c1a2f321847ec0393,Wineman
+,La 1 (Ottera)
+,La 2 (Ottera)
+,Canal 24h (Ottera)
+,Teledeporte (Ottera)
+,Clan (Ottera)
+,La 1 (TDT Channels)
+,La 2 (TDT Channels)
+,Canal 24h (TDT Channels)
+,Teledeporte (TDT Channels)
+,Clan (TDT Channels)
+,La 1 (TDT Channels)
+,La 2 (TDT Channels)
+,Canal 24h (TDT Channels)
+,Teledeporte (TDT Channels)
+,Clan (TDT Channels)
+,+24
+,+24
+,+24
+,+24
+,Teledeporte
+,tdp 2
+,tdp 3
+,tdp 4
+,tdp play
+,tdp play
+,tdp play
+,tdp play
+,tdp play
+,La 1 (Samsung TV)
+,La 2 (Samsung TV)
+,Canal 24h (Samsung TV)
+,Teledeporte (Samsung TV)
+,Clan (Samsung TV)
+,La 1 UHD
+,La 1 (Subs.) (Web)
+,La 2 (Subs.) (Web)
+,Canal 24h (Subs.) (Web)
+,Teledeporte (Subs.) (Web)
+,Clan (Subs.) (Web)
+,TVE Internacional Europa (Web)
+,TVE Internacional America
+,TVE Internacional Asia Oceania (Web)
+Star TVE HD,Star TVE
+,Star TVE America
+,Aguila Roja (Rakuten TV)
+6812206e1b3e3be031a5c363,Águila Roja #(Pluto TV)
+ES500005BP,Águila Roja #(Samsung TV)
+RTVE_SomosCine.TV,RTVE_SomosCine.TV
+ES33000058B,RTVE Somos Cine #(Samsung TV)
+RTVE_Cuentame.TV,RTVE_Cuentame.TV
+ES400002P5,Cuéntame cómo pasó #(Samsung TV)
+RTVE_Promesa.TV,RTVE_Promesa.TV
+ES33000036Q,RTVE La Moderna #(Samsung TV)
+RTVE_Cocina.TV,RTVE_Cocina.TV
+ES33000079W,RTVE Cocina #(Samsung TV)
+ES3300004P0,RTVE Saber y Ganar #(Samsung TV)
+La Revuelta,La Revuelta
+RTVE_Conciertos_R3.TV,RTVE_Conciertos_R3.TV
+RTVE_En_Play.TV,RTVE_En_Play.TV
+RTVE_PopUp.TV,RTVE_PopUp.TV,
+RTVE_PopUp2.TV,RTVE_PopUp2.TV
+RNE.TV,RNE.TV
+,A3Series Internacional
+Flooxer,Flooxer
+El club de la comedia,El club de la comedia
+El Hormiguero,El Hormiguero
+Equipo de investigación,Equipo de investigación
+Inquietos atresplayer,Inquietos atresplayer
+Multicine atresplayer,Multicine atresplayer
+Clásicos atresplayer,Clásicos atresplayer
+Comedia atresplayer,Comedia atresplayer
+Aquí no hay quién viva,Aquí no hay quién viva
+FoQ,FoQ
+Kidz,Kidz
+,Gran Hermano 24h
+,BBC One
+,BBC Two
+,BBC Three
+,BBC Four
+,BBC Parliament
+,BBC News
+,BBC World News
+,BBC Food
+,BBC Travel
+,BBC Home & Garden
+ES3200001F1,BBC Earth
+,BBC History
+,BBC Earth FHD
+,BBC Food
+,BBC LifeStyle FHD
+,BBC Top Gear
+,BBC Series
+RNE_Radio3.TV,RNE_Radio3.TV
+RNE_Radio4.TV,RNE_Radio4.TV
+RNE_Radio5.TV,RNE_Radio5.TV
+OndaCero.TV,OndaCero.TV
+,Onda Madrid
+PT | Sport TV +,PT | Sport TV +
+PT | Sport TV 1,PT | Sport TV 1
+PT | Sport TV 2,PT | Sport TV 2
+PT | Sport TV 3,PT | Sport TV 3
+PT | Sport TV 4,PT | Sport TV 4
+PT | Sport TV 5,PT | Sport TV 5
+PT | Sport TV 6,PT | Sport TV 6
+PT | Sport TV 7,PT | Sport TV 7
+PT | Eurosport 1 HD,PT | Eurosport 1
+PT | Eurosport 2 HD,PT | Eurosport 2
+FR · beIN SPORTS 1,FR · beIN SPORTS 1
+FR · beIN SPORTS 2,FR · beIN SPORTS 2
+FR · beIN SPORTS 3,FR · beIN SPORTS 3
+FR · beIN SPORTS MAX 4,FR · beIN SPORTS MAX 4
+FR · beIN SPORTS MAX 5,FR · beIN SPORTS MAX 5
+FR · beIN SPORTS MAX 6,FR · beIN SPORTS MAX 6
+FR · beIN SPORTS MAX 7,FR · beIN SPORTS MAX 7
+FR · beIN SPORTS MAX 8,FR · beIN SPORTS MAX 8
+FR · beIN SPORTS MAX 9,FR · beIN SPORTS MAX 9
+FR · beIN SPORTS MAX 10,FR · beIN SPORTS MAX 10
+FR · L’Equipe,FR · L’Equipe
+FR · Infosport+,FR · Infosport+
+FR · CANAL+ Sport,FR · CANAL+ Sport
+FR · CANAL+ Sport 360,FR · CANAL+ Sport 360
+,Canal+ Foot 🇫🇷
+,Canal+ Ligue 1 🇫🇷
+,Canal+ Premier League 🇫🇷
+,Canal+ Formula 1 🇫🇷
+,Canal+ Moto GP 🇫🇷
+,Canal+ Top 14 Rugby 🇫🇷
+FR · Eurosport 1,FR · Eurosport 1
+FR · Eurosport 2,FR · Eurosport 2
+FR · Eurosport 3,FR · Eurosport 3
+FR · Eurosport 4,FR · Eurosport 4
+FR · Eurosport 5,FR · Eurosport 5
+FR · Eurosport 6,FR · Eurosport 6
+FR · Eurosport 7,FR · Eurosport 7
+FR · Eurosport 8,FR · Eurosport 8
+UK | Premier Sports 1,UK | Premier Sports 1
+UK | Premier Sports 2,UK | Premier Sports 2
+UK | TNT Sports 1,UK | TNT Sports 1
+UK | TNT Sports 2,UK | TNT Sports 2
+UK | TNT Sports 3,UK | TNT Sports 3
+UK | TNT Sports 4,UK | TNT Sports 4
+UK | TNT Sports 5,UK | TNT Sports 5
+UK | TNT Sports 6,UK | TNT Sports 6
+UK | TNT Sports 7,UK | TNT Sports 7
+UK | TNT Sports 8,UK | TNT Sports 8
+UK | Sky Sports News,UK | Sky Sports News
+UK | Sky Sports Main Event,UK | Sky Sports Main Event
+UK | Sky Sports +,UK | Sky Sports +
+UK | Sky Sports Mix,UK | Sky Sports Mix
+UK | Sky Sports Football,UK | Sky Sports Football
+UK | Sky Sports Premier League,UK | Sky Sports Premier League
+UK | Sky Sports Action,UK | Sky Sports Action
+UK | Sky Sports F1,UK | Sky Sports F1
+UK | Sky Sports Golf,UK | Sky Sports Golf
+UK | Sky Sports Cricket,UK | Sky Sports Cricket
+UK | Sky Sports Racing,UK | Sky Sports Racing
+DE | More than Sports TV,DE | More than Sports TV
+DE | sport1,DE | sport1
+DE | sport1+,DE | sport1+
+DE | DAZN,DE | DAZN
+DE | DAZN 2,DE | DAZN 2
+DE | Sky Sport News,DE | Sky Sport News
+DE | Sky Sport Top Event,DE | Sky Sport Top Event
+DE | Sky Sport Mix,DE | Sky Sport Mix
+DE | Sky Sport Premier League,DE | Sky Sport Premier League
+DE | Sky Sport F1,DE | Sky Sport F1
+DE | Sky Sport Tennis,DE | Sky Sport Tennis
+DE | Sky Sport Golf,DE | Sky Sport Golf
+,Sky Sport 1 🇩🇪
+,Sky Sport 2 🇩🇪
+,Sky Sport 3 🇩🇪
+,Sky Sport 4 🇩🇪
+,Sky Sport 5 🇩🇪
+,Sky Sport 6 🇩🇪
+,Sky Sport 7 🇩🇪
+,Sky Sport 8 🇩🇪
+,Sky Sport 9 🇩🇪
+,Sky Sport 10 🇩🇪
+,Sky Sport Austria 1 🇦🇹
+,Eurosport 1 🇮🇹
+,Eurosport 2 🇮🇹
+,Rai Sport 🇮🇹
+,Sky Sport 24 FHD 🇮🇹
+,Sky Sport Uno FHD 🇮🇹
+,Sky Sport Arena FHD 🇮🇹
+,Sky Sport Max FHD 🇮🇹
+,Sky Sport Mix FHD 🇮🇹
+,Sky Sport Calcio FHD 🇮🇹
+,Sky Sport F1 FHD 🇮🇹
+,Sky Sport MotoGP FHD 🇮🇹
+,Sky Sport Basket FHD 🇮🇹
+,Sky Sport Tennis FHD 🇮🇹
+,Sky Sport Legend FHD 🇮🇹
+,beIN Sports News 🇸🇦
+,beIN Sports 1 🇸🇦
+,beIN Sports 2 🇸🇦
+,beIN Sports 3 🇸🇦
+,beIN Sports 4 🇸🇦
+,beIN Sports 5 🇸🇦
+,beIN Sports 6 🇸🇦
+,beIN Sports 7 🇸🇦
+,beIN Sports 8 🇸🇦
+,beIN Sports 9 🇸🇦
+,beIN Sports 🇸🇦
+,beIN Sports English 1 🇸🇦
+,beIN Sports English 2 🇸🇦
+,beIN Sports French 1 🇸🇦
+,beIN Sports French 2 🇸🇦
+,beIN Sports XTRA 1 🇸🇦
+,beIN Sports XTRA 2 🇸🇦
+,beIN Sports XTRA 3 🇸🇦
+,beIN Sports XTRA 4 🇸🇦
+,beIN Sports XTRA 5 🇸🇦
+,beIN Sports XTRA 6 🇸🇦
+,beIN Sports XTRA 7 🇸🇦
+,beIN Sports XTRA 8 🇸🇦
+,beIN Sports XTRA 9 🇸🇦
+,beIN Sports MAX 1 🇸🇦
+,beIN Sports MAX 2 🇸🇦
+,beIN Sports MAX 3 🇸🇦
+,beIN Sports MAX 4 🇸🇦
+,beIN Sports MAX 5 🇸🇦
+,beIN Sports MAX 6 🇸🇦
+beIN SPORTS en español,beIN SPORTS en español
+beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ
+ESPN Argentina,ESPN Argentina
+ESPN 2 Argentina,ESPN 2 Argentina
+ESPN 3 Argentina,ESPN 3 Argentina
+ESPN 4 Argentina,ESPN 4 Argentina
+ESPN 5 Argentina,ESPN 5 Argentina
+ESPN 6 Argentina,ESPN 6 Argentina
+ESPN 7 Argentina,ESPN 7 Argentina
+TyC Sports,TyC Sports
+DSPORTS+,DSPORTS+
+DSPORTS,DSPORTS
+DSPORTS 2,DSPORTS 2
+TUDN (México),TUDN (México)
+FOX SPORTS,FOX SPORTS
+FOX SPORTS 2,FOX SPORTS 2
+FOX SPORTS 3,FOX SPORTS 3
+ESPN Deportes,ESPN Deportes
+ESPN,ESPN
+ESPN 2,ESPN 2
+ESPN 3,ESPN 3
+ESPN 4,ESPN 4
+,Sky Sports LaLiga SD 🇲🇽
+,Sky Sports LaLiga HD 🇲🇽
+,Sky Sports LaLiga FHD 🇲🇽
+,Sky Sports LaLiga 🇲🇽
+Primera Federación,M+ Primera Federacion FHD
+,Primera Federacion FHD (Orange)
+,Primera Federacion FHD (LaLiga+)
+,Primera Federacion G1 | Eventos 1
+,Primera Federacion G1 | Eventos 2
+,Primera Federacion G1 | Eventos 3 
+,Primera Federacion G1 | Eventos 4
+,Primera Federacion G1 | Eventos 5
+,Primera Federacion G1 | Eventos 6
+,Primera Federacion G1 | Eventos 7 
+,Primera Federacion G1 | Eventos 8
+,Primera Federacion G1 | Eventos 9
+,Primera Federacion G1 | Eventos 10
+,Primera Federacion G2 | Eventos 1
+,Primera Federacion G2 | Eventos 2
+,Primera Federacion G2 | Eventos 3
+,Primera Federacion G2 | Eventos 4
+,Primera Federacion G2 | Eventos 5
+,Primera Federacion G2 | Eventos 6
+,Primera Federacion G2 | Eventos 7
+,Primera Federacion G2 | Eventos 8
+,Primera Federacion G2 | Eventos 9
+,Primera Federacion G2 | Eventos 10
+,Segunda Federacion | Eventos 1
+,Segunda Federacion | Eventos 2
+,Segunda Federacion | Eventos 3
+,Segunda Federacion | Eventos 4
+,Segunda Federacion | Eventos 5
+,Segunda Federacion | Eventos 6
+,Segunda Federacion | Eventos 7
+,Segunda Federacion | Eventos 9
+,Segunda Federacion | Eventos 10
+,Segunda Federacion | Eventos 11
+,Segunda Federacion | Eventos 12
+,Segunda Federacion | Eventos 13
+,Segunda Federacion | Eventos 14
+,Segunda Federacion | Eventos 15
+,RFEF TV | Eventos 1
+,RFEF TV | Eventos 2
+,RFEF TV | Eventos 3
+,RFEF TV | Eventos 4
+,RFEF TV | Eventos 5
+,RFEF TV | Eventos 6
+,RFEF TV | Eventos 7
+,RFEF TV | Eventos 8
+,RFEF TV | Eventos 9
+,RFEF TV | Eventos 10
+,RFEF TV | Eventos 11
+,RFEF TV | Eventos 12
+,RFEF TV | Eventos 13
+,RFEF TV | Eventos 14
+,RFEF TV | Eventos 15
+,RFEF TV | Eventos 16
+,RFEF TV | Eventos 17
+,RFEF TV | Eventos 18
+,RFEF TV | Eventos 19
+,DAZN Liga F | Eventos 1
+,DAZN Liga F | Eventos 2
+,DAZN Liga F | Eventos 3
+,DAZN Liga F | Eventos 4
+,DAZN Liga F | Eventos 5
+DAZN Bundesliga,DAZN Bundesliga
+DAZN Bundesliga 2,DAZN Bundesliga 2
+DAZN Bundesliga 3,DAZN Bundesliga 3
+DAZN Bundesliga 4,DAZN Bundesliga 4
+DAZN Bundesliga 5,DAZN Bundesliga 5
+DAZN Bundesliga 6,DAZN Bundesliga 6
+DAZN Serie A,DAZN Serie A
+DAZN Serie A 2,DAZN Serie A 2
+DAZN Serie A 3,DAZN Serie A 3
+DAZN Serie A 4,DAZN Serie A 4
+DAZN Serie A 5,DAZN Serie A 5
+DAZN Serie A 6,DAZN Serie A 6
+,Liga Endesa | Eventos 1
+,Liga Endesa | Eventos 2
+,Liga Endesa | Eventos 3
+,Liga Endesa | Eventos 4
+,Liga Endesa | Eventos 5
+,NBA Fast Channel
+,NBA | Eventos 1
+,NBA | Eventos 2
+,NBA | Eventos 3
+,NBA | Eventos 4
+,NBA | Eventos 5
+,NBA | Eventos 6
+,NBA | Eventos 7
+,NBA | Eventos 8
+,NBA | Eventos 9
+,NBA | Eventos 10
+,NBA | Eventos 11
+,NBA | Eventos 12
+,NBA | Eventos 13
+,NBA | Eventos 14
+,NBA | Eventos 15
+,NBA | Eventos 16
+,NBA | Eventos 17
+,NBA | Eventos 18
+,NBA | Eventos 19
+,NBA | Eventos 20
+,NBA | Eventos 21
+,NBA | Eventos 22
+,NBA | Eventos 23
+,NBA | Eventos 24
+,NBA | Eventos 25
+,NBA | Eventos 26
+,NBA | Eventos 27
+,NBA | Eventos 28
+,NBA League Pass | Los Angeles Lakers
+,NBA League Pass | Los Angeles Clippers
+,NBA League Pass | New York Knicks
+,NBA League Pass | Boston Celtics
+,NBA League Pass | Cleveland Cavaliers
+,NBA League Pass | Detroit Pistons
+,NBA League Pass | Atlanta Hawks
+,NBA League Pass | San Antonio Spurs
+,NBA League Pass | Portland Trail Blazers
+,NBA League Pass | Utah Jazz
+,NBA League Pass | Golden State Warriors
+,NBA League Pass | Philadelphia 76ers
+,NBA League Pass | Toronto Raptors
+,NBA League Pass | Indiana Pacers
+,NBA League Pass | Milwaukee Bucks
+,NBA League Pass | Phoenix Suns
+,NBA League Pass | Sacramento Kings
+,NBA League Pass | Dallas Mavericks
+,NBA League Pass | Houston Rockets
+,NBA League Pass | Memphis Grizzlies
+,NBA League Pass | New Orleans Pelicans
+6a6a02ae3ee9d966427e62c4,NFL Channel
+,DAZN NFL | Eventos 1
+,DAZN NFL | Eventos 2
+,DAZN NFL | Eventos 3
+,DAZN NFL | Eventos 4
+,DAZN NFL | Eventos 5
+,DAZN NFL | Eventos 6
+,DAZN NFL | Eventos 7
+,DAZN NFL | Eventos 8
+,DAZN NFL | Eventos 9
+,DAZN NFL | Eventos 10
+,DAZN NFL | Eventos 11
+,DAZN NFL | Eventos 12
+,DAZN NFL | Eventos 13
+,DAZN NFL | Eventos 14
+,DAZN NFL | Eventos 15
