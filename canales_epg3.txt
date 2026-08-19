@@ -115,7 +115,7 @@
 613260e4bdb71c00070d63fa,More TV Drama,https://images.pluto.tv/channels/613260e4bdb71c00070d63fa/colorLogoPNG.png
 654933e253fc970008390114,Universal Action,https://images.pluto.tv/channels/654933e253fc970008390114/colorLogoPNG.png
 62fa8176b9884200074ef5ae,The Walking Dead Universe,https://images.pluto.tv/channels/62fa8176b9884200074ef5ae/colorLogoPNG.png
-62f2ce24f328e00007e7f55a,Stories by AMC,https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png
+62f2ce24f328e00007e7f55a,Stories by AMC,https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG_1787093171101.png
 5cbf6a868a1bce4a3d52a5e9,Midsomer Murders,https://images.pluto.tv/channels/5cbf6a868a1bce4a3d52a5e9/colorLogoPNG.png
 60f5d389985a0c0007357304,BritBox Mysteries,https://images.pluto.tv/channels/60f5d389985a0c0007357304/colorLogoPNG_1786980983531.png
 6a4fd96d7652851fb490204f,Pluto TV Royal Drama,https://images.pluto.tv/channels/6a4fd96d7652851fb490204f/colorLogoPNG_1785178336408.png
@@ -988,8 +988,8 @@
 64eddc3485efec00085b0369,Perry Mason,https://images.pluto.tv/channels/64eddc3485efec00085b0369/colorLogoPNG.png
 5e7b6c60fd20c50007910bf5,Pluto TV Crime,https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png
 67d984408d8dc3d7754dccf2,Pluto TV Nordic Crime,https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png
-6a3160bd5304e3244427863d,Pluto TV Star Trek: Kirks Missionen,https://images.pluto.tv/channels/6a3160bd5304e3244427863d/colorLogoPNG_1785149124560.png
-6a3160eae022927e1c9eb429,Pluto TV Star Trek: Picards Scharfsinn,https://images.pluto.tv/channels/6a3160eae022927e1c9eb429/colorLogoPNG_1785149206402.png
+6a3160d661bf2f9792c095d1,Pluto TV Star Trek: Liebe, Beziehungen &amp; Verführung,https://images.pluto.tv/channels/6a3160d661bf2f9792c095d1/colorLogoPNG_1785149169123.png
+6a3161122c1c785c1139112a,Pluto TV Star Trek: Zeitreisen, Paradoxa und das Q-Kontinuum,https://images.pluto.tv/channels/6a3161122c1c785c1139112a/colorLogoPNG_1785149347050.png
 697a0577f9c3aa5a215a4ef8,Will&amp;Grace,https://images.pluto.tv/channels/697a0577f9c3aa5a215a4ef8/colorLogoPNG_1769604535866.png
 686cff3224918d4300fa542b,Stromberg,https://images.pluto.tv/channels/686cff3224918d4300fa542b/colorLogoPNG_1753976762248.png
 686cfef52704ca31d85c4bf1,Pastewka,https://images.pluto.tv/channels/686cfef52704ca31d85c4bf1/colorLogoPNG_1753793017907.png
@@ -1021,6 +1021,7 @@
 64b67f0424ade50008a3be17,DAZN Darts x Pluto TV,https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png
 68ac5543a1ac0c90f2c8943e,Pluto TV Snooker 900,https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png
 66337ea1307fa300082c28a0,BVB-Frauen,https://images.pluto.tv/channels/66337ea1307fa300082c28a0/colorLogoPNG_1755794338808.png
+6a6a02dc05520fcba93df783,NFL Channel,https://images.pluto.tv/channels/6a6a02dc05520fcba93df783/colorLogoPNG_1785333546555.png
 6866525c8a412a0e95c438b4,Dyn Sport Mix,https://images.pluto.tv/channels/6866525c8a412a0e95c438b4/colorLogoPNG_1753770799796.png
 66337e6ba0a74e000889563b,MODUS Super Series Darts,https://images.pluto.tv/channels/66337e6ba0a74e000889563b/colorLogoPNG_1732093439335.png
 64afe50c5dc16600087f3227,DAZN Heldinnen x Pluto TV,https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png
@@ -1155,8 +1156,8 @@
 5caf330ea5068259a32320fd,MTV Ink Master,https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG_1783598886471.png
 5f9847fd513250000728a9a5,MTV Ridiculousness,https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png
 5d00e8adaab96b5635b2a005,SpongeBob Schwammkopf,https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png
-600adbdf8c554e00072125c9,Avatar,https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png
 65a67c494a10d800085cab06,Drake &amp; Josh,https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png
+600adbdf8c554e00072125c9,Avatar,https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png
 5e8b580a233dc90007f0cb9d,iCarly,https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png
 5f0d668b872e4400073acc68,Nickelodeon Teen,https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png
 67f3eb1c443f0671bc03ece8,Nick Jr. Club,https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png

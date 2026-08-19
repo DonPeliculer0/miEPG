@@ -45,12 +45,12 @@ Sky.Sport.Arena.it,Sky Sport Arena,https://guidatv.sky.it/logo/24skysportarena_L
 Sky.Adventure.it,Sky Adventure,https://guidatv.sky.it/logo/962skyadventure_Light_Fit.png?checksum=7454eb33-b386-4e89-8872-8c32b2fbbc3f?tr=n-logo_80
 Sky.Sport.Mix.it,Sky Sport Mix,https://guidatv.sky.it/logo/579skysportmix_Light_Fit.png?checksum=68d457d4-ae25-40ec-8198-2be42327d82d?tr=n-logo_80
 Sky.Sport.Legend.it,Sky Sport Legend,https://guidatv.sky.it/logo/578skysportlegend_Light_Fit.png?checksum=4887b8c8-ab51-46c9-890e-2367de4fa38e?tr=n-logo_80
-Sky.Sport..251.it,Sky Sport  251,
-Sky.Sport..252.it,Sky Sport  252,
-Sky.Sport..253.it,Sky Sport  253,
-Sky.Sport..254.it,Sky Sport  254,
-Sky.Sport..255.it,Sky Sport  255,
-Sky.Sport..256.it,Sky Sport  256,
+Sky.Sport..251.it,Sky Sport  251,https://guidatv.sky.it/logo/917skysport_Light_Fit.png?checksum=4f061bab-25db-4c9b-8220-e560abc222b5?tr=n-logo_80
+Sky.Sport..252.it,Sky Sport  252,https://guidatv.sky.it/logo/951skysport_Light_Fit.png?tr=n-logo_80
+Sky.Sport..253.it,Sky Sport  253,https://guidatv.sky.it/logo/233233_Light_Fit.png?checksum=cde08272-c3a9-40f5-942d-0c32d01095d1?tr=n-logo_80
+Sky.Sport..254.it,Sky Sport  254,https://guidatv.sky.it/logo/234skysport_Light_Fit.png?tr=n-logo_80
+Sky.Sport..255.it,Sky Sport  255,https://guidatv.sky.it/logo/910skysport_Light_Fit.png?checksum=1486554b-09f4-4727-921c-4c9b1655b59e?tr=n-logo_80
+Sky.Sport..256.it,Sky Sport  256,https://guidatv.sky.it/logo/912skysport_Light_Fit.png?checksum=1c38728d-1774-4c93-a75f-622e062b1c29?tr=n-logo_80
 Sky.Sport..257.it,Sky Sport  257,
 Sky.Sport..258.it,Sky Sport  258,
 Sky.Sport..259.it,Sky Sport  259,
@@ -64,7 +64,7 @@ EQUtv.it,EQUtv,https://guidatv.sky.it/logo/5439equtv_Light_Fit.png?checksum=0744
 Horse.TV.HD.it,Horse TV HD,https://guidatv.sky.it/logo/5290horsetvhd_Light_Fit.png?checksum=ea332b454a1f1651548d847506cc7b47?tr=n-logo_80
 BIKE.it,BIKE,
 ACI.Sport.Tv.it,ACI Sport Tv,https://guidatv.sky.it/logo/445sporttv_Light_Fit.png?tr=n-logo_80
-Milan.TV.it,Milan TV,https://guidatv.sky.it/logo/261milantv_Light_Fit.png?checksum=b78acf3bc981bb6d87c595b24540e7dc?tr=n-logo_80
+Milan.TV.it,Milan TV,
 Inter.TV.it,Inter TV,https://guidatv.sky.it/logo/487intertv_Light_Fit.png?checksum=3e72d3b0f67c78debf143812729c442d?tr=n-logo_80
 CACCIA.e.Pesca.it,CACCIA e Pesca,https://guidatv.sky.it/logo/344cacciaepesca_Light_Fit.png?checksum=26abc2dcd1a555b19172485e63873fa0?tr=n-logo_80
 Caccia.e.PESCA.it,Caccia e PESCA,https://guidatv.sky.it/logo/350cacciaepesca_Light_Fit.png?checksum=2c27f7a1c4dbecd7801362884f16078d?tr=n-logo_80
