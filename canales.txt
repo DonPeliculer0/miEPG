@@ -243,26 +243,26 @@ TRACE Latina,Trace Latina
 XITEHits.nl@NL,XITE Hits
 XITENuevoLatino.us@SD,XITE Nuevo Latino
 XITESiempreLatino.us@SD,XITE Siempre Latino
-,XITE Celebrates
-,XITE 80s Flashback
-XITE90sThrowback.us@SD,XITE 90's Throwback
+XITE.Celebrates.DUMMY.us,XITE Celebrates
+XITE.80s.Flashback.DUMMY.us,XITE 80s Flashback
+XITE.90s.Throwback.DUMMY.us,XITE 90's Throwback
 ESBC2100002LV,Vevo Latino
 ESBD230000289,Vevo Retro
 ESBC2100001IU,Vevo Pop
-,Vevo 70s
-,Vevo 80s
-,Vevo 90s
+plex.tv.Vevo.`70s.plex,Vevo 70s
+plex.tv.Vevo.`80s.plex,Vevo 80s
+plex.tv.Vevo.`90s.plex,Vevo 90s
 ,That's 70s
 ,That's 80s
 ,That's 90s 00s 
 GB300032DX,Now 70s
 GBBC900003B2,Now 80s
-GB300033HI,Now 90s 00s
+GB300033HI,Now 90s00s
 6076cd1df8576d0007c82193,VH1 Classics
-,Ocko Star
-,Retro Music TV
+Ocko Star,Ocko Star
+RETRO.Music.TV.sk,Retro Music TV
 ,Retro Plus TV 
-,All Flamenco
+AllFlamenco,All Flamenco
 TheCountryNetwork.us@SD,The Country Network
 DJazz,DJazz
 samsung-ESBA1500001C4,Deluxe Lounge
@@ -382,7 +382,7 @@ Atlántico TV,Atlantico Television
 ,101TV Sevilla
 PTV_Sevilla.TV,PTV_Sevilla.TV
 ,Canal Doñana
-,Costa Noroeste TV
+CostaNO.TV,Costa Noroeste TV
 ,7TV Jerez
 ,7TV Jerez
 ,7TV Cadiz
@@ -395,7 +395,7 @@ BOM Cine,BOM Cine
 ES2800001G7,Planeta de Cine
 676e7b4a4bd636000819c6a7,SensaCine TV x Pluto
 acontra+,acontra+
-Atrescine,Atrescine
+Atrescine.us2,Atrescine
 Runtime Cine y Series,Runtime Cine y Series
 Runtime Acción,Runtime Acción
 Runtime Crimen,Runtime Crimen
@@ -428,7 +428,7 @@ Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
 60cc807324d60a0007708dc8,Pluto TV Cine de autor
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
-,ARTFLIX Clasicos
+643054b1fc3be59477853717-6348a34c1159f6a5ce819b81,ARTFLIX Clasicos
 Cine Friki,Cine Friki
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Verdi TV Feel Good
@@ -480,8 +480,8 @@ Betevé,Beteve
 6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas
 63eb95baa99571000898a078,MacGyver
 5f1acd36779de70007a680d1,Curro Jiménez
-,Mr. Bean
-,Misterios sin resolver
+mr-bean-live-action,Mr. Bean
+5f4d882d5233170007ee880e,Misterios sin resolver
 643054b1fc3be59477853717-64d79408e5f67b0fab47ff24,Misterios sin Resolver #(Plex)
 ,40 anos da TVG
 ,Teleclasica
@@ -531,21 +531,21 @@ EnergeekRetro.TV,EnergeekRetro.TV
 ,Dinosaurios
 ,Los Simpsons
 628751bb7154a40007168843,South Park
-,Pink Panther
+5e20b730f2f8d5003d739db7-6876f76054325376973fd314,Pink Panther
 680ba8c3a48b3ead0db701cc,Los caballeros del Zodiaco
 ,Cuentos de la cripta
 ,Tom & Jerry
 68d27949793c71d988ca624c,Los Pitufos
 63c69c87808b740007599fe1,Érase una vez...
 68779a09c691b3f0964127c6,Heidi
-,Marco
+687799f86255fd1c0c419c84,Marco
 ESBD3200002V5,La Abeja Maya
 61373f1a12dd9f00077dcd6f,Las Tortugas Ninja
 ,Retroplus TV 
 ,Retroplus TV 2
 ,Retroplus TV 3
 Solidaria TV España,Solidaria TV España
-,A bocados
+a-bocados,A bocados
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina
 ,Canal Andalucia Cocina
 ,Cocina Familiar 
@@ -555,31 +555,15 @@ Solidaria TV España,Solidaria TV España
 643054b1fc3be59477853717-5f8746eabd529300418246d9,GUSTOTV
 ,El Gourmet
 ,Food Network
-,Saborear TV
+643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6,Saborear TV
 643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda,Cooking Panda
 Viajes y Sabores,Viajes y Sabores
 Love Wine,Love Wine
 643054b1fc3be59477853717-68645f7c1a2f321847ec0393,Wineman
-,La 1 (Ottera)
-,La 2 (Ottera)
-,Canal 24h (Ottera)
-,Teledeporte (Ottera)
-,Clan (Ottera)
-,La 1 (TDT Channels)
-,La 2 (TDT Channels)
-,Canal 24h (TDT Channels)
-,Teledeporte (TDT Channels)
-,Clan (TDT Channels)
-,La 1 (TDT Channels)
-,La 2 (TDT Channels)
-,Canal 24h (TDT Channels)
-,Teledeporte (TDT Channels)
-,Clan (TDT Channels)
 ,+24
 ,+24
 ,+24
 ,+24
-,Teledeporte
 ,tdp 2
 ,tdp 3
 ,tdp 4
@@ -588,30 +572,20 @@ Love Wine,Love Wine
 ,tdp play
 ,tdp play
 ,tdp play
-,La 1 (Samsung TV)
-,La 2 (Samsung TV)
-,Canal 24h (Samsung TV)
-,Teledeporte (Samsung TV)
-,Clan (Samsung TV)
-,La 1 UHD
-,La 1 (Subs.) (Web)
-,La 2 (Subs.) (Web)
-,Canal 24h (Subs.) (Web)
-,Teledeporte (Subs.) (Web)
-,Clan (Subs.) (Web)
-,TVE Internacional Europa (Web)
-,TVE Internacional America
-,TVE Internacional Asia Oceania (Web)
+TVE.Internacional.ch,TVE Internacional Europa (Web)
+Canal.TVE.Internacional.(Televisión.Española).ar,TVE Internacional America
+TVE.Internacional.Asia.es,TVE Internacional Asia Oceania (Web)
 Star TVE HD,Star TVE
 ,Star TVE America
-,Aguila Roja (Rakuten TV)
+/esaguila-roja,Aguila Roja (Rakuten TV)
 6812206e1b3e3be031a5c363,Águila Roja #(Pluto TV)
 ES500005BP,Águila Roja #(Samsung TV)
 RTVE_SomosCine.TV,RTVE_SomosCine.TV
 ES33000058B,RTVE Somos Cine #(Samsung TV)
 RTVE_Cuentame.TV,RTVE_Cuentame.TV
-ES400002P5,Cuéntame cómo pasó #(Samsung TV)
+ES400002P5,RTVE Cuéntame cómo pasó #(Samsung TV)
 RTVE_Promesa.TV,RTVE_Promesa.TV
+ES3300006QL,RTVE La Promesa #(Samsung TV)
 ES33000036Q,RTVE La Moderna #(Samsung TV)
 RTVE_Cocina.TV,RTVE_Cocina.TV
 ES33000079W,RTVE Cocina #(Samsung TV)
@@ -622,8 +596,8 @@ RTVE_En_Play.TV,RTVE_En_Play.TV
 RTVE_PopUp.TV,RTVE_PopUp.TV,
 RTVE_PopUp2.TV,RTVE_PopUp2.TV
 RNE.TV,RNE.TV
-Atreseries Internacional,Atreseries Internacional
-Antena 3 Internacional,Antena 3 Internacional
+Atreseries.us2,Atreseries Internacional
+Antena.3.Internacional.us2,Antena 3 Internacional
 Flooxer,Flooxer
 El club de la comedia,El club de la comedia
 El Hormiguero,El Hormiguero
@@ -636,36 +610,30 @@ Aquí no hay quién viva,Aquí no hay quién viva
 FoQ,FoQ
 Kidz,Kidz
 ,Gran Hermano 24h
-,BBC One
-,BBC Two
-,BBC Three
-,BBC Four
-,BBC Parliament
-,BBC News
-,BBC World News
+BBCOneHD.uk,BBC One
+BBC2.uk,BBC Two
+BBCThree.uk,BBC Three
+BBC4.uk,BBC Four
+BBCParliament.uk,BBC Parliament
+BBCNEWS,BBC News
+BBCWORLDNEWS,BBC World News
 ,BBC Food
 ,BBC Travel
 ,BBC Home & Garden
-ES3200001F1,BBC Earth
-,BBC History
-,BBC Earth FHD
-,BBC Food
-,BBC LifeStyle FHD
-,BBC Top Gear
-,BBC Series
+656535fc2c46f30008870fae,BBC Earth
 RNE_Radio3.TV,RNE_Radio3.TV
 RNE_Radio4.TV,RNE_Radio4.TV
 RNE_Radio5.TV,RNE_Radio5.TV
 OndaCero.TV,OndaCero.TV
 ,Onda Madrid
-SPORT.TV+.HD.pt,SPORT.TV+.HD.pt
-SPORT.TV1.HD.pt,SPORT.TV1.HD.pt
-SPORT.TV2.HD.pt,SPORT.TV2.HD.pt
-SPORT.TV3.HD.pt,SPORT.TV3.HD.pt
-SPORT.TV4.HD.pt,SPORT.TV4.HD.pt
-SPORT.TV5.HD.pt,SPORT.TV5.HD.pt
-SPORT.TV6.HD.pt,SPORT.TV6.HD.pt
-SPORT.TV7.HD.pt,SPORT.TV7.HD.pt
+PT | Sport TV +,SPORT.TV+.HD.pt
+PT | Sport TV 1,SPORT.TV1.HD.pt
+PT | Sport TV 2,SPORT.TV2.HD.pt
+PT | Sport TV 3,SPORT.TV3.HD.pt
+PT | Sport TV 4,SPORT.TV4.HD.pt
+PT | Sport TV 5,SPORT.TV5.HD.pt
+PT | Sport TV 6,SPORT.TV6.HD.pt
+PT | Sport TV 7,SPORT.TV7.HD.pt
 Eurosport.1.HD.pt,Eurosport.1.HD.pt
 Eurosport.2.HD.pt,Eurosport.2.HD.pt
 FR · beIN SPORTS 1,FR · beIN SPORTS 1
@@ -684,7 +652,7 @@ FR · CANAL+ Sport,FR · CANAL+ Sport
 FR · CANAL+ Sport 360,FR · CANAL+ Sport 360
 Canal+.Foot.fr,Canal+.Foot.fr
 ,Canal+ Ligue 1 🇫🇷
-,Canal+ Premier League 🇫🇷
+CanalPlusPremierLeague.fr,CanalPlusPremierLeague.fr
 ,Canal+ Formula 1 🇫🇷
 ,Canal+ Moto GP 🇫🇷
 ,Canal+ Top 14 Rugby 🇫🇷
@@ -731,16 +699,6 @@ DE | Sky Sport Premier League,DE | Sky Sport Premier League
 DE | Sky Sport F1,DE | Sky Sport F1
 DE | Sky Sport Tennis,DE | Sky Sport Tennis
 DE | Sky Sport Golf,DE | Sky Sport Golf
-,Sky Sport 1 🇩🇪
-,Sky Sport 2 🇩🇪
-,Sky Sport 3 🇩🇪
-,Sky Sport 4 🇩🇪
-,Sky Sport 5 🇩🇪
-,Sky Sport 6 🇩🇪
-,Sky Sport 7 🇩🇪
-,Sky Sport 8 🇩🇪
-,Sky Sport 9 🇩🇪
-,Sky Sport 10 🇩🇪
 Sky.Sport.Austria.1.HD.de,Sky.Sport.Austria.1.HD.de
 Eurosport.Italia.it,Eurosport.Italia.it
 Eurosport.2.Italia.it,Eurosport.2.Italia.it
@@ -791,10 +749,10 @@ beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ
 ESPN Argentina,ESPN Argentina
 ESPN 2 Argentina,ESPN 2 Argentina
 ESPN 3 Argentina,ESPN 3 Argentina
-ESPN 4 Argentina,ESPN 4 Argentina
-ESPN 5 Argentina,ESPN 5 Argentina
-ESPN 6 Argentina,ESPN 6 Argentina
-ESPN 7 Argentina,ESPN 7 Argentina
+ESPN.4.HD.uy,ESPN 4 Argentina
+ESPN.5.HD.uy,ESPN 5 Argentina
+ESPN.6.HD.uy,ESPN 6 Argentina
+ESPN.7.HD.uy,ESPN 7 Argentina
 TyC Sports,TyC Sports
 DSPORTS+,DSPORTS+
 DSPORTS,DSPORTS
@@ -808,13 +766,10 @@ ESPN,ESPN
 ESPN 2,ESPN 2
 ESPN 3,ESPN 3
 ESPN 4,ESPN 4
-,Sky Sports LaLiga SD 🇲🇽
-,Sky Sports LaLiga HD 🇲🇽
+,Sky Sports LaLiga HD
 ,Sky Sports LaLiga FHD 🇲🇽
 ,Sky Sports LaLiga 🇲🇽
 Primera Federación,Primera Federación
-,Primera Federacion FHD (Orange)
-,Primera Federacion FHD (LaLiga+)
 ,Primera Federacion G1 | Eventos 1
 ,Primera Federacion G1 | Eventos 2
 ,Primera Federacion G1 | Eventos 3 
@@ -890,7 +845,7 @@ DAZN Serie A 6,DAZN Serie A 6
 ,Liga Endesa | Eventos 3
 ,Liga Endesa | Eventos 4
 ,Liga Endesa | Eventos 5
-,NBA Fast Channel
+6792c30abc03978b9b8bb832,NBA Fast Channel
 ,NBA | Eventos 1
 ,NBA | Eventos 2
 ,NBA | Eventos 3
