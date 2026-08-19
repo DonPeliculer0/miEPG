@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor1.xml.gz
+https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 https://raw.github.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml
 https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz
@@ -12,4 +12,5 @@ https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz
 http://tropical.jungle-team.online/epg/koala3.xml
