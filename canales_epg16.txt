@@ -1,282 +1,522 @@
-# Fuente: http://tropical.jungle-team.online/epg/koala3.xml
-DARK,DARK,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_21c53db99c70d70f49a133e00
-Runtime Romance,Runtime Romance,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_ROMANCE_WHITE_176x122
-HISTORIA,HISTORIA,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_HISTORIA_LOGO_176x122.png
-M+ ESTRENOS 2 HD,M+ ESTRENOS 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEST2.png
-Equipo de investigación,Equipo de investigación,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%c3%b3n.png
-Radiolé,Radiolé,https://myradioonline.es/public/uploads/radio_img/radiole/list_45.jpg
-M+ Cero,M+ Cero,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FREELI.png
-LALIGATV BAR 2,LALIGATV BAR 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LIGBA1.png
-Levante TV,Levante TV,
-Real Madrid TV HD,Real Madrid TV HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/REALM.png
-XTRM,XTRM,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/XTRM_176x122
-NG WILD HD,NG WILD HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGW.png
-TV5MONDE,TV5MONDE,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TV5.png
-M+DEPORTES3,M+DEPORTES3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP2.png
-M+DEPORTES8,M+DEPORTES8,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI9.png
-M+LCAMPEON9,M+LCAMPEON9,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP8.png
-Andalucia TV,Andalucia TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ANDATV.png
-NAT GEO HD,NAT GEO HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png
-DAZN LaLiga 3,DAZN LaLiga 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL3.png
-Kiss FM,Kiss FM,https://myradioonline.es/public/uploads/radio_img/kiss-fm/list_45.jpg
-Runtime Clásicos,Runtime Clásicos,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CLASSICS_WHITE_176x122
-La 7 HD,La 7 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CYLTV.png
-Runtime Cine y Series,Runtime Cine y Series,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CINE_Y_SERIES_WHITE_176x122
-Somos,Somos,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/SOMOS_176x122
-M+ Originales HD,M+ Originales HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MORIG.png
-M+LCAMPEONES,M+LCAMPEONES,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png
-Kidz,Kidz,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kidz.png
-Radio Clasica HQ RNE,Radio Clasica HQ RNE,https://myradioonline.es/public/uploads/radio_img/radio-clasica/list_45.jpg
-IBERALIA TV,IBERALIA TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/IBERAL.png
-Aquí no hay quién viva,Aquí no hay quién viva,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%c3%ad%20no%20hay%20qui%c3%a9n%20viva.png
-TELESUR HD,TELESUR HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TLESUR.png
-M+ ESTRENOS HD,M+ ESTRENOS HD,
-AXN MOVIES,AXN MOVIES,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SET.png
-TV3,TV3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TV3CAT.png
-Rock FM,Rock FM,https://myradioonline.es/public/uploads/radio_img/rock-fm/list_45.jpg
-DAZN MOTO GP,DAZN MOTO GP,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZMOT.png
-Negocios TV,Negocios TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NEGOTV.png
-M+ OSCARS,M+ OSCARS,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MOSCAR.png
-DKISS,DKISS,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DKISS.png
-M+ LaLiga TV 7,M+ LaLiga TV 7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG6.png
-TPA7,TPA7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TPA.png
-WARNERTV HD,WARNERTV HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TNT.png
-LOS40,LOS40,https://myradioonline.es/public/uploads/radio_img/los40/list_45.jpg
-M+DEPORTES5,M+DEPORTES5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP11.png
-MULTIDEPORTE,MULTIDEPORTE,
-SELEKT,SELEKT,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SELEKT_176x122
-LALIGATV BAR,LALIGATV BAR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LIGBAR.png
-Escapa TV,Escapa TV,https://imageservice.agiletv.es/v1?width=100&amp;format=WEBP&amp;resize=RATIO&amp;image=https%3A%2F%2Fagiletv-images.s3.eu-west-1.amazonaws.com%2Fchannelicons%2Fescapatv.png|
-GARAGE TV,GARAGE TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GARAGE.png
-M+ LALIGA 2 HDR,M+ LALIGA 2 HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIUHD.png
-M+ Cine HD,M+ Cine HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV1.png
-SkyShowtime,SkyShowtime,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SKYSHO.png
-LALIGA TV HYPERMOTION 2,LALIGA TV HYPERMOTION 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS2.png
-DAZN 4 HD,DAZN 4 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN4.png
-CNBC Europe,CNBC Europe,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NBC.png
-DAZN LaLiga 5,DAZN LaLiga 5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL5.png
-M+LCAMPEON6,M+LCAMPEON6,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP5.png
-La 8 Mediterraneo HD,La 8 Mediterraneo HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEDITE.png
-Runtime Accion,Runtime Accion,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_ACTION_WHITE_176x122
-Onda Cero,Onda Cero,https://myradioonline.es/public/uploads/radio_img/onda-cero/list_45.jpg
-COPE,COPE,https://myradioonline.es/public/uploads/radio_img/cope/list_45.jpg
-COSMO HD,COSMO HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/COSMO.png
-BBC FOOD,BBC FOOD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBFOO.png
-M+LCAMPEON17,M+LCAMPEON17,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP16.png
-Esport 3,Esport 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP3.png
-GOL PLAY,GOL PLAY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOL.png
-AMC Western,AMC Western,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_WESTERN_176x122
-BOM,BOM,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BOM_176x122
-Canal Sur Radio,Canal Sur Radio,https://myradioonline.es/public/uploads/radio_img/canal-sur-radio/list_45.jpg
-Multicine atresplayer,Multicine atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png
-M+ ACCIÓN HD,M+ ACCIÓN HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPACCI.png
-LALIGA TV HYPERMOTION 3,LALIGA TV HYPERMOTION 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS3.png
-LaOtra,LaOtra,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/OTRA.png
-ETB 3,ETB 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB3.png
-LA 1 HD,LA 1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png
-M+DEPORTESHD,M+DEPORTESHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPDEP.png
-CMM TV,CMM TV,
-M+LCAMPEON15,M+LCAMPEON15,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP14.png
-MTV 00s,MTV 00s,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VH1.png
-DreamWorks HD,DreamWorks HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DWSP.png
-M+DEPORTES7,M+DEPORTES7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png
-CUATRO HD,CUATRO HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png
-M+ LaLiga TV 5,M+ LaLiga TV 5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG4.png
-M+DEPORTES4,M+DEPORTES4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/USOP3.png
-BOING,BOING,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BOING.png
-PORTADA,PORTADA,
-Cubavision Internacional,Cubavision Internacional,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CUBAV.png
-M+LCAMPEON13,M+LCAMPEON13,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP12.png
-CALLE 13 HD,CALLE 13 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CL13.png
-LALIGATV BAR 3,LALIGATV BAR 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LIGBA2.png
-ANTENA 3 HD,ANTENA 3 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/A3.png
-Radio Marca,Radio Marca,https://myradioonline.es/public/uploads/radio_img/radio-marca/list_45.jpg
-GUIA,GUIA,
-TCM HD,TCM HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TCM.png
-Teledeporte HD,Teledeporte HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TDEP.png
-DISNEY JR,DISNEY JR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PLAYDC.png
-M+LCAMPEON10,M+LCAMPEON10,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP9.png
-DAZN F1 HD,DAZN F1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVF1.png
-LA SEXTA HD,LA SEXTA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SEXTA.png
-Runtime Series,Runtime Series,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_SERIES_WHITE_176x122
-FlixOlé 2,FlixOlé 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FLIX2.png
-SUNDANCE TV,SUNDANCE TV,https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_def6ba5cbe35084391ddfc6f5
-FDF,FDF,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FDFIC.png
-33,33,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C33.png
-Movistar Plus+ HD,Movistar Plus+ HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MPLUS.png
-TELECINCO HD,TELECINCO HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/T5.png
-Telemadrid Int.,Telemadrid Int.,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TELMIN.png
-TRECE,TRECE,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/13TV.png
-BAJO DEMANDA,BAJO DEMANDA,
-DAZN LALIGA HD,DAZN LALIGA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNLI.png
-M+ GOLF 2 HD,M+ GOLF 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF2.png
-M+ LALIGA TV 4 HD,M+ LALIGA TV 4 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG3.png
-M+ LaLiga TV 6,M+ LaLiga TV 6,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG5.png
-TVG 2,TVG 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVG2.png
-M+DEPORTES2HD,M+DEPORTES2HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARTHUR.png
-Discovery MAX,Discovery MAX,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCRMAX.png
-CANAL ODISEA,CANAL ODISEA,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ODISEA_4K_176x122
-CNN Int.,CNN Int.,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CNN.png
-AMC+ Connect,AMC+ Connect,
-La 1 UHD,La 1 UHD,
-M+LCAMPEON16,M+LCAMPEON16,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP15.png
-M+Documentales HD,M+Documentales HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MDOC.png
-Mega,Mega,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEGA.png
-M+ Eurosport 4K,M+ Eurosport 4K,
-ATRESplayer PREMIUM,ATRESplayer PREMIUM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png
-Canal Extremadura,Canal Extremadura,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/EXTRE.png
-M+ LaLiga TV 8,M+ LaLiga TV 8,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG7.png
-BBC TOP GEAR,BBC TOP GEAR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBGEA.png
-DAZN LALIGA 2 HD,DAZN LALIGA 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL2.png
-Runtime Comedia,Runtime Comedia,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_COMEDY_WHITE_176x122
-UHD1 by ASTRA / HD+,UHD1 by ASTRA / HD+,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP4K.png
-M+LCAMPEON12,M+LCAMPEON12,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP11.png
-Primera Federacion,Primera Federacion,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCOPA.png
-Al Jazeera English,Al Jazeera English,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ALJAZE.png
-M+COMEDIA HD,M+COMEDIA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOME.png
-M+ HITS HD,M+ HITS HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MHITS.png
-AXN HD,AXN HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/AXN.png
-DISCOVERY,DISCOVERY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCR.png
-M+ LaLiga TV 10,M+ LaLiga TV 10,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG9.png
-M+ Indie HD,M+ Indie HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MINDI.png
-Canal Fiesta R.,Canal Fiesta R.,https://myradioonline.es/public/uploads/radio_img/canal-fiesta-radio/list_45.jpg
-ALQUILER 1,ALQUILER 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TQ1.png
-EWTN,EWTN,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/EWTN.png
-Max,Max,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MAXAVA.png
-Canal Sur HD,Canal Sur HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CANSUR.png
-Inquietos atresplayer,Inquietos atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Inquietos%20atresplayer.png
-MegaStar FM,MegaStar FM,https://myradioonline.es/public/uploads/radio_img/megastarfm/list_45.jpg
-STAR Channel,STAR Channel,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FOXGE.png
-M+LCAMPEON14,M+LCAMPEON14,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP13.png
-BBC HISTORY,BBC HISTORY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBHIS.png
-M+LCAMPEON2,M+LCAMPEON2,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_2_176x122.png
-Clásicos atresplayer,Clásicos atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%c3%a1sicos%20atresplayer.png
-ETB,ETB,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB.png
-CANAL COCINA,CANAL COCINA,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_COCINA_4K_176x122.png
-El Toro TV,El Toro TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/INTECO.png
-Cines Verdi TV,Cines Verdi TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CINE_VERDI_CIRCULAR_176X122
-ENFAMILIA,ENFAMILIA,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ENFAMILIA_BLANCO_176X122
-ENERGY,ENERGY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ENERGY.png
-M+LCAMPEON11,M+LCAMPEON11,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP10.png
-Gozadera FM,Gozadera FM,https://myradioonline.es/public/uploads/radio_img/gozadera-fm/list_45.jpg
-M+ VAMOS BAR,M+ VAMOS BAR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMHOR.png
-ARAGON TV INT,ARAGON TV INT,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARAGON.png
-M+ LALIGA TV 3 HD,M+ LALIGA TV 3 HD,https://orangetv.orange.es/pc/api/rtv/v1/images/x_fbceb9643c81f7fc46cad0a6e
-DAZN 2 HD,DAZN 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M2SD.png
-DAZN LaLiga 4,DAZN LaLiga 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZNL4.png
-CAZAyPESCA HD,CAZAyPESCA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CAZPES.png
-SQUIRREL 2,SQUIRREL 2,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SQUIRREL_DOS_176x122
-DAZN Baloncesto,DAZN Baloncesto,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZBA.png
-AMC,AMC,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/AMC_176x122.png
-NICK JR,NICK JR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICKJR.png
-SER,SER,https://myradioonline.es/public/uploads/radio_img/cadena-ser/list_45.jpg
-M+LCAMPEON7,M+LCAMPEON7,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP6.png
-VinTV,VinTV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/VIN_TV_176x122
-Telemadrid,Telemadrid,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TELMAD.png
-BBC World News Europe HD,BBC World News Europe HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBC.png
-Nova HD,Nova HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NOVA.png
-HIT FM,HIT FM,https://myradioonline.es/public/uploads/radio_img/hit-fm/list_45.jpg
-SYFY HD,SYFY HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/SCI-FI.png
-Clan HD,Clan HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CLANTV.png
-M+ SERIES HD,M+ SERIES HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MV2.png
-M+LCAMPEON19,M+LCAMPEON19,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP19.png
-Canal Sur 2,Canal Sur 2,
-M+ VAMOS 3,M+ VAMOS 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MELLAV.png
-EUROSPORT 1 HD,EUROSPORT 1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP.png
-M+LCAMPEON4,M+LCAMPEON4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP3.png
-El club de la comedia,El club de la comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png
-Canal RED,Canal RED,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/RED.png
-24h HD,24h HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/24H.png
-LALIGATV BAR 4,LALIGATV BAR 4,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LIGBA4.png
-BBC LIFESTYLE,BBC LIFESTYLE,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBCLIF.png
-Nautica Channel,Nautica Channel,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NAUTIC.png
-FoQ,FoQ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FoQ.png
-7 RM,7 RM,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/7TVMUR.png
-MTV ESPAÑA,MTV ESPAÑA,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MTV.png
-Televisión Canaria,Televisión Canaria,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CANAR.png
-OneToro TV,OneToro TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3a%2f%2fvip.repositories.local.internal%2fRepositories.EPG%2fOttChannelIcons%2fOneToroTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png
-CGTN,CGTN,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CCTV-E.png
-Loca FM,Loca FM,https://myradioonline.es/public/uploads/radio_img/loca-fm/list_45.jpg
-DAZN Baloncesto 3,DAZN Baloncesto 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB3.png
-Runtime Crimen,Runtime Crimen,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CRIME_WHITE_176x122
-M+ Liga de Campeones2 HDR,M+ Liga de Campeones2 HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHHDR2.png
-M+LCAMPEONES BAR,M+LCAMPEONES BAR,
-M+ Baloncesto 3,M+ Baloncesto 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC3.png
-Nature Time,Nature Time,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/NATURE_TIME_176x122
-TV Colombia,TV Colombia,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/COLOMB.png
-M+ VAMOS 2 HD,M+ VAMOS 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAM2SD.png
-NHK WORLD-JPN,NHK WORLD-JPN,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NHK.png
-HOLLYWOOD,HOLLYWOOD,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_HOLLYWOOD_176x122.png
-France 24 (en Francais),France 24 (en Francais),https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FRANCE.png
-M+ La Resistencia,M+ La Resistencia,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/RESIST.png
-M+ DRAMA HD,M+ DRAMA HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPCOLE.png
-SQUIRREL,SQUIRREL,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SQUIRREL_176x122.png
-CLASSICA,CLASSICA,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CLASSD.png
-BabyTV,BabyTV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BABY.png
-Comedia atresplayer,Comedia atresplayer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedia%20atresplayer.png
-M+ LALIGA TV 2 HD,M+ LALIGA TV 2 HD,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_TV_2_176x122.png
-DAZN 3 HD,DAZN 3 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZN3.png
-FlixOlé 1,FlixOlé 1,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/FLIX1.png
-DIAL,DIAL,https://myradioonline.es/public/uploads/radio_img/cadena-dial/list_45.jpg
-M+ GOLF HD,M+ GOLF HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GOLF%2B.png
-M+ Liga de Campeones HDR,M+ Liga de Campeones HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHHDR.png
-El Hormiguero,El Hormiguero,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png
-AMC Living,AMC Living,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_LIVING_176x122
-ALQUILER HD,ALQUILER HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/HDTQ10.png
-PARAMOUNT NETWORK,PARAMOUNT NETWORK,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PARCH.png
-M+LCAMPEON5,M+LCAMPEON5,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP4.png
-ETB 2 HD,ETB 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB2.png
-LALIGA TV HYPERMOTION,LALIGA TV HYPERMOTION,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGS.png
-M+Cine Español,M+Cine Español,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DCESP.png
-Be Mad HD,Be Mad HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BEMAD.png
-NICKELODEONHD,NICKELODEONHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NICK.png
-DAZN 1 HD,DAZN 1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/M1SD.png
-M+DEPORTES6,M+DEPORTES6,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI8.png
-CANAL SUR A.,CANAL SUR A.,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ANTV.png
-Betis TV,Betis TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/BETISTV_176x122
-M+ SERIES 2 HD,M+ SERIES 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CPSER.png
-BBC SERIES,BBC SERIES,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBDRA.png
-DMAX,DMAX,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/DMAX_176x122
-DAZN Baloncesto 2,DAZN Baloncesto 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DAZB2.png
-Atreseries HD,Atreseries HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ATRESS.png
-Ubeat,Ubeat,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/UBEAT.png
-Europa FM,Europa FM,https://myradioonline.es/public/uploads/radio_img/europa-fm/list_45.jpg
-M+ Baloncesto 2,M+ Baloncesto 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALC2.png
-betevé,betevé,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BTV.png
-A Punt HD,A Punt HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/APUNT.png
-CADENA 100,CADENA 100,https://myradioonline.es/public/uploads/radio_img/cadena-100/list_45.jpg
-IB3,IB3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/IB3.png
-RNE Andalucía,RNE Andalucía,https://myradioonline.es/public/uploads/radio_img/radio-andalucia-informacion/list_45.jpg
-M+ LaLiga TV 9,M+ LaLiga TV 9,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIG8.png
-Canal de las estrellas,Canal de las estrellas,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/GALAV.png
-COMEDYCENTRALHD,COMEDYCENTRALHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/PCM.png
-AMC Anime,AMC Anime,https://cdn.sincroguia.tv/storage/images/d/7/6/xlogo-amc-anime-sincroguiatv.png.pagespeed.ic.rB3taSZjgb.png
-Flooxer,Flooxer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png
-Castilla la Mancha TV,Castilla la Mancha TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CASMAN.png
-Horse TV,Horse TV,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/HORSE_TV_176x122
-Flamenco Radio,Flamenco Radio,https://myradioonline.es/public/uploads/radio_img/flamenco-radio/list_45.jpg
-DIVINITY,DIVINITY,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/DIVINI.png
-TVG,TVG,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVGAL.png
-M+LCAMPEON8,M+LCAMPEON8,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP7.png
-M+LCAMPEON3,M+LCAMPEON3,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_3_176x122.png
-AMC CRIME,AMC CRIME,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_CRIME_176x122.png
-M+ LALIGA TV HD,M+ LALIGA TV HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGA.png
-Bloomberg Europe TV,Bloomberg Europe TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BL.png
-M+ LALIGA HDR,M+ LALIGA HDR,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MLIGUH.png
-TEN,TEN,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TEN.png
-EUROSPORT 2 HD,EUROSPORT 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ESP2.png
-VEO 7,VEO 7,
-M+ Vacaciones,M+ Vacaciones,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MVCIVA.png
-M+ VAMOSHD,M+ VAMOSHD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png
-La 2 HD,La 2 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png
-MEZZO,MEZZO,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MEZZO.png
-M+LCAMPEON18,M+LCAMPEON18,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAP18.png
-AMC BREAK,AMC BREAK,https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_BREAK_176x122.png
-TVGA HD EUROPA,TVGA HD EUROPA,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVG.png
-BBC EARTH,BBC EARTH,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/BBCEAR.png
-ETB 1 HD,ETB 1 HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ETB1.png
-M+ Baloncesto,M+ Baloncesto,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MBALCT.png
-Neox HD,Neox HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NEOX.png
-M+ CLÁSICOS HD,M+ CLÁSICOS HD,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MCLAS.png
-EXTREMADURA SAT,EXTREMADURA SAT,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/EXTREM.png
-Aragón TV,Aragón TV,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/ARAGTV.png
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz
++TELEVISIÓN.HD.uy,+TELEVISIÓN HD,https://www.reportv.com.ar/buscador/img/Logos/10174471.jpg
+26.TV.HD..uy,26 TV HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2433.svg
+26.TV.uy,26 TV,https://www.reportv.com.ar/buscador/img/Logos/19598961.jpg
+A&amp;E.MUNDO..uy,A&amp;E MUNDO,http://resources.nuevosiglo.com.uy/reportv/img/senales/167.svg
+A&amp;E.MUNDO.HD..uy,A&amp;E MUNDO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3059.svg
+A.and.E.MUNDO.HD.uy,A and E MUNDO HD,
+A24..uy,A24,
+A24.HD.uy,A24 HD,https://www.reportv.com.ar/buscador/img/Logos/48806494.jpg
+A3CINE..uy,A3CINE,http://resources.nuevosiglo.com.uy/reportv/img/senales/3627.svg
+ADRENALINA.SPORTS.NETWORK.HD.uy,ADRENALINA SPORTS NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/8808830.jpg
+ALLEGRO.HD..uy,ALLEGRO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3154.svg
+ALLEGRO.HD.uy,ALLEGRO HD,https://www.reportv.com.ar/buscador/img/Logos/1901324.jpg
+AMC..uy,AMC,
+AMC.HD..uy,AMC HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1250.svg
+AMC.HD.uy,AMC HD,https://www.reportv.com.ar/buscador/img/Logos/1901668.jpg
+AMERICA.2..uy,AMERICA 2,http://resources.nuevosiglo.com.uy/reportv/img/senales/943.svg
+AMERICA.SPORTS.uy,AMERICA SPORTS,https://www.reportv.com.ar/buscador/img/Logos/9241773.jpg
+AMERICA.TV.uy,AMERICA TV,https://www.reportv.com.ar/buscador/img/Logos/11515101.jpg
+ANIMAL.PLANET..uy,ANIMAL PLANET,
+ANIMAL.PLANET.HD..uy,ANIMAL PLANET HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4605.svg
+ANIMAL.PLANET.HD.uy,ANIMAL PLANET HD,https://www.reportv.com.ar/buscador/img/Logos/9181931.jpg
+ANTENA3.HD..uy,ANTENA3 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4256.svg
+ASPEN.uy,ASPEN,
+ATRESERIES..uy,ATRESERIES,http://resources.nuevosiglo.com.uy/reportv/img/senales/3149.svg
+AXN..uy,AXN,
+AXN.HD..uy,AXN HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1862.svg
+AXN.HD.uy,AXN HD,https://www.reportv.com.ar/buscador/img/Logos/2207703.jpg
+BABY.TV..uy,BABY TV,http://resources.nuevosiglo.com.uy/reportv/img/senales/695.svg
+BBC.NEWS..uy,BBC NEWS,http://resources.nuevosiglo.com.uy/reportv/img/senales/80.svg
+BBC.NEWS.HD..uy,BBC NEWS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5212.svg
+BLOOMBERG.HD.uy,BLOOMBERG HD,
+C5N..uy,C5N,http://resources.nuevosiglo.com.uy/reportv/img/senales/709.svg
+CAMPO.RURAL.TV.HD..uy,CAMPO RURAL TV HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/8222.svg
+CANAL.10.HD.uy,CANAL 10 HD,https://www.reportv.com.ar/buscador/img/Logos/1988476719.jpg
+CANAL.11.HD.uy,CANAL 11 HD,https://www.reportv.com.ar/buscador/img/Logos/1901907.jpg
+CANAL.12.HD.uy,CANAL 12 HD,https://www.reportv.com.ar/buscador/img/Logos/30158345.jpg
+CANAL.24.HS..uy,CANAL 24 HS,http://resources.nuevosiglo.com.uy/reportv/img/senales/281.svg
+CANAL.24.HS.uy,CANAL 24 HS,https://www.reportv.com.ar/buscador/img/Logos/3061075.jpg
+CANAL.33.uy,CANAL 33,
+CANAL.4.MONTECARLO..uy,CANAL 4 MONTECARLO,http://resources.nuevosiglo.com.uy/reportv/img/senales/1383.svg
+CANAL.5..uy,CANAL 5,http://resources.nuevosiglo.com.uy/reportv/img/senales/475.svg
+CANAL.7.HD.uy,CANAL 7 HD,https://www.reportv.com.ar/buscador/img/Logos/5751935.jpg
+CANAL.A.HD.uy,CANAL A HD,https://www.reportv.com.ar/buscador/img/Logos/4855914.jpg
+CANAL.EVENTOS.1001.uy,CANAL EVENTOS 1001,
+CANAL.EVENTOS.32.uy,CANAL EVENTOS 32,
+CANAL.LUZ.uy,CANAL LUZ,
+CANAL.RURAL.uy,CANAL RURAL,
+CANAL.VASCO..uy,CANAL VASCO,http://resources.nuevosiglo.com.uy/reportv/img/senales/273.svg
+CANAL.VASCO.HD..uy,CANAL VASCO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/8726.svg
+CANAL.VASCO.uy,CANAL VASCO,
+CARTOON.NETWORK..uy,CARTOON NETWORK,
+CARTOON.NETWORK.HD..uy,CARTOON NETWORK HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2845.svg
+CARTOON.NETWORK.HD.uy,CARTOON NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/9259654.jpg
+CARTOONITO..uy,CARTOONITO,http://resources.nuevosiglo.com.uy/reportv/img/senales/174.svg
+CARTOONITO.uy,CARTOONITO,
+CINECANAL..uy,CINECANAL,
+CINECANAL.HD..uy,CINECANAL HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3445.svg
+CINECANAL.HD.uy,CINECANAL HD,https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg
+CINEMAX..uy,CINEMAX,
+CINEMAX.HD..uy,CINEMAX HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3142.svg
+CINEMAX.HD.uy,CINEMAX HD,https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg
+CIUDAD.MAGAZINE..uy,CIUDAD MAGAZINE,http://resources.nuevosiglo.com.uy/reportv/img/senales/26.svg
+CIUDAD.MAGAZINE.HD..uy,CIUDAD MAGAZINE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3915.svg
+CLAROSPORTS..uy,CLAROSPORTS,http://resources.nuevosiglo.com.uy/reportv/img/senales/1906.svg
+CNN.EN.ESPAÑOL..uy,CNN EN ESPAÑOL,
+CNN.EN.ESPAÑOL.HD.uy,CNN EN ESPAÑOL HD,https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg
+CNN.HD.uy,CNN HD,https://www.reportv.com.ar/buscador/img/Logos/1901358.jpg
+COMEDY.CENTRAL.HD.uy,COMEDY CENTRAL HD,https://www.reportv.com.ar/buscador/img/Logos/9245617.jpg
+CONCERT.CHANNEL.HD.uy,CONCERT CHANNEL HD,
+CRONICA.TV..uy,CRONICA TV,http://resources.nuevosiglo.com.uy/reportv/img/senales/192.svg
+CRONICA.uy,CRONICA,https://www.reportv.com.ar/buscador/img/Logos/33228636.jpg
+DE.PELICULA.HD.uy,DE PELICULA HD,https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg
+DE.PELICULA.PLUS.HD.uy,DE PELICULA PLUS HD,https://www.reportv.com.ar/buscador/img/Logos/13177981.jpg
+DEUTSCHE.WELLE.ESPAÑOL..uy,DEUTSCHE WELLE ESPAÑOL,http://resources.nuevosiglo.com.uy/reportv/img/senales/16.svg
+DISCOVERY..uy,DISCOVERY,
+DISCOVERY.H.and.H.HD.uy,DISCOVERY H and H HD,https://www.reportv.com.ar/buscador/img/Logos/1990431831.jpg
+DISCOVERY.HD..uy,DISCOVERY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3066.svg
+DISCOVERY.HD.THEATER..uy,DISCOVERY HD THEATER,http://resources.nuevosiglo.com.uy/reportv/img/senales/1181.svg
+DISCOVERY.HD.uy,DISCOVERY HD,https://www.reportv.com.ar/buscador/img/Logos/10337979.jpg
+DISCOVERY.ID..uy,DISCOVERY ID,
+DISCOVERY.ID.HD..uy,DISCOVERY ID HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4902.svg
+DISCOVERY.ID.HD.uy,DISCOVERY ID HD,https://www.reportv.com.ar/buscador/img/Logos/12130531.jpg
+DISCOVERY.KIDS..uy,DISCOVERY KIDS,
+DISCOVERY.KIDS.HD..uy,DISCOVERY KIDS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3531.svg
+DISCOVERY.KIDS.HD.uy,DISCOVERY KIDS HD,
+DISCOVERY.KIDS.uy,DISCOVERY KIDS,
+DISCOVERY.SCIENCE.HD..uy,DISCOVERY SCIENCE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4704.svg
+DISCOVERY.SCIENCE.HD.uy,DISCOVERY SCIENCE HD,https://www.reportv.com.ar/buscador/img/Logos/1901665.jpg
+DISCOVERY.THEATER.HD.uy,DISCOVERY THEATER HD,https://www.reportv.com.ar/buscador/img/Logos/1901561.jpg
+DISCOVERY.TLC.HD..uy,DISCOVERY TLC HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4909.svg
+DISCOVERY.TLC.HD.uy,DISCOVERY TLC HD,https://www.reportv.com.ar/buscador/img/Logos/4099578.jpg
+DISCOVERY.TURBO.HD..uy,DISCOVERY TURBO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3223.svg
+DISCOVERY.TURBO.HD.uy,DISCOVERY TURBO HD,https://www.reportv.com.ar/buscador/img/Logos/1901403.jpg
+DISCOVERY.WORLD.HD..uy,DISCOVERY WORLD HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1389.svg
+DISCOVERY.WORLD.HD.uy,DISCOVERY WORLD HD,https://www.reportv.com.ar/buscador/img/Logos/1901309.jpg
+DISNEY..uy,DISNEY,
+DISNEY.HD..uy,DISNEY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4367.svg
+DISNEY.JR..uy,DISNEY JR,
+DISNEY.JR.HD.uy,DISNEY JR HD,https://www.reportv.com.ar/buscador/img/Logos/40184726.jpg
+DISNEY.uy,DISNEY,https://www.reportv.com.ar/buscador/img/Logos/1949431670.jpg
+DISTRITO.COMEDIA.HD.uy,DISTRITO COMEDIA HD,https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg
+DW.ESPAÑOL.HD.uy,DW ESPAÑOL HD,
+EL.GOURMET..uy,EL GOURMET,
+EL.GOURMET.HD..uy,EL GOURMET HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3244.svg
+EL.GOURMET.HD.uy,EL GOURMET HD,https://www.reportv.com.ar/buscador/img/Logos/27012035.jpg
+EL.TRECE.INTER.HD.uy,EL TRECE INTER HD,https://www.reportv.com.ar/buscador/img/Logos/53286837.jpg
+ENCUENTRO.uy,ENCUENTRO,https://www.reportv.com.ar/buscador/img/Logos/13136389.jpg
+ENTERTAINMENT.TELEVISION..uy,ENTERTAINMENT TELEVISION,http://resources.nuevosiglo.com.uy/reportv/img/senales/489.svg
+ENTERTAINMENT.TELEVISION.uy,ENTERTAINMENT TELEVISION,
+ESPN..uy,ESPN,
+ESPN.2..uy,ESPN 2,
+ESPN.2.HD..uy,ESPN 2 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/6199.svg
+ESPN.2.HD.uy,ESPN 2 HD,https://www.reportv.com.ar/buscador/img/Logos/12501501.jpg
+ESPN.3..uy,ESPN 3,
+ESPN.3.HD..uy,ESPN 3 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5252.svg
+ESPN.3.HD.uy,ESPN 3 HD,https://www.reportv.com.ar/buscador/img/Logos/12502468.jpg
+ESPN.4.HD..uy,ESPN 4 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1132.svg
+ESPN.4.HD.uy,ESPN 4 HD,https://www.reportv.com.ar/buscador/img/Logos/17771812.jpg
+ESPN.5..uy,ESPN 5,
+ESPN.5.HD..uy,ESPN 5 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2693.svg
+ESPN.5.HD.uy,ESPN 5 HD,https://www.reportv.com.ar/buscador/img/Logos/33802939.jpg
+ESPN.6..uy,ESPN 6,
+ESPN.6.HD..uy,ESPN 6 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5868.svg
+ESPN.6.HD.uy,ESPN 6 HD,https://www.reportv.com.ar/buscador/img/Logos/33803580.jpg
+ESPN.7..uy,ESPN 7,
+ESPN.7.HD..uy,ESPN 7 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3463.svg
+ESPN.7.HD.uy,ESPN 7 HD,https://www.reportv.com.ar/buscador/img/Logos/33803781.jpg
+ESPN.HD..uy,ESPN HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5254.svg
+ESPN.HD.uy,ESPN HD,https://www.reportv.com.ar/buscador/img/Logos/12502617.jpg
+EUROCHANNEL..uy,EUROCHANNEL,
+EUROCHANNEL.HD..uy,EUROCHANNEL HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4929.svg
+EUROCHANNEL.HD.uy,EUROCHANNEL HD,https://www.reportv.com.ar/buscador/img/Logos/2207705.jpg
+EUROPA.EUROPA..uy,EUROPA EUROPA,
+EUROPA.EUROPA.HD.uy,EUROPA EUROPA HD,https://www.reportv.com.ar/buscador/img/Logos/1901912.jpg
+EVENTOS.4.HD..uy,EVENTOS 4 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/8968.svg
+EVENTOS.DEPORTIVOS.2.HD.uy,EVENTOS DEPORTIVOS 2 HD,
+EWTN..uy,EWTN,http://resources.nuevosiglo.com.uy/reportv/img/senales/64.svg
+EWTN.uy,EWTN,https://www.reportv.com.ar/buscador/img/Logos/5967155.jpg
+FILM&amp;ARTS..uy,FILM&amp;ARTS,http://resources.nuevosiglo.com.uy/reportv/img/senales/63.svg
+FILM&amp;ARTS.HD..uy,FILM&amp;ARTS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3391.svg
+FILM.and.ARTS.HD.uy,FILM and ARTS HD,https://www.reportv.com.ar/buscador/img/Logos/2207706.jpg
+FOOD.NETWORK..uy,FOOD NETWORK,
+FOOD.NETWORK.HD.uy,FOOD NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/14264866.jpg
+FRANCE.24..uy,FRANCE 24,
+FRANCE.24.ESPAÑOL.HD.uy,FRANCE 24 ESPAÑOL HD,https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg
+FRANCE.24.INGLES.HD.uy,FRANCE 24 INGLES HD,https://www.reportv.com.ar/buscador/img/Logos/1901387.jpg
+FX..uy,FX,http://resources.nuevosiglo.com.uy/reportv/img/senales/426.svg
+FX.HD..uy,FX HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2040.svg
+FX.uy,FX,https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg
+GALICIA.TV..uy,GALICIA TV,http://resources.nuevosiglo.com.uy/reportv/img/senales/65.svg
+GALICIA.TV.uy,GALICIA TV,
+GOL.TV..uy,GOL TV,
+GOL.TV.HD.uy,GOL TV HD,
+GOLDEN.EDGE.HD.uy,GOLDEN EDGE HD,https://www.reportv.com.ar/buscador/img/Logos/12665570.jpg
+GOLDEN.HD.uy,GOLDEN HD,https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg
+GOLDEN.PLUS..uy,GOLDEN PLUS,
+GOLDEN.PLUS.HD.uy,GOLDEN PLUS HD,https://www.reportv.com.ar/buscador/img/Logos/12665595.jpg
+GOLDEN.PREMIER.HD..uy,GOLDEN PREMIER HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2527.svg
+H2..uy,H2,http://resources.nuevosiglo.com.uy/reportv/img/senales/2823.svg
+H2.HD..uy,H2 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3621.svg
+HBO..uy,HBO,
+HBO.2.HD..uy,HBO 2 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2684.svg
+HBO.2.HD.uy,HBO 2 HD,https://www.reportv.com.ar/buscador/img/Logos/1947707939.jpg
+HBO.FAMILY.HD..uy,HBO FAMILY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2687.svg
+HBO.FAMILY.HD.uy,HBO FAMILY HD,https://www.reportv.com.ar/buscador/img/Logos/13715717.jpg
+HBO.HD..uy,HBO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/875.svg
+HBO.HD.uy,HBO HD,https://www.reportv.com.ar/buscador/img/Logos/1901547.jpg
+HBO.MUNDI.HD..uy,HBO MUNDI HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1448.svg
+HBO.MUNDI.HD.uy,HBO MUNDI HD,https://www.reportv.com.ar/buscador/img/Logos/10973510.jpg
+HBO.PLUS.HD..uy,HBO PLUS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2686.svg
+HBO.PLUS.HD.uy,HBO PLUS HD,https://www.reportv.com.ar/buscador/img/Logos/9313202.jpg
+HBO.POP.HD..uy,HBO POP HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3927.svg
+HBO.POP.HD.uy,HBO POP HD,https://www.reportv.com.ar/buscador/img/Logos/10973525.jpg
+HBO.SIGNATURE.HD..uy,HBO SIGNATURE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/500.svg
+HBO.SIGNATURE.HD.uy,HBO SIGNATURE HD,https://www.reportv.com.ar/buscador/img/Logos/2035893.jpg
+HBO.XTREME.HD..uy,HBO XTREME HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2688.svg
+HBO.XTREME.HD.uy,HBO XTREME HD,https://www.reportv.com.ar/buscador/img/Logos/10973534.jpg
+HGTV..uy,HGTV,
+HGTV.HD.uy,HGTV HD,https://www.reportv.com.ar/buscador/img/Logos/11084226.jpg
+HISTORY..uy,HISTORY,
+HISTORY.2.HD.uy,HISTORY 2 HD,https://www.reportv.com.ar/buscador/img/Logos/19245039.jpg
+HISTORY.HD..uy,HISTORY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5201.svg
+HISTORY.HD.uy,HISTORY HD,https://www.reportv.com.ar/buscador/img/Logos/19233379.jpg
+HOLA.TV..uy,HOLA TV,
+HOLA.TV.HD.uy,HOLA TV HD,https://www.reportv.com.ar/buscador/img/Logos/1901645.jpg
+HOME.AND.HEALTH..uy,HOME AND HEALTH,http://resources.nuevosiglo.com.uy/reportv/img/senales/340.svg
+HOME.AND.HEALTH.HD..uy,HOME AND HEALTH HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2218.svg
+HTV.uy,HTV,
+KANAL.D.DRAMA..uy,KANAL D DRAMA,http://resources.nuevosiglo.com.uy/reportv/img/senales/4694.svg
+KANAL.D.HD.uy,KANAL D HD,
+LA.NACION.HD.uy,LA NACION HD,https://www.reportv.com.ar/buscador/img/Logos/2804005.jpg
+LA.RED.uy,LA RED,
+LAS.ESTRELLAS.HD..uy,LAS ESTRELLAS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2235.svg
+LAS.ESTRELLAS.HD.uy,LAS ESTRELLAS HD,
+LIFETIME..uy,LIFETIME,
+LIFETIME.HD.uy,LIFETIME HD,
+LN+..uy,LN+,http://resources.nuevosiglo.com.uy/reportv/img/senales/3644.svg
+MAGAZINE.HD.uy,MAGAZINE HD,https://www.reportv.com.ar/buscador/img/Logos/4634546.jpg
+MAROÑAS.HD.uy,MAROÑAS HD,https://www.reportv.com.ar/buscador/img/Logos/1901725.jpg
+MAS.CHIC..uy,MAS CHIC,
+MAS.CHIC.HD..uy,MAS CHIC HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3390.svg
+MAS.CHIC.HD.uy,MAS CHIC HD,https://www.reportv.com.ar/buscador/img/Logos/1986999948.jpg
+MONTECARLO.HD.uy,MONTECARLO HD,
+MTV..uy,MTV,http://resources.nuevosiglo.com.uy/reportv/img/senales/25.svg
+MTV.80S..uy,MTV 80S,http://resources.nuevosiglo.com.uy/reportv/img/senales/933.svg
+MTV.CLUB..uy,MTV CLUB,http://resources.nuevosiglo.com.uy/reportv/img/senales/726.svg
+MTV.HD..uy,MTV HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1244.svg
+MTV.HITS..uy,MTV HITS,http://resources.nuevosiglo.com.uy/reportv/img/senales/727.svg
+NAT.GEO.HD..uy,NAT GEO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2711.svg
+NATGEO.HD.uy,NATGEO HD,https://www.reportv.com.ar/buscador/img/Logos/22787567.jpg
+NATIONAL.GEOGRAPHIC..uy,NATIONAL GEOGRAPHIC,http://resources.nuevosiglo.com.uy/reportv/img/senales/463.svg
+NICK.JR..uy,NICK JR,http://resources.nuevosiglo.com.uy/reportv/img/senales/816.svg
+NICKELODEON..uy,NICKELODEON,
+NICKELODEON.HD.uy,NICKELODEON HD,https://www.reportv.com.ar/buscador/img/Logos/29400362.jpg
+NS.EVENTOS.1..uy,NS EVENTOS 1,http://resources.nuevosiglo.com.uy/reportv/img/senales/3253.svg
+NS.EVENTOS.2..uy,NS EVENTOS 2,http://resources.nuevosiglo.com.uy/reportv/img/senales/3254.svg
+NS.EVENTOS.2.HD..uy,NS EVENTOS 2 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3256.svg
+NS.EVENTOS.3..uy,NS EVENTOS 3,http://resources.nuevosiglo.com.uy/reportv/img/senales/3388.svg
+NS.EVENTOS.3.HD..uy,NS EVENTOS 3 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4930.svg
+NS.EVENTOS.HD..uy,NS EVENTOS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3255.svg
+NUEVO.SIGLO.TV..uy,NUEVO SIGLO TV,http://resources.nuevosiglo.com.uy/reportv/img/senales/3252.svg
+NUEVO.SIGLO.TV.HD..uy,NUEVO SIGLO TV HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5819.svg
+PARAMOUNT.NETWORK..uy,PARAMOUNT NETWORK,http://resources.nuevosiglo.com.uy/reportv/img/senales/2910.svg
+PARAMOUNT.NETWORK.HD..uy,PARAMOUNT NETWORK HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2908.svg
+PENTHOUSE..uy,PENTHOUSE,http://resources.nuevosiglo.com.uy/reportv/img/senales/3291.svg
+PLAYBOY..uy,PLAYBOY,
+PLAYBOY.ETIQUETA.uy,PLAYBOY ETIQUETA,https://www.reportv.com.ar/buscador/img/Logos/11084112.jpg
+PLIM.PLIM..uy,PLIM PLIM,http://resources.nuevosiglo.com.uy/reportv/img/senales/8010.svg
+PLIM.PLIM.uy,PLIM PLIM,https://www.reportv.com.ar/buscador/img/Logos/26835698.jpg
+QUIERO..uy,QUIERO,
+QUIERO.HD.uy,QUIERO HD,https://www.reportv.com.ar/buscador/img/Logos/9332822.jpg
+RAI..uy,RAI,
+RAI.HD.uy,RAI HD,
+RECORD..uy,RECORD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3913.svg
+REDE.RECORD.uy,REDE RECORD,
+REDE.TV..uy,REDE TV,
+REDE.TV.HD.uy,REDE TV HD,https://www.reportv.com.ar/buscador/img/Logos/10219720.jpg
+SAETA..uy,SAETA,http://resources.nuevosiglo.com.uy/reportv/img/senales/1387.svg
+SEXTREME..uy,SEXTREME,http://resources.nuevosiglo.com.uy/reportv/img/senales/3293.svg
+SONY..uy,SONY,
+SONY.HD..uy,SONY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1579.svg
+SONY.HD.uy,SONY HD,https://www.reportv.com.ar/buscador/img/Logos/29246853.jpg
+SONY.MOVIES.HD..uy,SONY MOVIES HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/7167.svg
+SPACE..uy,SPACE,
+SPACE.HD..uy,SPACE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4535.svg
+SPACE.HD.uy,SPACE HD,https://www.reportv.com.ar/buscador/img/Logos/1901753.jpg
+STAR.CHANNEL..uy,STAR CHANNEL,
+STAR.CHANNEL.HD..uy,STAR CHANNEL HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3064.svg
+STAR.CHANNEL.HD.uy,STAR CHANNEL HD,https://www.reportv.com.ar/buscador/img/Logos/13375784.jpg
+STUDIO.UNIVERSAL..uy,STUDIO UNIVERSAL,
+STUDIO.UNIVERSAL.HD..uy,STUDIO UNIVERSAL HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4110.svg
+STUDIO.UNIVERSAL.HD.uy,STUDIO UNIVERSAL HD,https://www.reportv.com.ar/buscador/img/Logos/3278483.jpg
+TCM..uy,TCM,http://resources.nuevosiglo.com.uy/reportv/img/senales/328.svg
+TCM.uy,TCM,https://www.reportv.com.ar/buscador/img/Logos/2023825.jpg
+TELEDOCE..uy,TELEDOCE,http://resources.nuevosiglo.com.uy/reportv/img/senales/483.svg
+TELEDOCE.HD..uy,TELEDOCE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2862.svg
+TELEFE.INTER..uy,TELEFE INTER,http://resources.nuevosiglo.com.uy/reportv/img/senales/149.svg
+TELEFE.INTERNACIONAL.HD.uy,TELEFE INTERNACIONAL HD,https://www.reportv.com.ar/buscador/img/Logos/8567050.jpg
+TELEHIT.HD.uy,TELEHIT HD,https://www.reportv.com.ar/buscador/img/Logos/12251538.jpg
+TELEHIT.MÚSICA.HD.uy,TELEHIT MÚSICA HD,https://www.reportv.com.ar/buscador/img/Logos/12164247.jpg
+TELEHIT.MÚSICA.PLUS.HD.uy,TELEHIT MÚSICA PLUS HD,https://www.reportv.com.ar/buscador/img/Logos/12164256.jpg
+TELEMUNDO..uy,TELEMUNDO,
+TELEMUNDO.HD..uy,TELEMUNDO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3070.svg
+TELEMUNDO.HD.uy,TELEMUNDO HD,https://www.reportv.com.ar/buscador/img/Logos/1901828.jpg
+TLC..uy,TLC,
+TLNOVELAS.HD.uy,TLNOVELAS HD,
+TN..uy,TN,
+TN.HD..uy,TN HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1847.svg
+TN.HD.uy,TN HD,https://www.reportv.com.ar/buscador/img/Logos/2437537.jpg
+TNT..uy,TNT,
+TNT.HD..uy,TNT HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4054.svg
+TNT.HD.uy,TNT HD,https://www.reportv.com.ar/buscador/img/Logos/1948572621.jpg
+TNT.NOVELAS..uy,TNT NOVELAS,http://resources.nuevosiglo.com.uy/reportv/img/senales/8200.svg
+TNT.NOVELAS.uy,TNT NOVELAS,
+TNT.SERIES..uy,TNT SERIES,
+TNT.SERIES.HD..uy,TNT SERIES HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3421.svg
+TNT.SERIES.HD.uy,TNT SERIES HD,https://www.reportv.com.ar/buscador/img/Logos/1948575575.jpg
+TOONCAST..uy,TOONCAST,
+TOONCAST.HD.uy,TOONCAST HD,https://www.reportv.com.ar/buscador/img/Logos/1901890.jpg
+TV.5.MONDE.HD..uy,TV 5 MONDE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5215.svg
+TV.5.uy,TV 5,
+TV.CIUDAD..uy,TV CIUDAD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1290.svg
+TV.CIUDAD.HD..uy,TV CIUDAD HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4523.svg
+TV.GLOBO.HD..uy,TV GLOBO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5222.svg
+TV.NACIONAL.HD.uy,TV NACIONAL HD,https://www.reportv.com.ar/buscador/img/Logos/52772661.jpg
+TV.PUBLICA.uy,TV PUBLICA,https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg
+TVE..uy,TVE,
+TVE.HD..uy,TVE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3181.svg
+TVE.HD.uy,TVE HD,
+TVN.CHILE..uy,TVN CHILE,
+TVN.CHILE.HD.uy,TVN CHILE HD,
+TYC.SPORTS..uy,TYC SPORTS,
+TYC.SPORTS.HD..uy,TYC SPORTS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1666.svg
+TYC.SPORTS.HD.uy,TYC SPORTS HD,https://www.reportv.com.ar/buscador/img/Logos/1992717886.jpg
+UNIVERSAL.CHANNEL..uy,UNIVERSAL CHANNEL,http://resources.nuevosiglo.com.uy/reportv/img/senales/465.svg
+UNIVERSAL.CHANNEL.HD..uy,UNIVERSAL CHANNEL HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1511.svg
+UNIVERSAL.CINEMA.HD..uy,UNIVERSAL CINEMA HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/6979.svg
+UNIVERSAL.CINEMA.HD.uy,UNIVERSAL CINEMA HD,https://www.reportv.com.ar/buscador/img/Logos/18749271.jpg
+UNIVERSAL.COMEDY.HD..uy,UNIVERSAL COMEDY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/6978.svg
+UNIVERSAL.COMEDY.HD.uy,UNIVERSAL COMEDY HD,https://www.reportv.com.ar/buscador/img/Logos/18749427.jpg
+UNIVERSAL.CRIME.HD..uy,UNIVERSAL CRIME HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/6980.svg
+UNIVERSAL.CRIME.HD.uy,UNIVERSAL CRIME HD,https://www.reportv.com.ar/buscador/img/Logos/18749487.jpg
+UNIVERSAL.HD.uy,UNIVERSAL HD,https://www.reportv.com.ar/buscador/img/Logos/8133117.jpg
+UNIVERSAL.PREMIERE.HD..uy,UNIVERSAL PREMIERE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/6981.svg
+UNIVERSAL.PREMIERE.HD.uy,UNIVERSAL PREMIERE HD,https://www.reportv.com.ar/buscador/img/Logos/18749541.jpg
+UNIVERSAL.REALITY.HD..uy,UNIVERSAL REALITY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/6982.svg
+UNIVERSAL.REALITY.HD.uy,UNIVERSAL REALITY HD,https://www.reportv.com.ar/buscador/img/Logos/1988476869.jpg
+UNIVISION.HD.uy,UNIVISION HD,
+USA.NETWORK..uy,USA NETWORK,
+USA.NETWORK.HD..uy,USA NETWORK HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/8328.svg
+USA.NETWORK.HD.uy,USA NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/29510821.jpg
+VENUS..uy,VENUS,
+VENUS.ETIQUETA.uy,VENUS ETIQUETA,https://www.reportv.com.ar/buscador/img/Logos/11276175.jpg
+VTV+.HD.uy,VTV+ HD,
+VTV..uy,VTV,
+VTV.HD..uy,VTV HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2925.svg
+VTV.HD.uy,VTV HD,
+VTV.PLUS..uy,VTV PLUS,http://resources.nuevosiglo.com.uy/reportv/img/senales/2368.svg
+VTV.PLUS.HD..uy,VTV PLUS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2926.svg
+WARNER..uy,WARNER,
+WARNER.HD..uy,WARNER HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3787.svg
+WARNER.HD.uy,WARNER HD,https://www.reportv.com.ar/buscador/img/Logos/1991260896.jpg
+WOOHOO.uy,WOOHOO,
+[ADCOHOL].DMX.Adult.Contemporary.Holiday.uy,[ADCOHOL] DMX Adult Contemporary Holiday,http://dtil.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&amp;h=270
+[ADSLA].Adult.Swim.uy,[ADSLA] Adult Swim,http://dtil.tmsimg.com/assets/s16496_ll_h15_ad.png?w=360&amp;h=270
+[AEMX].A&amp;E.uy,[AEMX] A&amp;E,http://dtil.tmsimg.com/assets/s10035_ll_h15_ab.png?w=360&amp;h=270
+[ALATINA].AUDIO.DLA.LATINA.uy,[ALATINA] AUDIO DLA LATINA,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[ALTERN].DMX:.Alternative.uy,[ALTERN] DMX: Alternative,http://dtil.tmsimg.com/assets/s19680_ll_h9_aa.png?w=360&amp;h=270
+[AMCMEX].AMC.uy,[AMCMEX] AMC,http://dtil.tmsimg.com/assets/s90653_ll_h15_ad.png?w=360&amp;h=270
+[AMETVA].América.TV.uy,[AMETVA] América TV,http://dtil.tmsimg.com/assets/s16395_ll_h15_ac.png?w=360&amp;h=270
+[AMSAT].América.Tv.uy,[AMSAT] América Tv,http://dtil.tmsimg.com/assets/s16395_ll_h15_ac.png?w=360&amp;h=270
+[ANIPL].Animal.Planet.uy,[ANIPL] Animal Planet,http://dtil.tmsimg.com/assets/s18649_ll_h15_af.png?w=360&amp;h=270
+[ANT3I].Antena.3.Internacional.uy,[ANT3I] Antena 3 Internacional,http://dtil.tmsimg.com/assets/s16800_ll_h9_ab.png?w=360&amp;h=270
+[ATRESSD].Atreseries.uy,[ATRESSD] Atreseries,http://dtil.tmsimg.com/assets/s90917_ll_h15_ac.png?w=360&amp;h=270
+[AXNARG].AXN.uy,[AXNARG] AXN,http://dtil.tmsimg.com/assets/s17484_ll_h15_ab.png?w=360&amp;h=270
+[AXNHD].AXN.uy,[AXNHD] AXN,http://dtil.tmsimg.com/assets/s72534_ll_h15_ab.png?w=360&amp;h=270
+[BABYTVL].Baby.Tv.uy,[BABYTVL] Baby Tv,http://dtil.tmsimg.com/assets/s56036_ll_h15_ab.png?w=360&amp;h=270
+[BBCASP].BBC.News.uy,[BBCASP] BBC News,http://dtil.tmsimg.com/assets/s107709_ll_h15_ab.png?w=360&amp;h=270
+[BBCWDNA].BBC.News.(North.America).uy,[BBCWDNA] BBC News (North America),http://dtil.tmsimg.com/assets/s89542_ll_h15_ab.png?w=360&amp;h=270
+[BLOOMI].Bloomberg.Tv.uy,[BLOOMI] Bloomberg Tv,http://dtil.tmsimg.com/assets/s14755_ll_h15_ab.png?w=360&amp;h=270
+[C5NARG].C5N.uy,[C5NARG] C5N,http://dtil.tmsimg.com/assets/s75994_ll_h15_aa.png?w=360&amp;h=270
+[CABLENO].CABLENOTICIAS.uy,[CABLENO] CABLENOTICIAS,http://dtil.tmsimg.com/assets/s37483_ll_h9_aa.png?w=360&amp;h=270
+[CABTELE].Telemundo.Internacional.uy,[CABTELE] Telemundo Internacional,http://dtil.tmsimg.com/assets/s64835_ll_h15_ac.png?w=360&amp;h=270
+[CALUZ].Canal.Luz.uy,[CALUZ] Canal Luz,http://dtil.tmsimg.com/assets/s77367_ll_h15_aa.png?w=360&amp;h=270
+[CAMPOTV].Campo.Rural.Tv.uy,[CAMPOTV] Campo Rural Tv,http://dtil.tmsimg.com/assets/s120284_ll_h9_aa.png?w=360&amp;h=270
+[CAN24].Canal.24.Horas.HD.uy,[CAN24] Canal 24 Horas HD,http://dtil.tmsimg.com/assets/s20742_ll_h9_aa.png?w=360&amp;h=270
+[CAN26SD].Canal.26.uy,[CAN26SD] Canal 26,http://dtil.tmsimg.com/assets/s103103_ll_h15_ab.png?w=360&amp;h=270
+[CARAI].CARACOL.INTERNATIONAL.uy,[CARAI] CARACOL INTERNATIONAL,http://dtil.tmsimg.com/assets/s39719_ll_h15_ab.png?w=360&amp;h=270
+[CARA].Caracol.TV.Canal.1.uy,[CARA] Caracol TV Canal 1,http://dtil.tmsimg.com/assets/s18567_ll_h15_ab.png?w=360&amp;h=270
+[CARTOAM].Cartoonito.uy,[CARTOAM] Cartoonito,http://dtil.tmsimg.com/assets/s26089_ll_h15_ac.png?w=360&amp;h=270
+[CARTOM].Cartoonito.uy,[CARTOM] Cartoonito,http://dtil.tmsimg.com/assets/s26089_ll_h15_ac.png?w=360&amp;h=270
+[CCANAL].Cinecanal.uy,[CCANAL] Cinecanal,http://dtil.tmsimg.com/assets/s105609_ll_h15_aa.png?w=360&amp;h=270
+[CGTNE].CGTN.Español.uy,[CGTNE] CGTN Español,http://dtil.tmsimg.com/assets/s44479_ll_h15_ab.png?w=360&amp;h=270
+[CHATV].Chacra.TV.uy,[CHATV] Chacra TV,http://dtil.tmsimg.com/assets/s139926_ll_h15_aa.png?w=360&amp;h=270
+[CINL].Cine.Latino.uy,[CINL] Cine Latino,http://dtil.tmsimg.com/assets/s15296_ll_h9_ab.png?w=360&amp;h=270
+[CLASSRB].DMX:.Classic.R&amp;B.uy,[CLASSRB] DMX: Classic R&amp;B,http://dtil.tmsimg.com/assets/s19347_ll_h9_aa.png?w=360&amp;h=270
+[CLSINST].AUDIO.DLA.CLASICOS.INSTRUMENTALES.uy,[CLSINST] AUDIO DLA CLASICOS INSTRUMENTALES,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[CNLDHE].Canal.DHE.uy,[CNLDHE] Canal DHE,http://dtil.tmsimg.com/assets/s81622_ll_h15_aa.png?w=360&amp;h=270
+[CNNCH].CNN.Chile.uy,[CNNCH] CNN Chile,http://dtil.tmsimg.com/assets/s104408_ll_h15_aa.png?w=360&amp;h=270
+[CNNL].CNN.En.Español.uy,[CNNL] CNN En Español,http://dtil.tmsimg.com/assets/s17054_ll_h15_ab.png?w=360&amp;h=270
+[CNUR].Union.Radio.Noticias.uy,[CNUR] Union Radio Noticias,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[COMCELA].Comedy.Central.uy,[COMCELA] Comedy Central,http://dtil.tmsimg.com/assets/s76326_ll_h15_ab.png?w=360&amp;h=270
+[CRON].Cronica.TV.uy,[CRON] Cronica TV,http://dtil.tmsimg.com/assets/s16258_ll_h15_ab.png?w=360&amp;h=270
+[CRU].Canal.Rural.uy,[CRU] Canal Rural,http://dtil.tmsimg.com/assets/s38704_ll_h15_ab.png?w=360&amp;h=270
+[CTIEMPO].El.Tiempo.Televisión.uy,[CTIEMPO] El Tiempo Televisión,http://dtil.tmsimg.com/assets/s79980_ll_h15_aa.png?w=360&amp;h=270
+[CXB10].CANAL.10.uy,[CXB10] CANAL 10,http://dtil.tmsimg.com/assets/s82021_ll_h15_aa.png?w=360&amp;h=270
+[DEP1300].Deportiva.1300.uy,[DEP1300] Deportiva 1300,http://dtil.tmsimg.com/assets/s75773_ll_h15_aa.png?w=360&amp;h=270
+[DEPEL].De.Película.uy,[DEPEL] De Película,http://dtil.tmsimg.com/assets/s16288_ll_h15_ac.png?w=360&amp;h=270
+[DHEALM].Discovery.Home.&amp;.Health.uy,[DHEALM] Discovery Home &amp; Health,http://dtil.tmsimg.com/assets/s24424_ll_h15_ae.png?w=360&amp;h=270
+[DISCCH].Discovery.Channel.uy,[DISCCH] Discovery Channel,http://dtil.tmsimg.com/assets/s15798_ll_h15_ae.png?w=360&amp;h=270
+[DISNJMX].Disney.Junior.uy,[DISNJMX] Disney Junior,http://dtil.tmsimg.com/assets/s60506_ll_h15_ab.png?w=360&amp;h=270
+[DISNLS].Disney.Channel.uy,[DISNLS] Disney Channel,http://dtil.tmsimg.com/assets/s41223_ll_h15_aa.png?w=360&amp;h=270
+[DKNLAEH].Discovery.Kids.uy,[DKNLAEH] Discovery Kids,http://dtil.tmsimg.com/assets/s90849_ll_h15_aa.png?w=360&amp;h=270
+[DKNLM].Discovery.Kids.uy,[DKNLM] Discovery Kids,http://dtil.tmsimg.com/assets/s16680_ll_h15_ab.png?w=360&amp;h=270
+[DLADANC].AUDIO.DLA.DANCE.uy,[DLADANC] AUDIO DLA DANCE,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[DLAHOTH].AUDIO.DLA.HOT.HITS.uy,[DLAHOTH] AUDIO DLA HOT HITS,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[DLALOVE].AUDIO.DLA.LOVE.MUSIC.uy,[DLALOVE] AUDIO DLA LOVE MUSIC,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[DLAMEX].AUDIO.DLA.REGIONAL.MEXICAN.uy,[DLAMEX] AUDIO DLA REGIONAL MEXICAN,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[DLASALS].AUDIO.DLA.SALSA.uy,[DLASALS] AUDIO DLA SALSA,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[DSTRESP].Daystar.Español.uy,[DSTRESP] Daystar Español,http://dtil.tmsimg.com/assets/s132423_ll_h15_aa.png?w=360&amp;h=270
+[DT2SPT].DirecTV2.Sports.uy,[DT2SPT] DirecTV2 Sports,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[DTHLIHD].Discovery.Theater.HD.uy,[DTHLIHD] Discovery Theater HD,http://dtil.tmsimg.com/assets/s65940_ll_h15_ab.png?w=360&amp;h=270
+[DTURBOL].Discovery.Turbo.uy,[DTURBOL] Discovery Turbo,http://dtil.tmsimg.com/assets/s46608_ll_h15_aa.png?w=360&amp;h=270
+[DTVGEN].DirecTV.Generic.uy,[DTVGEN] DirecTV Generic,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[DWEUR].DW.uy,[DWEUR] DW,http://dtil.tmsimg.com/assets/s79318_ll_h15_ab.png?w=360&amp;h=270
+[DWLA].DW.en.español.uy,[DWLA] DW en español,http://dtil.tmsimg.com/assets/s64230_ll_h15_ag.png?w=360&amp;h=270
+[DWRLDHD].Discovery.World.uy,[DWRLDHD] Discovery World,http://dtil.tmsimg.com/assets/s66488_ll_h15_aa.png?w=360&amp;h=270
+[ENCU].Encuentro.uy,[ENCU] Encuentro,http://dtil.tmsimg.com/assets/s75767_ll_h15_ab.png?w=360&amp;h=270
+[ENLACE].ENLACE.TV.uy,[ENLACE] ENLACE TV,http://dtil.tmsimg.com/assets/s20286_ll_h15_ab.png?w=360&amp;h=270
+[EPN2HAA].ESPN2.Argentina.uy,[EPN2HAA] ESPN2 Argentina,http://dtil.tmsimg.com/assets/s17725_ll_h15_ac.png?w=360&amp;h=270
+[ESHUSTL].Hustler.TV.uy,[ESHUSTL] Hustler TV,http://dtil.tmsimg.com/assets/s102775_ll_h15_ab.png?w=360&amp;h=270
+[ESP2LS].ESPN.2.uy,[ESP2LS] ESPN 2,http://dtil.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&amp;h=270
+[ESP2ME].ESPN.2.uy,[ESP2ME] ESPN 2,http://dtil.tmsimg.com/assets/s88735_ll_h15_ac.png?w=360&amp;h=270
+[ESPN3].ESPN3.uy,[ESPN3] ESPN3,http://dtil.tmsimg.com/assets/s73833_ll_h15_aa.png?w=360&amp;h=270
+[ESPN5SD].ESPN.5.uy,[ESPN5SD] ESPN 5,http://dtil.tmsimg.com/assets/s90856_ll_h15_ac.png?w=360&amp;h=270
+[ESPN5SH].ESPN.5.uy,[ESPN5SH] ESPN 5,http://dtil.tmsimg.com/assets/s122027_ll_h15_ab.png?w=360&amp;h=270
+[ESPN6SD].ESPN.6.uy,[ESPN6SD] ESPN 6,http://dtil.tmsimg.com/assets/s124752_ll_h15_ab.png?w=360&amp;h=270
+[ESPN7SS].ESPN.7.uy,[ESPN7SS] ESPN 7,http://dtil.tmsimg.com/assets/s73935_ll_h15_ac.png?w=360&amp;h=270
+[ETVLN].E!.Entertainment.TV.uy,[ETVLN] E! Entertainment TV,http://dtil.tmsimg.com/assets/s30259_ll_h15_aa.png?w=360&amp;h=270
+[EUROPA].Europa.Europa.uy,[EUROPA] Europa Europa,http://dtil.tmsimg.com/assets/s27741_ll_h15_aa.png?w=360&amp;h=270
+[EWTNL].EWTN.Latin.America.uy,[EWTNL] EWTN Latin America,http://dtil.tmsimg.com/assets/s16350_ll_h9_ab.png?w=360&amp;h=270
+[EXITO70].Audio.DLA.Éxitos.de.los.70.uy,[EXITO70] Audio DLA Éxitos de los 70,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[EXITO80].Audio.DLA.Éxitos.de.los.80.uy,[EXITO80] Audio DLA Éxitos de los 80,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[EXITO90].Audio.DLA.Éxitos.de.los.90.uy,[EXITO90] Audio DLA Éxitos de los 90,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[FABL].Film.&amp;.Arts.uy,[FABL] Film &amp; Arts,http://dtil.tmsimg.com/assets/s87687_ll_h15_aa.png?w=360&amp;h=270
+[FIGHTNO].Fight.Sports.uy,[FIGHTNO] Fight Sports,http://dtil.tmsimg.com/assets/s100285_ll_h9_aa.png?w=360&amp;h=270
+[FOODLA].Food.Network.uy,[FOODLA] Food Network,http://dtil.tmsimg.com/assets/s91919_ll_h15_aa.png?w=360&amp;h=270
+[FXL].FX.uy,[FXL] FX,http://dtil.tmsimg.com/assets/s46442_ll_h15_aa.png?w=360&amp;h=270
+[GLDENEH].Golden.uy,[GLDENEH] Golden,http://dtil.tmsimg.com/assets/s50709_ll_h15_aa.png?w=360&amp;h=270
+[GOLDEDG].Golden.Edge.uy,[GOLDEDG] Golden Edge,http://dtil.tmsimg.com/assets/s16423_ll_h15_ac.png?w=360&amp;h=270
+[GOLFLA].The.Golf.Channel.Latinoamerica.uy,[GOLFLA] The Golf Channel Latinoamerica,http://dtil.tmsimg.com/assets/s61033_ll_h15_ab.png?w=360&amp;h=270
+[GOLF].Golf.Channel.uy,[GOLF] Golf Channel,http://dtil.tmsimg.com/assets/GNLZZGG002RFK1J.png?w=360&amp;h=270
+[GOLTVL].GolTV.Latin.America.uy,[GOLTVL] GolTV Latin America,http://dtil.tmsimg.com/assets/s54541_ll_h15_aa.png?w=360&amp;h=270
+[GOURMETN].El.Gourmet.uy,[GOURMETN] El Gourmet,http://dtil.tmsimg.com/assets/s25553_ll_h15_ad.png?w=360&amp;h=270
+[H2LAME].History.2.uy,[H2LAME] History 2,http://dtil.tmsimg.com/assets/s80374_ll_h15_ae.png?w=360&amp;h=270
+[HBO2EHD].HBO.2.uy,[HBO2EHD] HBO 2,http://dtil.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&amp;h=270
+[HBO2ENG].HBO.2.uy,[HBO2ENG] HBO 2,http://dtil.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&amp;h=270
+[HBO2LA].HBO.2.uy,[HBO2LA] HBO 2,http://dtil.tmsimg.com/assets/s68140_ll_h15_ad.png?w=360&amp;h=270
+[HBOFAME].HBO.Family.uy,[HBOFAME] HBO Family,http://dtil.tmsimg.com/assets/s34879_ll_h15_ae.png?w=360&amp;h=270
+[HBOLAT].HBO.Latino.uy,[HBOLAT] HBO Latino,http://dtil.tmsimg.com/assets/s24553_ll_h9_ab.png?w=360&amp;h=270
+[HBOL].HBO.uy,[HBOL] HBO,http://dtil.tmsimg.com/assets/s12288_ll_h15_ab.png?w=360&amp;h=270
+[HBOSLA].HBO.Signature.uy,[HBOSLA] HBO Signature,http://dtil.tmsimg.com/assets/s80120_ll_h15_ac.png?w=360&amp;h=270
+[HBOXMXE].HBO.Xtreme.uy,[HBOXMXE] HBO Xtreme,http://dtil.tmsimg.com/assets/s80211_ll_h15_ab.png?w=360&amp;h=270
+[HCLI].History.uy,[HCLI] History,http://dtil.tmsimg.com/assets/s40137_ll_h15_ac.png?w=360&amp;h=270
+[HGTVLAS].HGTV.uy,[HGTVLAS] HGTV,http://dtil.tmsimg.com/assets/s111055_ll_h15_aa.png?w=360&amp;h=270
+[HOLALA].¡HOLA!.TV.uy,[HOLALA] ¡HOLA! TV,http://dtil.tmsimg.com/assets/s82970_ll_h15_aa.png?w=360&amp;h=270
+[IDA].ID.uy,[IDA] ID,http://dtil.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&amp;h=270
+[IDLE].ID.uy,[IDLE] ID,http://dtil.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&amp;h=270
+[IDM].ID.uy,[IDM] ID,http://dtil.tmsimg.com/assets/s25743_ll_h15_ac.png?w=360&amp;h=270
+[IVCVENE].IVC.uy,[IVCVENE] IVC,http://dtil.tmsimg.com/assets/s97002_ll_h15_aa.png?w=360&amp;h=270
+[IVNETHD].IVC.Net.HD.uy,[IVNETHD] IVC Net HD,http://dtil.tmsimg.com/assets/s97002_ll_h15_aa.png?w=360&amp;h=270
+[JAZZ].DMX:.Jazz.uy,[JAZZ] DMX: Jazz,http://dtil.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&amp;h=270
+[JZZVCL].DMX:.Jazz.Vocal.Blends.uy,[JZZVCL] DMX: Jazz Vocal Blends,http://dtil.tmsimg.com/assets/s19799_ll_h9_aa.png?w=360&amp;h=270
+[KZOAR].KZO.uy,[KZOAR] KZO,http://dtil.tmsimg.com/assets/s151525_ll_h15_aa.png?w=360&amp;h=270
+[LIFELC].Lifetime.uy,[LIFELC] Lifetime,http://dtil.tmsimg.com/assets/s89197_ll_h15_ab.png?w=360&amp;h=270
+[MASCHIC].Mas.Chic.uy,[MASCHIC] Mas Chic,http://dtil.tmsimg.com/assets/GNLZZGG002GM3XT.png?w=360&amp;h=270
+[MIX750].DMX.Mix.750.uy,[MIX750] DMX Mix 750,http://dtil.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&amp;h=270
+[MONTTV].Canal.4.uy,[MONTTV] Canal 4,http://dtil.tmsimg.com/assets/s75990_ll_h15_ac.png?w=360&amp;h=270
+[MTOPHD].Music.Top.uy,[MTOPHD] Music Top,http://dtil.tmsimg.com/assets/s109487_ll_h15_aa.png?w=360&amp;h=270
+[MTVL].MTV.uy,[MTVL] MTV,http://dtil.tmsimg.com/assets/s12712_ll_h15_ab.png?w=360&amp;h=270
+[MUNMEX].HBO.Mundi.uy,[MUNMEX] HBO Mundi,http://dtil.tmsimg.com/assets/s70081_ll_h15_ab.png?w=360&amp;h=270
+[MUSICAM].AUDIO.DLA.MÚSICA.DE.LAS.AMÉRI.uy,[MUSICAM] AUDIO DLA MÚSICA DE LAS AMÉRI,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[MUSTROP].AUDIO.DLA.MÚSICA.TROPICAL.uy,[MUSTROP] AUDIO DLA MÚSICA TROPICAL,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[NACPSD].LN+.uy,[NACPSD] LN+,http://dtil.tmsimg.com/assets/s101238_ll_h15_aa.png?w=360&amp;h=270
+[NEWAGES].AUDIO.DLA.NEW.AGE.uy,[NEWAGES] AUDIO DLA NEW AGE,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[NEWSMIX].DIRECTV.NEWS.MIX.uy,[NEWSMIX] DIRECTV NEWS MIX,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[NGCARG].National.Geographic.uy,[NGCARG] National Geographic,http://dtil.tmsimg.com/assets/s25068_ll_h15_ab.png?w=360&amp;h=270
+[NGCLA].National.Geographic.uy,[NGCLA] National Geographic,http://dtil.tmsimg.com/assets/s25068_ll_h15_ab.png?w=360&amp;h=270
+[NHKL].NHK.TV.World.Premium.uy,[NHKL] NHK TV World Premium,http://dtil.tmsimg.com/assets/s19733_ll_h9_ab.png?w=360&amp;h=270
+[NICKJLM].Nick.Jr..uy,[NICKJLM] Nick Jr.,http://dtil.tmsimg.com/assets/s60295_ll_h15_aa.png?w=360&amp;h=270
+[NICKJMH].Nick.Jr..uy,[NICKJMH] Nick Jr.,http://dtil.tmsimg.com/assets/s60295_ll_h15_aa.png?w=360&amp;h=270
+[NIKL].Nick.uy,[NIKL] Nick,http://dtil.tmsimg.com/assets/s16707_ll_h15_ac.png?w=360&amp;h=270
+[NTN24].NTN24.uy,[NTN24] NTN24,http://dtil.tmsimg.com/assets/s61988_ll_h15_ac.png?w=360&amp;h=270
+[NUEVOPE].NUEVO.TIEMPO.uy,[NUEVOPE] NUEVO TIEMPO,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[ONDTHS].OnDIRECTV.HD.(South).uy,[ONDTHS] OnDIRECTV HD (South),http://dtil.tmsimg.com/assets/s107423_ll_h15_aa.png?w=360&amp;h=270
+[OPERADL].AUDIO.DLA.OPERA.uy,[OPERADL] AUDIO DLA OPERA,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[ORBE21].Canal.Orbe.21.uy,[ORBE21] Canal Orbe 21,http://dtil.tmsimg.com/assets/s94955_ll_h15_aa.png?w=360&amp;h=270
+[ORQUEST].AUDIO.DLA.GRANDES.ORQUESTAS.uy,[ORQUEST] AUDIO DLA GRANDES ORQUESTAS,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[PARAMNT].Paramount.Network.uy,[PARAMNT] Paramount Network,http://dtil.tmsimg.com/assets/s106215_ll_h15_aa.png?w=360&amp;h=270
+[PASNLA].Pasiones.TV.Latin.America.uy,[PASNLA] Pasiones TV Latin America,http://dtil.tmsimg.com/assets/s71621_ll_h15_aa.png?w=360&amp;h=270
+[PLAYL].Playboy.TV.Latin.America.uy,[PLAYL] Playboy TV Latin America,http://dtil.tmsimg.com/assets/s16788_ll_h15_aa.png?w=360&amp;h=270
+[POPLA].HBO.Pop.uy,[POPLA] HBO Pop,http://dtil.tmsimg.com/assets/s68134_ll_h15_ab.png?w=360&amp;h=270
+[POPLEH].HBO.Pop.uy,[POPLEH] HBO Pop,http://dtil.tmsimg.com/assets/s68134_ll_h15_ab.png?w=360&amp;h=270
+[POPMX].HBO.POP.uy,[POPMX] HBO POP,http://dtil.tmsimg.com/assets/s68134_ll_h15_ab.png?w=360&amp;h=270
+[PXSP].PX.Sports.uy,[PXSP] PX Sports,http://dtil.tmsimg.com/assets/s72625_ll_h15_ab.png?w=360&amp;h=270
+[QMMIHD].Quiero.Mi.Musica.en.Mi.Idioma.HD.uy,[QMMIHD] Quiero Mi Musica en Mi Idioma HD,http://dtil.tmsimg.com/assets/s75978_ll_h15_ac.png?w=360&amp;h=270
+[RAIIS].Rai.Italia.uy,[RAIIS] Rai Italia,http://dtil.tmsimg.com/assets/s75785_ll_h15_aa.png?w=360&amp;h=270
+[RCARA].Radio.Caracol.uy,[RCARA] Radio Caracol,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[RCKPESA].AUDIO.DLA.ROCK.PESADO.uy,[RCKPESA] AUDIO DLA ROCK PESADO,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[RDISCO].DMX:.Riviera.Discotheque.uy,[RDISCO] DMX: Riviera Discotheque,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[REDEGL].Globo.uy,[REDEGL] Globo,http://dtil.tmsimg.com/assets/s42206_ll_h15_cc.png?w=360&amp;h=270
+[REGTON].Audio.DLA.Reggaeton.uy,[REGTON] Audio DLA Reggaeton,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[RFIRAD].RFI.uy,[RFIRAD] RFI,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[RGTI2].Rede.Globo.INTL.2.uy,[RGTI2] Rede Globo INTL 2,http://dtil.tmsimg.com/assets/s50798_ll_h15_cc.png?w=360&amp;h=270
+[ROCKCLS].AUDIO.DLA.ROCK.CLÁSICO.uy,[ROCKCLS] AUDIO DLA ROCK CLÁSICO,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[RTPI].RTPi.RadioTV.Portuguesa.Int’l.uy,[RTPI] RTPi RadioTV Portuguesa Int’l,http://dtil.tmsimg.com/assets/GNLZZGG0031EHF2.png?w=360&amp;h=270
+[RURAL].Canal.Rural.uy,[RURAL] Canal Rural,http://dtil.tmsimg.com/assets/s20402_ll_h15_aa.png?w=360&amp;h=270
+[SCNN].SPAN.CNN.uy,[SCNN] SPAN CNN,http://dtil.tmsimg.com/assets/s10142_ll_h15_aa.png?w=360&amp;h=270
+[SETARGE].Canal.Sony.uy,[SETARGE] Canal Sony,http://dtil.tmsimg.com/assets/s58390_ll_h15_aa.png?w=360&amp;h=270
+[SFTHITS].DMX:.Soft.Hits.uy,[SFTHITS] DMX: Soft Hits,http://dtil.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&amp;h=270
+[SINFON].AUDIO.DLA.SINFONICA.uy,[SINFON] AUDIO DLA SINFONICA,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[SINGERS].AUDIO.DLA.GREAT.STANDARDS.uy,[SINGERS] AUDIO DLA GREAT STANDARDS,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
+[SONYHD].Sony.Movie.Channel.HD.uy,[SONYHD] Sony Movie Channel HD,http://dtil.tmsimg.com/assets/s69130_ll_h15_ab.png?w=360&amp;h=270
+[SPACES].Space.uy,[SPACES] Space,http://dtil.tmsimg.com/assets/s16499_ll_h15_aa.png?w=360&amp;h=270
+[SPACMHD].Space.uy,[SPACMHD] Space,http://dtil.tmsimg.com/assets/s68021_ll_h15_aa.png?w=360&amp;h=270
+[SPOARHD].DSports.Argentina.HD.uy,[SPOARHD] DSports Argentina HD,http://dtil.tmsimg.com/assets/s109752_ll_h15_ab.png?w=360&amp;h=270
+[SPOPLH].DSports.+.HD.uy,[SPOPLH] DSports + HD,http://dtil.tmsimg.com/assets/s107455_ll_h15_ad.png?w=360&amp;h=270
+[STARG].Star.Channel.uy,[STARG] Star Channel,http://dtil.tmsimg.com/assets/s75423_ll_h15_ac.png?w=360&amp;h=270
+[STULM].Studio.Universal.uy,[STULM] Studio Universal,http://dtil.tmsimg.com/assets/s29017_ll_h15_aa.png?w=360&amp;h=270
+[TEFEI].Telefe.Internacional.uy,[TEFEI] Telefe Internacional,http://dtil.tmsimg.com/assets/s100066_ll_h15_ad.png?w=360&amp;h=270
+[TELED].TELEDOCE.uy,[TELED] TELEDOCE,http://dtil.tmsimg.com/assets/s81466_ll_h15_ab.png?w=360&amp;h=270
+[TLCLASP].TLC.uy,[TLCLASP] TLC,http://dtil.tmsimg.com/assets/s73822_ll_h15_ae.png?w=360&amp;h=270
+[TLNOVEL].TLNovelas.uy,[TLNOVEL] TLNovelas,http://dtil.tmsimg.com/assets/s37232_ll_h15_ab.png?w=360&amp;h=270
+[TNTLC].TNT.uy,[TNTLC] TNT,http://dtil.tmsimg.com/assets/s71148_ll_h15_ag.png?w=360&amp;h=270
+[TNTSER].TNT.Series.uy,[TNTSER] TNT Series,http://dtil.tmsimg.com/assets/s91993_ll_h15_ab.png?w=360&amp;h=270
+[TODONOT].TODO.NOTICIAS.uy,[TODONOT] TODO NOTICIAS,http://dtil.tmsimg.com/assets/s42507_ll_h15_aa.png?w=360&amp;h=270
+[TOONARG].Cartoon.Network.uy,[TOONARG] Cartoon Network,http://dtil.tmsimg.com/assets/s59562_ll_h15_aa.png?w=360&amp;h=270
+[TVCIUD].Tv.Ciudad.uy,[TVCIUD] Tv Ciudad,http://dtil.tmsimg.com/assets/s82025_ll_h15_ab.png?w=360&amp;h=270
+[TVNI].TV.Chile.uy,[TVNI] TV Chile,http://dtil.tmsimg.com/assets/s16046_ll_h15_ab.png?w=360&amp;h=270
+[TVNUR].Televisión.Nacional.Uruguaya.uy,[TVNUR] Televisión Nacional Uruguaya,http://dtil.tmsimg.com/assets/s81976_ll_h15_ab.png?w=360&amp;h=270
+[TVN].TVN.uy,[TVN] TVN,http://dtil.tmsimg.com/assets/s16526_ll_h15_ab.png?w=360&amp;h=270
+[TYC].TyC.Sports.uy,[TYC] TyC Sports,http://dtil.tmsimg.com/assets/GNLZZGG0034VR6Y.png?w=360&amp;h=270
+[UCLPLAY].UCL.TV.Unión.Continental.Latinoamérica.uy,[UCLPLAY] UCL TV Unión Continental Latinoamérica,http://dtil.tmsimg.com/assets/s116150_ll_h15_aa.png?w=360&amp;h=270
+[UNICIMH].Universal.Cinema.uy,[UNICIMH] Universal Cinema,http://dtil.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&amp;h=270
+[UNICI].Universal.Cinema.uy,[UNICI] Universal Cinema,http://dtil.tmsimg.com/assets/s121869_ll_h15_aa.png?w=360&amp;h=270
+[UNICO].Universal.Comedy.uy,[UNICO] Universal Comedy,http://dtil.tmsimg.com/assets/s121870_ll_h15_aa.png?w=360&amp;h=270
+[UNICR].Universal.Crime.uy,[UNICR] Universal Crime,http://dtil.tmsimg.com/assets/s121868_ll_h15_aa.png?w=360&amp;h=270
+[UNIPRMH].UNIPRMH.uy,[UNIPRMH] UNIPRMH,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
+[UNIPR].Universal.Premiere.uy,[UNIPR] Universal Premiere,http://dtil.tmsimg.com/assets/s121866_ll_h15_aa.png?w=360&amp;h=270
+[UNIRE].Universal.Reality.uy,[UNIRE] Universal Reality,http://dtil.tmsimg.com/assets/s121867_ll_h15_aa.png?w=360&amp;h=270
+[UNI].Univision.Network.uy,[UNI] Univision Network,http://dtil.tmsimg.com/assets/s11118_ll_h15_ab.png?w=360&amp;h=270
+[UNTVAR].Universal.TV.uy,[UNTVAR] Universal TV,http://dtil.tmsimg.com/assets/s53218_ll_h15_ab.png?w=360&amp;h=270
+[UNTVM].Universal.TV.uy,[UNTVM] Universal TV,http://dtil.tmsimg.com/assets/s53218_ll_h15_ab.png?w=360&amp;h=270
+[USA].USA.Network.uy,[USA] USA Network,http://dtil.tmsimg.com/assets/s11207_ll_h15_af.png?w=360&amp;h=270
+[VEPTV].Ve.Plus.uy,[VEPTV] Ve Plus,http://dtil.tmsimg.com/assets/s99240_ll_h15_aa.png?w=360&amp;h=270
+[VNUS].Venus.uy,[VNUS] Venus,http://dtil.tmsimg.com/assets/s16498_ll_h15_aa.png?w=360&amp;h=270
+[VTVMUR].VTV.PLUS.uy,[VTVMUR] VTV PLUS,http://dtil.tmsimg.com/assets/s107892_ll_h15_ac.png?w=360&amp;h=270
+[WOLEARG].Warner.Channel.uy,[WOLEARG] Warner Channel,http://dtil.tmsimg.com/assets/GNLZZGG003294GG.png?w=360&amp;h=270
+[XEW].Las.Estrellas.uy,[XEW] Las Estrellas,http://dtil.tmsimg.com/assets/s116151_ll_h15_ac.png?w=360&amp;h=270
+[ZEE].Zee.TV.HD.uy,[ZEE] Zee TV HD,http://dtil.tmsimg.com/assets/GNLZZGG0022HE0M.png?w=360&amp;h=270
+[ZOOMOSH].ZooMoo.uy,[ZOOMOSH] ZooMoo,http://dtil.tmsimg.com/assets/s89920_ll_h15_ab.png?w=360&amp;h=270
