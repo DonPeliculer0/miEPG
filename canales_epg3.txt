@@ -540,8 +540,8 @@
 66d82143abec540008bd2b1c,Project Runway,https://images.pluto.tv/channels/66d82143abec540008bd2b1c/colorLogoPNG.png
 6514346fa76507000887d441,Confess by Nosey,https://images.pluto.tv/channels/6514346fa76507000887d441/colorLogoPNG.png
 677fb115a4af36ad50113e56,The Real Housewives,https://images.pluto.tv/channels/677fb115a4af36ad50113e56/colorLogoPNG_1761690347032.png
-68c8203efef6d8a2a6f13906,60 Days in Jail,https://images.pluto.tv/channels/68c8203efef6d8a2a6f13906/colorLogoPNG_1765385204159.png
 5d2c571faeb3e2738ae27933,5 Cops,https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png
+68c8203efef6d8a2a6f13906,60 Days in Jail,https://images.pluto.tv/channels/68c8203efef6d8a2a6f13906/colorLogoPNG_1765385204159.png
 65a7b0814a10d800085ff2df,Pluto TV PetrolHeads,https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png
 656df2849d5ac400083be647,5 Trucking Hell,https://images.pluto.tv/channels/656df2849d5ac400083be647/colorLogoPNG.png
 5f6b535a278bfe000799484a,Dog The Bounty Hunter,https://images.pluto.tv/channels/5f6b535a278bfe000799484a/colorLogoPNG.png
@@ -758,6 +758,9 @@
 66c45c0de7f5e80008b82005,CNN Headlines International,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
 6231ede1be5b460007f91bc1,CBS News 24/7,https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
 68345650e8377f86acdeda83,Pluto TV Series de Terror,https://images.pluto.tv/channels/68345650e8377f86acdeda83/colorLogoPNG_1751021711627.png
+6a68dd013ee9d9664278cfb6,NFL Channel,https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png
+6a56ae6e0cbe9fec861af567,Touched By An Angel,https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png
+6a56ae45c868f8fd9818d59a,7th Heaven,https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png
 62e920403bd6940007fb68b8,Family Ties,https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png
 6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
 6a56ae15bd858f210ae007fe,Classic TV Comedy,https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png
