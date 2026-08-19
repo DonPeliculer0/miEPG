@@ -140,9 +140,9 @@ Vinx.TV,Vinx.TV
 ,ETB Deportes
 Esport3 Catalunya,Esport3 Catalunya
 Top Barça,Top Barça
-LALIGA.Inside.es,La Liga Inside
+ES:.LaLiga.Inside.be, ES:.LaLiga.Inside.be
 65ea8b928145cb0008509426,UEFA Champions League
-FIFA+,FIFA+
+ES:.FIFA+.be,ES:.FIFA+.be
 ,ITSF TV
 Futsalmafer.tv,FSM TV
 ,Olympic Channel
@@ -152,19 +152,20 @@ MyPadel TV,MyPadel TV
 Moto ADV,Moto ADV
 DBike,DBike
 DE | Rally TV,DE | Rally TV
-65c347ae3a116800078c93c5,Monster Jam
-Garage TV,Garage TV
+NL:.Monster.Jam.be,Monster Jam
+El.Garage.TV.es,El.Garage.TV.es
 Surf Channel,Surf Channel
 Red Bull TV,Red Bull TV
-,WWE USA
+WWE.Network.us2,WWE.Network.us2
 643054b1fc3be59477853717-5fd115bdb7ef8d002dcf1820,Hard Knocks
-643054b1fc3be59477853717-644b13a3a1c0a5b2024c8403-es,Strongman Champions
-NFL Network (DAZN),NFL Network
-,NHL Network
+plex.tv.Strongman.Champions.plex,plex.tv.Strongman.Champions.plex
+NFL.Network.HD.us2,NFL.Network.HD.us2
+NHL.Network.HD.us2, NHL.Network.HD.us2
 ,Hoop TV
-NBA TV,NBA TV
-,Los Angeles Lakers
-,New York Knicks
+NBA.TV.HD.us2,NBA.TV.HD.us2
+Spectrum.SportsNet.Lakers.HD.us2,Spectrum.SportsNet.Lakers.HD.us2
+NBA-LosAngelesLakers.us,NBA-LosAngelesLakers.us
+NBA-NewYorkKnicks.us,NBA-NewYorkKnicks.us
 ,LaLiga HighLights
 ,LaLiga Replay 1 
 ,LaLiga Replay 2
@@ -192,7 +193,7 @@ NBA TV,NBA TV
 ,+24 (2)
 ,+24 (3)
 ,+24 (4)
-3CatInfo Catalunya,3CatInfo Catalunya
+3CatInfo,3CatInfo
 67517fae5534bb0008187997,Actualidad 360
 EbS.be,EbS Live
 EbSPlus.be,EbS+ Live
@@ -275,7 +276,7 @@ Disney Channel,Disney Channel
 Baby TV,Baby TV
 Nickelodeon HD,Nickelodeon HD
 Nick JR,Nick JR
-Dreamworks HD,DreamWorks HD
+Dreamworks HD,Dreamworks HD
 Kidz,Kidz
 Telemadrid,Telemadrid
 La Otra,La Otra
@@ -480,9 +481,9 @@ Betevé,Beteve
 6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas
 63eb95baa99571000898a078,MacGyver
 5f1acd36779de70007a680d1,Curro Jiménez
-mr-bean-live-action,Mr. Bean
-5f4d882d5233170007ee880e,Misterios sin resolver
-643054b1fc3be59477853717-64d79408e5f67b0fab47ff24,Misterios sin Resolver #(Plex)
+UK:.Mr..Bean.-.Live.Action.be,Mr. Bean
+5f610042272f68000867685b,Misterios sin resolver #(PlutoTV)
+6a1610bebdf296985fd95603-64d79408e5f67b0fab47ff24,Misterios sin Resolver #(Plex)
 ,40 anos da TVG
 ,Teleclasica
 ,Mi TV Clasica
@@ -553,8 +554,8 @@ a-bocados,A bocados
 ,Fusion
 643054b1fc3be59477853717-65cd316a40ab06259e8168a0,Tastemade en Español
 643054b1fc3be59477853717-5f8746eabd529300418246d9,GUSTOTV
-,El Gourmet
-,Food Network
+Canal.Elgourmet.ar,El Gourmet
+Food.Network.HD.us2,Food.Network.HD.us2
 643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6,Saborear TV
 643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda,Cooking Panda
 Viajes y Sabores,Viajes y Sabores
@@ -575,8 +576,8 @@ Love Wine,Love Wine
 TVE.Internacional.ch,TVE Internacional Europa (Web)
 Canal.TVE.Internacional.(Televisión.Española).ar,TVE Internacional America
 TVE.Internacional.Asia.es,TVE Internacional Asia Oceania (Web)
-Star TVE HD,Star TVE
-,Star TVE America
+Star TVE HD,Star TVE Europa
+Star.TVE.HD.co,Star TVE America
 /esaguila-roja,Aguila Roja (Rakuten TV)
 6812206e1b3e3be031a5c363,Águila Roja #(Pluto TV)
 ES500005BP,Águila Roja #(Samsung TV)
@@ -610,16 +611,16 @@ Aquí no hay quién viva,Aquí no hay quién viva
 FoQ,FoQ
 Kidz,Kidz
 ,Gran Hermano 24h
-BBCOneHD.uk,BBC One
-BBC2.uk,BBC Two
-BBCThree.uk,BBC Three
-BBC4.uk,BBC Four
-BBCParliament.uk,BBC Parliament
-BBCNEWS,BBC News
-BBCWORLDNEWS,BBC World News
-,BBC Food
-,BBC Travel
-,BBC Home & Garden
+BBCOneHD.uk,BBCOneHD.uk
+BBC2.uk,BBC2.uk
+BBCThree.uk,BBCThree.uk
+BBC4.uk,BBC4.uk
+BBCParliament.uk,BBCParliament.uk
+BBCNEWS,BBCNEWS
+BBCWORLDNEWS,BBCWORLDNEWS
+plex.tv.BBC.Food.plex,plex.tv.BBC.Food.plex
+plex.tv.BBC.Travel.plex,plex.tv.BBC.Travel.plex
+plex.tv.BBC.Home.&amp;.Garden.plex,plex.tv.BBC.Home.&amp;.Garden.plex
 656535fc2c46f30008870fae,BBC Earth
 RNE_Radio3.TV,RNE_Radio3.TV
 RNE_Radio4.TV,RNE_Radio4.TV
@@ -746,9 +747,9 @@ Sky.Sport.Legend.it,Sky.Sport.Legend.it
 ,beIN Sports MAX 6 🇸🇦
 beIN SPORTS en español,beIN SPORTS en español
 beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ
-ESPN Argentina,ESPN Argentina
+Canal.ESPN.(Argentina).ar,ESPN Argentina
 ESPN 2 Argentina,ESPN 2 Argentina
-ESPN 3 Argentina,ESPN 3 Argentina
+Canal.ESPN.3.(Argentina).ar,ESPN 3 Argentina
 ESPN.4.HD.uy,ESPN 4 Argentina
 ESPN.5.HD.uy,ESPN 5 Argentina
 ESPN.6.HD.uy,ESPN 6 Argentina
@@ -766,9 +767,7 @@ ESPN,ESPN
 ESPN 2,ESPN 2
 ESPN 3,ESPN 3
 ESPN 4,ESPN 4
-,Sky Sports LaLiga HD
-,Sky Sports LaLiga FHD 🇲🇽
-,Sky Sports LaLiga 🇲🇽
+SS.La.Liga.ke,SS.La.Liga.ke
 Primera Federación,Primera Federación
 ,Primera Federacion G1 | Eventos 1
 ,Primera Federacion G1 | Eventos 2
