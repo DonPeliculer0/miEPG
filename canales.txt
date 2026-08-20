@@ -233,7 +233,7 @@ HITTV.es,HITTV.es
 ,Cadena Elite
 ActivaTV.es,ActivaTV
 ,Verbena TV
-ES32000027M,CLIPS don't lie
+ES32000027M,CLIPS dont lie
 6686796619311200085310a0,MTV Flow Latino
 5d14fdb8ca91eedee1633117,MTV Spankin' New
 65410176770cf1000866bf31,MTV Biggest Pop
