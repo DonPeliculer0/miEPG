@@ -715,9 +715,9 @@ Sky.Sport.MotoGP.it,Sky.Sport.MotoGP.it
 Sky.Sport.NBA.it,Sky.Sport.NBA.it
 Sky.Sport.Tennis.it,Sky.Sport.Tennis.it
 Sky.Sport.Legend.it,Sky.Sport.Legend.it
-NEWS_DIGITAL_Mono_EN.bein-- epg_ripper_BG1,beIN Sports News
-beIN_SPORTS1_DIGITAL_Mono_EN.bein,beIN Sports 1 (MENA)
-beIN_SPORTS2_DIGITAL_Mono_EN.bein,beIN Sports 2 (MENA)
+NEWS_DIGITAL_Mono_AR.bein-- epg_ripper_BG1,beIN Sports News
+beIN_SPORTS1_DIGITAL_Mono_AR.bein,beIN Sports 1 (MENA)
+beIN_SPORTS2_DIGITAL_Mono_AR.bein,beIN Sports 2 (MENA)
 beIN_SPORTS3_DIGITAL_Mono_EN.bein,beIN Sports 3 (MENA)
 beIN_SPORTS4_DIGITAL_Mono_EN.bein,beIN Sports 4 (MENA)
 beIN_SPORTS5_DIGITAL_Mono_EN.bein,beIN Sports 5 (MENA)
