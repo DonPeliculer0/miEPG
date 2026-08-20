@@ -7,6 +7,10 @@ https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/es.xml.gz
 https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml
 https://www.tdtchannels.com/epg/TV.xml.gz
 http://tropical.jungle-team.online/epg/koala3.xml
+https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
@@ -18,8 +22,5 @@ https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz
