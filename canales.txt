@@ -197,39 +197,39 @@ NBA-NewYorkKnicks.us,NBA-NewYorkKnicks.us
 67517fae5534bb0008187997,Actualidad 360
 EbS.be,EbS Live
 EbSPlus.be,EbS+ Live
-,Canal Parlamento
+Canal.Parlamento.es,Canal.Parlamento.es
 ,Canal Sur Mas Noticias
 643054b1fc3be59477853717-60089d97f682a3002c34829d,Euronews Español
 EuroNews,Euronews
 France 24 (en Francais),France 24
-,France 24 Español
-ES1300001QC,DW
-,RT Español
+France.24.es,France.24.es
+Canal.DW.(Latinoamérica).mx,Canal.DW.(Latinoamérica).mx
+Russia.Today.pt,RT Español
 ,Univision+ 24/7
-,Rai News 24
-,SIC Noticias
-,CNN Portugal
+Rai.News.24.us2,Rai News 24
+SIC.Notícias.HD.pt,SIC.Notícias.HD.pt
+CNN.Portugal.HD.pt,CNN.Portugal.HD.pt
 ES34000039I,CNN en Español
 66c45c0de7f5e80008b82005,CNN Headlines International
-CNN International Europe,CNN International
-BBC World News Europe HD,BBC World News
-Sky News International,Sky News International
-643054b1fc3be59477853717-5eea71d65252710041e0ccbc,The Reuters 60
-,ABC News
-6231ede1be5b460007f91bc1,CBS News 24/7
-,FOX News
-FoxBusinessNetwork.us@SD,FOX Business
-643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335,Newsmax2
+CNN.International.us2,CNN.International.us2
+Canal.BBC.World.News.mx,Canal.BBC.World.News.mx
+Sky.News.International.ch,Sky.News.International.ch
+ES:.The.Reuters.60.be,ES:.The.Reuters.60.be
+ABC.News.Live.us2,ABC.News.Live.us2
+plex.tv.CBS.News.plex,plex.tv.CBS.News.plex
+Fox.News.Channel.HD.us2,Fox.News.Channel.HD.us2
+Fox.Business.HD.us2,Fox.Business.HD.us2
+Newsmax.TV.HD.us2,Newsmax.TV.HD.us2
 ,Global News National
 CNBC Europe HD,CNBC
-Bloomberg TV Europe,Bloomberg
-643054b1fc3be59477853717-5f170f01b898490041b49dd1,Yahoo Finance
-,Globo News
-,TRT World
-Al Jazeera English HD,Al Jazeera News
-,CGTN News
+plex.tv.Bloomberg.TV.plex,plex.tv.Bloomberg.TV.plex
+plex.tv.Yahoo.Finance.plex,plex.tv.Yahoo.Finance.plex
+Globo.News.pt,Globo.News.pt
+TRT.World.HD.uk,TRT.World.HD.uk
+AlJazeera.English.net,AlJazeera.English.net
+CGTN.News.ke,CGTN.News.ke
 Sol Música,Sol Música
-HITTV.es,Hit TV
+HITTV.es,HITTV.es
 ,Cadena Elite
 ActivaTV.es,ActivaTV
 ,Verbena TV
@@ -237,41 +237,41 @@ ES32000027M,CLIPS don't lie
 6686796619311200085310a0,MTV Flow Latino
 5d14fdb8ca91eedee1633117,MTV Spankin' New
 65410176770cf1000866bf31,MTV Biggest Pop
-MTVLive.us@SD,MTV Live
-MTV Classic,MTV Classic
-TRACE Urban,Trace Urban
-TRACE Latina,Trace Latina
-XITEHits.nl@NL,XITE Hits
-XITENuevoLatino.us@SD,XITE Nuevo Latino
-XITESiempreLatino.us@SD,XITE Siempre Latino
-XITE.Celebrates.DUMMY.us,XITE Celebrates
-XITE.80s.Flashback.DUMMY.us,XITE 80s Flashback
-XITE.90s.Throwback.DUMMY.us,XITE 90's Throwback
+MTV.Live.HD.uk,MTV.Live.HD.uk
+MTV.Classic.uk,MTV.Classic.uk
+plex.tv.TRACE.Urban.plex,plex.tv.TRACE.Urban.plex
+plex.tv.TRACE.Latina.plex,plex.tv.TRACE.Latina.plex
+XITE.Hits.DUMMY.us,XITE.Hits.DUMMY.us
+XITE.Nuevo.Latino.DUMMY.us,XITE.Nuevo.Latino.DUMMY.us
+XITE.Siempre.Latino.DUMMY.us,XITE.Siempre.Latino.DUMMY.us
+XITE.Celebrates.DUMMY.us,XITE.Celebrates.DUMMY.us
+XITE.80s.Flashback.DUMMY.us,XITE.80s.Flashback.DUMMY.us
+XITE.90s.Throwback.DUMMY.us,XITE.90s.Throwback.DUMMY.us
 ESBC2100002LV,Vevo Latino
 ESBD230000289,Vevo Retro
-ESBC2100001IU,Vevo Pop
+plex.tv.Vevo.Pop.plex,plex.tv.Vevo.Pop.plex
 plex.tv.Vevo.`70s.plex,Vevo 70s
 plex.tv.Vevo.`80s.plex,Vevo 80s
 plex.tv.Vevo.`90s.plex,Vevo 90s
-,That's 70s
-,That's 80s
-,That's 90s 00s 
-GB300032DX,Now 70s
-GBBC900003B2,Now 80s
-GB300033HI,Now 90s00s
+IN8000010D,That's 70s
+IN8000027E,That's 80s
+IN800004YV,That's 90s 00s 
+ES:.NOW.70s.be,Now 70s
+ES:.NOW.80s.be,Now 80s
+ES:.NOW.90s00s.be,Now 90s00s
 6076cd1df8576d0007c82193,VH1 Classics
-Ocko Star,Ocko Star
+Očko.Star.HD.sk,Ocko Star
 RETRO.Music.TV.sk,Retro Music TV
 ,Retro Plus TV 
-AllFlamenco,All Flamenco
+ALL.FLAMENCO_.fr,All Flamenco
 TheCountryNetwork.us@SD,The Country Network
-DJazz,DJazz
-samsung-ESBA1500001C4,Deluxe Lounge
-643054b1fc3be59477853717-62fbf197c67d52bddf74cc87,Movie Music by Stingray
+Djazz.es,DJazz
+ES:.Deluxe.Lounge.HD.be,Deluxe Lounge
+PL:.Movie.Music.By.Stingray.be,Movie Music by Stingray
 Stingray Classica,Stingray Classica
 Mezzo,Mezzo
 Mezzo Live HD,Mezzo Live
-643054b1fc3be59477853717-62d7f6904d0067dd4d60d0de,Stingray Karaoke
+plex.tv.Stingray.Karaoke.plex,plex.tv.Stingray.Karaoke.plex
 Disney Channel,Disney Channel
 Baby TV,Baby TV
 Nickelodeon HD,Nickelodeon HD
@@ -429,7 +429,7 @@ Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
 60cc807324d60a0007708dc8,Pluto TV Cine de autor
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
-643054b1fc3be59477853717-6348a34c1159f6a5ce819b81,ARTFLIX Clasicos
+plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
 Cine Friki,Cine Friki
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Verdi TV Feel Good
@@ -715,30 +715,30 @@ Sky.Sport.MotoGP.it,Sky.Sport.MotoGP.it
 Sky.Sport.NBA.it,Sky.Sport.NBA.it
 Sky.Sport.Tennis.it,Sky.Sport.Tennis.it
 Sky.Sport.Legend.it,Sky.Sport.Legend.it
-,beIN Sports News 🇸🇦
-,beIN Sports 1 🇸🇦
-,beIN Sports 2 🇸🇦
-,beIN Sports 3 🇸🇦
-,beIN Sports 4 🇸🇦
-,beIN Sports 5 🇸🇦
-,beIN Sports 6 🇸🇦
-,beIN Sports 7 🇸🇦
-,beIN Sports 8 🇸🇦
-,beIN Sports 9 🇸🇦
-,beIN Sports 🇸🇦
-,beIN Sports English 1 🇸🇦
-,beIN Sports English 2 🇸🇦
-,beIN Sports French 1 🇸🇦
-,beIN Sports French 2 🇸🇦
-,beIN Sports XTRA 1 🇸🇦
-,beIN Sports XTRA 2 🇸🇦
-,beIN Sports XTRA 3 🇸🇦
-,beIN Sports XTRA 4 🇸🇦
-,beIN Sports XTRA 5 🇸🇦
-,beIN Sports XTRA 6 🇸🇦
-,beIN Sports XTRA 7 🇸🇦
-,beIN Sports XTRA 8 🇸🇦
-,beIN Sports XTRA 9 🇸🇦
+NEWS_DIGITAL_Mono_EN.bein-- epg_ripper_BG1,beIN Sports News
+beIN_SPORTS1_DIGITAL_Mono_EN.bein,beIN Sports 1 (MENA)
+beIN_SPORTS2_DIGITAL_Mono_EN.bein,beIN Sports 2 (MENA)
+beIN_SPORTS3_DIGITAL_Mono_EN.bein,beIN Sports 3 (MENA)
+beIN_SPORTS4_DIGITAL_Mono_EN.bein,beIN Sports 4 (MENA)
+beIN_SPORTS5_DIGITAL_Mono_EN.bein,beIN Sports 5 (MENA)
+beIN_SPORTS66_DIGITAL_Mono-01_EN.bein,beIN Sports 6 (MENA)
+beIN_SPORTS7_DIGITAL_Mono_EN.bein,beIN Sports 7 (MENA)
+logos-_beINSPORTS8_EN.bein,beIN Sports 8 (MENA)
+logos-_beINSPORTS9_EN.bein,beIN Sports 9 (MENA)
+bein_SPORTS_FTA_DIGITAL_Mono_EN.bein,beIN Sports (MENA)
+beIN_SPORTS1_ENGLISH_Digital_Mono_EN.bein,beIN Sports English 1 (MENA)
+beIN_SPORTS2_ENGLISH_Digital_Mono_EN.bein,beIN Sports English 2 (MENA)
+beIN_SPORTS1_FRENCH_Digital_Mono_EN.bein,beIN Sports French 1 (MENA)
+beIN_SPORTS2_FRENCH_Digital_Mono_EN.bein,beIN Sports French 2 (MENA)
+beIN_SPORTS_XTRA1_Digital_Mono_EN.bein,beIN Sports XTRA 1 (MENA)
+beIN_SPORTS_XTRA2_Digital_Mono_EN.bein,beIN Sports XTRA 2 (MENA)
+logos-_beINSPORTSXTRA3_EN.bein,beIN Sports XTRA 3 (MENA)
+beIN_SPORTS_XTRA_04_bein.com_EN.bein,beIN Sports XTRA 4 (MENA)
+beIN_SPORTS_XTRA_05_bein.com_EN.bein,beIN Sports XTRA 5 (MENA)
+beIN_SPORTS_XTRA_06_bein.com_EN.bein,beIN Sports XTRA 6 (MENA)
+beIN_SPORTS_XTRA_07_bein.com_EN.bein,beIN Sports XTRA 7 (MENA)
+beIN_SPORTS_XTRA_08_Bein.com_EN.bein,beIN Sports XTRA 8 (MENA)
+beIN_SPORTS_XTRA_Digital_09_Bein.com_EN.bein,beIN Sports XTRA 9 (MENA)
 ,beIN Sports MAX 1 🇸🇦
 ,beIN Sports MAX 2 🇸🇦
 ,beIN Sports MAX 3 🇸🇦
