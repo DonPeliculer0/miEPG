@@ -133,7 +133,7 @@ DAZN F1 HD,DAZN F1 HD
 Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
 GOL,GOL
-UBEAT,UBEAT
+Ubeat,Ubeat
 Aragón_Deporte1.TV,Aragón_Deporte1.TV
 Aragón_Deporte2.TV,Aragón_Deporte2.TV 
 Vinx.TV,Vinx.TV
@@ -281,7 +281,7 @@ Kidz,Kidz
 Telemadrid,Telemadrid
 La Otra,La Otra
 Canal Sur HD,Canal Sur HD
-,Canal Sur 2
+Canal Sur 2,Canal Sur 2
 Canal Sur Andalucía,Canal Sur Andalucía
 Andalucía TV,Andalucia Television
 ,Canal Andalucia Turismo
