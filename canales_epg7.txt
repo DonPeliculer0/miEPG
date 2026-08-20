@@ -174,7 +174,7 @@
 6a1610bebdf296985fd95603-5fc70600598c41002da3dd43,NBC Sports NOW,https://provider-static.plex.tv/c/epg/channels/logos/gracenote/ccdbca6785ac89ad9cb6b6626b891a33.png
 6a1610bebdf296985fd95603-659f04ef27ae392d2e204695,FOX Sports,https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png
 6a1610bebdf296985fd95603-606605549dbfca002d2ae873,TNA Wrestling Channel,https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png
-6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0,Paranormal Files,https://provider-static.plex.tv/4/epg/channels/logos/gracenote/419e4cf8a2e6d3fa3ba349045061d831.png
+6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0,Paranormal Files,https://provider-static.plex.tv/epg/cms/production/49a8a03a-1346-4f3c-981b-47f07fe02ac5/Paranormal4f0624f276e0ec4283e7940c80fc70feRDXWHITE.png
 6a1610bebdf296985fd95603-6896595a58a6658b3d6a501a,F1 Channel,https://provider-static.plex.tv/epg/cms/production/df07efa9-4dbf-470b-86d6-c12a4a43d18c/F1Channel_1500x1000_for_dark_bgd_-_Eddie_Hunter-Higgins.png
 6a1610bebdf296985fd95603-66628d4a8dfc36b8c8a399c4,FIFA+,https://provider-static.plex.tv/epg/cms/production/6281ae4b-8ce7-45ea-a431-524ca3104d3f/FIFA__Logo_Rectangle_1500x1000_WHT.png
 6a1610bebdf296985fd95603-69b047eed42e70e462105dbb,Scripps Sports Network,https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e8dddc90d079e4fcc8930c345f05ebd1.png
