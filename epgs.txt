@@ -11,6 +11,8 @@ https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
