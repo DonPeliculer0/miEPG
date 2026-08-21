@@ -1,267 +1,179 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz
-Das.Erste.de,Das Erste,
-ZDF.de,ZDF,
-RTL.de,RTL,
-SAT.1.de,SAT.1,
-ProSieben.de,ProSieben,
-kabel.eins.de,kabel eins,
-RTLZWEI.de,RTLZWEI,
-VOX.de,VOX,
-3sat.de,3sat,
-ARTE.de,ARTE,
-DF1.de,DF1,
-Dokusat.de,Dokusat,
-Servus.TV.Österreich.de,Servus TV Österreich,
-Tele.5.de,Tele 5,
-DMAX.de,DMAX,
-sixx.de,sixx,
-NITRO.de,NITRO,
-RTLup.de,RTLup,
-SAT.1.Gold.de,SAT.1 Gold,
-ProSieben.MAXX.de,ProSieben MAXX,
-Comedy.Central.de,Comedy Central,
-WDR.de,WDR,
-NDR.de,NDR,
-BR.de,BR,
-SWR/SR.de,SWR/SR,
-HR.de,HR,
-MDR.de,MDR,
-RBB.de,RBB,
-SPORT1.de,SPORT1,
-SPORT1+.de,SPORT1+,
-SportDigital1+.de,SportDigital1+,
-eSports1.de,eSports1,
-eSportsONE.de,eSportsONE,
-Eurosport.1.de,Eurosport 1,
-Eurosport.2.de,Eurosport 2,
-EXTREME.SPORTS.de,EXTREME SPORTS,
-sportdigital.Fussball.de,sportdigital Fussball,
-DAZN.de,DAZN,
-Auto.Motor.Sport.de,Auto Motor Sport,
-KIKA.de,KIKA,
-SUPER.RTL.de,SUPER RTL,
-TOGGO.plus.de,TOGGO plus,
-RiC.de,RiC,
-nick.de,nick,
-Fix.&amp;.Foxi.de,Fix &amp; Foxi,
-Nick.Jr..de,Nick Jr.,
-Nicktoons.de,Nicktoons,
-Disney.Channel.de,Disney Channel,
-PHOENIX.de,PHOENIX,
-ARD.alpha.de,ARD alpha,
-ONE.de,ONE,
-ZDFneo.de,ZDFneo,
-ZDFinfo.de,ZDFinfo,
-ANIXE.de,ANIXE,
-Bibel.TV.de,Bibel TV,
-K-TV.de,K-TV,
-TLC.de,TLC,
-Welt.der.Wunder.TV.de,Welt der Wunder TV,
-More.than.Sports.TV.de,More than Sports TV,
-Bon.Gusto.de,Bon Gusto,
-Goldstar.TV.de,Goldstar TV,
-Home.&amp;.Garden.TV.de,Home &amp; Garden TV,
-Marco.Polo.TV.de,Marco Polo TV,
-travelxp.4K.de,travelxp 4K,
-Rocket.Beans.TV.de,Rocket Beans TV,
-UHD1.de,UHD1,
-VOXup.de,VOXup,
-tagesschau24.de,tagesschau24,
-ntv.de,ntv,
-WELT.de,WELT,
-N24.DOKU.de,N24 DOKU,
-kabel.eins.Doku.de,kabel eins Doku,
-Prime.HD.de,Prime HD,
-BBC.World.News.de,BBC World News,
-BBC.News.de,BBC News,
-Bloomberg.Europe.TV.de,Bloomberg Europe TV,
-CNBC.de,CNBC,
-CNN.International.de,CNN International,
-CNN.Türk.de,CNN Türk,
-euronews.(ger).de,euronews (ger),
-Al.Jazeera.de,Al Jazeera,
-France.24.(engl.).de,France 24 (engl.),
-France.24.(franz.).de,France 24 (franz.),
-NHK.World.TV.de,NHK World TV,
-DELUXE.MUSIC.de,DELUXE MUSIC,
-DMF.de,DMF,
-MTV.de,MTV,
-MTV.Live.HD.de,MTV Live HD,
-MTV.80s.de,MTV 80s,
-QVC.de,QVC,
-QVC2.de,QVC2,
-HSE.de,HSE,
-HSE.Extra.de,HSE Extra,
-Channel21.de,Channel21,
-123.tv.de,123.tv,
-Sonnenklar.TV.de,Sonnenklar.TV,
-Hamburg.1.de,Hamburg 1,
-münchen.tv.de,münchen.tv,
-tv.berlin.de,tv.berlin,
-LEIPZIG.FERNSEHEN.de,LEIPZIG FERNSEHEN,
-Rhein-Neckar.Fernsehen.de,Rhein-Neckar Fernsehen,
-ATV.de,ATV,
-ATV.II.de,ATV II,
-BBC.One.de,BBC One,
-BBC.Two.de,BBC Two,
-BBC.four.de,BBC four,
-Canal+.de,Canal+,
-Canal+.Cinéma.de,Canal+ Cinéma,
-Canal+.Sport.de,Canal+ Sport,
-Canale.5.de,Canale 5,
-ORF.1.de,ORF 1,
-ORF.2.de,ORF 2,
-ORF.III.de,ORF III,
-ORF.SPORT.+.de,ORF SPORT +,
-oe24.TV.de,oe24.TV,
-PULS.4.de,PULS 4,
-SRF.1.de,SRF 1,
-SRF.zwei.de,SRF zwei,
-3+.de,3+,
-PULS.acht.de,PULS acht,
-STAR.TV.de,STAR TV,
-DR1.de,DR1,
-DR2.de,DR2,
-Belgien.1.de,Belgien 1,
-TV2.de,TV2,
-TV5.Monde.de,TV5 Monde,
-Show.Turk.de,Show Turk,
-Turkmax.Gurme.de,Turkmax Gurme,
-Kanal.7.Int.de,Kanal 7 Int,
-Euro.D.de,Euro D,
-Euro.Star.de,Euro Star,
-France.2.de,France 2,
-France.3.de,France 3,
-France.4.de,France 4,
-France.5.de,France 5,
-Sky.Cinema.Premiere.HD.de,Sky Cinema Premiere HD,
-Sky.Cinema.Family.HD.de,Sky Cinema Family HD,
-Sky.Cinema.Highlights.HD.de,Sky Cinema Highlights HD,
-Sky.Cinema.Action.HD.de,Sky Cinema Action HD,
-Sky.Cinema.Classics.HD.de,Sky Cinema Classics HD,
-Sky.Crime.de,Sky Crime,
-Sky.Documentaries.de,Sky Documentaries,
-Sky.Nature.de,Sky Nature,
-Warner.TV.Film.de,Warner TV Film,
-KinoweltTV.de,KinoweltTV,
-Sky.Sport.Bundesliga.de,Sky Sport Bundesliga,
-Sky.Sport.News.de,Sky Sport News,
-Sky.Sport.F1.de,Sky Sport F1,
-Sky.Sport.Premier.League.de,Sky Sport Premier League,
-Sky.Sport.Golf.de,Sky Sport Golf,
-Sky.Sport.Mix.de,Sky Sport Mix,
-Sky.Sport.Tennis.de,Sky Sport Tennis,
-Sky.Sport.Top.Event.de,Sky Sport Top Event,
-Sky.Sport.Austria.de,Sky Sport Austria,
-Sky.One.de,Sky One,
-Sky.Atlantic.HD.de,Sky Atlantic HD,
-Sky.Krimi.de,Sky Krimi,
-sky.replay.de,sky replay,
-sky.showcase.de,sky showcase,
-Universal.Channel.HD.de,Universal Channel HD,
-The.HISTORY.Channel.de,The HISTORY Channel,
-Spiegel.Geschichte.de,Spiegel Geschichte,
-Motorvision.TV.de,Motorvision TV,
-Discovery.HD.de,Discovery HD,
-Nat.Geo.HD.de,Nat Geo HD,
-NAT.GEO.WILD.de,NAT GEO WILD,
-13th.Street.Universal.de,13th Street Universal,
-SyFy.de,SyFy,
-Warner.TV.Serie.de,Warner TV Serie,
-Warner.TV.Comedy.de,Warner TV Comedy,
-CRIME.+.INVESTIGATION.de,CRIME + INVESTIGATION,
-Romance.TV.de,Romance TV,
-Heimatkanal.de,Heimatkanal,
-Cartoon.Network.de,Cartoon Network,
-Classica.de,Classica,
-Beate-Uhse.TV.de,Beate-Uhse.TV,
-Adult.Channel.de,Adult Channel,
-Animal.Planet.de,Animal Planet,
-AXN.Black.de,AXN Black,
-Bergblick.de,Bergblick,
-Fashion.TV.de,Fashion TV,
-GEO.Television.de,GEO Television,
-Gute.Laune.TV.de,Gute Laune TV,
-Jukebox.de,Jukebox,
-LUST.PUR.de,LUST PUR,
-Mezzo.de,Mezzo,
-MTV.Base.de,MTV Base,
-Club.MTV.de,Club MTV,
-MTV.Hits.de,MTV Hits,
-MTV.Brand.New.de,MTV Brand New,
-Nautical.Channel.de,Nautical Channel,
-Playboy.TV.de,Playboy TV,
-kabel.eins.classics.de,kabel eins classics,
-SAT.1.emotions.de,SAT.1 emotions,
-ProSieben.Fun.de,ProSieben Fun,
-NOW.US.de,NOW US,
-RTL.Crime.de,RTL Crime,
-RTL.Living.de,RTL Living,
-RTL.Passion.de,RTL Passion,
-Silverline.de,Silverline,
-AXN.White.de,AXN White,
-Curiosity.Channel.de,Curiosity Channel,
-Trace.TV.de,Trace TV,
-Cartoonito.de,Cartoonito,http://dtil.tmsimg.com/assets/s83741_ll_h15_ab.png?w=360&amp;h=270
-DAZN.1.de,DAZN 1,https://sender.epglogos.de/svg/12188.svg
-DAZN.2.de,DAZN 2,https://sender.epglogos.de/svg/12189.svg
-Motorvision+.de,Motorvision+,http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png
-Sky.Replay.HD.de,Sky Replay HD,http://dtil.tmsimg.com/assets/s111212_ll_h15_ab.png?w=360&amp;h=270
-Sky.Showcase.HD.de,Sky Showcase HD,http://dtil.tmsimg.com/assets/s125325_ll_h15_aa.png?w=360&amp;h=270
-Sky.Sport.UHD.de,Sky Sport UHD,http://dtil.tmsimg.com/assets/GNLZZGG003GCLC9.png?w=360&amp;h=270
-Sky.Sport.Austria.1.HD.de,Sky Sport Austria 1 HD,http://dtil.tmsimg.com/assets/GNLZZGG003FCKJR.png?w=360&amp;h=270
-Sky.Sport.Austria.2.HD.de,Sky Sport Austria 2 HD,http://dtil.tmsimg.com/assets/s111209_ll_h15_ab.png?w=360&amp;h=270
-Sky.Sport.Austria.3.HD.de,Sky Sport Austria 3 HD,http://dtil.tmsimg.com/assets/s111210_ll_h15_ab.png?w=360&amp;h=270
-Sky.Sport.Austria.4.HD.de,Sky Sport Austria 4 HD,http://dtil.tmsimg.com/assets/s111211_ll_h15_ab.png?w=360&amp;h=270
-Sky.Sport.Austria.5.HD.de,Sky Sport Austria 5 HD,http://dtil.tmsimg.com/assets/GNLZZGG003FCQ7M.png?w=360&amp;h=270
-Sky.Sport.Austria.6.HD.de,Sky Sport Austria 6 HD,http://dtil.tmsimg.com/assets/GNLZZGG003FCQ84.png?w=360&amp;h=270
-Sky.Sport.Austria.7.HD.de,Sky Sport Austria 7 HD,http://dtil.tmsimg.com/assets/GNLZZGG003FCQ9J.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.UHD.de,Sky Sport Bundesliga UHD,http://dtil.tmsimg.com/assets/GNLZZGG003FD0FG.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.1.de,Sky Sport Bundesliga 1,http://dtil.tmsimg.com/assets/GNLZZGG003FCYLV.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.2.de,Sky Sport Bundesliga 2,http://dtil.tmsimg.com/assets/GNLZZGG003FCYQ7.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.3.de,Sky Sport Bundesliga 3,http://dtil.tmsimg.com/assets/GNLZZGG003FD0CB.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.4.de,Sky Sport Bundesliga 4,http://dtil.tmsimg.com/assets/GNLZZGG003FD0CP.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.5.de,Sky Sport Bundesliga 5,http://dtil.tmsimg.com/assets/GNLZZGG003FD0CE.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.6.de,Sky Sport Bundesliga 6,http://dtil.tmsimg.com/assets/GNLZZGG003FD0D3.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.7.de,Sky Sport Bundesliga 7,http://dtil.tmsimg.com/assets/GNLZZGG003FD0DH.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.8.de,Sky Sport Bundesliga 8,http://dtil.tmsimg.com/assets/GNLZZGG003FD0DV.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.9.de,Sky Sport Bundesliga 9,http://dtil.tmsimg.com/assets/GNLZZGG003FD0F1.png?w=360&amp;h=270
-Sky.Sport.Bundesliga.10.de,Sky Sport Bundesliga 10,http://dtil.tmsimg.com/assets/GNLZZGG003FCYLQ.png?w=360&amp;h=270
-Sky.Sport.1.de,Sky Sport 1,http://dtil.tmsimg.com/assets/GNLZZGG003FBQVR.png?w=360&amp;h=270
-Sky.Sport.2.de,Sky Sport 2,http://dtil.tmsimg.com/assets/GNLZZGG003FBEKP.png?w=360&amp;h=270
-Sky.Sport.3.de,Sky Sport 3,http://dtil.tmsimg.com/assets/GNLZZGG003FC2FX.png?w=360&amp;h=270
-Sky.Sport.4.de,Sky Sport 4,http://dtil.tmsimg.com/assets/GNLZZGG003FCHBQ.png?w=360&amp;h=270
-Sky.Sport.5.de,Sky Sport 5,http://dtil.tmsimg.com/assets/GNLZZGG003FCHE8.png?w=360&amp;h=270
-Sky.Sport.6.de,Sky Sport 6,http://dtil.tmsimg.com/assets/GNLZZGG003FCJQK.png?w=360&amp;h=270
-Sky.Sport.7.de,Sky Sport 7,http://dtil.tmsimg.com/assets/GNLZZGG003FCNL7.png?w=360&amp;h=270
-Sky.Sport.8.de,Sky Sport 8,http://dtil.tmsimg.com/assets/GNLZZGG003FCPZ9.png?w=360&amp;h=270
-Sky.Sport.9.de,Sky Sport 9,http://dtil.tmsimg.com/assets/GNLZZGG003FCV4Z.png?w=360&amp;h=270
-Sky.Sport.10.de,Sky Sport 10,http://dtil.tmsimg.com/assets/GNLZZGG003FBYXT.png?w=360&amp;h=270
-eoTV.de,eoTV,
-FUSSBALL.TV.1.de,FUSSBALL.TV 1,http://ngiss.t-online.de/cm1s/media/51e9858925ffe8fb6e5df889436a3d07be4b7ac7.png
-FUSSBALL.TV.2.de,FUSSBALL.TV 2,http://ngiss.t-online.de/cm1s/media/56c747d4ff3b94929a766910b6742e0cb44b5ccf.png
-FUSSBALL.TV.3.de,FUSSBALL.TV 3,http://ngiss.t-online.de/cm1s/media/d2748256549f804164f6c95a2c6116e62f344d19.png
-DOKUSAT.de,DOKUSAT,https://cfres-71f3.kxcdn.com/ci/m/pngs/dokusat-medium.png
-Top.Serien.de,Top Serien,http://dtil.tmsimg.com/assets/s120496_ll_h9_ab.png?w=360&amp;h=270
-tv-media.PULS.24.de,PULS 24,
-DFB.Play.de,DFB Play,https://www.dfbplay.tv/images/app-logo-contrast.svg
-Prime.de,Prime,
-Sport.1.-.myTeamTV.de,Sport 1 - myTeamTV,http://dtil.tmsimg.com/assets/s102885_ll_h15_ac.png?w=360&amp;h=270
-Sport.2.-.myTeamTV.de,Sport 2 - myTeamTV,http://dtil.tmsimg.com/assets/s102886_ll_h15_ac.png?w=360&amp;h=270
-Sport.3.-.myTeamTV.de,Sport 3 - myTeamTV,http://dtil.tmsimg.com/assets/s102887_ll_h15_ac.png?w=360&amp;h=270
-Sport.4.-.myTeamTV.de,Sport 4 - myTeamTV,http://dtil.tmsimg.com/assets/s102888_ll_h15_ac.png?w=360&amp;h=270
-Sport.5.-.myTeamTV.de,Sport 5 - myTeamTV,http://dtil.tmsimg.com/assets/s102889_ll_h15_ac.png?w=360&amp;h=270
-Sport.6.-.myTeamTV.de,Sport 6 - myTeamTV,http://dtil.tmsimg.com/assets/s102890_ll_h15_ac.png?w=360&amp;h=270
-Sport.7.-.myTeamTV.de,Sport 7 - myTeamTV,http://dtil.tmsimg.com/assets/s102891_ll_h15_ac.png?w=360&amp;h=270
-Sport.8.-.myTeamTV.de,Sport 8 - myTeamTV,http://dtil.tmsimg.com/assets/s104797_ll_h15_ac.png?w=360&amp;h=270
-Sport.9.-.myTeamTV.de,Sport 9 - myTeamTV,http://dtil.tmsimg.com/assets/s104798_ll_h15_ac.png?w=360&amp;h=270
-Sport.10.-.myTeamTV.de,Sport 10 - myTeamTV,http://dtil.tmsimg.com/assets/s104799_ll_h15_ac.png?w=360&amp;h=270
-Sport.11.-.myTeamTV.de,Sport 11 - myTeamTV,http://dtil.tmsimg.com/assets/s104800_ll_h15_ac.png?w=360&amp;h=270
-Sport.12.-.myTeamTV.de,Sport 12 - myTeamTV,http://dtil.tmsimg.com/assets/s104801_ll_h15_ac.png?w=360&amp;h=270
-Sport.13.-.myTeamTV.de,Sport 13 - myTeamTV,http://dtil.tmsimg.com/assets/s104802_ll_h15_ac.png?w=360&amp;h=270
-Sport.14.-.myTeamTV.de,Sport 14 - myTeamTV,http://dtil.tmsimg.com/assets/s104803_ll_h15_ac.png?w=360&amp;h=270
-Sport.15.-.myTeamTV.de,Sport 15 - myTeamTV,http://dtil.tmsimg.com/assets/s100576_ll_h15_ac.png?w=360&amp;h=270
-Sport.16.-.myTeamTV.de,Sport 16 - myTeamTV,http://dtil.tmsimg.com/assets/s100577_ll_h15_ac.png?w=360&amp;h=270
-Sport.17.-.myTeamTV.de,Sport 17 - myTeamTV,http://dtil.tmsimg.com/assets/s100581_ll_h15_ac.png?w=360&amp;h=270
-Sport.18.-.myTeamTV.de,Sport 18 - myTeamTV,http://dtil.tmsimg.com/assets/s100582_ll_h15_ac.png?w=360&amp;h=270
-MS.Sport.de,MS Sport,http://dtil.tmsimg.com/assets/s111692_ll_h15_ac.png?w=360&amp;h=270
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz
+Canal.Hollywood.HD.pt,Canal Hollywood HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHOLLYHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+1+1.pt,1+1,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2F1MAIS1.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TLC.pt,TLC,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTLC.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Euronews.pt,Euronews,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEURON.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+CNN.pt,CNN,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCNN.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+BVN.pt,BVN,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBVN.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTP.África.pt,RTP África,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Record.News.pt,Record News,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVRHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+MCM.Top.pt,MCM Top,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMCM.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TeleSUR.pt,TeleSUR,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTELESUR.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+M6.pt,M6,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FM6.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Sky.News.pt,Sky News,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSKYN.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTL.pt,RTL,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTL.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+ARTE.(Français).pt,ARTE (Français),https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FARTE.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Bloomberg.pt,Bloomberg,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBLOOM.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Stingray.iConcerts.HD.pt,Stingray iConcerts HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Ficoncertshd.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+FTV.HD.pt,FTV HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFASHIONTVHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+NHK.World.TV.pt,NHK World TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNHK.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVEi.pt,TVEi,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVEINT.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+ARTV.pt,ARTV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPARLA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Mezzo.pt,Mezzo,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMEZZO.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TV.Galicia.pt,TV Galicia,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVGALIZA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TV5.Monde.pt,TV5 Monde,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTV5.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+CNBC.pt,CNBC,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCNBC.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Rai.Italia.pt,Rai Italia,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRAIITALIA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Canal.180.pt,Canal 180,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FC180.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Food.Network.HD.pt,Food Network HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOODNETWORKHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Trace.Urban.HD.pt,Trace Urban HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRACEURBANHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Travel.Channel.HD.pt,Travel Channel HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRAVELHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Fuel.TV.HD.pt,Fuel TV HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFUELHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVCine.EDITION.HD.pt,TVCine EDITION HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEdition.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+AXN.White.HD.pt,AXN White HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSONYTVHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTP.Memória.pt,RTP Memória,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPM.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+National.Geographic.WILD.HD.pt,National Geographic WILD HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNGCWILDHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Nickelodeon.pt,Nickelodeon,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNicke.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTP.Açores.pt,RTP Açores,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPACO.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTP.Madeira.pt,RTP Madeira,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPMAD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Al.Jazeera.pt,Al Jazeera,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FJAZEERA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+France.24.(I).pt,France 24 (I),https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFRANCE24.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Star.Comedy.HD.pt,Star Comedy HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTR.Planeta.pt,RTR Planeta,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTRPLNET.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+DW.pt,DW,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDTSWELLE.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVR.Internacional.pt,TVR Internacional,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVRI.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Cubavisión.Internacional.pt,Cubavisión Internacional,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCUBAVINT.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+BNT.World.pt,BNT World,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVBLGARIA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Caça.e.Pesca.pt,Caça e Pesca,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCACAPESCA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+France.24.(F).pt,France 24 (F),https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFRANCE24FR.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+National.Geographic.HD.pt,National Geographic HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNGCHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SPORT.TV1.HD.pt,SPORT TV1 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TPA.Notícias.pt,TPA Notícias,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTPA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Canção.Nova.pt,Canção Nova,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANCAONOVA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTP.1.HD.pt,RTP 1 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVCine.TOP.HD.pt,TVCine TOP HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineTop.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+MAX.pt,MAX,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMAX.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SET.Asia.pt,SET Asia,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSETA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Eurosport.1.HD.pt,Eurosport 1 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+AXN.HD.pt,AXN HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+MyZen.TV.pt,MyZen TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FZENNATUR.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Russia.Today.pt,Russia Today,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRUSSIAT.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVE.24h.pt,TVE 24h,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVE24.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Star.Channel.HD.pt,Star Channel HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+VinTV.pt,VinTV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPANDABIGGS.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Star.Life.HD.pt,Star Life HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SPORT.TV2.HD.pt,SPORT TV2 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SPORT.TV5.HD.pt,SPORT TV5 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+AXN.Movies.HD.pt,AXN Movies HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNMoviesHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SPORT.TV3.HD.pt,SPORT TV3 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Syfy.HD.pt,Syfy HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSYFYHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+E!.Entertainment.HD.pt,E! Entertainment HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEENTERHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVCine.EMOTION.HD.pt,TVCine EMOTION HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEmotion.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVCine.ACTION.HD.pt,TVCine ACTION HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineAction.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Localvisão.TV.HD.pt,Localvisão TV HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FLOCALVISAOTVHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Fight.Network.HD.pt,Fight Network HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFIGHTHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+KBS.World.HD.pt,KBS World HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FKBSWORLDHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Canal.Q.pt,Canal Q,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCanalQB.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Star.Movies.HD.pt,Star Movies HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXMOVIESHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TCV.Internacional.pt,TCV Internacional,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTCVINT.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+BTV1.HD.pt,BTV1 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBENFICATV1HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Star.Crime.HD.pt,Star Crime HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+24Kitchen.HD.pt,24Kitchen HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2F24KITCHENHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SPORT.TV4.HD.pt,SPORT TV4 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Cartoon.Network.HD.pt,Cartoon Network HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCART.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Afro.Music.Channel.pt,Afro Music Channel,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAFROMUSIC.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+CGTN.pt,CGTN,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcgtn.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+CCTV.4.pt,CCTV 4,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCCTV4.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+STV.Notícias.pt,STV Notícias,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSTVNOTICIAS.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Record.pt,Record,
+Sporting.TV.HD.pt,Sporting TV HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPORTINGTVHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Motorvision.HD.pt,Motorvision HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMOTORVISIONHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Mezzo.Live.HD.pt,Mezzo Live HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMEZZOLIVEHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+MCM.Pop.pt,MCM Pop,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMCMPOP.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+DOGTV.pt,DOGTV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDOGTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+MTV.Portugal.HD.pt,MTV Portugal HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Canal.NOS.HD.pt,Canal NOS HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANALNOSHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+AMC.HD.pt,AMC HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SPORT.TV+.HD.pt,SPORT TV+ HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SIC.HD.pt,SIC HD,https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_xty0xglk/width/0/height/0/quality/85/format/png32
+SIC.Mulher.HD.pt,SIC Mulher HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICMHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SIC.Notícias.HD.pt,SIC Notícias HD,https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_rn0vya24/width/0/height/0/quality/85/format/png32
+SIC.Caras.HD.pt,SIC Caras HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICCHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SIC.Radical.HD.pt,SIC Radical HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICRHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Porto.Canal.HD.pt,Porto Canal HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPORTOHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+CMTV.HD.pt,CMTV HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCMTVHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Kuriakos.TV.pt,Kuriakos TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FKURIAKOSTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+ODISSEIA.HD.pt,ODISSEIA HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Globo.HD.pt,Globo HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FGLOBOHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Nick.Jr..pt,Nick Jr.,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNICKJR.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Baby.TV.pt,Baby TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBABYTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+S+.HD.pt,S+ HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSAUDEMAIS.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+AMC.Break.HD.pt,AMC Break HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCBreak.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+DAZN.3.pt,DAZN 3,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+DAZN.4.pt,DAZN 4,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+DAZN.5.pt,DAZN 5,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP5HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+DAZN.1.pt,DAZN 1,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+ZAP.Viva.HD.pt,ZAP Viva HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FZAPVIVAHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+ID.Investigation.Discovery.pt,ID Investigation Discovery,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FInvestigationDiscovery.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+DAZN.2.pt,DAZN 2,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Canal.História.HD.pt,Canal História HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Trace.Toca.pt,Trace Toca,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTrace_Toca.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+AMC.Crime.HD.pt,AMC Crime HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCCrime.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+NOS.Studios.HD.pt,NOS Studios HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNOSSTUDIOSHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTP.2.HD.pt,RTP 2 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTP2HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SIC.K.HD.pt,SIC K HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICKHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVI.HD.pt,TVI HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVIHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTP.Notícias.HD.pt,RTP Notícias HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTP3HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+CNN.Portugal.HD.pt,CNN Portugal HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcnnportugalhd.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Discovery.HD.pt,Discovery HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISCOVERYHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Eurosport.2.HD.pt,Eurosport 2 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Canal.11.HD.pt,Canal 11 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANAL11HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TVI.Reality.HD.pt,TVI Reality HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVIREALHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Casa.e.Cozinha.HD.pt,Casa e Cozinha HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcasacozhd.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Azores.TV.pt,Azores TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAzoresTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+V+TVI.pt,V+TVI,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FVmaisTVI.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Canal.Galeria.pt,Canal Galeria,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fgaleria.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Disney.Channel.HD.pt,Disney Channel HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISNYHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Canal.Panda.HD.pt,Canal Panda HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fpandahd.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Panda.KIDS.pt,Panda KIDS,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPANDAKHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Sport.TV.6.HD.pt,Sport TV 6 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_6HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Disney.Junior.HD.pt,Disney Junior HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISNEYJRHD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Nautical.Channel.pt,Nautical Channel,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNAUTICAL.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Horse.TV.pt,Horse TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHORSE.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Unifé.TV.pt,Unifé TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FUNIFE.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+OneToro.TV.pt,OneToro TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FOneToroTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+New.Brasil.pt,New Brasil,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNEWBRASIL.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+W-Sport.pt,W-Sport,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FWSPORT.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Dizi.pt,Dizi,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDIZI.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Trace.Brasil.pt,Trace Brasil,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRACEBRAS.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+NewsNOW.pt,NewsNOW,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNEWSNOW.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Sport.TV.7.HD.pt,Sport TV 7 HD,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_7HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TV.Zimbo.pt,TV Zimbo,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVZIMBO.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+SIC.Novelas.pt,SIC Novelas,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNOVEL.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+HGTV.pt,HGTV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHGTV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Cartoonito.pt,Cartoonito,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCARTOONITO.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+TDM.pt,TDM,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTDM.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+A.Bola.TV.pt,A Bola TV,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FABOLA.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Daystar.Español.pt,Daystar Español,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDAYSTAREN.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Daystar.pt,Daystar,
+Canal.Convidado.pt,Canal Convidado,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCCONV.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+Conta.Lá.pt,Conta Lá,https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCONTALA1PP.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+ARTE.(Deutsch).pt,ARTE (Deutsch),https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FARTEDE.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png.pt
+RTP.Internacional.pt,RTP Internacional,
+Real.Madrid.TV.pt,Real Madrid TV,
+SIC.Internacional.pt,SIC Internacional,
+TVI.Internacional.pt,TVI Internacional,https://tvmetafiles.alteox.lu/file/tvmeta/uploads/logo-channel-2d700b20-8099-11e9-b5ca-f345a2ed0fbe.svg
+tvi.ficcao.pt,tvi ficcao,https://cdn.iol.pt/img/logostvi/preto/tvificcao.png
+tvi.reality.pt,tvi reality,https://cdn.iol.pt/img/logostvi/preto/tvireality.png
+tvi.internacional.pt,tvi internacional,https://cdn.iol.pt/img/logostvi/preto/tviinternacional.png
+tvi.africa.pt,tvi africa,https://cdn.iol.pt/img/logostvi/preto/tviafrica.png
+A.Bola.TV.HD.pt,A Bola TV HD,https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ABOLA&amp;profile=corner_transparent_positive&amp;width=60
+Cinemundo.pt,Cinemundo,https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CINEHD&amp;profile=corner_transparent_positive&amp;width=60
+Canal.Punto.2.Puerto.Rico.pt,Canal Punto 2 Puerto Rico,https://imagenes.gatotv.com/logos/canales/oscuros/punto_2_puerto_rico-mediano.png
+Canal.WAPA.2.Deportes.pt,Canal WAPA 2 Deportes,https://imagenes.gatotv.com/logos/canales/oscuros/wapa_2_deportes-mediano.png
+News.Now.pt,News Now,https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NEWSNOW&amp;profile=corner_transparent_positive&amp;width=60
+SIC.pt,SIC,
+SIC.Notícias.pt,SIC Notícias,
+SIC.Alta.Definição.pt,SIC Alta Definição,https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_h7yt338j/width/0/height/0/quality/85/format/png32
+SIC.Replay.pt,SIC Replay,https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_7zok2d2g/width/0/height/0/quality/85/format/png32
+Kuriakos.Cine.pt,Kuriakos Cine,https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png

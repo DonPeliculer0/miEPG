@@ -1,0 +1,482 @@
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz
+QVC.Style.HD.uk,QVC Style HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1118.png
+Thats.TV.2.uk,Thats TV 2,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1311.png
+SkySp.Mix.HD.uk,SkySp Mix HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png
+TNT.Sports.Box.Office.2.uk,TNT Sports Box Office 2,https://tv.assets.pressassociation.io/a5a4c54e-969e-5fd2-96bc-bae1e24edc90.png
+U.and.W+1.uk,U and W+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2616.png
+NTD.uk,NTD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3731.png
+CBS.Justice.uk,CBS Justice,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4610.png
+Ahlebait.TV.uk,Ahlebait TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6765.png
+Kerrang!.uk,Kerrang!,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1853.png
+Sky.Valentine.uk,Sky Valentine,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1811.png
+Animal.Planet.uk,Animal Planet,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2402.png
+SONY.SAB.uk,SONY SAB,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3631.png
+NatGeoWild.HD.uk,NatGeoWild HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4025.png
+ComedyCentral.uk,ComedyCentral,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2510.png
+Sky.Premiere.uk,Sky Premiere,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png
+TNT.Sports.9.HD.uk,TNT Sports 9 HD,https://tv.assets.pressassociation.io/34a9289d-1e34-50f8-8e43-a651223345c8.png
+Pitaara..uk,Pitaara ,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1260.png
+TRT.World.uk,TRT World,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5071.png
+RTÉ.Radio.1.uk,RTÉ Radio 1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1261.png
+ITV4.HD.uk,ITV4 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png
+CN+1.uk,CN+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5610.png
+CBeebies.HD.uk,CBeebies HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2088.png
+TV.Warehouse.uk,TV Warehouse,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3632.png
+ColorsGujarati.uk,ColorsGujarati,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1090.png
+PTV.Global.uk,PTV Global,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3646.png
+mta-muslim.tv.uk,mta-muslim tv,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3201.png
+Sky.Greats.HD.uk,Sky Greats HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png
+CNN.HD.uk,CNN HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1019.png
+ITV2.HD.uk,ITV2 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png
+U.and.Drama.uk,U and Drama,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2612.png
+Really.uk,Really,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2325.png
+Panjab.Radio.uk,Panjab Radio,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3363.png
+TNT.Sports.6.HD.uk,TNT Sports 6 HD,https://tv.assets.pressassociation.io/82f1ab41-1eb6-5cd6-a8a1-e7a7c694555d.png
+LoveWorld.HD.uk,LoveWorld HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1228.png
+SkyValentineHD.uk,SkyValentineHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png
+HGTV+1.uk,HGTV+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2309.png
+Discovery+1.uk,Discovery+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2404.png
+Ayozat.TV.uk,Ayozat TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3206.png
+ComedyXtra.uk,ComedyXtra,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1813.png
+Planet.Rock.uk,Planet Rock,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3475.png
+SkySp.Tennis.HD.uk,SkySp Tennis HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png
+JewelleryMaker.uk,JewelleryMaker,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3354.png
+TNT.Sport.BoxOffice.HD.uk,TNT Sport BoxOffice HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1210.png
+SkySp.Cricket.uk,SkySp Cricket,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png
+Virgin.Radio.uk,Virgin Radio,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1148.png
+Live.360.uk,Live 360,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1133.png
+BBC.One.NE.and.C.HD.uk,BBC One NE and C HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3009.png
+BBC.One.Wal.HD.uk,BBC One Wal HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2083.png
+Sky.Atlantic.HD.uk,Sky Atlantic HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png
+HUM.Masala.uk,HUM Masala,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1069.png
+Channels.24.uk,Channels 24,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5520.png
+5.USA.uk,5 USA,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png
+STV.Central.+1.uk,STV Central +1,https://tv.assets.pressassociation.io/965b0191-16bb-52ea-99db-9f83d279dfc8.png
+CITV.uk,CITV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6273.png
+QVC.Beauty.uk,QVC Beauty,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4105.png
+BBC.One.S.East.HD.uk,BBC One S East HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3008.png
+Khushkhabri.uk,Khushkhabri,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3383.png
+GREAT!.tv.uk,GREAT! tv,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4266.png
+Cartoon.Netwrk.uk,Cartoon Netwrk,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5601.png
+TNTSBoxOff2HD.uk,TNTSBoxOff2HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1218.png
+Utsav.Gold.HD.uk,Utsav Gold HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4047.png
+CBBC.HD.uk,CBBC HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2078.png
+5STAR+1.uk,5STAR+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3024.png
+DMAX.uk,DMAX,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3618.png
+ITV.Quiz.uk,ITV Quiz,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3026.png
+U.and.W.HD.uk,U and W HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3810.png
+New.Vision.TV.uk,New Vision TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1026.png
+BBC.One.West.HD.uk,BBC One West HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3001.png
+SkySp.F1.uk,SkySp F1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png
+SkySp.Fball.HD.uk,SkySp Fball HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png
+BBC.One.Yorks.HD.uk,BBC One Yorks HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3017.png
+Sky.Action.uk,Sky Action,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1001.png
+Heart.80s.uk,Heart 80s,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2928.png
+Sky.Comedy.HD.uk,Sky Comedy HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png
+Premier.Sports.1.HD.uk,Premier Sports 1 HD,https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png
+SkySpMainEvHD.uk,SkySpMainEvHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png
+TNT.Sports.10.HD.uk,TNT Sports 10 HD,https://tv.assets.pressassociation.io/8cf3d59b-125d-53e7-af17-3ca837d02c9d.png
+SkyNewsArabia.uk,SkyNewsArabia,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4645.png
+Thats.TV.uk,Thats TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1017.png
+QVC.Extra.uk,QVC Extra,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3359.png
+Good.News.TV.uk,Good News TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1188.png
+Dunamis.TV.uk,Dunamis TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1191.png
+Madani.Chnl.uk,Madani Chnl,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4460.png
+EWTN.Catholic.uk,EWTN Catholic,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4163.png
+Aastha.uk,Aastha,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3594.png
+True.Crime.Xtra.uk,True Crime Xtra,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3617.png
+TV.One.uk,TV One,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5426.png
+HobbyMaker.uk,HobbyMaker,https://fdp-sv15-image-v1-0.gcprod1.freetime-platform.net/cache/ms/img/chan/chan/chan-Web-9009.png
+STV.North.uk,STV North,
+SONY.TV.HD.uk,SONY TV HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4045.png
+High.Street.TV.4.uk,High Street TV 4,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1130.png
+Classic.Rock.uk,Classic Rock,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4371.png
+U.and.Dave.HD.uk,U and Dave HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3809.png
+U.and.GOLD.HD.uk,U and GOLD HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6513.png
+Capital.XTRA.uk,Capital XTRA,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2971.png
+SONY.MAX.2.uk,SONY MAX 2,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5431.png
+Challenge.uk,Challenge,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2202.png
+POLITICSPUNJAB.uk,POLITICSPUNJAB,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3421.png
+5SELECT.uk,5SELECT,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3028.png
+SkySp.ActionHD.uk,SkySp ActionHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png
+STV.HD.uk,STV HD,https://tv.assets.pressassociation.io/89eedcf9-78ac-568a-9a48-5d5c2c6dbd23.png
+RTÉ.Lyric.fm.uk,RTÉ Lyric fm,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1264.png
+Gems.TV.uk,Gems TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3010.png
+NOW.80s.uk,NOW 80s,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4541.png
+U.and.Drama+1.uk,U and Drama+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1081.png
+SkySp.Action.uk,SkySp Action,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png
+Thats.TV.3.uk,Thats TV 3,https://cdn.tv-guide.future.sensi.link/images/channel/d05733e3-63ec-58b7-9945-d51080c7bce5/logo.png
+BBC.Radio.Sussex.uk,BBC Radio Sussex,
+Legend.uk,Legend,
+True.Crime.+1.uk,True Crime +1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3602.png
+True.Crime.uk,True Crime,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3352.png
+G!.romance+1.uk,G! romance+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3751.png
+CNN.uk,CNN,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5602.png
+4seven.uk,4seven,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3150.png
+SkySp.News.HD.uk,SkySp News HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png
+CNBC.HD.uk,CNBC HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1088.png
+ARY.Digital.uk,ARY Digital,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4265.png
+STV.North.+1.uk,STV North +1,https://tv.assets.pressassociation.io/2cb0f09e-5076-5c0e-a628-7cc09dcd3fe9.png
+Food.Network.uk,Food Network,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3590.png
+92.News.uk,92 News,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3822.png
+Legend.Xtra.uk,Legend Xtra,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4610.png
+QUEST+1.uk,QUEST+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3621.png
+Now.Rock.uk,Now Rock,https://assets.tv24.co/channels/now-90-s-uk-l.webp
+TBN.UK.uk,TBN UK,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3109.png
+MTV.80s.uk,MTV 80s,https://cdn.tv-guide.future.sensi.link/images/channel/a9fc24a1-94dd-5682-9351-ecafb67b2cf9/logo.png
+Heart.uk,Heart,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2909.png
+Nick.Jr+1.uk,Nick Jr+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5089.png
+NTV.uk,NTV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4540.png
+5ACTION.uk,5ACTION,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png
+SkySp+.uk,SkySp+,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png
+XXX.Girl.Girl.uk,XXX Girl Girl,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1029.png
+PBS.America.uk,PBS America,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5500.png
+More4.HD.uk,More4 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png
+Islam.Ch.Urdu.uk,Islam Ch Urdu,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5211.png
+E4.HD.uk,E4 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png
+WRN.Europe.uk,WRN Europe,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4158.png
+BBC.Parliament.HD.uk,BBC Parliament HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3020.png
+Adult.Channel.uk,Adult Channel,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4195.png
+Racing.TV.uk,Racing TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3636.png
+BBC.RB.1.uk,BBC RB 1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2051.png
+Nickelodeon+1.uk,Nickelodeon+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1845.png
+Sky.Sci-Fi.HD.uk,Sky Sci-Fi HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4074.png
+TVC.News.uk,TVC News,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5882.png
+Heart.Sussex.uk,Heart Sussex,
+SkySp.Golf.uk,SkySp Golf,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1322.png
+Disney+CineHD.uk,Disney+CineHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1190.png
+Film4+1.uk,Film4+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1629.png
+Utsav.Bharat.uk,Utsav Bharat,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3608.png
+SkyHistory2HD.uk,SkyHistory2HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1195.png
+TNT.Sports.Box.Office.uk,TNT Sports Box Office,https://tv.assets.pressassociation.io/0e736662-ebac-5fa5-9a38-f79e5f91e0a2.png
+Nat.Geo+1.uk,Nat Geo+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1822.png
+BBC.WS.uk,BBC WS,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2122.png
+Kanshi.TV.uk,Kanshi TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3753.png
+Gemporia.Craft.uk,Gemporia Craft,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1129.png
+STV.Central.uk,STV Central,https://tv.assets.pressassociation.io/59da93c5-a1ea-5432-be42-47a0b362f234.png
+Channel.5.uk,Channel 5,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png
+NOW.70s.uk,NOW 70s,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3403.png
+iON.TV.uk,iON TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4461.png
+Xpanded.TV.uk,Xpanded TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4191.png
+Brit.Asia.TV.uk,Brit Asia TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3653.png
+BBC.R4.FM.uk,BBC R4 FM,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2114.png
+Word.Network.uk,Word Network,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3205.png
+TNT.Sports.8.HD.uk,TNT Sports 8 HD,https://tv.assets.pressassociation.io/e3cb5ec6-42ce-5031-bc76-83e46cbe3652.png
+5USA+1.uk,5USA+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3027.png
+Dunya.News.uk,Dunya News,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1038.png
+BBC.Radio.Bristol.DAB.uk,BBC Radio Bristol DAB,
+BLAZE.uk,BLAZE,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1065.png
+SkySpBoxOff.uk,SkySpBoxOff,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1034.png
+PCNE.Chinese.HD.uk,PCNE Chinese HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1140.png
+BBC.One.Y.and.L.HD.uk,BBC One Y and L HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3004.png
+Ideal.Extra.uk,Ideal Extra,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5740.png
+GREAT!.movies+1.uk,GREAT! movies+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3771.png
+U.and.The.Past.uk,U and The Past,https://assets.tv24.co/channels/uktv-play-uncovered-l.webp
+Get.Lucky.TV.uk,Get Lucky TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4538.png
+Disc.History+1.uk,Disc.History+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3760.png
+KTV.uk,KTV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1056.png
+GREAT!.romance.uk,GREAT! romance,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3643.png
+High.Street.TV.2.uk,High Street TV 2,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5706.png
+Disc.Science.uk,Disc.Science,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2406.png
+Sky.Thriller.HD.uk,Sky Thriller HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png
+GOD.Channel.uk,GOD Channel,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3105.png
+RTÉ.R.na.G.uk,RTÉ R na G,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1263.png
+U.and.Drama.+1.uk,U and Drama +1,https://cdn.tv-guide.future.sensi.link/images/channel/c590aea6-ccd1-58fd-9352-ca2e07c96ef7/logo.png
+Sky.Witness+1.uk,Sky Witness+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2205.png
+POP.Max+1.uk,POP Max+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4263.png
+TJC.Beauty.uk,TJC Beauty,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5212.png
+Sky.News.HD.uk,Sky News HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png
+PCNE.Chinese.uk,PCNE Chinese,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3258.png
+ComedyCentHD.uk,ComedyCentHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4056.png
+Absolute.80s.uk,Absolute 80s,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4373.png
+Faith.UK.uk,Faith UK,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5354.png
+NOW.90s.uk,NOW 90s,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3682.png
+Sky.HistoryHD.uk,Sky HistoryHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png
+BBC.One.NI.HD.uk,BBC One NI HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2081.png
+Noor.TV.uk,Noor TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3715.png
+LBC.News.uk,LBC News,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1205.png
+BBC.One.Sth.HD.uk,BBC One Sth HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3011.png
+Television.X.uk,Television X,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4192.png
+B4U.Music.uk,B4U Music,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5708.png
+Akaal.Channel.uk,Akaal Channel,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5087.png
+Absolute.90s.uk,Absolute 90s,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4372.png
+IQRA.TV.uk,IQRA TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6754.png
+GINXeSportsTV.uk,GINXeSportsTV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1830.png
+Bloomberg.HD.uk,Bloomberg HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1074.png
+BBC.R.Foyle.uk,BBC R Foyle,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2124.png
+Legend.Xtra+1.uk,Legend Xtra+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4502.png
+XXX.Mums.uk,XXX Mums,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1754.png
+BBC.R2.uk,BBC R2,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2112.png
+BBC.R5SX.uk,BBC R5SX,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2034.png
+Islam.Channel.uk,Islam Channel,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3214.png
+GEO.News.uk,GEO News,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4407.png
+Sky.History2.uk,Sky History2,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1879.png
+GREAT!.action.uk,GREAT! action,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3708.png
+ITV2+1.uk,ITV2+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6241.png
+BBC.ALBA.HD.uk,BBC ALBA HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3021.png
+E4.Extra.uk,E4 Extra,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1758.png
+Classic.FM.uk,Classic FM,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3470.png
+Nat.Geo.HD.uk,Nat Geo HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4031.png
+NDTV.24x7.uk,NDTV 24x7,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1821.png
+BBC.R1X.uk,BBC R1X,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2126.png
+ITV4+1.uk,ITV4+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6274.png
+Trace.Vault.uk,Trace Vault,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3935.png
+Discovery.HD.uk,Discovery HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4003.png
+Quest.Red.uk,Quest Red,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2411.png
+SkyPremiere+1.uk,SkyPremiere+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1823.png
+Box.Hits.uk,Box Hits,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1350.png
+SkySp.PL.HD.uk,SkySp PL HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png
+Greatest.Hits.Radio.(West.Sussex).uk,Greatest Hits Radio (West Sussex),
+BabyTV.uk,BabyTV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3645.png
+EasterEpicsHD.uk,EasterEpicsHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png
+Travelxp.uk,Travelxp,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1226.png
+TNT.Sports.1.HD.uk,TNT Sports 1 HD,https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png
+PTC.PUNJABI.uk,PTC PUNJABI,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5715.png
+BBC.Three.HD.uk,BBC Three HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png
+BBC.R4.LW.uk,BBC R4 LW,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2115.png
+Sangat.uk,Sangat,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3355.png
+LFCTV.HD.uk,LFCTV HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3845.png
+Studio.66.3.uk,Studio 66 3,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3530.png
+Capital.uk,Capital,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2908.png
+BBC.R5L.uk,BBC R5L,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2026.png
+TNT.Sports.7.HD.uk,TNT Sports 7 HD,https://tv.assets.pressassociation.io/f0a3e89f-2f7e-5176-a574-33dc6ec6efaf.png
+U.and.YESTERDAY+1.uk,U and YESTERDAY+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2615.png
+Arirang.TV.HD.uk,Arirang TV HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1066.png
+UTV.uk,UTV,
+BBC.R4.Ex.uk,BBC R4 Ex,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2128.png
+Sanskar.uk,Sanskar,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1100.png
+Sky.Cinema.Select.uk,Sky Cinema Select,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png
+Sky.Sports.Football.HD.uk,Sky Sports Football HD,https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png
+BBC.6.Music.uk,BBC 6 Music,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2127.png
+London.Live.uk,London Live,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5090.png
+BBC.Two.HD.uk,BBC Two HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png
+TJC.uk,TJC,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1033.png
+TWR.uk,TWR,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4155.png
+Together.uk,Together,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1872.png
+BFBS.Radio.uk,BFBS Radio,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3371.png
+NBCNewsNowHD.uk,NBCNewsNowHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1039.png
+talkSPORT.uk,talkSPORT,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2902.png
+TalkTV.HD.uk,TalkTV HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1078.png
+LBC.uk,LBC,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2926.png
+SportyStuff.HD.uk,SportyStuff HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1223.png
+U.and.alibi.HD.uk,U and alibi HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3825.png
+Direct.Store.TV.uk,Direct Store TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3415.png
+Sky.Replay.uk,Sky Replay,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1833.png
+ColorsRishtey.uk,ColorsRishtey,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3916.png
+Sky.Sports.NFL.uk,Sky Sports NFL,https://cdn.tv-guide.future.sensi.link/images/channel/0888f93b-9341-5344-a790-3938799f3b08/logo.png
+Animal.Plnt+1.uk,Animal Plnt+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1352.png
+U.and.GOLD+1.uk,U and GOLD+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2703.png
+TNT.Sports.5.HD.uk,TNT Sports 5 HD,https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png
+Sky.History+1.uk,Sky History+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1891.png
+U.and.Gold.uk,Gold,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2903.png
+BBC.Four.HD.uk,BBC Four HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png
+Sky.Crime.HD.uk,Sky Crime HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png
+Movies24.uk,Movies24,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4420.png
+MTV.HD.uk,MTV HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png
+Thats.Dance.uk,Thats Dance,https://cdn.tv-guide.future.sensi.link/images/channel/57b61c39-40da-508f-9efa-b901736dfc7d/logo.png
+revelation.uk,revelation,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3116.png
+High.Street.TV.1.uk,High Street TV 1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3580.png
+SkySp.F1.HD.uk,SkySp F1 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png
+Zee.Cinema.uk,Zee Cinema,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2608.png
+POP.Max.uk,POP Max,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4262.png
+POP+1.uk,POP+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4216.png
+Utsav.Plus.HD.uk,Utsav Plus HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5300.png
+Disc.Turbo+1.uk,Disc.Turbo+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5245.png
+Channel.7.uk,Channel 7,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3687.png
+BBC.Two.NI.HD.uk,BBC Two NI HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3019.png
+BBC.R1.uk,BBC R1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2111.png
+Sky.Kids.HD.uk,Sky Kids HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1147.png
+Channel.5+1.uk,Channel 5+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1839.png
+RTÉ.2FM.uk,RTÉ 2FM,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1262.png
+DAYSTAR.HD.uk,DAYSTAR HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5541.png
+BBC.One.S.West.HD.uk,BBC One S West HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3014.png
+SonLife.uk,SonLife,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3392.png
+TCM.Movies+1.uk,TCM Movies+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5275.png
+The.Craft.Store.uk,The Craft Store,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3357.png
+Iran.Intl.HD.uk,Iran Intl HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1114.png
+BBC.One.WM.HD.uk,BBC One WM HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3003.png
+WION.HD.uk,WION HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1084.png
+Tiny.Pop+1.uk,Tiny Pop+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4261.png
+ATN.uk,ATN,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6753.png
+SkyPremiereHD.uk,SkyPremiereHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png
+XXXpublicpikups.uk,XXXpublicpikups,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1030.png
+Forces.TV.uk,Forces TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5415.png
+CNBC.uk,CNBC,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3611.png
+Sky.Mix.HD.uk,Sky Mix HD,https://cdn.tv-guide.future.sensi.link/images/channel/1a83cd94-9972-5ecf-9243-853212ca1fe1/logo.png
+SkyAdventureHD.uk,SkyAdventureHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png
+Utsav.GOLD.uk,Utsav GOLD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3613.png
+ROK.uk,ROK,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3542.png
+BBC.Radio.Bristol.94.9FM.uk,BBC Radio Bristol 94.9FM,
+Boomerang.HD.uk,Boomerang HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4030.png
+Sky.Atlantic+1.uk,Sky Atlantic+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1413.png
+Sky.Sports.Ultra.HD.2.uk,Sky Sports Ultra HD 2,https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-uhd.png
+U.and.Real.Heroes.uk,U and Real Heroes,https://assets.tv24.co/channels/uktv-play-heroes-l.webp
+NickelodeonHD.uk,NickelodeonHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4069.png
+Sky.Cinema.Hits.HD.uk,Sky Cinema Hits HD,https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png
+babes.and.brazzers.uk,babes and brazzers,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4197.png
+POP.uk,POP,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3750.png
+Al.Jazeera.HD.uk,Al Jazeera HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1023.png
+XXX.College.uk,XXX College,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1028.png
+NEO.News.uk,NEO News,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3722.png
+GB.News.HD.uk,GB News HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1196.png
+Best.Direct.uk,Best Direct,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4100.png
+CHSTV.uk,CHSTV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3815.png
+Cruise1st.tv.uk,Cruise1st.tv,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1018.png
+QUEST.uk,QUEST,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6761.png
+Heart.90s.uk,Heart 90s,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1083.png
+SkySp.Golf.HD.uk,SkySp Golf HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4026.png
+Nicktoons.uk,Nicktoons,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1849.png
+Arise.News.uk,Arise News,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5040.png
+Court.TV.uk,Court TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1207.png
+BBC.NEWS.HD.uk,BBC NEWS HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png
+BBC.R.Ulster.uk,BBC R Ulster,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2119.png
+TJC.HD.uk,TJC HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1113.png
+BBC.R.Cymru.uk,BBC R Cymru,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2123.png
+Disc.Sci+1.uk,Disc.Sci+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1351.png
+ITV1.HD.uk,ITV1 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png
+ITV3+1.uk,ITV3+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6261.png
+More.Radio.Mid.Sussex.uk,More Radio Mid Sussex,
+Smooth.uk,Smooth,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2917.png
+Browse.Shop.uk,Browse Shop,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb8025.png
+TRT.World.HD.uk,TRT World HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5237.png
+High.Street.TV.3.uk,High Street TV 3,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3404.png
+Eman.Channel.uk,Eman Channel,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3111.png
+GREAT!.movies.uk,GREAT! movies,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3709.png
+WildEarth.uk,WildEarth,
+ComedyCent+1.uk,ComedyCent+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3802.png
+Trace.Hits.uk,Trace Hits,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3505.png
+Euronews.uk,Euronews,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4604.png
+The.Box.uk,The Box,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1802.png
+Sky.ScFi/HorHD.uk,Sky ScFi/HorHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png
+Foodxp.uk,Foodxp,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1227.png
+SkySpCricket.HD.uk,SkySpCricket HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png
+TNT.Sports.Ultimate.HD.uk,TNT Sports Ultimate HD,https://tv.assets.pressassociation.io/4cf0b94b-7f49-5dea-8e05-bced66f8bbd7.png
+SkySp+HD.uk,SkySp+HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3940.png
+BBC.R.Wales.uk,BBC R Wales,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2118.png
+Cartoon.Net.HD.uk,Cartoon Net HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4077.png
+SONY.MAX.HD.uk,SONY MAX HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4046.png
+Radio.X.uk,Radio X,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2904.png
+Quest.Red+1.uk,Quest Red+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4547.png
+Sky.Drama.HD.uk,Sky Drama HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png
+BBC.R.Scot..uk,BBC R Scot.,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2117.png
+U.and.Eden.uk,U and Eden,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2302.png
+EarthxTV.HD.uk,EarthxTV HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1086.png
+BBC.One.CI.HD.uk,BBC One CI HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3018.png
+U.and.Transport.uk,U and Transport,https://assets.tv24.co/channels/uktv-play-full-throttle-l.webp
+Babenation.uk,Babenation,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3400.png
+Sky.One.HD.uk,Sky One HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4061.png
+NOW.90s00s.uk,NOW 90s00s,https://cdn.tv-guide.future.sensi.link/images/channel/2139e332-aa9f-5d46-8e51-913bfbf6693d/logo.png
+Channel.4+1.uk,Channel 4+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1670.png
+Sky.Witness.HD.uk,Sky Witness HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png
+Heart.Dance.uk,Heart Dance,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2920.png
+Crime+Inv.HD.uk,Crime+Inv HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4088.png
+B4U.Movies.uk,B4U Movies,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5703.png
+BBC.One.E.Mid.HD.uk,BBC One E Mid HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3005.png
+BBC.One.N.West.HD.uk,BBC One N West HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3007.png
+Jazz.FM.uk,Jazz FM,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4376.png
+Sky.Family.HD.uk,Sky Family HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png
+Clubland.TV.uk,Clubland TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4505.png
+BBC.RLondon.uk,BBC RLondon,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2130.png
+Film4.HD.uk,Film4 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png
+alibi+1.uk,alibi+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2630.png
+More4+1.uk,More4+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3310.png
+KICC.TV.uk,KICC TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3776.png
+Faith.World.TV.uk,Faith World TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4404.png
+BBC.One.EastHD.uk,BBC One EastHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3006.png
+Spotlight.TV.uk,Spotlight TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4933.png
+Disc.Turbo.uk,Disc.Turbo,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2409.png
+Venus.TV.uk,Venus TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3720.png
+5STAR.uk,5STAR,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3023.png
+BBC.One.Lon.HD.uk,BBC One Lon HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png
+SkySp.Racing.uk,SkySp Racing,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1354.png
+ColorsCineplex.uk,ColorsCineplex,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1105.png
+HGTV.uk,HGTV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2301.png
+S4C.HD.uk,S4C HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2296.png
+A1TV.uk,A1TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1104.png
+Disney.Jr.HD.uk,Disney Jr HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1183.png
+Ahlulbayt.TV.uk,Ahlulbayt TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3701.png
+Sky.Cinema.Comedy.uk,Sky Cinema Comedy,https://d16ia5iwuvax6y.cloudfront.net/uk-images/02e866d89112bb1b1a576f520d636de5.png?k=VeeNdUjml3bSHdlZ0OXbGLy%2BmsLdYPwTV6iAxGkzq4cxLxoRPe%2Be6QkpTmeP95IGvhHBXchnfTjwvsMaRU1caihM8fF%2FQDNm03mD0qz8w4RqV4T3T6ThRp1Uc%2BpBrwJ%2F%2BFYX8F9MYhdYsGFB%2BqzEeQ%3D%3D
+Tiny.Pop.uk,Tiny Pop,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3780.png
+Sky.Action.HD.uk,Sky Action HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png
+TNT.Sports.3.HD.uk,TNT Sports 3 HD,https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png
+Nick.Jr..Too.uk,Nick Jr. Too,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4340.png
+U.and.Laughs.uk,U and Laughs,https://assets.tv24.co/channels/uktv-play-laughs-l.webp
+QUEST.HD.uk,QUEST HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1128.png
+Hits.Radio.uk,Hits Radio,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5562.png
+TVX.40+.uk,TVX 40+,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1031.png
+HUM.EUROPE.uk,HUM EUROPE,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5205.png
+MUTV.HD.uk,MUTV HD,https://tv.assets.pressassociation.io/18923f6a-9f20-5a46-aada-d978babdd557.png
+Sky.Arts.HD.uk,Sky Arts HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png
+BBCScotlandHD.uk,BBCScotlandHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1138.png
+ITV3.HD.uk,ITV3 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png
+Disc.History.uk,Disc.History,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2407.png
+ITV1+1.uk,ITV1+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6155.png
+Zee.TV.HD.uk,Zee TV HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1016.png
+BBC.R.Cymru.2.uk,BBC R Cymru 2,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2021.png
+Absolute.uk,Absolute,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2901.png
+GEO.TV.uk,GEO TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4110.png
+GREAT!.tv+1.uk,GREAT! tv+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5338.png
+E4+1.uk,E4+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3300.png
+Channel.4.HD.uk,Channel 4 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png
+Sky.Adventure.uk,Sky Adventure,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1808.png
+Inspiration.TV.uk,Inspiration TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3219.png
+Thats.Melody.uk,Thats Melody,
+Channel.44.uk,Channel 44,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5359.png
+Crime+Inv+1.uk,Crime+Inv+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3620.png
+U.and.YESTERDAY.uk,U and YESTERDAY,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2305.png
+Takbeer.TV.uk,Takbeer TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4408.png
+Sikh.Channel.uk,Sikh Channel,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3650.png
+Spider-Man.HD.uk,Spider-Man HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4033.png
+GREAT!action+1.uk,GREAT!action+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3721.png
+Cartoonito.uk,Cartoonito,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1371.png
+Create.and.CraftHD.uk,Create and CraftHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1245.png
+U.and.Eden+1.uk,U and Eden+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2307.png
+BBC.Asian.uk,BBC Asian,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2120.png
+ID+1.uk,ID+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5452.png
+Sky.Nature.HD.uk,Sky Nature HD,https://cdn.tv-guide.future.sensi.link/images/channel/b5f505e2-5bd9-5fc0-b307-35dfd4611836/logo.png
+BBC.RB.1.HD.uk,BBC RB 1 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2053.png
+COLORS.HD.uk,COLORS HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1372.png
+Hidayat.TV.uk,Hidayat TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4549.png
+BBC.One.ScotHD.uk,BBC One ScotHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2082.png
+SkyMegaHitsHD.uk,SkyMegaHitsHD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4033.png
+S4C.uk,S4C,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5701.png
+Islam.TV.uk,Islam TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4403.png
+U.and.Dave.ja.vu.uk,U and Dave ja vu,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2320.png
+Sky.Sports.Ultra.HD.1.uk,Sky Sports Ultra HD 1,https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-uhd.png
+ID.uk,ID,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2413.png
+TLC+1.uk,TLC+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5451.png
+Greatest.Hits.uk,Greatest Hits,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1101.png
+Nat.Geo.Wild.uk,Nat Geo Wild,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1847.png
+BBC.R.n.Gael.uk,BBC R n Gael,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2129.png
+SkySp.Fball.uk,SkySp Fball,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png
+QVC.HD.uk,QVC HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1076.png
+Racing.TV.HD.uk,Racing TV HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5272.png
+FRANCE.24.HD.uk,FRANCE 24 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1121.png
+TNT.Sports.4.HD.uk,TNT Sports 4 HD,https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png
+BBC.Two.Wal.HD.uk,BBC Two Wal HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3015.png
+Sky.Crime+1.uk,Sky Crime+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4330.png
+Craft.Extra.uk,Craft Extra,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3357.png
+BBC.R3.uk,BBC R3,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2113.png
+Channel.5.HD.uk,Channel 5 HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png
+TNT.Sports.2.HD.uk,TNT Sports 2 HD,https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png
+Ideal.World.HD.uk,Ideal World HD,https://fdp-sv15-image-v1-0.gcprod1.freetime-platform.net/cache/ms/img/chan/chan/chan-Web-10704.png
+Deen.TV.uk,Deen TV,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1235.png
+NHK.World.HD.uk,NHK World HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3147.png
+TLC.HD.uk,TLC HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3812.png
+Food.Netwrk+1.uk,Food Netwrk+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3592.png
+TalkingPictures.uk,TalkingPictures,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5252.png
+AAJ.TAK.uk,AAJ TAK,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3255.png
+Sky.Greats.uk,Sky Greats,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png
+MATV.National.uk,MATV National,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3401.png
+Nick.Jr..HD.uk,Nick Jr. HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4039.png
+Sukh.Sagar.uk,Sukh Sagar,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3368.png
+IQRA.BANGLA.uk,IQRA BANGLA,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3914.png
+BBC.Radio.Bristol.104.6FM.uk,BBC Radio Bristol 104.6FM,
+Boomerang+1.uk,Boomerang+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5603.png
+Sky.Documentaries.HD.uk,Sky Documentaries HD,https://cdn.tv-guide.future.sensi.link/images/channel/c8128fb5-aebe-5600-aeca-f1c1ae5f89d4/logo.png
+Premier.Sports.2.HD.uk,Premier Sports 2 HD,https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png
+Movies24+.uk,Movies24+,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4421.png
+DMAX+1.uk,DMAX+1,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1865.png
+Vox.Africa.uk,Vox Africa,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3108.png
+SkySp.Racing.HD.uk,SkySp Racing HD,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png
+British.Muslim.uk,British Muslim,https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5417.png

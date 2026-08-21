@@ -1,161 +1,218 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz
-No.Game.Dummy.Scheduled.us,No Game Scheduled,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ProhibitionSign2.svg/150px-ProhibitionSign2.svg.png
-Football.Dummy.us,Football,https://img.freepik.com/premium-vector/american-football-design-white-background-football-line-art-logos-icons-vector-illustration_333603-221.jpg
-Basketball.Dummy.us,Basketball,https://img.freepik.com/free-vector/hand-drawn-basket-ball_1034-756.jpg
-Baseball.Dummy.us,Baseball,https://img.freepik.com/premium-vector/hand-drawn-doodle-baseball-ball-sports-equipment-cartoon-sketch-vector-illustration_501907-1187.jpg
-Golf.Dummy.us,Golf,https://img.freepik.com/premium-vector/golf-ball-vector-silhouette-golf-ball_690789-111.jpg
-MLB.Baseball.Dummy.us,MLB Baseball,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/250px-Major_League_Baseball_logo.svg.png
-MLS.Soccer.Dummy.us,MLS Soccer,https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/220px-MLS_crest_logo_RGB_gradient.svg.png
-NBA.Basketball.Dummy.us,NBA Basketball,https://upload.wikimedia.org/wikipedia/it/thumb/7/78/NBA_logo_vettoriale.svg/1200px-NBA_logo_vettoriale.svg.png
-NHL.Hockey.Dummy.us,NHL Hockey,https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/1200px-05_NHL_Shield.svg.png
-Peacock.Dummy.us,Peacock,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/NBCUniversal_Peacock_Logo.svg/1200px-NBCUniversal_Peacock_Logo.svg.png
-Amazon.Programming.Dummy.us,Amazon Programming,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/603px-Amazon_logo.svg.png
-DAZN.Dummy.us,DAZN,https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/250px-DAZN_Logo_Master.svg.png
-FITE.TV.Dummy.us,FITE TV,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/FITE_TV.svg/2560px-FITE_TV.svg.png
-UFC.Fight.Pass.Dummy.us,UFC Fight Pass,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/220px-UFC_Fight_Pass_Logo.svg.png
-UFC.247.Dummy.us,UFC 247,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png
-PPV.EVENTS.Dummy.us,PPV EVENT,https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png
-World.Soccer.Dummy.us,World Soccer,https://www.worldsoccer.com/wp-content/uploads/sites/13/logo.png
-NCAA.Mens.Basketball.Dummy.us,NCAA Mens Basketball,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/1200px-NCAA_logo.svg.png
-NCAA.Womens.Basketball.Dummy.us,NCAA Womens Basketball,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/1200px-NCAA_logo.svg.png
-NCAA.Baseball.Dummy.us,NCAA Baseball,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/1200px-NCAA_logo.svg.png
-NCAA.Softball.Dummy.us,NCAA Softball,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/1200px-NCAA_logo.svg.png
-Olympics.Dummy.us,Olympics,https://upload.wikimedia.org/wikipedia/commons/5/5c/Olympic_rings_without_rims.svg
-X-Games.Dummy.us,X-Games,https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_X_Games.jpg
-Redbull.Dummy.us,Redbull,https://ssb.wiki.gallery/images/thumb/7/73/RedBull.png/1200px-RedBull.png
-Soccer.Dummy.us,Soccer,https://img.freepik.com/free-vector/abstract-football-design-poster-background_460848-14479.jpg
-Volleyball.Dummy.us,Volleyball,https://img.freepik.com/premium-vector/volleyball-symbol-with-shadows_144316-5005.jpg
-Cricket.Dummy.us,Cricket,https://cdn-icons-png.flaticon.com/512/10/10552.png
-Tennis.Dummy.us,Tennis,https://img.freepik.com/free-icon/tennis_318-1449.jpg
-Rugby.Dummy.us,Rugby,https://cdn-icons-png.flaticon.com/512/97/97218.png
-AUS.Rules.Football.Dummy.us,Australian Rules Football,https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Australian_Football_League.svg/1200px-Australian_Football_League.svg.png
-Racing.Dummy.us,Racing,https://img.freepik.com/premium-vector/checkered-flag-wave-gray-sport-race-background_33869-83.jpg
-24.7.Dummy.us,24/7 Programming,https://img.freepik.com/premium-vector/24-hours-day-service-icon-symbol-vector_87543-11506.jpg?w=1380
-Darts.Dummy.us,Darts,https://img.freepik.com/premium-vector/trendy-continuous-line-art-vector-illustration-with-sitting-cat_8043-1573.jpg?w=1380
-Stingray.Music.Dummy.us,Stingray Music,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/1200px-Stingray_Music_logo.svg.png
-Minor.League.Hockey.Dummy.us,Minor League Hockey,https://cdn-icons-png.flaticon.com/512/47/47781.png
-ESPN+.Dummy.us,ESPN+,https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg
-Sporty.Stuff.TV.Dummy.us,Sporty Stuff TV,https://www.lyngsat.com/logo/tv/ss/sportystuff-tv-uk.svg
-Religious.Dummy.us,Religious Programming,
-Music.Dummy.us,Music,https://img.freepik.com/free-vector/elegant-music-speaker-equalizer-background-design_1017-31222.jpg
-NFL.Dummy.us,NFL,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png
-Local.Programming.Dummy.us,Local Programming,
-Adult.Programming.Dummy.us,Adult Programming,
-Blank.Dummy.us, ,
-Movie.Dummy.us,Movie,https://img.freepik.com/free-vector/film-reel-movie-metal-roll-with-black-tape-isolated-white-background_134830-1396.jpg
-March.Madness.us,March Madness,https://upload.wikimedia.org/wikipedia/en/thumb/2/28/March_Madness_logo.svg/1200px-March_Madness_logo.svg.png
-BIG.10.us,Big 10,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/1920px-Big_Ten_Conference_logo.svg.png
-Minor.League.Baseball.Dummy.us,Minor League Baseball,https://en.wikipedia.org/wiki/Minor_League_Baseball#/media/File:MiLB_logo.svg
-Flo.Events.Dummy.us,Flo Events,https://upload.wikimedia.org/wikipedia/commons/3/30/FloSports_logo.png
-NCAA.Football.Dummy.us,NCAA Football,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/1200px-NCAA_logo.svg.png
-WNBA.dummy.us,WNBA,https://upload.wikimedia.org/wikipedia/en/thumb/9/97/WNBA_logo.svg/1920px-WNBA_logo.svg.png
-NEWS.dummy.us,NEWS,https://www.energy.gov/sites/default/files/2018/08/f54/news24.jpg
-WEATHER.dummy.us,WEATHER,https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Wikinews_weather.svg/762px-Wikinews_weather.svg.png
-Christmas.Music.Dummy.us,Christmas Music,https://img.freepik.com/free-vector/christmas-tree-concept_23-2148780395.jpg
-Christmas.Radio.Dummy.us,Christmas Radio,https://img.freepik.com/free-vector/christmas-tree-concept_23-2148780395.jpg
-Christmas.Message.Dummy.us,Christmas Message,https://img.freepik.com/free-vector/christmas-tree-concept_23-2148780395.jpg
-Christmas.Dummy.us,Christmas,https://img.freepik.com/free-vector/christmas-tree-concept_23-2148780395.jpg
-Christmas.Fireplace.Dummy.us,Christmas Fireplace,https://img.freepik.com/free-vector/christmas-tree-concept_23-2148780395.jpg
-Barstool.Sports.Dummy.us,Barstool Sports,https://upload.wikimedia.org/wikipedia/en/4/43/Barstool_Sports_logo.png
-Monday.Night.Football.Dummy.us,Monday Night Football,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png
-Sunday.Night.Football.Dummy.us,Sunday Night Football,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png
-Thursday.Night.Football.Dummy.us,Thursday Night Football,https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png
-ESPN.Play.Dummy.us,ESPN Play,https://upload.wikimedia.org/wikipedia/commons/b/bc/ESPN%2B_logo.jpg
-UEFA.Champions.League.Dummy.us,UEFA Champions League,https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/1920px-UEFA_Champions_League.svg.png
-Premier.League.Dummy.us,Premier League,https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1920px-Premier_League_Logo.svg.png
-GaaGo.TV.Dummy.us,GaaGo TV,https://upload.wikimedia.org/wikipedia/en/4/4b/GAA_GO_LOGO.png
-LOI.TV.Dummy.us,LOI TV,https://upload.wikimedia.org/wikipedia/en/d/d8/League_Of_Ireland_logo_2023.png
-National.League.Dummy.us,National League,https://upload.wikimedia.org/wikipedia/en/f/f8/Vanarama_nat_league_logo.png
-Scottish.Professional.Football.League.Dummy.us,Scottish Professional Football League,https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Scottish_Professional_Football_League.svg/1920px-Scottish_Professional_Football_League.svg.png
-Scottish.Premiership.Dummy.us,Scottish Premiership,https://upload.wikimedia.org/wikipedia/en/a/a1/Cinch_premiership.png
-English.Football.League.Dummy.us,English Football League,https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/English_Football_League_Logo.svg/1024px-English_Football_League_Logo.svg.png
-Test.Dummy.us,Test Channel,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Test_rillke2.jpg/640px-Test_rillke2.jpg
-Netflix.Dummy.us,Netflix,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Netflix_logogo.png/640px-Netflix_logogo.png
-Kids.Dummy.us,Kids Programming,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/MTRCB_General_Patronage.svg/640px-MTRCB_General_Patronage.svg.png
-Cinebox.Dummy.us,Cinebox,https://pbs.twimg.com/profile_images/696705360304979968/hKrB1OuV_400x400.png
-Discovery+.Dummy.us,Discovery+,https://cdn.freelogovectors.net/wp-content/uploads/2023/05/discovery-plus-logo-freelogovectors.net_-640x400.png
-Disney+.DUMMY.us,Disney+,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Disney_plus_icon.png/640px-Disney_plus_icon.png
-HBO.MAX.us,HBO MAX,https://yt3.googleusercontent.com/VNaqKQFMoMXPgqUfe12hvzG882lrDbElLT5yWH83h8ZvEyn1rJN8DkA4kaZdU36YbO79XniwOwY=s900-c-k-c0x00ffffff-no-rj
-HULU.us,HULU,https://play-lh.googleusercontent.com/4whGAVjZGrrlNxzheKAfBXrxggtyAb4euWLeQI8fDfVfdnFEZjE0DZTJ8DKoh64pqcIa
-Sky.Store.Premiere.us,Sky Store Premiere,https://static.wikia.nocookie.net/logopedia/images/8/8d/Sky_Store_Premiere_2020.png
-BilliardTV.Dummy.us,Billiard TV,https://i0.wp.com/ipapool.com/wp-content/uploads/2023/09/US_STVP_BilliardTV_ChannelTile_1000x1000_Square.jpg
-ITVX.Dummy.us,ITVX,https://www.digitaltveurope.com/files/2022/07/ITVX-logo-768x576.jpg
-TrillerTV.Dummy.us,TrillerTV,https://www.trillertv.com/static/img/logo/192x192.png
-Info.Guide.Dummy.us,Info Guide,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Info_black.png/640px-Info_black.png
-Pluto.TV.Dummy.us,Pluto TV,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/640px-Pluto_TV_logo_2024.svg.png
-Fishtank.Live.Dummy.us,Fishtank Live,https://static.wikia.nocookie.net/fishtanklive/images/9/99/Fishtank_Logo_1.jpg/revision/latest?cb=20231030180204
-TgCom24.Dummy.us,TgCom24,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/SKY_TG24.png/640px-SKY_TG24.png
-Radio.105.Dummy.us,Radio 105,https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Radio_105_logo.svg/640px-Radio_105_logo.svg.png
-RAI.4K.Dummy.us,RAI 4K,https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Rai_4K_-_Logo_2017.svg/640px-Rai_4K_-_Logo_2017.svg.png
-Radio.TV.RDS.Serie.A.Dummy.us,Radio TV RDS Serie A,https://m.media-amazon.com/images/M/MV5BYjMxZmM2OGYtYzlmYS00NDBhLWJkZTgtNTE3MmFlZmUyNTcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
-Love.Nature.Dummy.us,Love Nature,https://yt3.googleusercontent.com/TmKbexraFVIXX24q2qRPk-iccbH86XG0qsjbl7Og4UCESjQw33TGSajqQehYI83LdDupXOr7dw=s900-c-k-c0x00ffffff-no-rj
-Beisbol.LMP.Dummy.us,Beisbol LMP,https://static.wikia.nocookie.net/lmb/images/5/57/LMPlogo.png/revision/latest?cb=20150731175714&amp;path-prefix=es
-MorbidoTV.Dummy.us,MorbidoTV,https://morbido.tv/wp-content/uploads/2024/02/MTV-Color-Favicon.png
-Virnin.Radio.TV.Dummy.us,Virgin Radio TV,https://upload.wikimedia.org/wikipedia/commons/d/d1/VirginRadio.png
-Radio.Monte.Carlo.Dummy.us,Radio Monte Carlo,https://www.radiomontecarlo.net/images/logos/1/logo_white.jpg
-R101.Dummy.us,R101,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/640px-R101_-_Logo_2015.svg.png
-Grande.Fratello.Regia.1.Dummy.us,Grande Fratello Regia 1,
-Grande.Fratello.Regia.2.Dummy.us,Grande Fratello Regia 2,
-Grande.Fratello.Un'ora.fa.Dummy.us,Grande Fratello Un'ora fa,
-Grande.Fratello.Party.Dummy.us,Grande Fratello Party,
-BBC.World.News.Dummy.us,BBC World News,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png
-Lazio.Style.TV.Dummy.us,Lazio Style TV,https://i.ibb.co/FBrzwKq/lazio-style.png
-Lazio.Style.Radio.Dummy.us,Lazio Style Radio,https://static-media.streema.com/media/cache/b1/a7/b1a7344293e97f9a5eeaf46d2d103570.png
-Shopping.Dummy.us,Shopping,https://cdn.pixabay.com/photo/2016/09/28/02/17/shopping-bag-1699644_1280.png
-Sports.Dummy.us,Sports,https://img.freepik.com/free-vector/versus-vs-shiny-colorful-background_1035-18634.jpg
-Apple.TV+.Originals.Dummy.us,Apple TV+ Originals,https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Apple_TV_Plus_Logo.svg/1920px-Apple_TV_Plus_Logo.svg.png
-AMC+.Originals.Dummy.us,AMC+ Originals,https://yt3.googleusercontent.com/PT7oRegnaQeeK5eAUHSWo3dfBRarC98iUj9E_3VpHovDFAQwr2Mg7IwxuMK73iJlV79CqdGIfQ=s160-c-k-c0x00ffffff-no-rj
-Paramount+.Originals.Dummy.us,Paramount+ Originals,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/1920px-Paramount_Plus.svg.png
-StarzPlay.Originals.Dummy.us,StarzPlay Originals,https://static.cdnlogo.com/logos/s/69/starzplay.png
-Ride.TV.Dummy.us,Ride TV,https://vhx.imgix.net/ridetvgo/assets/176ec94a-fe38-419a-b98c-9a3b3f0185f0.png
-Fox.Live.Now.Dummy.us,Fox Live Now,https://yt3.googleusercontent.com/AqzY5ePezRAQ2136-TbM_88d43JfIovkzztge92WKQ4K_ISfJMFA9yuX0Nw87DLWms4W9r2c3Q=s900-c-k-c0x00ffffff-no-rj
-Curiosity.Stream.Dummy.us,Curiosity.Stream,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/220px-CuriosityStreamBlack.svg.png
-XITE.80s.Dummy.us,XITE 80s,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/640px-Logo_XITE_2017_zwart.png
-Music.Choice.Dummy.us,Music Choice,https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png
-This.Old.House.Makers.Dummy.us,This Old House Makers,https://s42814.pcdn.co/wp-content/uploads/2022/11/Makers_Logo_Black.png
-Sky.Sports+.Dummy.us,Sky Sports+,https://i2.wp.com/www.stuff.tv/wp-content/uploads/sites/2/2024/05/sky-sports-plus-1.jpeg?ssl=1
-Adult.Section.Dummy.us,Adult Section,https://pbs.twimg.com/profile_images/828644544665235456/RZTvEjYz_400x400.jpg
-Bookies.Dummy.us,Bookies,https://images-platform.99static.com/_E1XplmW2CRqduBB0xsQPzhIgCM=/0x0:1201x1201/500x500/top/smart/99designs-contests-attachments/83/83778/attachment_83778819
-Clubber.TV.Dummy.us,Clubber TV,https://seeklogo.com/images/B/bookie-logo-83AFE28E13-seeklogo.com.png
-Rugby.Pass.Dummy.us,Rugby Pass,https://cdn6.aptoide.com/imgs/b/d/5/bd521499c67b7e89d225b323a4480a2a_icon.png
-Stan.Sport.Dummy.us,Stan Sport,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Stan_Sport_logo.svg/2560px-Stan_Sport_logo.svg.png
-Sportsnet+.Dummy.us,Sportsnet+,https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs
-Live.Football.us,Live Football,https://previews.123rf.com/images/devidgrutz/devidgrutz1811/devidgrutz181100071/112383403-live-football-streaming-icon-badge-button-for-broadcasting-or-online-football-stream.jpg
-Live.Event.us,Live Event,https://img.freepik.com/free-vector/red-live-neon-sign-vector_53876-61394.jpg
-Fubo.Sports.us,Fubo Sports,https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217
-Betfred.Super.League.us,Betfred Super League,https://upload.wikimedia.org/wikipedia/en/f/fb/Super_League_Logo_2020.png
-Amazon.Events.us,Amazon Events,https://pbs.twimg.com/profile_images/569461873/Amazon_Events_Logo_400x400.jpg
-Nicktoons.Canada.us,Nicktoons Canada,https://upload.wikimedia.org/wikipedia/commons/a/aa/NicktoonsSplat-2024.png
-Hit.TV.es,Hit TV,https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/28/1129256.png
-GAA+.ie,GAA+,https://play-lh.googleusercontent.com/7oQZF925WqAk5KKGoHgmB0a30wTewi_gPvdrtMW05uYKdmK3QZ67-GJ1c7y1sS0LSw
-UEFA.LEAGUES.ch,UEFA LEAGUES,https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/800px-UEFA_Champions_League.svg.png
-EFL.uk,EFL,https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/English_Football_League_Logo.svg/250px-English_Football_League_Logo.svg.png
-InfoWars.DUMMY.us,InfoWars,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Infowars.com_Logo_%28Black_on_White%29.svg/512px-Infowars.com_Logo_%28Black_on_White%29.svg.png?20180808185006
-XITE.Celebrates.DUMMY.us,XITE Celebrates,https://provider-static.plex.tv/epg/cms/production/ea24a0cf-9535-4f90-a96c-c8f769ffd7b2/xitecelebrates_logo_light_-_Arlette_FiranRDX.png
-XITE.80s.Flashback.DUMMY.us,XITE 80s Flashback,https://provider-static.plex.tv/epg/cms/production/bf2b581f-5de1-4596-a76e-0123fb6c49b8/xite80sflashback_logo_WHT_Arlette_FiranRDX.png
-XITE.90s.Throwback.DUMMY.us,XITE 90s Throwback,https://provider-static.plex.tv/epg/cms/production/dede1b4c-26b6-4d1e-a057-cc3d23e5a079/xite90sthrowback_logo_light_-_Arlette_FiraRDXn.png
-XITE.Hits.DUMMY.us,XITE Hits,https://provider-static.plex.tv/epg%2Fcms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png
-XITE.Country.Today.DUMMY.us,XITE Country Today,https://provider-static.plex.tv/epg/cms/production/2406e27a-3e83-407c-96e8-2426335732e8/xitecountrytoday_logo_light_-_Arlette_FiranRDX.png
-XITE.Classic.Country.DUMMY.us,XITE Classic Country,https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png
-XITE.Nuevo.Latino.DUMMY.us,XITE Nuevo Latino,https://provider-static.plex.tv/epg/cms/production/25aac646-3806-4e44-b1aa-cd8e3407f3c3/xitenuevolatino_logo_light_-_Arlette_FiranRDX.png
-XITE.Siempre.Latino.DUMMY.us,XITE Siempre Latino,https://provider-static.plex.tv/epg/cms/production/35a1d7e4-caa3-477a-b813-90d23a756a16/xitesiemprelatino_logo_light_-_Arlette_FiranRDX.png
-XITE.RandB.Classic.Jams.DUMMY.us,XITE RandB Classic Jams,https://provider-static.plex.tv/epg/cms/production/8336dd02-409a-4917-8a7c-773494af97b6/xiterbclassicjams_logo_light_-_Arlette_FiranRDX.png
-XITE.Rock.x.Metal.DUMMY.us,XITE Rock x Metal,https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/featuredImage.jpg
-XITE.Just.Chill.DUMMY.us,XITE Just Chill,https://provider-static.plex.tv/epg/cms/production%2F927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png
-XITE.Rap.Game.DUMMY.us,XITE Rap Game,https://provider-static.plex.tv/epg/cms/production/3118ea3d-f353-4096-9642-afdb2188a0b1/xiterapgame_logo_light_-_Arlette_FiranRDX.png
-XITE.Hip-Hop.Evolution.DUMMY.us,XITE Hip-Hop Evolution,https://provider-static.plex.tv/epg/cms/production/ded154a4-17ee-4e40-b7dc-cb3dc5696a9d/xitehiphopevolution_logo_light_-_Arlette_FiranRDX.png
-XITE.RandB.Feels.DUMMY.us,XITE RandB Feels,https://provider-static.plex.tv/epg/cms/production/d66df7c5-ff88-41f0-99a1-2b0e7bb1c129/xiterbfeels_logo_light_-_Arlette_FiranRDX.png
-XITE.60sAnd70s.Groove.DUMMY.us,XITE 60sAnd70s Groove,https://provider-static.plex.tv/epg/cms/production/8889551a-8796-41d0-b6b5-c7fad08fb62e/xite60s70sgroove_logo_WHT-_Arlette_FiranRDX.png
-XITE.Christian.Hits.DUMMY.us,XITE Christian Hits,https://provider-static.plex.tv/epg/cms/production/688fbc64-ff4f-4059-888d-9db1a2967ad3/xitechristianhits_logo_light_-_Arlette_FiranRDX.png
-XITE.Reggae.Vibes.DUMMY.us,XITE Reggae Vibes,https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png
-MonoMax.DUMMY.us,MonoMax,https://play-lh.googleusercontent.com/YUNOy-jcb0dhR-r9c1P40BO4zizZwBpK8IoSvTP8Zh4aBTWxtYgaUsZILF8v-6sMehi2
-Setanta.Sports.DUMMY.us,Setanta Sports,https://images.seeklogo.com/logo-png/49/2/setanta-sports-logo-png_seeklogo-494575.png
-Coupang.Play.DUMMY.us,Coupang Play,https://pbs.twimg.com/media/G52gUfnbYAAQ5_z.jpg
-Sirius.XM.DUMMY.us,Sirius Xm,https://radioink.com/wp-content/uploads/2023/11/SiriusXM-New-Logo.jpeg
-Spirit.TV.DUMMY.us,Spirit TV: Change Your Atmosphere,https://play-lh.googleusercontent.com/g7Ul8xOO2Dqxe9Ycc02FVYxaHQweh_bV0Eov9eIEa7_6Y30P20dWTzYGBXG9eUjAfq8
-Elvis.Presley.Music.Channel.DUMMY.us,The King Of Rock n Roll,https://images.seeklogo.com/logo-png/43/1/elvis-presley-logo-png_seeklogo-438861.png
-Paramount.Movie.Channel.DUMMY.us,Paramount Movie Channel,https://static.wikia.nocookie.net/pluto-tv/images/0/0a/Paramount_Movie_Channel_%282024%29.jpg
-History.101.DUMMY.us,History 101,https://yt3.googleusercontent.com/mkBsA-WohrRPA98xb4TatAjr8gizSjlqT44wSZc8AMTBbxl_S8ANLUza2GzOiJx6m69ggta5=s900-c-k-c0x00ffffff-no-rj
-FC.Bayern.DUMMY.us,FC Bayern,https://ssl.gstatic.com/onebox/media/sports/logos/optimized/-_cmntP5q_pHL7g5LfkRiw_64x64.png
-Ballsack.TV.DUMMY.us,Ballsack.TV,https://ballsack.tv/bstvicon.png
-Streaming.DUMMY.us,Streaming,https://www.shutterstock.com/image-vector/video-streaming-icon-logo-isolated-260nw-2167574419.jpg
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz
+:24.HD.sk,:24 HD,https://files.cdn.magio.tv/tv_logos/24-hd.png
+:ŠPORT.HD.sk,:ŠPORT HD,https://files.cdn.magio.tv/tv_logos/sport-hd.png
+:ŠPORT.HD.-.LIVE.sk,:ŠPORT HD - LIVE,https://files.cdn.magio.tv/tv_logos/sport-hd---live.png
+AMC.HD.sk,AMC HD,
+ARD.sk,ARD,
+Animal.Planet.HD.sk,Animal Planet HD,https://files.cdn.magio.tv/tv_logos/animal-planet-hd.png
+Arena.Sport.1.HD.sk,Arena Sport 1 HD,https://files.cdn.magio.tv/tv_logos/kanal1-sport-hd.png
+Arena.Sport.2.HD.sk,Arena Sport 2 HD,https://files.cdn.magio.tv/tv_logos/kanal1-xtra-hd.png
+Arte.sk,Arte,
+Auto.Motor.Sport.HD.sk,Auto Motor Sport HD,https://files.cdn.magio.tv/tv_logos/auto-motor-sport-hd.png
+BBC.Earth.HD.sk,BBC Earth HD,https://files.cdn.magio.tv/tv_logos/bbc-earth-hd.png
+BBC.First.HD.sk,BBC First HD,https://files.cdn.magio.tv/tv_logos/bbc-first-hd.png
+BBC.News.sk,BBC News,https://files.cdn.magio.tv/tv_logos/bbc-news.png
+Barrandov.Krimi.HD.sk,Barrandov Krimi HD,https://files.cdn.magio.tv/tv_logos/barrandov-krimi-hd.png
+Barrandov.TV.HD.sk,Barrandov TV HD,https://files.cdn.magio.tv/tv_logos/barrandov-tv-hd.png
+Bloomberg.Eu.sk,Bloomberg Eu,
+Brazzers.TV.Europe.sk,Brazzers TV Europe,https://files.cdn.magio.tv/tv_logos/brazzers-tv-europe.png
+CANAL+.Action.HD.sk,CANAL+ Action HD,https://files.cdn.magio.tv/tv_logos/canal--action-hd.png
+CANAL+.Sport.4.HD.sk,CANAL+ Sport 4 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-4-hd.png
+CANAL+.Sport.5.HD.sk,CANAL+ Sport 5 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-5-hd.png
+CANAL+.Sport.6.HD.sk,CANAL+ Sport 6 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-6-hd.png
+CANAL+.Sport.7.HD.sk,CANAL+ Sport 7 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-7-hd.png
+CANAL+.Sport.8.HD.sk,CANAL+ Sport 8 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-8-hd.png
+CANAL+.Sport.HD.sk,CANAL+ Sport HD,https://files.cdn.magio.tv/tv_logos/canal--sport-hd.png
+CNN.Intl..Europe.sk,CNN Intl. Europe,https://files.cdn.magio.tv/tv_logos/cnn-intl--europe.png
+CNN.Prima.News.HD.sk,CNN Prima News HD,https://files.cdn.magio.tv/tv_logos/cnn-prima-news-hd.png
+CS.Film-CS.Horror.HD.sk,CS Film-CS Horror HD,https://files.cdn.magio.tv/tv_logos/cs-film-cs-horror-hd.png
+CS.History.sk,CS History,https://files.cdn.magio.tv/tv_logos/cs-history-hd.png
+CS.Mystery.sk,CS Mystery,https://files.cdn.magio.tv/tv_logos/cs-mystery-hd.png
+Canal.24.Horas.sk,Canal 24 Horas,https://files.cdn.magio.tv/tv_logos/canal-24-horas.png
+Cartoon.Network.HD.sk,Cartoon Network HD,https://files.cdn.magio.tv/tv_logos/cartoon-network-hd.png
+Cinemax.2.HD.sk,Cinemax 2 HD,https://files.cdn.magio.tv/tv_logos/cinemax-2-hd.png
+Cinemax.HD.sk,Cinemax HD,https://files.cdn.magio.tv/tv_logos/cinemax-hd.png
+Club.MTV.sk,Club MTV,
+Comedy.Central.HU.sk,Comedy Central HU,
+Cool.TV.sk,Cool TV,https://files.cdn.magio.tv/tv_logos/cool-tv.png
+Crime.and.Inv..sk,Crime and Inv.,https://files.cdn.magio.tv/tv_logos/crime-and-inv-.png
+ČT.:D.-.ČT.Art.HD.sk,ČT :D - ČT Art HD,
+ČT1.HD.sk,ČT1 HD,https://files.cdn.magio.tv/tv_logos/ct1-hd.png
+ČT2.HD.sk,ČT2 HD,https://files.cdn.magio.tv/tv_logos/ct2-hd.png
+ČT24.HD.sk,ČT24 HD,https://files.cdn.magio.tv/tv_logos/ct24-hd.png
+DAJTO.HD.sk,DAJTO HD,https://files.cdn.magio.tv/tv_logos/dajto-hd.png
+DRAMOX.sk,DRAMOX,https://files.cdn.magio.tv/tv_logos/dramox.png
+DVTV.EXTRA.HD.sk,DVTV EXTRA HD,https://files.cdn.magio.tv/tv_logos/dvtv-extra-hd.png
+Deutsche.Welle.sk,Deutsche Welle,
+Discovery.Channel.HD.sk,Discovery Channel HD,https://files.cdn.magio.tv/tv_logos/discovery-channel-hd.png
+Disney.Channel.sk,Disney Channel,https://files.cdn.magio.tv/tv_logos/disney-channel-hd.png
+Doma.HD.sk,Doma HD,https://files.cdn.magio.tv/tv_logos/doma-hd.png
+Dorcel.TV.HD.sk,Dorcel TV HD,https://files.cdn.magio.tv/tv_logos/dorcel-tv-hd.png
+Duck.TV.HD.sk,Duck TV HD,https://files.cdn.magio.tv/tv_logos/duck-tv-hd.png
+Duna.HD.sk,Duna HD,https://files.cdn.magio.tv/tv_logos/duna-hd.png
+Duna.World.HD.sk,Duna World HD,https://files.cdn.magio.tv/tv_logos/duna-world-hd.png
+Dusk.TV.sk,Dusk TV,https://files.cdn.magio.tv/tv_logos/dusk-tv.png
+Dvojka.HD.sk,Dvojka HD,https://files.cdn.magio.tv/tv_logos/dvojka-hd.png
+English.Club.HD.sk,English Club HD,https://files.cdn.magio.tv/tv_logos/english-club-hd.png
+Epic.Drama.HD.sk,Epic Drama HD,https://files.cdn.magio.tv/tv_logos/viasat-epic-drama-hd.png
+Erox.HD.sk,Erox HD,https://files.cdn.magio.tv/tv_logos/erox-hd.png
+Eroxxx.HD.sk,Eroxxx HD,https://files.cdn.magio.tv/tv_logos/eroxxx-hd.png
+Euronews.sk,Euronews,https://files.cdn.magio.tv/tv_logos/euronews.png
+Eurosport.1.HD.sk,Eurosport 1 HD,https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png
+Eurosport.2.HD.sk,Eurosport 2 HD,https://files.cdn.magio.tv/tv_logos/eurosport-2-hd.png
+Extreme.sports.sk,Extreme sports,https://files.cdn.magio.tv/tv_logos/extreme-sports.png
+FILM+.HD.sk,FILM+ HD,
+FILM+.HU.HD.sk,FILM+ HU HD,https://files.cdn.magio.tv/tv_logos/film--hu-hd.png
+FREEDOM.sk,FREEDOM,https://files.cdn.magio.tv/tv_logos/freedom.png
+Fashion.TV.sk,Fashion TV,
+Fightbox.HD.sk,Fightbox HD,https://files.cdn.magio.tv/tv_logos/fightbox-hd.png
+Film.4.sk,Film 4,https://files.cdn.magio.tv/tv_logos/film-4.png
+Film.Europe.+.sk,Film Europe +,https://files.cdn.magio.tv/tv_logos/film-europe--.png
+Film.Europe.HD.sk,Film Europe HD,https://files.cdn.magio.tv/tv_logos/film-europe-hd.png
+Filmbox.Extra.HD.sk,Filmbox Extra HD,https://files.cdn.magio.tv/tv_logos/filmbox--emotion-hd.png
+Filmbox.Family.sk,Filmbox Family,https://files.cdn.magio.tv/tv_logos/filmbox--comedy.png
+Filmbox.HD.sk,Filmbox HD,https://files.cdn.magio.tv/tv_logos/filmbox--one-hd.png
+Filmbox.Premium.HD.sk,Filmbox Premium HD,https://files.cdn.magio.tv/tv_logos/filmbox--hits-hd.png
+Filmbox.Stars.HD.sk,Filmbox Stars HD,https://files.cdn.magio.tv/tv_logos/filmbox--love-crime-hd.png
+Fishing.and.Hunting.sk,Fishing and Hunting,https://files.cdn.magio.tv/tv_logos/fishing-and-hunting.png
+Folklorika.TV.HD.sk,Folklorika TV HD,https://files.cdn.magio.tv/tv_logos/folklorika-tv-hd.png
+Food.Network.HD.sk,Food Network HD,https://files.cdn.magio.tv/tv_logos/food-network-hd.png
+France.24.sk,France 24,https://files.cdn.magio.tv/tv_logos/france-24.png
+France.24.FR.sk,France 24 FR,https://files.cdn.magio.tv/tv_logos/france-24-fr.png
+Galaxy.4.sk,Galaxy 4,https://files.cdn.magio.tv/tv_logos/galaxy-4.png
+Ginx.eSports.TV.HD.sk,Ginx eSports TV HD,https://files.cdn.magio.tv/tv_logos/ginx-esports-tv-hd.png
+Golf.Channel.HD.sk,Golf Channel HD,https://files.cdn.magio.tv/tv_logos/golf-channel-hd.png
+HBO.HD.sk,HBO HD,https://files.cdn.magio.tv/tv_logos/hbo-hd.png
+HBO2.HD.sk,HBO2 HD,https://files.cdn.magio.tv/tv_logos/hbo2-hd.png
+HBO3.HD.sk,HBO3 HD,https://files.cdn.magio.tv/tv_logos/hbo3-hd.png
+History.HD.sk,History HD,https://files.cdn.magio.tv/tv_logos/history-hd.png
+Hír.TV.sk,Hír TV,https://files.cdn.magio.tv/tv_logos/hir-tv.png
+ID.HD.sk,ID HD,https://files.cdn.magio.tv/tv_logos/id-hd.png
+JOJ.24.HD.sk,JOJ 24 HD,https://files.cdn.magio.tv/tv_logos/joj-24-hd.png
+JOJ.Cinema.HD.sk,JOJ Cinema HD,https://files.cdn.magio.tv/tv_logos/joj-cinema-hd.png
+JOJ.HD.sk,JOJ HD,https://files.cdn.magio.tv/tv_logos/joj-hd.png
+JOJ.Svet.HD.sk,JOJ Svet HD,https://files.cdn.magio.tv/tv_logos/joj-svet-hd.png
+JOJ.ŠPORT.HD.sk,JOJ ŠPORT HD,https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png
+Jednotka.HD.sk,Jednotka HD,https://files.cdn.magio.tv/tv_logos/jednotka-hd.png
+Jim.Jam.sk,Jim Jam,https://files.cdn.magio.tv/tv_logos/jim-jam.png
+Kino.Barrandov.HD.sk,Kino Barrandov HD,https://files.cdn.magio.tv/tv_logos/kino-barrandov-hd.png
+LEO.TV.sk,LEO TV,https://files.cdn.magio.tv/tv_logos/leo-tv.png
+LaLa.TV.HD.sk,LaLa TV HD,https://files.cdn.magio.tv/tv_logos/lala-tv-hd.png
+Leo.TV.Gold.HD.sk,Leo TV Gold HD,https://files.cdn.magio.tv/tv_logos/leo-tv-gold-hd.png
+Love.Nature.HD.sk,Love Nature HD,https://files.cdn.magio.tv/tv_logos/love-nature-hd.png
+Lux.TV.HD.sk,Lux TV HD,https://files.cdn.magio.tv/tv_logos/lux-tv-hd.png
+M1.HD.sk,M1 HD,https://files.cdn.magio.tv/tv_logos/m1-hd.png
+M2.HD.sk,M2 HD,https://files.cdn.magio.tv/tv_logos/m2-hd.png
+M4.sport.HD.sk,M4 sport HD,https://files.cdn.magio.tv/tv_logos/m4-sport-hd.png
+M5.HD.sk,M5 HD,https://files.cdn.magio.tv/tv_logos/m5-hd.png
+MAGIO.FITNES.sk,MAGIO FITNES,
+MAGIO.KOMÉDIE.sk,MAGIO KOMÉDIE,
+MAGIO.KONCERTY.sk,MAGIO KONCERTY,
+MAGIO.SVET.sk,MAGIO SVET,
+MEN.TV.sk,MEN.TV,https://files.cdn.magio.tv/tv_logos/men-tv.png
+MTV.sk,MTV,
+MTV.00s.sk,MTV 00s,
+MTV.80s.sk,MTV 80s,
+MTV.90s.sk,MTV 90s,
+MTV.HU.sk,MTV HU,
+MTV.Hits.sk,MTV Hits,
+MTV.Live.HD.sk,MTV Live HD,
+Magio.Promo.sk,Magio Promo,https://files.cdn.magio.tv/tv_logos/magio-promo.png
+Magyar.ATV.HD.sk,Magyar ATV HD,https://files.cdn.magio.tv/tv_logos/magyar-atv-hd.png
+Markíza.HD.sk,Markíza HD,https://files.cdn.magio.tv/tv_logos/markiza-hd.png
+Markíza.KRIMI.HD.sk,Markíza KRIMI HD,https://files.cdn.magio.tv/tv_logos/markiza-krimi-hd.png
+Markíza.Klasik.HD.sk,Markíza Klasik HD,https://files.cdn.magio.tv/tv_logos/markiza-klasik-hd.png
+Minimax.sk,Minimax,https://files.cdn.magio.tv/tv_logos/minimax.png
+Mozi+.sk,Mozi+,
+Muzsika.TV.sk,Muzsika TV,https://files.cdn.magio.tv/tv_logos/muzsika-tv.png
+NGC.HD.sk,NGC HD,https://files.cdn.magio.tv/tv_logos/national-geographic-hd.png
+NGC.Wild.HD.sk,NGC Wild HD,https://files.cdn.magio.tv/tv_logos/national-geographic-wild-hd.png
+NOE.sk,NOE,https://files.cdn.magio.tv/tv_logos/noe.png
+Nick.Jr..sk,Nick Jr.,
+Nick.Toons.sk,Nick Toons,
+Nickelodeon.sk,Nickelodeon,
+Nickelodeon.HU.sk,Nickelodeon HU,
+Nova.Intl..HD.sk,Nova Intl. HD,https://files.cdn.magio.tv/tv_logos/nova-intl--hd.png
+Nova.Sport.1.HD.sk,Nova Sport 1 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-1-hd.png
+Nova.Sport.2.HD.sk,Nova Sport 2 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-2-hd.png
+Nova.Sport.3.HD.sk,Nova Sport 3 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-3-hd.png
+Nova.Sport.4.HD.sk,Nova Sport 4 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-4-hd.png
+Nova.Sport.5.HD.sk,Nova Sport 5 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-5-hd.png
+Nova.Sport.6.HD.sk,Nova Sport 6 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-6-hd.png
+ORF.2.sk,ORF 2,
+ORF1.sk,ORF1,
+Óčko.Black.HD.sk,Óčko Black HD,https://files.cdn.magio.tv/tv_logos/ocko-black-hd.png
+Óčko.Expres.HD.sk,Óčko Expres HD,https://files.cdn.magio.tv/tv_logos/ocko-expres-hd.png
+Óčko.HD.sk,Óčko HD,https://files.cdn.magio.tv/tv_logos/ocko-hd.png
+Óčko.Star.HD.sk,Óčko Star HD,https://files.cdn.magio.tv/tv_logos/ocko-star-hd.png
+PREMIER.SPORT.1.HD.sk,PREMIER SPORT 1 HD,https://files.cdn.magio.tv/tv_logos/premier-sport-1-hd.png
+PREMIER.SPORT.2.HD.sk,PREMIER SPORT 2 HD,https://files.cdn.magio.tv/tv_logos/premier-sport-2-hd.png
+PREMIER.SPORT.3.HD.sk,PREMIER SPORT 3 HD,https://files.cdn.magio.tv/tv_logos/premier-sport-3-hd.png
+PREMIUM.HD.sk,PREMIUM HD,https://files.cdn.magio.tv/tv_logos/premium-hd.png
+PRO7.sk,PRO7,https://files.cdn.magio.tv/tv_logos/pro7.png
+Plus.HD.sk,Plus HD,https://files.cdn.magio.tv/tv_logos/plus-hd.png
+Prima.COOL.SK.HD.sk,Prima COOL SK HD,https://files.cdn.magio.tv/tv_logos/prima-cool-sk-hd.png
+Prima.Krimi.HD.sk,Prima Krimi HD,
+Prima.LOVE.SK.HD.sk,Prima LOVE SK HD,https://files.cdn.magio.tv/tv_logos/prima-love-sk-hd.png
+Prima.SK.HD.sk,Prima SK HD,https://files.cdn.magio.tv/tv_logos/prima-sk-hd.png
+Prime.sk,Prime,
+RETRO.Music.TV.sk,RETRO Music TV,https://files.cdn.magio.tv/tv_logos/retro-music-tv.png
+RTL.sk,RTL,
+RTL.Gold.sk,RTL Gold,https://files.cdn.magio.tv/tv_logos/rtl-gold.png
+RTL.HÁROM.sk,RTL HÁROM,https://files.cdn.magio.tv/tv_logos/rtl-harom.png
+RTL.HU.HD.sk,RTL HU HD,https://files.cdn.magio.tv/tv_logos/rtl-hu-hd.png
+RTL.KETTŐ..HD.sk,RTL KETTŐ  HD,https://files.cdn.magio.tv/tv_logos/rtl-ketto--hd.png
+Rai.1.sk,Rai 1,https://files.cdn.magio.tv/tv_logos/rai-1.png
+Relax.sk,Relax,
+STORY.4.sk,STORY 4,https://files.cdn.magio.tv/tv_logos/story-4.png
+STRIKE.TV.HD.sk,STRIKE TV HD,https://files.cdn.magio.tv/tv_logos/strike-tv-hd.png
+Senzi.sk,Senzi,https://files.cdn.magio.tv/tv_logos/senzi.png
+Sláger.TV.HU.sk,Sláger TV HU,https://files.cdn.magio.tv/tv_logos/slager-tv-hu.png
+Sorozat+.sk,Sorozat+,https://files.cdn.magio.tv/tv_logos/sorozat-.png
+Spektrum.HD.sk,Spektrum HD,
+Spektrum.Home.HD.sk,Spektrum Home HD,https://files.cdn.magio.tv/tv_logos/spektrum-home-hd.png
+Sport1.HD.sk,Sport1 HD,
+Sport2.HD.sk,Sport2 HD,https://files.cdn.magio.tv/tv_logos/sport2-hd.png
+Stingray.Classica.HD.sk,Stingray Classica HD,https://files.cdn.magio.tv/tv_logos/stingray-classica-hd.png
+Stingray.Djazz.HD.sk,Stingray Djazz HD,https://files.cdn.magio.tv/tv_logos/stingray-djazz-hd.png
+Super.TV2.sk,Super TV2,https://files.cdn.magio.tv/tv_logos/tv2.png
+Svet.Zdravia.1.sk,Svet Zdravia 1,
+Svet.Zdravia.2.sk,Svet Zdravia 2,
+Svet.Zdravia.3.sk,Svet Zdravia 3,
+Šláger.Muzika.HD.sk,Šláger Muzika HD,https://files.cdn.magio.tv/tv_logos/slager-muzika-hd.png
+Šláger.Originál.HD.sk,Šláger Originál HD,https://files.cdn.magio.tv/tv_logos/slager-original-hd.png
+TA3.HD.sk,TA3 HD,https://files.cdn.magio.tv/tv_logos/ta3-hd.png
+TLC.HD.sk,TLC HD,https://files.cdn.magio.tv/tv_logos/tlc-hd.png
+TST1.Content.sk,TST1 Content,https://files.cdn.magio.tv/tv_logos/tst1-content.png
+TST2.Content.sk,TST2 Content,https://files.cdn.magio.tv/tv_logos/tst2-content.png
+TST3.HE.sk,TST3 HE,https://files.cdn.magio.tv/tv_logos/tst3-he.png
+TST4.HE.sk,TST4 HE,https://files.cdn.magio.tv/tv_logos/tst4-he.png
+TST5.Mcore.sk,TST5 Mcore,https://files.cdn.magio.tv/tv_logos/tst5-mcore.png
+TST6.Mcore.sk,TST6 Mcore,https://files.cdn.magio.tv/tv_logos/tst6-mcore.png
+TST7.Mcore.sk,TST7 Mcore,https://files.cdn.magio.tv/tv_logos/tst7-mcore.png
+TV.1000.Russkoe.Kino.sk,TV 1000 Russkoe Kino,https://files.cdn.magio.tv/tv_logos/tv-1000-russkoe-kino.png
+TV.Brno.1.sk,TV Brno 1,
+TV.REBEL.sk,TV REBEL,https://files.cdn.magio.tv/tv_logos/tv-rebel.png
+TV.RiK.HD.sk,TV RiK HD,https://files.cdn.magio.tv/tv_logos/tv-rik-hd.png
+TV.Spark.HD.sk,TV Spark HD,https://files.cdn.magio.tv/tv_logos/kanal-1-hd.png
+TV2.sk,TV2,
+TV2.Séf.sk,TV2 Séf,https://files.cdn.magio.tv/tv_logos/tv2-sef.png
+TV2Klub.sk,TV2Klub,https://files.cdn.magio.tv/tv_logos/fem3.png
+TV4.sk,TV4,https://files.cdn.magio.tv/tv_logos/tv4.png
+TVP.Polonia.sk,TVP Polonia,https://files.cdn.magio.tv/tv_logos/tvp-polonia.png
+Televize.Seznam.HD.sk,Televize Seznam HD,
+TinyTeen.HD.sk,TinyTeen HD,https://files.cdn.magio.tv/tv_logos/tinyteen-hd.png
+Travel.Channel.HD.sk,Travel Channel HD,https://files.cdn.magio.tv/tv_logos/travel-channel-hd.png
+Travel.XP.HD.sk,Travel XP HD,https://files.cdn.magio.tv/tv_logos/travel-xp-hd.png
+True.Amateurs.HD.sk,True Amateurs HD,https://files.cdn.magio.tv/tv_logos/true-amateurs-hd.png
+Ťuki.TV.HD.sk,Ťuki TV HD,
+Viasat.3.sk,Viasat 3,
+Viasat.6.sk,Viasat 6,
+Viasat.Explore.HD.sk,Viasat Explore HD,https://files.cdn.magio.tv/tv_logos/viasat-explore-hd.png
+Viasat.History.HD.sk,Viasat History HD,https://files.cdn.magio.tv/tv_logos/viasat-history-hd.png
+Viasat.Nature.HD.sk,Viasat Nature HD,https://files.cdn.magio.tv/tv_logos/viasat-nature-hd.png
+Viasat.True.Crime.HD.sk,Viasat True Crime HD,https://files.cdn.magio.tv/tv_logos/viasat-true-crime-hd.png
+Wau.HD.sk,Wau HD,https://files.cdn.magio.tv/tv_logos/joj-krimi-hd.png
+ZDF.sk,ZDF,
+Začíname.s.Voyo.sk,Začíname s Voyo,https://files.cdn.magio.tv/tv_logos/zaciname-s-voyo.png
+iConcerts.HD.sk,iConcerts HD,https://files.cdn.magio.tv/tv_logos/iconcerts-hd.png
