@@ -140,7 +140,7 @@ Vinx.TV,Vinx.TV
 ,ETB Deportes
 Esport3 Catalunya,Esport3 Catalunya
 Top Barça,Top Barça
-ES:.LaLiga.Inside.be, ES:.LaLiga.Inside.be
+LALIGA.Inside.es,LALIGA.Inside.es
 65ea8b928145cb0008509426,UEFA Champions League
 ES:.FIFA+.be,ES:.FIFA+.be
 ,ITSF TV
@@ -229,13 +229,13 @@ TRT.World.HD.uk,TRT.World.HD.uk
 AlJazeera.English.net,AlJazeera.English.net
 CGTN.News.ke,CGTN.News.ke
 Sol Música,Sol Música
-HITTV.es,HITTV.es
+Hit.TV.es,Hit.TV.es
 ,Cadena Elite
 ActivaTV.es,ActivaTV
 ,Verbena TV
 ES32000027M,CLIPS dont lie
 6686796619311200085310a0,MTV Flow Latino
-5d14fdb8ca91eedee1633117,MTV Spankin' New
+5d14fdb8ca91eedee1633117,MTV Spankin New
 65410176770cf1000866bf31,MTV Biggest Pop
 MTV.Live.HD.uk,MTV.Live.HD.uk
 MTV.Classic.uk,MTV.Classic.uk
@@ -249,13 +249,13 @@ XITE.80s.Flashback.DUMMY.us,XITE.80s.Flashback.DUMMY.us
 XITE.90s.Throwback.DUMMY.us,XITE.90s.Throwback.DUMMY.us
 ESBC2100002LV,Vevo Latino
 ESBD230000289,Vevo Retro
-plex.tv.Vevo.Pop.plex,plex.tv.Vevo.Pop.plex
-plex.tv.Vevo.`70s.plex,Vevo 70s
-plex.tv.Vevo.`80s.plex,Vevo 80s
-plex.tv.Vevo.`90s.plex,Vevo 90s
-IN8000010D,That's 70s
-IN8000027E,That's 80s
-IN800004YV,That's 90s 00s 
+5d93b635b43dd1a399b39eee,Vevo Pop
+5f32f26bcd8aea00071240e5,Vevo 70s
+5fd7b8bf927e090007685853,Vevo 80s
+5fd7bb1f86d94a000796e2c2,Vevo 90s
+IN8000010D,Thats 70s
+IN8000027E,Thats 80s
+IN800004YV,Thats 90s00s 
 ES:.NOW.70s.be,Now 70s
 ES:.NOW.80s.be,Now 80s
 ES:.NOW.90s00s.be,Now 90s00s
@@ -265,8 +265,8 @@ RETRO.Music.TV.sk,Retro Music TV
 ,Retro Plus TV 
 ALL.FLAMENCO_.fr,All Flamenco
 TheCountryNetwork.us@SD,The Country Network
-Djazz.es,DJazz
-ES:.Deluxe.Lounge.HD.be,Deluxe Lounge
+Djazz.distro,DJazz
+Deluxe.Lounge.de,Deluxe Lounge
 PL:.Movie.Music.By.Stingray.be,Movie Music by Stingray
 Stingray Classica,Stingray Classica
 Mezzo,Mezzo
@@ -287,18 +287,18 @@ Andalucía TV,Andalucia Television
 ,Canal Andalucia Turismo
 ,Canal Andalucia Cocina
 ,Canal Sur Mas Noticias
-CMM TV,CMM
+Castilla la Mancha TV,Castilla la Mancha TV
 Aragón TV,Aragón TV
-La 7 Murcia,La7 Murcia
+La 7 Murcia,La 7 Murcia
 Canal Extremadura,Canal Extremadura
 TPA7 Asturias,TPA7 Asturias
 TPA8 Asturias,TPA8 Asturias
 TV Canaria,Television Canaria
 IB3 TV Illes Balears,IB3
 TVG,TVG
-TVG2,TVG 2
-TVG Europa HD,Galicia TV
-À Punt,A punt
+TVG 2,TVG 2
+TVGA HD EUROPA,Galicia TV
+A Punt HD,A punt
 TV3 Catalunya,TV3 Catalunya
 ,TV3 El Temps
 ,Euskadi Meteo
@@ -327,16 +327,16 @@ ElConfidencial.TV,ElConfidencial.TV
 ,The Guardian
 CGTN Español,CGTN Español
 ES26000025M,¡Hola! Play
-,¡Hola! TV
+¡HOLA!.TV.us2,¡Hola! TV
 ,Crafty Panda
 643054b1fc3be59477853717-6365779dde08f8eec6c3f21f,CraftsyTV #(????)
-ESBC3500002PW,Ideas en 5 Minutos #(Pluto TV)
-643054b1fc3be59477853717-64a355697d24564fba37bab8,Ideas En 5 Minutos #(Plex)
+ESBC3500002PW,Ideas en 5 minutos Samsung TV
+643054b1fc3be59477853717-64a355697d24564fba37bab8,Ideas en 5 minutos Plex
 ,Pluto TV Hogar
 64db2e0835425100080f2f5a,Pluto TV Diseño
 690dd10a37b131228d76d5b1,El Mueble
 Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV)
-Love the Planet,Love the Planet
+ESBC4700002TD,Love the planet
 643054b1fc3be59477853717-61e9d9979da6ee6e05278269,Wellbeing TV
 ,Armonia Teve Sana
 ,FitDance 
@@ -347,26 +347,27 @@ ES42000022E,Xataka
 ,Dviaje FHD
 622f42b831233300078658cc,Ciudadanos por el mundo
 Escapa TV,Escapa TV
-,Travelxp
+ES:.Travelxp.be,Travelxp
 60dd6b1da79e4d0007309455,Nature Time
-643054b1fc3be59477853717-5f0ff266d71dcb00449ec030,WeatherSpy
-,Drone TV
+USAJ3400014LK,Weather Spy
+DroneTV.distro,Drone TV
 69b3db5d61e8e298254c7108,Space Live
 ,NASA TV
 ,NASA TV ISS Live
 61cd7b49543066000713b620,Pluto TV Historia
 Historia y Vida,Historia y Vida
-64ddcbb14c5ed80008fad416,Crimen &amp; Historia
+64ddcbb14c5ed80008fad416,Crimen e Historia
 Sangre Fría,Sangre Fría
 ,Tuning
 Motorvision,Motorvision
-,Kaloopy
+Kaloopy.distro,Kaloopy
 61922be835f3910007fc58f6,En el punto de mira
 ,Sin filtros
 ,Oficios perdidos
-5f1abce155a03d0007718834,Pluto TV Comedia made in Spain
+5f1abce155a03d0007718834,Comedia Made in Spain
 604f8125c6669b00077f7699,Wipeout
-5f28009b150b2500077766b8,Vaya semanita #(Pluto TV)
+5f28009b150b2500077766b8,Vaya semanita Pluto TV
+ES1600006S8,LOL España
 Vivir con gatos,Vivir con gatos
 Vivir con perros,Vivir con perros
 ,Cats 24/7
@@ -374,16 +375,16 @@ Vivir con perros,Vivir con perros
 ,Curiosity Animales
 ESAJ4500016BH,The Pet Collective
 ESBC2700008SK,Just For Laughs
-643054b1fc3be59477853717-64704954e536e0faaf10be9f,Just For Laughs Gags
-,Always Funny en español
+6177fd9812fe0c000726f9eb,Just for Laughs Gags
+69eaa34817801c84fca05d94,Always Funny en español
 5f1abf5fafb5ee0007d4d0ca,FailArmy
 ESAJ4500023Y5,People Are Awesome
-Atlántico TV,Atlantico Television
+Atlántico TV,Atlantico TV
 7TV_Andalucía.TV,7TV_Andalucía.TV
 ,101TV Sevilla
 PTV_Sevilla.TV,PTV_Sevilla.TV
 ,Canal Doñana
-CostaNO.TV,Costa Noroeste TV
+CostaNO.TV,CostaNO.TV
 ,7TV Jerez
 ,7TV Jerez
 ,7TV Cadiz
@@ -437,9 +438,9 @@ MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV)
 ,Movies Central by TV Player
 ,Film&Co
 643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi
-,Dark Matter TV
+6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6,Dark Matter TV
 ,Horror Vision
-ESBC2700003T8,Bigtime
+ESBC2700003T8,Bjgtjme
 ESBC2700002LO,Grjngo
 Sony One Hits Acción,Sony One Hits Acción
 Sony One Hits Comedia,Sony One Hits Comedia
@@ -450,13 +451,13 @@ Runtime Series,Runtime Series
 655f62ff954b020008c91ec6,Pluto TV Series criminales
 65ddec1ef7f0af0008be4b65,Pluto TV Series Sci-Fi
 6578808014fbe400086e21bc,Medium
-6304f530440dc90007f514d3,Poirot &amp; Miss Marple
+6304f530440dc90007f514d3,Poirot y Miss Marple
 5f1aca8310a30e00074fab92,Los Asesinatos de Midsomer
 619b9f16b8fee4000832d447,El Detective Endeavour
-683457aebbc703dfd45a89eb,Merlí #(Pluto TV)
-,Merlí #(Plex)
+683457aebbc703dfd45a89eb,Merlí Pluto TV
+643054b1fc3be59477853717-68645a8619cc2e163e38d161,Merlí Rakuten TV
 676e7b4a4bd636000819c6a7,SensaCine TV x Pluto
-,ARTFLIX Clasicos
+plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
 ,Charlie
 ,Oro TV
 Distrito TV,Distrito TV
@@ -479,11 +480,11 @@ Betevé,Beteve
 ,Vin TV
 5de802659167b10009e7deba,Pluto TV Series Retro
 6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas
-63eb95baa99571000898a078,MacGyver
+63eb95baa99571000898a078,MacGyver MX
 5f1acd36779de70007a680d1,Curro Jiménez
 UK:.Mr..Bean.-.Live.Action.be,Mr. Bean
-5f610042272f68000867685b,Misterios sin resolver #(PlutoTV)
-6a1610bebdf296985fd95603-64d79408e5f67b0fab47ff24,Misterios sin Resolver #(Plex)
+5f610042272f68000867685b,Misterios sin resolver PlutoTV
+6a1610bebdf296985fd95603-64d79408e5f67b0fab47ff24,Misterios sin resolver Plex
 ,40 anos da TVG
 ,Teleclasica
 ,Mi TV Clasica
@@ -767,7 +768,7 @@ ESPN,ESPN
 ESPN 2,ESPN 2
 ESPN 3,ESPN 3
 ESPN 4,ESPN 4
-SS.La.Liga.ke,SS.La.Liga.ke
+SS.La.Liga.za,SS.La.Liga.za
 Primera Federación,Primera Federación
 ,Primera Federacion G1 | Eventos 1
 ,Primera Federacion G1 | Eventos 2
