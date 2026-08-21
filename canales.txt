@@ -533,7 +533,7 @@ EnergeekRetro.TV,EnergeekRetro.TV
 ,Dinosaurios
 ,Los Simpsons
 628751bb7154a40007168843,South Park
-5e20b730f2f8d5003d739db7-6876f76054325376973fd314,Pink Panther
+6a1610bebdf296985fd95603-6876f76054325376973fd314,Pink Panther
 680ba8c3a48b3ead0db701cc,Los caballeros del Zodiaco
 ,Cuentos de la cripta
 ,Tom & Jerry
