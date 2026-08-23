@@ -143,7 +143,7 @@ Vinx.TV,Vinx.TV
 ,ETB Deportes
 Esport3 Catalunya,Esport3 Catalunya
 Top Barça,Top Barça
-LALIGA.Inside.es,LALIGA.Inside.es
+ES:.LaLiga.Inside.be,LALIGA.Inside.es
 65ea8b928145cb0008509426,UEFA Champions League
 ES:.FIFA+.be,ES:.FIFA+.be
 ,ITSF TV
@@ -485,7 +485,7 @@ Betevé,Beteve
 6a0c25fe09705ebdf7e4599a,Pippi Calzaslargas
 63eb95baa99571000898a078,MacGyver MX
 5f1acd36779de70007a680d1,Curro Jiménez
-plex.tv.Mr..Bean.plex,Mr. Bean
+UK: Mr..Bean. -.Live.Action.be,Mr. Bean
 5f610042272f68000867685b,Misterios sin resolver PlutoTV
 6a1610bebdf296985fd95603-64d79408e5f67b0fab47ff24,Misterios sin resolver Plex
 ,40 anos da TVG
@@ -550,7 +550,7 @@ ESBD3200002V5,La Abeja Maya
 ,Retroplus TV 2
 ,Retroplus TV 3
 Solidaria TV España,Solidaria TV España
-a-bocados,A bocados
+ES:.A.bocados.be,A bocados
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina
 ,Canal Andalucia Cocina
 ,Cocina Familiar 
