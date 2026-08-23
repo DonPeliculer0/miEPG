@@ -119,6 +119,9 @@ M+ Deportes 4,M+ Deportes 4
 M+ Deportes 5,M+ Deportes 5
 M+ Deportes 6,M+ Deportes 6
 M+ Deportes 7,M+ Deportes 7
+M+ Baloncesto,M+ Baloncesto
+M+ Baloncesto 2,M+ Baloncesto 2
+M+ Baloncesto 3,M+ Baloncesto 3
 M+ Golf HD,M+ Golf HD
 M+ Golf 2 HD,M+ Golf 2 HD
 DAZN 1 HD,DAZN 1 HD
