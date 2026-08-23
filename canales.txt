@@ -772,6 +772,17 @@ ESPN 2,ESPN 2
 ESPN 3,ESPN 3
 ESPN 4,ESPN 4
 SS.La.Liga.za,SS.La.Liga.za
+DAZN Premier League,DAZN Premier League
+DAZN Premier League 2,DAZN Premier League 2
+DAZN Premier League 3,DAZN Premier League 3
+DAZN Bundesliga,DAZN Bundesliga
+DAZN Bundesliga 2,DAZN Bundesliga 2
+DAZN Bundesliga 3,DAZN Bundesliga 3
+DAZN Bundesliga 4,DAZN Bundesliga 4
+DAZN Bundesliga 5,DAZN Bundesliga 5
+DAZN Serie A,DAZN Serie A
+DAZN Serie A 2,DAZN Serie A 2
+DAZN Serie A 3,DAZN Serie A 3
 Primera Federación,Primera Federación
 ,Primera Federacion G1 | Eventos 1
 ,Primera Federacion G1 | Eventos 2
@@ -831,18 +842,6 @@ Primera Federación,Primera Federación
 ,DAZN Liga F | Eventos 3
 ,DAZN Liga F | Eventos 4
 ,DAZN Liga F | Eventos 5
-DAZN Bundesliga,DAZN Bundesliga
-DAZN Bundesliga 2,DAZN Bundesliga 2
-DAZN Bundesliga 3,DAZN Bundesliga 3
-DAZN Bundesliga 4,DAZN Bundesliga 4
-DAZN Bundesliga 5,DAZN Bundesliga 5
-DAZN Bundesliga 6,DAZN Bundesliga 6
-DAZN Serie A,DAZN Serie A
-DAZN Serie A 2,DAZN Serie A 2
-DAZN Serie A 3,DAZN Serie A 3
-DAZN Serie A 4,DAZN Serie A 4
-DAZN Serie A 5,DAZN Serie A 5
-DAZN Serie A 6,DAZN Serie A 6
 ,Liga Endesa | Eventos 1
 ,Liga Endesa | Eventos 2
 ,Liga Endesa | Eventos 3
