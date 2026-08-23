@@ -584,17 +584,17 @@ Star TVE HD,Star TVE Europa
 Star.TVE.HD.co,Star TVE America
 /esaguila-roja,Aguila Roja (Rakuten TV)
 6812206e1b3e3be031a5c363,Águila Roja #(Pluto TV)
-ES500005BP,Águila Roja #(Samsung TV)
+ES500005BP,Águila Roja (Samsung TV)
 RTVE_SomosCine.TV,RTVE_SomosCine.TV
-ES33000058B,RTVE Somos Cine #(Samsung TV)
+ES33000058B,RTVE Somos Cine (Samsung TV)
 RTVE_Cuentame.TV,RTVE_Cuentame.TV
-ES400002P5,RTVE Cuéntame cómo pasó #(Samsung TV)
+ES400002P5,RTVE Cuéntame cómo pasó (Samsung TV)
 RTVE_Promesa.TV,RTVE_Promesa.TV
-ES3300006QL,RTVE La Promesa #(Samsung TV)
-ES33000036Q,RTVE La Moderna #(Samsung TV)
+ES3300006QL,RTVE La Promesa (Samsung TV)
+ES33000036Q,RTVE La Moderna (Samsung TV)
 RTVE_Cocina.TV,RTVE_Cocina.TV
-ES33000079W,RTVE Cocina #(Samsung TV)
-ES3300004P0,RTVE Saber y Ganar #(Samsung TV)
+ES33000079W,RTVE Cocina (Samsung TV)
+ES3300004P0,RTVE Saber y Ganar (Samsung TV)
 La Revuelta,La Revuelta
 RTVE_Conciertos_R3.TV,RTVE_Conciertos_R3.TV
 RTVE_En_Play.TV,RTVE_En_Play.TV
