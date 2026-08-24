@@ -10,11 +10,11 @@ La 8 Valladolid,La 8 Valladolid
 Ten,Ten
 DMAX,DMAX
 DKISS,DKISS
-TR3CE,TR3CE
+TRECE,TR3CE
 Veo7,Veo7
-Squirrel TV,Squirrel TV
+SQUIRREL,Squirrel TV
 Squirrel 2,Squirrel 2
-Be Mad,Be Mad
+Be Mad HD,Be Mad
 Mega,Mega
 Energy,Energy
 Atreseries,Atreseries
