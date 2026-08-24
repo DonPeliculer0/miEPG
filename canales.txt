@@ -163,7 +163,7 @@ WWE.Network.us2,WWE.Network.us2
 643054b1fc3be59477853717-5fd115bdb7ef8d002dcf1820,Hard Knocks
 plex.tv.Strongman.Champions.plex,plex.tv.Strongman.Champions.plex
 NFL.Network.HD.us2,NFL.Network.HD.us2
-NHL.Network.HD.us2, NHL.Network.HD.us2
+NHL.Network.HD.us2,NHL.Network.HD.us2
 ,Hoop TV
 NBA.TV.HD.us2,NBA.TV.HD.us2
 Spectrum.SportsNet.Lakers.HD.us2,Spectrum.SportsNet.Lakers.HD.us2
