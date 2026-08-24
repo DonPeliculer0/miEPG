@@ -332,7 +332,7 @@ CGTN Español,CGTN Español
 ES26000025M,¡Hola! Play
 ¡HOLA!.TV.us2,¡Hola! TV
 ,Crafty Panda
-643054b1fc3be59477853717-6365779dde08f8eec6c3f21f,CraftsyTV #(????)
+643054b1fc3be59477853717-6365779dde08f8eec6c3f21f,CraftsyTV
 ESBC3500002PW,Ideas en 5 minutos Samsung TV
 643054b1fc3be59477853717-64a355697d24564fba37bab8,Ideas en 5 minutos Plex
 ,Pluto TV Hogar
@@ -583,7 +583,7 @@ TVE.Internacional.Asia.es,TVE Internacional Asia Oceania (Web)
 Star TVE HD,Star TVE Europa
 Star.TVE.HD.co,Star TVE America
 /esaguila-roja,Aguila Roja (Rakuten TV)
-6812206e1b3e3be031a5c363,Águila Roja #(Pluto TV)
+6812206e1b3e3be031a5c363,Águila Roja (Pluto TV)
 ES500005BP,Águila Roja (Samsung TV)
 RTVE_SomosCine.TV,RTVE_SomosCine.TV
 ES33000058B,RTVE Somos Cine (Samsung TV)
