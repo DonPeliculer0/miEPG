@@ -848,16 +848,17 @@ Primera Federación,Primera Federación
 ,Liga Endesa | Eventos 4
 ,Liga Endesa | Eventos 5
 6792c30abc03978b9b8bb832,NBA Fast Channel
-,NBA | Eventos 1
-,NBA | Eventos 2
-,NBA | Eventos 3
-,NBA | Eventos 4
-,NBA | Eventos 5
-,NBA | Eventos 6
-,NBA | Eventos 7
-,NBA | Eventos 8
-,NBA | Eventos 9
-,NBA | Eventos 10
+NBA.League.Pass.1.us2,NBA | Eventos 1
+NBA.League.Pass.1.HD.us2,NBA | Eventos 1
+NBA.League.Pass.2.HD.us2,NBA | Eventos 2
+NBA.League.Pass.3.HD.us2,NBA | Eventos 3
+NBA.League.Pass.4.HD.us2,NBA | Eventos 4
+NBA.League.Pass.5.HD.us2,NBA | Eventos 5
+NBA.League.Pass.6.HD.us2,NBA | Eventos 6
+NBA.League.Pass.7.HD.us2,NBA | Eventos 7
+NBA.League.Pass.8.HD.us2,NBA | Eventos 8
+NBA.League.Pass.9.HD.us2,NBA | Eventos 9
+NBA.League.Pass.10.HD.us2,NBA | Eventos 10
 ,NBA | Eventos 11
 ,NBA | Eventos 12
 ,NBA | Eventos 13
@@ -876,27 +877,36 @@ Primera Federación,Primera Federación
 ,NBA | Eventos 26
 ,NBA | Eventos 27
 ,NBA | Eventos 28
-,NBA League Pass | Los Angeles Lakers
-,NBA League Pass | Los Angeles Clippers
-,NBA League Pass | New York Knicks
-,NBA League Pass | Boston Celtics
-,NBA League Pass | Cleveland Cavaliers
-,NBA League Pass | Detroit Pistons
-,NBA League Pass | Atlanta Hawks
-,NBA League Pass | San Antonio Spurs
-,NBA League Pass | Portland Trail Blazers
-,NBA League Pass | Utah Jazz
-,NBA League Pass | Golden State Warriors
-,NBA League Pass | Philadelphia 76ers
-,NBA League Pass | Toronto Raptors
-,NBA League Pass | Indiana Pacers
-,NBA League Pass | Milwaukee Bucks
-,NBA League Pass | Phoenix Suns
-,NBA League Pass | Sacramento Kings
-,NBA League Pass | Dallas Mavericks
-,NBA League Pass | Houston Rockets
-,NBA League Pass | Memphis Grizzlies
-,NBA League Pass | New Orleans Pelicans
+NBA-LosAngelesLakers.us,NBA League Pass | Los Angeles Lakers
+NBA-LAClippers.us,NBA League Pass | Los Angeles Clippers
+NBA-NewYorkKnicks.us,NBA League Pass | New York Knicks
+NBA-BostonCeltics.us,NBA League Pass | Boston Celtics
+NBA-ClevelandCavaliers.us,NBA League Pass | Cleveland Cavaliers
+NBA-DetroitPistons.us,NBA League Pass | Detroit Pistons
+NBA-AtlantaHawks.us,NBA League Pass | Atlanta Hawks
+NBA-SanAntonioSpurs.us,NBA League Pass | San Antonio Spurs
+NBA-PortlandTrailBlazers.us,NBA League Pass | Portland Trail Blazers
+NBA-UtahJazz.us,NBA League Pass | Utah Jazz
+NBA-GoldenStateWarriors.us,NBA League Pass | Golden State Warriors
+NBA-Philadelphia76ers.us,NBA League Pass | Philadelphia 76ers
+NBA-TorontoRaptors.us,NBA League Pass | Toronto Raptors
+NBA-IndianaPacers.us,NBA League Pass | Indiana Pacers
+NBA-MilwaukeeBucks.us,NBA League Pass | Milwaukee Bucks
+NBA-PhoenixSuns.us,NBA League Pass | Phoenix Suns
+NBA-SacramentoKings.us,NBA League Pass | Sacramento Kings
+NBA-DallasMavericks.us,NBA League Pass | Dallas Mavericks
+NBA-HoustonRockets.us,NBA League Pass | Houston Rockets
+NBA-MemphisGrizzlies.us,NBA League Pass | Memphis Grizzlies
+NBA-NewOrleansPelicans.us,NBA League Pass | New Orleans Pelicans
+NBA-MiamiHeat.us,
+NBA-WashingtonWizards.us
+NBA-BrooklynNets.us,
+NBA-CharlotteHornets.us,
+NBA-ChicagoBulls.us,
+NBA-DenverNuggets.us,
+NBA-MinnesotaTimberwolves.us,
+NBA-OklahomaCityThunder.us,
+NBA-OrlandoMagic.us,
 6a6a02ae3ee9d966427e62c4,NFL Network (DAZN)
 ,DAZN NFL | Eventos 1
 ,DAZN NFL | Eventos 2
