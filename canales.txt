@@ -343,11 +343,11 @@ ESBC4700002TD,Love the planet
 643054b1fc3be59477853717-61e9d9979da6ee6e05278269,Wellbeing TV
 ,Armonia Teve Sana
 ,FitDance 
-643054b1fc3be59477853717-6490c01f3b3ce9e1aaad95be,FashionTV
+Fashion TV (Rakuten TV),Fashion TV
 ES42000022E,Xataka
 643054b1fc3be59477853717-67642f277c5e3b38af72dcdb,Cirque du Soleil
 ,Pluto TV Viajes
-,Dviaje FHD
+Dviaje,Dviaje
 622f42b831233300078658cc,Ciudadanos por el mundo
 Escapa TV,Escapa TV
 ES:.Travelxp.be,Travelxp
@@ -410,11 +410,11 @@ Runtime Romance,Runtime Romance
 RunTime Familia,Runtime Familia
 RunTime Clásicos,Runtime Clásicos
 Pelis Top (Rakuten TV),Pelis Top (Rakuten TV)
-Acción (Rakuten TV),Acción (Rakuten TV)
+Películas de Acción (Rakuten TV),Acción (Rakuten TV)
 Thrillers (Rakuten TV),Thrillers (Rakuten TV)
 Sci-Fi (Rakuten TV),Sci-Fi (Rakuten TV)
-Dramas (Rakuten TV),Dramas (Rakuten TV)
-Comedias (Rakuten TV),Comedias (Rakuten TV)
+Películas de Drama (Rakuten TV),Dramas (Rakuten TV)
+Comedia (Rakuten TV),Comedias (Rakuten TV)
 Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV)
 En Familia (Rakuten TV),En Familia (Rakuten TV)
 Cine Español (Rakuten TV),Cine Español (Rakuten TV)
@@ -434,7 +434,7 @@ Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 60cc807324d60a0007708dc8,Pluto TV Cine de autor
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
 plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
-Cine Friki,Cine Friki
+Cine Friki (Rakuten TV),Cine Friki
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Verdi TV Feel Good
 MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV)
