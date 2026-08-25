@@ -1,6 +1,7 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
 Sky.Uno.it,Sky Uno,https://guidatv.sky.it/logo/477skyuno_Light_Fit.png?checksum=cd37fd56-01f7-443e-a62d-ff99bf4c1b1c?tr=n-logo_80
 Sky.Uno.+.it,Sky Uno +,
+Sky.Uno.+..it,Sky Uno + ,
 Sky.Atlantic.it,Sky Atlantic,https://guidatv.sky.it/logo/226skyatlantic_Light_Fit.png?checksum=55e0b430-8ac2-482a-80eb-d79e3678ea49?tr=n-logo_80
 Sky.Atlantic.Maratone.it,Sky Atlantic Maratone,
 Sky.Serie.it,Sky Serie,https://guidatv.sky.it/logo/684skyserie_Light_Fit.png?checksum=9fa612b4-52c6-4a22-9c98-40495a42475b?tr=n-logo_80
@@ -51,7 +52,7 @@ Sky.Sport..253.it,Sky Sport  253,https://guidatv.sky.it/logo/233233_Light_Fit.pn
 Sky.Sport..254.it,Sky Sport  254,https://guidatv.sky.it/logo/234skysport_Light_Fit.png?tr=n-logo_80
 Sky.Sport..255.it,Sky Sport  255,https://guidatv.sky.it/logo/910skysport_Light_Fit.png?checksum=1486554b-09f4-4727-921c-4c9b1655b59e?tr=n-logo_80
 Sky.Sport..256.it,Sky Sport  256,https://guidatv.sky.it/logo/912skysport_Light_Fit.png?checksum=1c38728d-1774-4c93-a75f-622e062b1c29?tr=n-logo_80
-Sky.Sport..257.it,Sky Sport  257,https://guidatv.sky.it/logo/775skysport_Light_Fit.png?checksum=5cd2e53d-e3b3-4921-9391-de3e72d6fb81?tr=n-logo_80
+Sky.Sport..257.it,Sky Sport  257,
 Sky.Sport..258.it,Sky Sport  258,
 Sky.Sport..259.it,Sky Sport  259,
 Sky.Calcio.10..260.it,Sky Calcio 10  260,
