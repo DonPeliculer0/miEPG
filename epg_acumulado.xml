@@ -3864,6 +3864,30 @@
     <display-name>DE | sport1+ UHD</display-name>
     <icon src="https://images.tvtoday.de/sender/small/s1plu.png" />
   </channel>
+  <channel id="DE | eSportsONE">
+    <display-name>DE | eSportsONE SD</display-name>
+    <display-name>DE | eSportsONE HD</display-name>
+    <display-name>DE | eSportsONE 4K</display-name>
+    <display-name>DE | eSportsONE Full HD</display-name>
+    <display-name>DE | eSportsONE UHD</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/d9eaa902b52b78517f3b47ab210111b9d37a7fa7.png" />
+  </channel>
+  <channel id="DE | SPORTDIGITAL FUSSBALL">
+    <display-name>DE | SPORTDIGITAL FUSSBALL SD</display-name>
+    <display-name>DE | SPORTDIGITAL FUSSBALL HD</display-name>
+    <display-name>DE | SPORTDIGITAL FUSSBALL 4K</display-name>
+    <display-name>DE | SPORTDIGITAL FUSSBALL Full HD</display-name>
+    <display-name>DE | SPORTDIGITAL FUSSBALL UHD</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png" />
+  </channel>
+  <channel id="DE | MagentaSport">
+    <display-name>DE | MagentaSport SD</display-name>
+    <display-name>DE | MagentaSport HD</display-name>
+    <display-name>DE | MagentaSport 4K</display-name>
+    <display-name>DE | MagentaSport Full HD</display-name>
+    <display-name>DE | MagentaSport UHD</display-name>
+    <icon src="http://ngiss.t-online.de/cm1s/media/ac4a4a48299d42f6ee414227a1e3e25da23a3abd.png" />
+  </channel>
   <channel id="DAZN.1.de">
     <display-name>DAZN.1.de SD</display-name>
     <display-name>DAZN.1.de HD</display-name>
@@ -232397,6 +232421,495 @@ También abrimos las puertas del Aula de Flamenco. Tenemos cerca de 60 clases y 
     <title>Motorsport: NASCAR Cup Series · NASCAR Cup Series: Coke Zero Sugar 400 (Daytona)</title>
     <desc>Motorsport
 · País: Estados Unidos</desc>
+	</programme>
+	<programme start="20260828031500 +0200" stop="20260828091500 +0200" channel="DE | eSportsONE">
+    <title>Speedrun - Event zugunsten der RTL Stiftung · Bisalina Speedruns 2026</title>
+    <desc>Familie,Sport,Show | 2026 | TP
+· Die Sendereihe zeigt Zusammenfassungen und Höhepunkte aus der Welt des E-Sports.
+· País: México</desc>
+	</programme>
+	<programme start="20260828091500 +0200" stop="20260828151000 +0200" channel="DE | eSportsONE">
+    <title>EWC 25 - League of Legends · League of Legends - Gruppenphase - Tag 1</title>
+    <desc>Sport,Show | 2025 | TP
+· Die Übertragung einer jährlichen internationalen E-Sport-Turnierserie aus Riad, Saudi-Arabien.</desc>
+	</programme>
+	<programme start="20260828151000 +0200" stop="20260828221000 +0200" channel="DE | eSportsONE">
+    <title>ESL-Event - Counter-Strike 2 · IEM Cologne Major 2026 - Semifinals - Tag 16</title>
+    <desc>Sport | 2026 | +16
+· IEM Cologne Major 2026 - Semifinals - Tag 16 (Wiederholung vom 20.06.26).</desc>
+	</programme>
+	<programme start="20260828221000 +0200" stop="20260829001500 +0200" channel="DE | eSportsONE">
+    <title>eSports - eNASCAR iRacing Series 2026 (Erstausstrahlung) · Rennen 9, Daytona International Speedway</title>
+    <desc>Sport,Show | 2026 | TP
+· eNASCAR, Rennen 9, Daytona International Speedway, Erstaustrahlung.</desc>
+	</programme>
+	<programme start="20260829001500 +0200" stop="20260829061000 +0200" channel="DE | eSportsONE">
+    <title>EWC 25 - League of Legends · League of Legends - Gruppenphase - Tag 1</title>
+    <desc>Sport,Show | 2025 | TP
+· Die Übertragung einer jährlichen internationalen E-Sport-Turnierserie aus Riad, Saudi-Arabien.</desc>
+	</programme>
+	<programme start="20260829061000 +0200" stop="20260829131000 +0200" channel="DE | eSportsONE">
+    <title>ESL-Event - Counter-Strike 2 · IEM Cologne Major 2026 - Semifinals - Tag 16</title>
+    <desc>Sport | 2026 | +16
+· IEM Cologne Major 2026 - Semifinals - Tag 16 (Wiederholung vom 20.06.26).</desc>
+	</programme>
+	<programme start="20260829131000 +0200" stop="20260829151500 +0200" channel="DE | eSportsONE">
+    <title>eSports - eNASCAR iRacing Series 2026 · Rennen 9, Daytona International Speedway</title>
+    <desc>Sport,Show | 2026 | TP
+· eNASCAR, Rennen 9, Daytona International Speedway (Wiederholung vom 27.08.26).</desc>
+	</programme>
+	<programme start="20260829151500 +0200" stop="20260829215500 +0200" channel="DE | eSportsONE">
+    <title>EWC 25 - League of Legends · League of Legends - Gruppenphase - Tag 2</title>
+    <desc>Sport,Show | 2025 | TP
+· Die Übertragung einer jährlichen internationalen E-Sport-Turnierserie aus Riad, Saudi-Arabien.</desc>
+	</programme>
+	<programme start="20260829215500 +0200" stop="20260830010000 +0200" channel="DE | eSportsONE">
+    <title>ESL-Event - Counter-Strike 2 · IEM Cologne 2026 - Stage 3 - Grand Final - Tag 8</title>
+    <desc>Sport | 2026 | +16
+· IEM Cologne Major 2026 - Grand Final - Tag 17 (Wiederholung vom 21.06.26).</desc>
+	</programme>
+	<programme start="20260830010000 +0200" stop="20260830074000 +0200" channel="DE | eSportsONE">
+    <title>EWC 25 - League of Legends · League of Legends - Gruppenphase - Tag 2</title>
+    <desc>Sport,Show | 2025 | TP
+· Die Übertragung einer jährlichen internationalen E-Sport-Turnierserie aus Riad, Saudi-Arabien.</desc>
+	</programme>
+	<programme start="20260830074000 +0200" stop="20260830104500 +0200" channel="DE | eSportsONE">
+    <title>ESL-Event - Counter-Strike 2 · IEM Cologne 2026 - Stage 3 - Grand Final - Tag 8</title>
+    <desc>Sport | 2026 | +16
+· IEM Cologne Major 2026 - Grand Final - Tag 17 (Wiederholung vom 21.06.26).</desc>
+	</programme>
+	<programme start="20260830104500 +0200" stop="20260830142000 +0200" channel="DE | eSportsONE">
+    <title>EWC 25 - League of Legends · League of Legends - Playoffs - Tag 3</title>
+    <desc>Sport,Show | 2025 | TP
+· Die Übertragung einer jährlichen internationalen E-Sport-Turnierserie aus Riad, Saudi-Arabien.</desc>
+	</programme>
+	<programme start="20260830142000 +0200" stop="20260830184000 +0200" channel="DE | eSportsONE">
+    <title>ESL-Event - Counter-Strike 2 · IEM Chengdu 2025 - Playoffs - Quarterfinals</title>
+    <desc>Show,Wissen,Sport | 2025 | +16
+· IEM Chengdu 2025 - Playoffs - Quarterfinals (Wiederholung vom 07.11.25).</desc>
+	</programme>
+	<programme start="20260830184000 +0200" stop="20260830204500 +0200" channel="DE | eSportsONE">
+    <title>eSports - Gran Turismo World Series · Gran Turismo, Mailand, Nations Cup</title>
+    <desc>Sport | 2026 | TP
+· Gran Turismo, Mailand, Nations Cup (Wiederholung vom 23.05.26).</desc>
+	</programme>
+	<programme start="20260830204500 +0200" stop="20260830223500 +0200" channel="DE | eSportsONE">
+    <title>eSports - Gran Turismo World Series · Gran Turismo, Mailand, Manufacturers Cup</title>
+    <desc>Sport | 2026 | TP
+· Gran Turismo, Mailand, Manufacturers Cup (Wiederholung vom 23.05.26).</desc>
+	</programme>
+	<programme start="20260830223500 +0200" stop="20260831021000 +0200" channel="DE | eSportsONE">
+    <title>EWC 25 - League of Legends · League of Legends - Playoffs - Tag 3</title>
+    <desc>Sport,Show | 2025 | TP
+· Die Übertragung einer jährlichen internationalen E-Sport-Turnierserie aus Riad, Saudi-Arabien.</desc>
+	</programme>
+	<programme start="20260828000000 +0200" stop="20260828020000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LFC TV - 1. Spieltag, Newcastle United - Liverpool FC</title>
+    <desc>Fußball | 2026 | TP
+· Erleben Sie den FC Liverpool so nah wie nie zuvor! Exklusive Interviews mit Stars und Verantwortlichen bieten faszinierende Einblicke hinter die Kulissen. Begleiten Sie die Reds beim Training und lernen Sie das Herz von Anfield kennen!
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828020000 +0200" stop="20260828023000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Portugal! Alle Tore, Highlights Primeira Liga (3. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Präsentiert werden die Fußball-Highlights der höchsten portugiesischen Spielklasse Primeira Liga.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828023000 +0200" stop="20260828030000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Polen! Alle Tore, Highlights Ekstraklasa (5. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Präsentiert werden die Fußball-Highlights der höchsten polnischen Spielklasse Ekstraklasa.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828030000 +0200" stop="20260828032500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828032500 +0200" stop="20260828052500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel)</title>
+    <desc>Fußball | TP
+· (Wh. v. 27.08.26) Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel).</desc>
+	</programme>
+	<programme start="20260828052500 +0200" stop="20260828061000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore! Das internationale Fußballmagazin, Tore und Ergebnisse international</title>
+    <desc>Fußball,Magazin | 2026 | TP
+· Das Magazin zeigt die Highlights aus der internationalen Fußballwelt kompakt zusammengefasst.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828061000 +0200" stop="20260828081000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LFC TV - 1. Spieltag, Newcastle United - Liverpool FC</title>
+    <desc>Fußball | 2026 | TP
+· Erleben Sie den FC Liverpool so nah wie nie zuvor! Exklusive Interviews mit Stars und Verantwortlichen bieten faszinierende Einblicke hinter die Kulissen. Begleiten Sie die Reds beim Training und lernen Sie das Herz von Anfield kennen!
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828081000 +0200" stop="20260828084000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Portugal! Alle Tore, Highlights Primeira Liga (3. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Präsentiert werden die Fußball-Highlights der höchsten portugiesischen Spielklasse Primeira Liga.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828084000 +0200" stop="20260828091000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Polen! Alle Tore, Highlights Ekstraklasa (5. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Präsentiert werden die Fußball-Highlights der höchsten polnischen Spielklasse Ekstraklasa.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828091000 +0200" stop="20260828093500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828093500 +0200" stop="20260828113500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel)</title>
+    <desc>Fußball | TP
+· (Wh. v. 27.08.26) Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel).</desc>
+	</programme>
+	<programme start="20260828113500 +0200" stop="20260828121500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore! Das internationale Fußballmagazin, Tore und Ergebnisse international</title>
+    <desc>Fußball,Magazin | 2026 | TP
+· Das Magazin zeigt die Highlights aus der internationalen Fußballwelt kompakt zusammengefasst.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828121500 +0200" stop="20260828141500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Palmeiras - Vasco da Gama, Campeonato Brasileiro (24. Spieltag) · Palmeiras Sao Paulo - Vasco da Gama</title>
+    <desc>Fußball | 2026 | TP
+· From Nubank Parque in Sao Paulo, Sao Paulo, Brazil.</desc>
+	</programme>
+	<programme start="20260828141500 +0200" stop="20260828162500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Manchester City TV - 1. Spieltag, Manchester City - AFC Bournemouth</title>
+    <desc>Fußball | 2026 | TP
+· Diese Sendung berichtet über alles Wichtige zu allen Spielen von Manchester City.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260828162500 +0200" stop="20260828182500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel)</title>
+    <desc>Fußball | TP
+· (Wh. v. 27.08.26) Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel).</desc>
+	</programme>
+	<programme start="20260828182500 +0200" stop="20260828185500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828185500 +0200" stop="20260828192500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Brasilien! Alle Tore, Highlights Campeonato Brasileiro (24. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Alle Tore und Highlights der Campeonato Brasileiro.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828192500 +0200" stop="20260828195500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Saudi-Arabien! Alle Tore, Highlights Saudi Pro League (3. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Alle Tore, alle Highlights des aktuellen Spieltags der Saudi Pro League.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260828195500 +0200" stop="20260828221500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE Al-Nassr - Al-Taawoun, Saudi Pro League (4. Spieltag)</title>
+    <desc>Fußball | TP
+· Al-Nassr - Al-Taawoun, Saudi Pro League (4. Spieltag).</desc>
+	</programme>
+	<programme start="20260828221500 +0200" stop="20260828231500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE FC Rio Ave - Sporting Lissabon, Primeira Liga (4. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Estádio dos Arcos in Vila do Conde, Portugal.</desc>
+	</programme>
+	<programme start="20260828231500 +0200" stop="20260829012500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Manchester City TV - 1. Spieltag, Manchester City - AFC Bournemouth</title>
+    <desc>Fußball | 2026 | TP
+· Diese Sendung berichtet über alles Wichtige zu allen Spielen von Manchester City.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260829012500 +0200" stop="20260829032500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel)</title>
+    <desc>Fußball | TP
+· (Wh. v. 27.08.26) Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel).</desc>
+	</programme>
+	<programme start="20260829032500 +0200" stop="20260829035500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829035500 +0200" stop="20260829042500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Brasilien! Alle Tore, Highlights Campeonato Brasileiro (24. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Alle Tore und Highlights der Campeonato Brasileiro.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829042500 +0200" stop="20260829045500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Saudi-Arabien! Alle Tore, Highlights Saudi Pro League (3. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Alle Tore, alle Highlights des aktuellen Spieltags der Saudi Pro League.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829045500 +0200" stop="20260829070000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Al-Nassr - Al-Taawoun, Saudi Pro League (4. Spieltag)</title>
+    <desc>Fußball | TP
+· (Wh. v. 28.08.26) Al-Nassr - Al-Taawoun, Saudi Pro League (4. Spieltag).</desc>
+	</programme>
+	<programme start="20260829070000 +0200" stop="20260829091000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Manchester City TV - 1. Spieltag, Manchester City - AFC Bournemouth</title>
+    <desc>Fußball | 2026 | TP
+· Diese Sendung berichtet über alles Wichtige zu allen Spielen von Manchester City.
+· País: Reino Unido</desc>
+	</programme>
+	<programme start="20260829091000 +0200" stop="20260829111000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel)</title>
+    <desc>Fußball | TP
+· (Wh. v. 27.08.26) Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel).</desc>
+	</programme>
+	<programme start="20260829111000 +0200" stop="20260829114000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829114000 +0200" stop="20260829121000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Brasilien! Alle Tore, Highlights Campeonato Brasileiro (24. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Alle Tore und Highlights der Campeonato Brasileiro.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829121000 +0200" stop="20260829124000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Saudi-Arabien! Alle Tore, Highlights Saudi Pro League (3. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Alle Tore, alle Highlights des aktuellen Spieltags der Saudi Pro League.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829124000 +0200" stop="20260829144500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Al-Nassr - Al-Taawoun, Saudi Pro League (4. Spieltag)</title>
+    <desc>Fußball | TP
+· (Wh. v. 28.08.26) Al-Nassr - Al-Taawoun, Saudi Pro League (4. Spieltag).</desc>
+	</programme>
+	<programme start="20260829144500 +0200" stop="20260829151500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore Argentinien! Alle Tore, Highlights Liga Profesional Clausura (6. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Es werden die Highlights aus der Liga Profesional präsentiert: leidenschaftliche Fans, rassige Duelle und toller Fußball. All das bietet Argentinien. Um den Titel kämpfen meist River Plate, die Boca Juniors oder Racing Club.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829151500 +0200" stop="20260829154000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829154000 +0200" stop="20260829174000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel)</title>
+    <desc>Fußball | TP
+· (Wh. v. 27.08.26) Kauno Zalgiris - Besiktas, UEFA Europa League (Playoffs, Rückspiel).</desc>
+	</programme>
+	<programme start="20260829174000 +0200" stop="20260829181000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>90in30: Spitzenspiel, Internationaler Fußball · Spitzenspiel,Internationaler Fussball</title>
+    <desc>Fußball,Sport | 2026 | TP
+· Die Sendung präsentiert die besten Spiele einer jeden Woche in 30 Minuten.</desc>
+	</programme>
+	<programme start="20260829181000 +0200" stop="20260829185000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>scooore! Das internationale Fußballmagazin, Tore und Ergebnisse international</title>
+    <desc>Fußball,Magazin | 2026 | TP
+· Das Magazin zeigt die Highlights aus der internationalen Fußballwelt kompakt zusammengefasst.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260829185000 +0200" stop="20260829211500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE Academico Viseu - FC Porto, Primeira Liga (4. Spieltag) · Académico de Viseu - FC Porto</title>
+    <desc>Fußball | 2026 | TP
+· Übertragung aktueller Fußballspiele aus der portugiesischen Primeira Liga.</desc>
+	</programme>
+	<programme start="20260829211500 +0200" stop="20260829232500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>FC Rio Ave - Sporting Lissabon, Primeira Liga (4. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Estádio dos Arcos in Vila do Conde, Portugal.</desc>
+	</programme>
+	<programme start="20260829232500 +0200" stop="20260830014500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE Atletico Mineiro - EC Vitoria, Campeonato Brasileiro (25. Spieltag)</title>
+    <desc>Fußball | TP
+· Atletico Mineiro - EC Vitoria, Campeonato Brasileiro (25. Spieltag).</desc>
+	</programme>
+	<programme start="20260830014500 +0200" stop="20260830021000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260830021000 +0200" stop="20260830041000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Academico Viseu - FC Porto, Primeira Liga (4. Spieltag) · Académico de Viseu - FC Porto</title>
+    <desc>Fußball | 2026 | TP
+· Übertragung aktueller Fußballspiele aus der portugiesischen Primeira Liga.</desc>
+	</programme>
+	<programme start="20260830041000 +0200" stop="20260830061000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>FC Rio Ave - Sporting Lissabon, Primeira Liga (4. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Estádio dos Arcos in Vila do Conde, Portugal.</desc>
+	</programme>
+	<programme start="20260830061000 +0200" stop="20260830081000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Atletico Mineiro - EC Vitoria, Campeonato Brasileiro (25. Spieltag)</title>
+    <desc>Fußball | TP
+· (Wh. v. 29.08.26) Atletico Mineiro - EC Vitoria, Campeonato Brasileiro (25. Spieltag).</desc>
+	</programme>
+	<programme start="20260830081000 +0200" stop="20260830083500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26)</title>
+    <desc>Fußball | TP
+· (Wh. v. 27.08.26) Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26).</desc>
+	</programme>
+	<programme start="20260830083500 +0200" stop="20260830103500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Academico Viseu - FC Porto, Primeira Liga (4. Spieltag) · Académico de Viseu - FC Porto</title>
+    <desc>Fußball | 2026 | TP
+· Übertragung aktueller Fußballspiele aus der portugiesischen Primeira Liga.</desc>
+	</programme>
+	<programme start="20260830103500 +0200" stop="20260830113000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>FC Rio Ave - Sporting Lissabon, Primeira Liga (4. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Estádio dos Arcos in Vila do Conde, Portugal.</desc>
+	</programme>
+	<programme start="20260830113000 +0200" stop="20260830120000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260830120000 +0200" stop="20260830142500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE FC Utrecht - PSV Eindhoven, Eredivisie (4. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Stadion Galgenwaard in Utrecht, Niederlande.</desc>
+	</programme>
+	<programme start="20260830142500 +0200" stop="20260830164000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE Feyenoord Rotterdam - ADO Den Haag, Eredivisie (4. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Feijenoord-Stadion in Rotterdam, Niederlande.</desc>
+	</programme>
+	<programme start="20260830164000 +0200" stop="20260830185000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE Telstar - Ajax Amsterdam, Eredivisie (4. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem BUKO-Stadion in Veln-Zuid, Niederlande, Nordholland, Niederlande.</desc>
+	</programme>
+	<programme start="20260830185000 +0200" stop="20260830190500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Ruud van Nistelrooy - Top 25, Eredivisie Top Goals</title>
+    <desc>Fußball | 1997 | TP
+· Übertragungen aktueller Spiele aus der holländischen Eredivisie, der höchsten Spielklasse der Niederlande.</desc>
+	</programme>
+	<programme start="20260830190500 +0200" stop="20260830193000 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Im Rampenlicht - Football’s Greatest Stage, Roberto Carlos &amp; Fabien Barthez (Episode 26) · Footballs Greatest Stage,Roberto Carlos &amp; Fabien Barthez</title>
+    <desc>Fußball | 2026 | TP
+· Im Rampenlicht - Footballs Greatest Stage.
+· País: Alemania</desc>
+	</programme>
+	<programme start="20260830193000 +0200" stop="20260830221500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE Sparta Prag - Slavia Prag, Chance Liga (6. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus der Generali Arena in Prag, Tschechien.</desc>
+	</programme>
+	<programme start="20260830221500 +0200" stop="20260830232500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>Academico Viseu - FC Porto, Primeira Liga (4. Spieltag) · Académico de Viseu - FC Porto</title>
+    <desc>Fußball | 2026 | TP
+· Übertragung aktueller Fußballspiele aus der portugiesischen Primeira Liga.</desc>
+	</programme>
+	<programme start="20260830232500 +0200" stop="20260831014500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>LIVE Mirassol - Palmeiras, Campeonato Brasileiro (25. Spieltag) · Mirassol - Palmeiras Sao Paulo</title>
+    <desc>Fußball | 2026 | TP
+· From Municipal Jose Maria de Campos Maia in Mirassol, São Paulo, Brazil.</desc>
+	</programme>
+	<programme start="20260831014500 +0200" stop="20260831034500 +0200" channel="DE | SPORTDIGITAL FUSSBALL">
+    <title>FC Utrecht - PSV Eindhoven, Eredivisie (4. Spieltag)</title>
+    <desc>Fußball | 2026 | TP
+· Aus dem Stadion Galgenwaard in Utrecht, Niederlande.</desc>
+	</programme>
+	<programme start="20260828020000 +0200" stop="20260828060000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260828060000 +0200" stop="20260828100000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260828100000 +0200" stop="20260828140000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260828140000 +0200" stop="20260828180000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260828180000 +0200" stop="20260828220000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260828220000 +0200" stop="20260829020000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260829020000 +0200" stop="20260829060000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260829060000 +0200" stop="20260829100000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260829100000 +0200" stop="20260829140000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260829140000 +0200" stop="20260829180000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260829180000 +0200" stop="20260829220000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260829220000 +0200" stop="20260830020000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260830020000 +0200" stop="20260830060000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260830060000 +0200" stop="20260830100000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260830100000 +0200" stop="20260830140000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260830140000 +0200" stop="20260830180000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260830180000 +0200" stop="20260830220000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260830220000 +0200" stop="20260831020000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
+	</programme>
+	<programme start="20260831020000 +0200" stop="20260831060000 +0200" channel="DE | MagentaSport">
+    <title>MagentaSport Programmübersicht</title>
+    <desc>2021 | TP
+· Das komplette MagentaSport Programm für die nächsten Spieltage - übersichtlich und kompakt.</desc>
 	</programme>
   <programme start="20260828080000 +0200" stop="20260828083000 +0200" channel="DAZN.1.de">
     <title lang="de">VfB in Team</title>
