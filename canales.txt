@@ -695,6 +695,9 @@ UK | Sky Sports Racing,UK | Sky Sports Racing
 DE | More than Sports TV,DE | More than Sports TV
 DE | sport1,DE | sport1
 DE | sport1+,DE | sport1+
+DE | eSportsONE,DE | eSportsONE
+DE | SPORTDIGITAL FUSSBALL,DE | SPORTDIGITAL FUSSBALL
+DE | MagentaSport,DE | MagentaSport
 DAZN.1.de,DAZN.1.de
 DAZN.2.de,DAZN.2.de
 DE | Sky Sport News,DE | Sky Sport News
