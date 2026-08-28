@@ -839,9 +839,9 @@ Primera Federación,Primera Federación
 ,RFEF TV | Eventos 19
 DAZN Liga F,DAZN Liga F | Eventos 1
 DAZN Liga F 2,DAZN Liga F | Eventos 2
-,DAZN Liga F | Eventos 3
-,DAZN Liga F | Eventos 4
-,DAZN Liga F | Eventos 5
+DAZN Liga F 3,DAZN Liga F | Eventos 3
+DAZN Liga F 4,DAZN Liga F | Eventos 4
+DAZN Liga F 5,DAZN Liga F | Eventos 5
 ,Liga Endesa | Eventos 1
 ,Liga Endesa | Eventos 2
 ,Liga Endesa | Eventos 3
@@ -908,18 +908,18 @@ NBA-MinnesotaTimberwolves.us,
 NBA-OklahomaCityThunder.us,
 NBA-OrlandoMagic.us,
 6a6a02ae3ee9d966427e62c4,NFL Network (DAZN)
-,DAZN NFL | Eventos 1
-,DAZN NFL | Eventos 2
-,DAZN NFL | Eventos 3
-,DAZN NFL | Eventos 4
-,DAZN NFL | Eventos 5
-,DAZN NFL | Eventos 6
-,DAZN NFL | Eventos 7
-,DAZN NFL | Eventos 8
-,DAZN NFL | Eventos 9
-,DAZN NFL | Eventos 10
-,DAZN NFL | Eventos 11
-,DAZN NFL | Eventos 12
-,DAZN NFL | Eventos 13
-,DAZN NFL | Eventos 14
-,DAZN NFL | Eventos 15
+DAZN NFL,DAZN NFL | Eventos 1
+DAZN NFL 2,DAZN NFL | Eventos 2
+DAZN NFL 3,DAZN NFL | Eventos 3
+DAZN NFL 4,DAZN NFL | Eventos 4
+DAZN NFL 5,DAZN NFL | Eventos 5
+DAZN NFL 6,DAZN NFL | Eventos 6
+DAZN NFL 7,DAZN NFL | Eventos 7
+DAZN NFL 8,DAZN NFL | Eventos 8
+DAZN NFL 9,DAZN NFL | Eventos 9
+DAZN NFL 10,DAZN NFL | Eventos 10
+DAZN NFL 11,DAZN NFL | Eventos 11
+DAZN NFL 12,DAZN NFL | Eventos 12
+DAZN NFL 13,DAZN NFL | Eventos 13
+DAZN NFL 14,DAZN NFL | Eventos 14
+DAZN NFL 15,DAZN NFL | Eventos 15
