@@ -4432,92 +4432,108 @@
     <display-name>SS.La.Liga.za UHD</display-name>
     <icon src="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png" />
   </channel>
-  <channel id="DAZN Premier League">
-    <display-name>DAZN Premier League SD</display-name>
-    <display-name>DAZN Premier League HD</display-name>
-    <display-name>DAZN Premier League 4K</display-name>
-    <display-name>DAZN Premier League Full HD</display-name>
-    <display-name>DAZN Premier League UHD</display-name>
+  <channel id="DAZN Premier League | Eventos 1">
+    <display-name>DAZN Premier League | Eventos 1 SD</display-name>
+    <display-name>DAZN Premier League | Eventos 1 HD</display-name>
+    <display-name>DAZN Premier League | Eventos 1 4K</display-name>
+    <display-name>DAZN Premier League | Eventos 1 Full HD</display-name>
+    <display-name>DAZN Premier League | Eventos 1 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Premier League 2">
-    <display-name>DAZN Premier League 2 SD</display-name>
-    <display-name>DAZN Premier League 2 HD</display-name>
-    <display-name>DAZN Premier League 2 4K</display-name>
-    <display-name>DAZN Premier League 2 Full HD</display-name>
-    <display-name>DAZN Premier League 2 UHD</display-name>
+  <channel id="DAZN Premier League | Eventos 2">
+    <display-name>DAZN Premier League | Eventos 2 SD</display-name>
+    <display-name>DAZN Premier League | Eventos 2 HD</display-name>
+    <display-name>DAZN Premier League | Eventos 2 4K</display-name>
+    <display-name>DAZN Premier League | Eventos 2 Full HD</display-name>
+    <display-name>DAZN Premier League | Eventos 2 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Premier League 3">
-    <display-name>DAZN Premier League 3 SD</display-name>
-    <display-name>DAZN Premier League 3 HD</display-name>
-    <display-name>DAZN Premier League 3 4K</display-name>
-    <display-name>DAZN Premier League 3 Full HD</display-name>
-    <display-name>DAZN Premier League 3 UHD</display-name>
+  <channel id="DAZN Premier League | Eventos 3">
+    <display-name>DAZN Premier League | Eventos 3 SD</display-name>
+    <display-name>DAZN Premier League | Eventos 3 HD</display-name>
+    <display-name>DAZN Premier League | Eventos 3 4K</display-name>
+    <display-name>DAZN Premier League | Eventos 3 Full HD</display-name>
+    <display-name>DAZN Premier League | Eventos 3 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Bundesliga">
-    <display-name>DAZN Bundesliga SD</display-name>
-    <display-name>DAZN Bundesliga HD</display-name>
-    <display-name>DAZN Bundesliga 4K</display-name>
-    <display-name>DAZN Bundesliga Full HD</display-name>
-    <display-name>DAZN Bundesliga UHD</display-name>
+  <channel id="DAZN Premier League | Eventos 4">
+    <display-name>DAZN Premier League | Eventos 4 SD</display-name>
+    <display-name>DAZN Premier League | Eventos 4 HD</display-name>
+    <display-name>DAZN Premier League | Eventos 4 4K</display-name>
+    <display-name>DAZN Premier League | Eventos 4 Full HD</display-name>
+    <display-name>DAZN Premier League | Eventos 4 UHD</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Premier League | Eventos 5">
+    <display-name>DAZN Premier League | Eventos 5 SD</display-name>
+    <display-name>DAZN Premier League | Eventos 5 HD</display-name>
+    <display-name>DAZN Premier League | Eventos 5 4K</display-name>
+    <display-name>DAZN Premier League | Eventos 5 Full HD</display-name>
+    <display-name>DAZN Premier League | Eventos 5 UHD</display-name>
+    <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g" />
+  </channel>
+  <channel id="DAZN Bundesliga | Eventos 1">
+    <display-name>DAZN Bundesliga | Eventos 1 SD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 1 HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 1 4K</display-name>
+    <display-name>DAZN Bundesliga | Eventos 1 Full HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 1 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Bundesliga 2">
-    <display-name>DAZN Bundesliga 2 SD</display-name>
-    <display-name>DAZN Bundesliga 2 HD</display-name>
-    <display-name>DAZN Bundesliga 2 4K</display-name>
-    <display-name>DAZN Bundesliga 2 Full HD</display-name>
-    <display-name>DAZN Bundesliga 2 UHD</display-name>
+  <channel id="DAZN Bundesliga | Eventos 2">
+    <display-name>DAZN Bundesliga | Eventos 2 SD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 2 HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 2 4K</display-name>
+    <display-name>DAZN Bundesliga | Eventos 2 Full HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 2 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Bundesliga 3">
-    <display-name>DAZN Bundesliga 3 SD</display-name>
-    <display-name>DAZN Bundesliga 3 HD</display-name>
-    <display-name>DAZN Bundesliga 3 4K</display-name>
-    <display-name>DAZN Bundesliga 3 Full HD</display-name>
-    <display-name>DAZN Bundesliga 3 UHD</display-name>
+  <channel id="DAZN Bundesliga | Eventos 3">
+    <display-name>DAZN Bundesliga | Eventos 3 SD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 3 HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 3 4K</display-name>
+    <display-name>DAZN Bundesliga | Eventos 3 Full HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 3 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Bundesliga 4">
-    <display-name>DAZN Bundesliga 4 SD</display-name>
-    <display-name>DAZN Bundesliga 4 HD</display-name>
-    <display-name>DAZN Bundesliga 4 4K</display-name>
-    <display-name>DAZN Bundesliga 4 Full HD</display-name>
-    <display-name>DAZN Bundesliga 4 UHD</display-name>
+  <channel id="DAZN Bundesliga | Eventos 4">
+    <display-name>DAZN Bundesliga | Eventos 4 SD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 4 HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 4 4K</display-name>
+    <display-name>DAZN Bundesliga | Eventos 4 Full HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 4 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Bundesliga 5">
-    <display-name>DAZN Bundesliga 5 SD</display-name>
-    <display-name>DAZN Bundesliga 5 HD</display-name>
-    <display-name>DAZN Bundesliga 5 4K</display-name>
-    <display-name>DAZN Bundesliga 5 Full HD</display-name>
-    <display-name>DAZN Bundesliga 5 UHD</display-name>
+  <channel id="DAZN Bundesliga | Eventos 5">
+    <display-name>DAZN Bundesliga | Eventos 5 SD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 5 HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 5 4K</display-name>
+    <display-name>DAZN Bundesliga | Eventos 5 Full HD</display-name>
+    <display-name>DAZN Bundesliga | Eventos 5 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Serie A">
-    <display-name>DAZN Serie A SD</display-name>
-    <display-name>DAZN Serie A HD</display-name>
-    <display-name>DAZN Serie A 4K</display-name>
-    <display-name>DAZN Serie A Full HD</display-name>
-    <display-name>DAZN Serie A UHD</display-name>
+  <channel id="DAZN Serie A | Eventos 1">
+    <display-name>DAZN Serie A | Eventos 1 SD</display-name>
+    <display-name>DAZN Serie A | Eventos 1 HD</display-name>
+    <display-name>DAZN Serie A | Eventos 1 4K</display-name>
+    <display-name>DAZN Serie A | Eventos 1 Full HD</display-name>
+    <display-name>DAZN Serie A | Eventos 1 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Serie A 2">
-    <display-name>DAZN Serie A 2 SD</display-name>
-    <display-name>DAZN Serie A 2 HD</display-name>
-    <display-name>DAZN Serie A 2 4K</display-name>
-    <display-name>DAZN Serie A 2 Full HD</display-name>
-    <display-name>DAZN Serie A 2 UHD</display-name>
+  <channel id="DAZN Serie A 2 | Eventos 2">
+    <display-name>DAZN Serie A 2 | Eventos 2 SD</display-name>
+    <display-name>DAZN Serie A 2 | Eventos 2 HD</display-name>
+    <display-name>DAZN Serie A 2 | Eventos 2 4K</display-name>
+    <display-name>DAZN Serie A 2 | Eventos 2 Full HD</display-name>
+    <display-name>DAZN Serie A 2 | Eventos 2 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
-  <channel id="DAZN Serie A 3">
-    <display-name>DAZN Serie A 3 SD</display-name>
-    <display-name>DAZN Serie A 3 HD</display-name>
-    <display-name>DAZN Serie A 3 4K</display-name>
-    <display-name>DAZN Serie A 3 Full HD</display-name>
-    <display-name>DAZN Serie A 3 UHD</display-name>
+  <channel id="DAZN Serie A 3 | Eventos 3">
+    <display-name>DAZN Serie A 3 | Eventos 3 SD</display-name>
+    <display-name>DAZN Serie A 3 | Eventos 3 HD</display-name>
+    <display-name>DAZN Serie A 3 | Eventos 3 4K</display-name>
+    <display-name>DAZN Serie A 3 | Eventos 3 Full HD</display-name>
+    <display-name>DAZN Serie A 3 | Eventos 3 UHD</display-name>
     <icon src="https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g" />
   </channel>
   <channel id="Primera Federación">
@@ -94906,11 +94922,6 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
       <value>M3</value>
     </rating>
   </programme>
-  <programme start="20260828200000 +0000" stop="20260828210000 +0000" channel="CNN en Español">
-    <title>Deportes CNN (60m)</title>
-    <desc>Conducido desde Miami y Argentina, Deportes CNN cubre toda la acción del mundo de deportes.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1966295818_0_20260627T070400017Z_125_imageprocessorclient-tvplus-linear-66fc4d58c8-2qxb4.png"/>
-  </programme>
   <programme start="20260828210000 +0000" stop="20260828220000 +0000" channel="CNN en Español">
     <title>Directo USA</title>
     <desc>Su conexión directa con Estados Unidos desde el centro del poder político en Washington, DC, EE. UU.</desc>
@@ -94939,6 +94950,11 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
   <programme start="20260829020000 +0000" stop="20260829030000 +0000" channel="CNN en Español">
     <title>Deportes CNN (60m)</title>
     <desc>Conducido desde Miami y Argentina, Deportes CNN cubre toda la acción del mundo de deportes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1966295818_0_20260627T070400017Z_125_imageprocessorclient-tvplus-linear-66fc4d58c8-2qxb4.png"/>
+  </programme>
+  <programme start="20260829030000 +0000" stop="20260829040000 +0000" channel="CNN en Español">
+    <title>Perspectivas</title>
+    <desc>Mario González nos pone al pulso de temas como economía, migración, seguridad y hechos claves.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1966295818_0_20260627T070400017Z_125_imageprocessorclient-tvplus-linear-66fc4d58c8-2qxb4.png"/>
   </programme>
   <programme start="20260828190000 +0000" stop="20260828200000 +0000" channel="CNN Headlines International">
@@ -112058,11 +112074,6 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
         <title lang="en">Hit TV</title>
         <desc lang="en">Hit TV</desc>
     </programme>
-  <programme start="20260828192500 +0000" stop="20260828202900 +0000" channel="CLIPS dont lie">
-    <title>K-POP SUPERSTARS</title>
-    <desc>La energía idol que te envuelve y te deja queriendo repetir</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1477571396_0_20251226T090838551Z_142_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg"/>
-  </programme>
   <programme start="20260828202900 +0000" stop="20260828213000 +0000" channel="CLIPS dont lie">
     <title>Especial Juanes</title>
     <desc>Juanes revive himnos que marcaron generaciones con energía en vivo y una emoción que sigue intacta.</desc>
@@ -112087,6 +112098,11 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
     <title>K-POP SUPERSTARS</title>
     <desc>La energía idol que te envuelve y te deja queriendo repetir</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1477571396_0_20251226T090838551Z_142_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg"/>
+  </programme>
+  <programme start="20260829022000 +0000" stop="20260829032100 +0000" channel="CLIPS dont lie">
+    <title>Especial Juanes</title>
+    <desc>Juanes revive himnos que marcaron generaciones con energía en vivo y una emoción que sigue intacta.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1575726392_0_20260126T030839151Z_68_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg"/>
   </programme>
   <programme start="20260828190000 +0000" stop="20260828200000 +0000" channel="MTV Spankin New">
     <title>MTV Spankin' New</title>
@@ -115872,14 +115888,6 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
         <title lang="en">XITE 90s Throwback</title>
         <desc lang="en">XITE 90s Throwback</desc>
     </programme>
-  <programme start="20260828200000 +0000" stop="20260828210000 +0000" channel="Vevo Latino">
-    <title>Hora del Jangueo</title>
-    <desc>Los mejores vídeos para disfrutar bailando al beat del mejor reggaetón.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1090785153_1_20250728T064259115Z_130_imageprocessorclient-tvplus-linear-5db7c6bc99-87j56.png"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme start="20260828210000 +0000" stop="20260828220000 +0000" channel="Vevo Latino">
     <title>Lo Más Pegao</title>
     <desc>Los mayores éxitos de la música latina. Todo lo que suena en la radio, en las discotecas y ahora también en el salón de tu casa!</desc>
@@ -115928,10 +115936,10 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
       <value>NA</value>
     </rating>
   </programme>
-  <programme start="20260828200000 +0000" stop="20260828210000 +0000" channel="Vevo Retro">
-    <title>Éxitos Latinos</title>
-    <desc>Los mejores hits del otro lado del charco.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1013390851_0_20250627T181424481Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-4h9xv.png"/>
+  <programme start="20260829030000 +0000" stop="20260829040000 +0000" channel="Vevo Latino">
+    <title>Música Chingona</title>
+    <desc>¡Mexico está de moda! Viaja hasta el otro lado del charco con la música más chingona. Una de Regional Mexicano.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1090784881_1_20250728T064259115Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-87j56.png"/>
     <rating>
       <value>NA</value>
     </rating>
@@ -115980,6 +115988,14 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
     <title>Vevo en Vivo</title>
     <desc>Disfruta con los artistas legendarios dándolo todo en el escenario en su momento más hot.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1013390761_0_20250627T181424791Z_59_imageprocessorclient-tvplus-linear-5db7c6bc99-4h9xv.png"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260829030000 +0000" stop="20260829040000 +0000" channel="Vevo Retro">
+    <title>Leyendas Británicas</title>
+    <desc>Los iconos de la música británica de los 70 y los 80</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1013397459_0_20250627T181424897Z_49_imageprocessorclient-tvplus-linear-5db7c6bc99-4h9xv.png"/>
     <rating>
       <value>NA</value>
     </rating>
@@ -116700,10 +116716,10 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
     <desc>Many of the big power hits that we know &amp; love today were released during the 80s, and the best reached No.1 either here or in the USA. Carol blasts through the decade - in order!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1918586446_5_20250909T151622682Z_15_imageprocessorclient-tvplus-linear-d7c8c765b-rgpdm.png"/>
   </programme>
-  <programme start="20260828150000 +0000" stop="20260828210000 +0000" channel="Thats 90s00s">
-    <title>NOW 100 Hits: 00s Love Songs</title>
-    <desc>Simon Bates with the ultimate countdown of 00s love songs - heartfelt vocals, lush strings &amp; big breakdowns in an 8 hour marathon! Expect Take That, Dido, Leona &amp; Michael Buble.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1918557043_3_20250909T143202824Z_60_imageprocessorclient-tvplus-linear-d7c8c765b-9v8zx.png"/>
+  <programme start="20260829030000 +0000" stop="20260829053000 +0000" channel="Thats 80s">
+    <title>Wot? They Streamed a Billion?</title>
+    <desc>What 80s songs have streamed over a billion times worldwide in the decades since? There are lots from Queen, Guns n Roses, Bon Jovi &amp; AC/DC, but the top 3 might surprise you!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1918586446_5_20250909T151622682Z_15_imageprocessorclient-tvplus-linear-d7c8c765b-rgpdm.png"/>
   </programme>
   <programme start="20260828210000 +0000" stop="20260829000000 +0000" channel="Thats 90s00s">
     <title>It's Friday I'm in love!</title>
@@ -116719,6 +116735,16 @@ Con: Joaquín Reyes, David Verdaguer, Pablo Chiapella, Antonio Dechent... Votos:
     <title>30 Biggest Selling Love Songs</title>
     <desc>Have you ever wondered what the 30 biggest selling love songs of the 90s were? Wonder no more. It's time to get it on!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1918561096_1_20250909T143208312Z_29_imageprocessorclient-tvplus-linear-d7c8c765b-ktlvd.png"/>
+  </programme>
+  <programme start="20260829024000 +0000" stop="20260829030000 +0000" channel="Thats 90s00s">
+    <title>It's Friday I'm in love!</title>
+    <desc>As the song goes, Friday is the perfect day for love! From heartbreak anthems to feel-good favourites, first crushes to timeless romantic classics, we've got every mood covered!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1918557043_3_20250909T143202824Z_60_imageprocessorclient-tvplus-linear-d7c8c765b-9v8zx.png"/>
+  </programme>
+  <programme start="20260829030000 +0000" stop="20260829060000 +0000" channel="Thats 90s00s">
+    <title>NOW 100 Hits: 00s Love Songs</title>
+    <desc>Simon Bates with the ultimate countdown of 00s love songs - heartfelt vocals, lush strings &amp; big breakdowns in an 8 hour marathon! Expect Take That, Dido, Leona &amp; Michael Buble.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1918557043_3_20250909T143202824Z_60_imageprocessorclient-tvplus-linear-d7c8c765b-9v8zx.png"/>
   </programme>
   <programme start="20260828000000 +0200" stop="20260828003000 +0200" channel="Retro Music TV">
     <title lang="sk">retro party - Buďte hvězdou parketu. Taneční hity vám vlijí novou krev do žil.</title>
@@ -149977,33 +150003,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
 · Presentapersonajes y acontecimientos típicos, avances y descubrimientos tecnológicos y científicos, y la civilización social de China.
 · País: China</desc>
 	</programme>
-  <programme start="20260828195028 +0000" stop="20260828202312 +0000" channel="¡Hola! Play">
-    <title>Royals</title>
-    <sub-title>S2:E3 Episodio 3: Felipe VI</sub-title>
-    <desc>S2:E3 Episodio 3: Felipe VI - Excepcional documental que retrata la vida de Su Majestad el Rey, Don Felipe de Borbón y Grecia.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_512219140_0_20241121T032127658Z_80_imageprocessorclient-tvplus-linear-7cd5d896cc-d4vtb.jpeg"/>
-    <rating>
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20260828202312 +0000" stop="20260828203938 +0000" channel="¡Hola! Play">
-    <title>Royals</title>
-    <sub-title>Los Borbones: Episodios 6-7</sub-title>
-    <desc>Royals - Los Borbones: Infanta Cristina - Victoria de Marichalar</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2129154305_0_20260823T072937004Z_106_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.jpeg"/>
-    <rating>
-      <value>13</value>
-    </rating>
-  </programme>
-  <programme start="20260828203938 +0000" stop="20260828210434 +0000" channel="¡Hola! Play">
-    <title>Royals</title>
-    <sub-title>S8:E3 Fabiola de Bélgica</sub-title>
-    <desc>S8:E3 Fabiola de Bélgica - Fabiola de Mora y Aragón pertenecía a una de las familias de la nobleza española más monárquicas y leales a Alfonso XIII de su época.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_513988367_0_20241206T023714140Z_26_imageprocessorclient-tvplus-linear-7cd5d896cc-dxhcw.jpeg"/>
-    <rating>
-      <value>13</value>
-    </rating>
-  </programme>
   <programme start="20260828210434 +0000" stop="20260828213555 +0000" channel="¡Hola! Play">
     <title>Grandes Crónicas de ¡HOLA!</title>
     <sub-title>S1:E16 Latinos transformando el futuro</sub-title>
@@ -150108,6 +150107,24 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <sub-title>Los Windsor</sub-title>
     <desc>Los Windsor: Sophie de Wessex y Beatriz de York</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2129161509_0_20260823T072937003Z_146_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260829024652 +0000" stop="20260829030527 +0000" channel="¡Hola! Play">
+    <title>Ana María, mi verdad</title>
+    <sub-title>S1:E5 Empezar de nuevo</sub-title>
+    <desc>S1:E5 Empezar de nuevo - Ana María se pronuncia sobre el matrimonio de José Ortega Cano con Rocío Jurado, una relación que nada tiene que ver con la suya y el diestro.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_514114982_0_20241207T032350201Z_80_imageprocessorclient-tvplus-linear-7cd5d896cc-gbk2s.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260829030527 +0000" stop="20260829034143 +0000" channel="¡Hola! Play">
+    <title>Royals</title>
+    <sub-title>La Casa Noruega: Episodios 3-4</sub-title>
+    <desc>Royals - La Casa Noruega: Mette Marit de Noruega y Harald de Noruega</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2129154306_0_20260823T072937002Z_59_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.jpeg"/>
     <rating>
       <value>13</value>
     </rating>
@@ -152884,16 +152901,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <icon src="http://dtil.tmsimg.com/assets/p33500051_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
 </programme>
-  <programme start="20260828200615 +0000" stop="20260828202754 +0000" channel="Ideas en 5 minutos Samsung TV">
-    <title>Trucos fascinantes y experimentos fascinantes</title>
-    <desc>Experimente la maravilla y el asombro de trucos cautivadores y experimentos alucinantes.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_10_20250901T060510199Z_67_imageprocessorclient-tvplus-linear-5db7c6bc99-2pksq.jpeg"/>
-  </programme>
-  <programme start="20260828202754 +0000" stop="20260828205253 +0000" channel="Ideas en 5 minutos Samsung TV">
-    <title>Guía para diseñar ropa y zapatos únicos</title>
-    <desc>En este vídeo, aprenderás paso a paso técnicas y consejos para diseñar tu propia ropa y calzado únicos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_0_20250901T060500438Z_20_imageprocessorclient-tvplus-linear-5db7c6bc99-22gf2.jpeg"/>
-  </programme>
   <programme start="20260828205253 +0000" stop="20260828211841 +0000" channel="Ideas en 5 minutos Samsung TV">
     <title>Cortar a tajos</title>
     <sub-title>trucos sencillos y eficaces para reparar tu casa</sub-title>
@@ -152961,6 +152968,17 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <title>Dominar el Arte: Los artesanos afrontan creaciones desafiantes</title>
     <desc>Acompáñenos en esta inmersión en el mundo de los maestros artesanos y sea testigo de la habilidad y la dedicación que se necesitan para crear artesanías intrincadas y desafiantes.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_10_20250901T060510200Z_76_imageprocessorclient-tvplus-linear-5db7c6bc99-2pksq.jpeg"/>
+  </programme>
+  <programme start="20260829023138 +0000" stop="20260829025630 +0000" channel="Ideas en 5 minutos Samsung TV">
+    <title>Cortar a tajos</title>
+    <sub-title>esenciales para la vida cotidiana</sub-title>
+    <desc>En este vídeo, compartiremos 10 trucos aleatorios esenciales para ayudarte a navegar por la vida cotidiana de forma más eficiente y creativa.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_13_20250901T060513749Z_105_imageprocessorclient-tvplus-linear-5db7c6bc99-fc88h.jpeg"/>
+  </programme>
+  <programme start="20260829025630 +0000" stop="20260829032004 +0000" channel="Ideas en 5 minutos Samsung TV">
+    <title>¡Diseños de zapatos extravagantes e Impresionantes que tienes que probar!</title>
+    <desc>¡Los zapatos más inusuales que sorprenderán a todos!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_1_20250901T060500814Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-sn6xc.jpeg"/>
   </programme>
   <programme start="20260827234324 +0000" stop="20260828000707 +0000" channel="Ideas en 5 minutos Plex">
     <title>Formas geniales de mostrar tu creatividad</title>
@@ -154853,16 +154871,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
 · Dirección: Javier Ruiz.
 · Reparto: Bertín Osborne.</desc>
 	</programme>
-  <programme start="20260828191700 +0000" stop="20260828201200 +0000" channel="Love the planet">
-    <title>Mi Familia y las Galápagos</title>
-    <desc>Monty Halls y su familia regresan a Galápagos, colaboran con conservacionistas y descubren fauna única.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018745132_0_20260715T165244211Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
-  </programme>
-  <programme start="20260828201200 +0000" stop="20260828210800 +0000" channel="Love the planet">
-    <title>Mi Familia y las Galápagos</title>
-    <desc>Monty Halls y su familia regresan a Galápagos, colaboran con conservacionistas y descubren fauna única.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018745132_0_20260715T165244211Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
-  </programme>
   <programme start="20260828210800 +0000" stop="20260828220300 +0000" channel="Love the planet">
     <title>Mi Familia y las Galápagos</title>
     <desc>Monty Halls y su familia regresan a Galápagos, colaboran con conservacionistas y descubren fauna única.</desc>
@@ -154889,6 +154897,11 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018745132_0_20260715T165244211Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
   </programme>
   <programme start="20260829014400 +0000" stop="20260829023900 +0000" channel="Love the planet">
+    <title>Mi Familia y las Galápagos</title>
+    <desc>Monty Halls y su familia regresan a Galápagos, colaboran con conservacionistas y descubren fauna única.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018745132_0_20260715T165244211Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
+  </programme>
+  <programme start="20260829023900 +0000" stop="20260829033400 +0000" channel="Love the planet">
     <title>Mi Familia y las Galápagos</title>
     <desc>Monty Halls y su familia regresan a Galápagos, colaboran con conservacionistas y descubren fauna única.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018745132_0_20260715T165244211Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
@@ -155485,14 +155498,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <title>THE HIGHLIGHT REEL</title>
     <desc>· Relive the ultimate glamour! THE HIGHLIGHT REEL brings you the most unforgettable moments from luxury fashion events and red carpet extravaganzas. Catch every dazzling detail and celebrity look.</desc>
 	</programme>
-  <programme start="20260828173000 +0000" stop="20260828203000 +0000" channel="Xataka">
-    <title>Lo mejor de Especiales Parte 5</title>
-    <desc>‘Especiales' es el formato con vídeos únicos y variados para aprender y entretenerte con la tecnología</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1262474852_0_20251017T061612184Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme start="20260828203000 +0000" stop="20260828211500 +0000" channel="Xataka">
     <title>Entrevistas</title>
     <desc>Entrevistamos a las personalidades más importantes del mundo de la tecnología</desc>
@@ -155529,6 +155534,14 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
   </programme>
   <programme start="20260829013000 +0000" stop="20260829030000 +0000" channel="Xataka">
     <title>Lo mejor de Primeras impresiones Parte 7</title>
+    <desc>Nuestros expertos comparten sus primeras sensaciones después de usar un dispositivo</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1262474852_0_20251017T061612184Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260829030000 +0000" stop="20260829040000 +0000" channel="Xataka">
+    <title>Lo mejor de Primeras impresiones Parte 9</title>
     <desc>Nuestros expertos comparten sus primeras sensaciones después de usar un dispositivo</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1262474852_0_20251017T061612184Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.jpeg"/>
     <rating>
@@ -158981,22 +158994,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <category>Documentary</category>
     <category>Series</category>
   </programme>
-  <programme start="20260828200000 +0000" stop="20260828203000 +0000" channel="Weather Spy">
-    <title>Fight To Survive | Nightmare Canyon Pt. 1</title>
-    <desc>Justin and Jeremy Harris' weekend decent into a remote Utah canyon becomes a survival nightmare when Justin severely breaks his leg. As night fast approaches and temperatures drop below freezing, how will these two brothers survive?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_644133718_22_20250104T171910227Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-qf2ff.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260828203000 +0000" stop="20260828210000 +0000" channel="Weather Spy">
-    <title>Fight To Survive | Under the Desert Sun</title>
-    <desc>Ed Rosenthal set out for a short hike in Joshua Tree National Park, but in the heat of the day he became turned around and lost. His six-day ordeal of survival in blazing temperatures with no food or water is nothing short of miraculous.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_644133721_25_20250104T171859560Z_19_imageprocessorclient-tvplus-linear-5dc4fd45f6-qtwlw.jpeg"/>
-    <rating>
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20260828210000 +0000" stop="20260828213000 +0000" channel="Weather Spy">
     <title>Captured</title>
     <sub-title>Extreme Weather | Fire &amp; Water</sub-title>
@@ -159067,6 +159064,22 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
   <programme start="20260829020000 +0000" stop="20260829023000 +0000" channel="Weather Spy">
     <title>Angry Planet | Wild Water Two</title>
     <desc>One of the most exciting episodes of season one is “Wild Water” – our look at Great White Sharks, water-filled caves and high voltage marine action.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_546136636_2_20240816T123856229Z_73_imageprocessorclient-tvplus-linear-64ff86dd75-x7spf.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260829023000 +0000" stop="20260829030000 +0000" channel="Weather Spy">
+    <title>Angry Planet | Hurricanes '07</title>
+    <desc>We hope Season Two will give us the opportunity to make the quintessential Angry Planet show – a full episode exploring a major hurricane that makes landfall in Florida or the Carolinas.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_546136636_2_20240816T123856229Z_73_imageprocessorclient-tvplus-linear-64ff86dd75-x7spf.jpeg"/>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260829030000 +0000" stop="20260829033000 +0000" channel="Weather Spy">
+    <title>Angry Planet | Hot and Cold Crystals</title>
+    <desc>Miners in Chihauhau, Mexico, has just discovered an amazing sight. Deep in the earth, only 300 feet from a pocket of molten magma, is an amazing chamber filled with giant blue and pink crystals – some as big as 60 feet long! It is an extraordinary find – and one that is very difficult to witness, as temperatures run to 150 F, with 100% humidity. The Mexican authorities are only opening up the cavern to scientists and film crews – “Angry Planet” plans to be one of the first in!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_546136636_2_20240816T123856229Z_73_imageprocessorclient-tvplus-linear-64ff86dd75-x7spf.jpeg"/>
     <rating>
       <value>TV-PG</value>
@@ -164804,24 +164817,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
 · Descubre qué razas de perros son más nerviosas, asiáticas, blancas y negras, o se asemejan a lobos, osos, ovejas y leones.
 · País: España</desc>
 	</programme>
-  <programme start="20260828200009 +0000" stop="20260828203009 +0000" channel="The Pet Collective">
-    <title>The Animal Breakdown</title>
-    <sub-title>S1 E01</sub-title>
-    <desc>Are pig pens cleaner than your kitchen? And can you see better than a cow? We're down on the farm finding out!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1146764996_0_20250823T202443949Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-wwvrl.png"/>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260828203009 +0000" stop="20260828210010 +0000" channel="The Pet Collective">
-    <title>The Animal Breakdown</title>
-    <sub-title>S1 E05</sub-title>
-    <desc>Adorable pets or tiny terrors? Find out which rodents belong in your house and which will totally trash it.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1251327584_0_20251011T203004003Z_70_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.jpeg"/>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
   <programme start="20260828210010 +0000" stop="20260828213010 +0000" channel="The Pet Collective">
     <title>Judgy Cat</title>
     <sub-title>S1 E05</sub-title>
@@ -164921,22 +164916,22 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20260828194452 +0000" stop="20260828201507 +0000" channel="Just For Laughs">
-    <title>Just for Laughs Gags</title>
-    <sub-title>S9 E07</sub-title>
-    <desc>You will laugh out loud watching Just for Laughs Gags. This episode features pranks like a reanimated mannequin, an allergic fortune teller, a bad little dog, and many more hilarious pranks from the masters of pranking!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1394777433_0_20251130T221605288Z_62_imageprocessorclient-tvplus-linear-85d7d49859-drfrv.png"/>
+  <programme start="20260829023013 +0000" stop="20260829030013 +0000" channel="The Pet Collective">
+    <title>The Pet Collective</title>
+    <sub-title>Presents: Dog Day of Summer</sub-title>
+    <desc>Stick your paws in the pool and soak in the sun for some special dog days of summer fun! (S1 E01)</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_495851905_0_20240618T163622198Z_65.jpeg"/>
     <rating>
-      <value>13</value>
+      <value>10</value>
     </rating>
   </programme>
-  <programme start="20260828201507 +0000" stop="20260828204300 +0000" channel="Just For Laughs">
-    <title>Just for Laughs Gags</title>
-    <sub-title>S0 E10</sub-title>
-    <desc>Prepare for tears of laughter with this episode! A policeman hides a dog's poo under his hat, a soldier gets cheated on as he deploys and a remote-controlled golf kart goes through a media scrum!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1801471025_0_20260424T231809575Z_32_imageprocessorclient-tvplus-linear-74d4c47476-jm7vg.jpeg"/>
+  <programme start="20260829030013 +0000" stop="20260829033014 +0000" channel="The Pet Collective">
+    <title>The Pet Collective</title>
+    <sub-title>World Pup</sub-title>
+    <desc>Hitting the goals in World Pup - cute chaos, big plays, and tail wagging action! Come Watch!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1898526162_0_20260601T221038637Z_95_imageprocessorclient-tvplus-linear-66fc4d58c8-k99g4.png"/>
     <rating>
-      <value>13</value>
+      <value>10</value>
     </rating>
   </programme>
   <programme start="20260828204300 +0000" stop="20260828211300 +0000" channel="Just For Laughs">
@@ -165043,6 +165038,24 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <sub-title>S11 E08</sub-title>
     <desc>Candid camera pranks Just for Laughs Gags.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1377619334_0_20251125T214535328Z_68_imageprocessorclient-tvplus-linear-85d7d49859-9bnxw.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260829023933 +0000" stop="20260829030933 +0000" channel="Just For Laughs">
+    <title>Just for Laughs Gags</title>
+    <sub-title>S14 E04</sub-title>
+    <desc>Candid Camera Just for Laughs Gags</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_488130082_0_20240130T162347560Z_93.png"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260829030933 +0000" stop="20260829033948 +0000" channel="Just For Laughs">
+    <title>Just for Laughs Gags</title>
+    <sub-title>S13 E06</sub-title>
+    <desc>Candid Camera Just for Laughs Gags</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_511900655_0_20241118T220219180Z_121_imageprocessorclient-tvplus-linear-7cd5d896cc-ns8n5.png"/>
     <rating>
       <value>13</value>
     </rating>
@@ -166263,24 +166276,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <category>Fails &amp; Pranks</category>
     <category>Series</category>
   </programme>
-  <programme start="20260828200006 +0000" stop="20260828203006 +0000" channel="People Are Awesome">
-    <title>Dance Floor Shorts</title>
-    <sub-title>S1 E05</sub-title>
-    <desc>These amazing performers do it big, do it right, and do it with style.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_555878796_0_20250104T203539315Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-w2hbq.jpeg"/>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20260828203006 +0000" stop="20260828210007 +0000" channel="People Are Awesome">
-    <title>Dance Floor Shorts</title>
-    <sub-title>S1 E06</sub-title>
-    <desc>These performers take advantage of various elements of nature for their act</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_555874369_0_20250104T203539315Z_126_imageprocessorclient-tvplus-linear-7cd5d896cc-w2hbq.jpeg"/>
-    <rating>
-      <value>10</value>
-    </rating>
-  </programme>
   <programme start="20260828210007 +0000" stop="20260828213007 +0000" channel="People Are Awesome">
     <title>The E/O</title>
     <sub-title>S1 E01</sub-title>
@@ -166376,6 +166371,24 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <sub-title>S1 E10</sub-title>
     <desc>Lacrosse Larry takes aim while Backflip Ben does what he does best!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_509826043_3_20241029T235925875Z_133_imageprocessorclient-tvplus-linear-7cd5d896cc-96cz9.jpeg"/>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20260829023012 +0000" stop="20260829030013 +0000" channel="People Are Awesome">
+    <title>Team:Curious</title>
+    <sub-title>S1 E11</sub-title>
+    <desc>Potty Mouth gets flushed and High Bar sets one.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_509826044_7_20241029T235921841Z_25_imageprocessorclient-tvplus-linear-7cd5d896cc-d9cj5.jpeg"/>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20260829030013 +0000" stop="20260829033014 +0000" channel="People Are Awesome">
+    <title>Team:Curious</title>
+    <sub-title>S1 E12</sub-title>
+    <desc>Brickbreaker does his thing, while Chairy needs to sit down.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_509826047_7_20241029T235926841Z_95_imageprocessorclient-tvplus-linear-7cd5d896cc-d9cj5.jpeg"/>
     <rating>
       <value>10</value>
     </rating>
@@ -168191,6 +168204,14 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <title>La abeja Maya. La película</title>
     <desc>La curiosa abeja Maya y su amigo Willy salvarán a la colmena de la avaricia del consejero de la reina y pondrán fin a años de hostilidad entre abejas y avispas. Maya es una abeja recién nacida muy vivaracha que no sigue las reglas de la colmena, entre ellas la de no confiar en las avispas que viven más allá de la pradera. Cuando desaparece la jalea real, las avispas son las principales sospechosas y las abejas señalan a Maya como cómplice del robo. Ninguna de sus compañeras cree en su inocencia y Willy, su mejor amigo, será su único apoyo. Juntos se embarcarán en un largo viaje lleno de aventuras hasta la colmena de las avispas para encontrar al verdadero culpable. Gracias a Maya y Willy por fin reinará la amistad entre todos los residentes de la opulenta pradera.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829918731_33_20260506T114732642Z_127_imageprocessorclient-tvplus-linear-74d4c47476-bbmsk.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260829022632 +0000" stop="20260829042917 +0000" channel="Planeta de Cine">
+    <title>El proyecto Colibrí</title>
+    <desc>Dos primos intentan hacerse millonarios mediante la construcción de un cable de fibra óptica entre Kansas y Nueva Jersey, mientras su antigua jefa intenta evitar que lo consigan</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1984738776_0_20260703T154036482Z_84_imageprocessorclient-tvplus-linear-66fc4d58c8-k99g4.jpeg"/>
     <rating>
       <value>NA</value>
     </rating>
@@ -179091,14 +179112,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <title>Anna</title>
     <desc>A man with the ability to enter people's memories takes on the case of a brilliant, troubled sixteen-year-old girl to determine whether she is a sociopath or a victim of trauma.</desc>
   </programme>
-  <programme start="20260828185641 +0000" stop="20260828202249 +0000" channel="Bjgtjme">
-    <title>Condenados al infierno</title>
-    <desc>Tras una noche de excesos en la que muere una pareja, cuatro jóvenes cargan con la culpa. Años después, los persiguen tanto sus remordimientos como un siniestro danzante que parece conocer su secreto y busca venganza. Un thriller oscuro donde pasado y castigo se entrelazan.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1227604204_0_20250930T211233233Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-8fmg9.jpeg"/>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
   <programme start="20260828202249 +0000" stop="20260828220017 +0000" channel="Bjgtjme">
     <title>El Experimento del Terror</title>
     <desc>Un terrorista detona una explosión en un edificio federal y libera gas tóxico. Su objetivo es exponer un arma secreta: un virus de guerra biológica que ataca el sistema suprarrenal y vuelve a las personas violentamente incontrolables.</desc>
@@ -179159,6 +179172,14 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <title>Sangre en la pradera</title>
     <desc>Basada en la novela de Friedrich Gerstäcker, la película, ambientada íntegramente en el estado de Arkansas, cuenta el conflicto de intereses entre los habitantes de la ciudad y los colonos de las tierras circundantes, los mineros que llegaron durante la fiebre del oro, los vaqueros y los ladrones de ganado que causan problemas en la zona, y las tribus nativas de la región.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_509826486_9_20241029T235924419Z_89_imageprocessorclient-tvplus-linear-7cd5d896cc-g6qbr.jpeg"/>
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260829024633 +0000" stop="20260829053002 +0000" channel="Grjngo">
+    <title>Recopilación Bonanza Episodios 37, 38, 39</title>
+    <desc>Las aventuras del Salvaje Oeste de Ben Cartwright y sus hijos mientras dirigen y defienden su rancho de Nevada al tiempo que ayudan a la comunidad de los alrededores.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_509826494_2_20241029T235922994Z_68_imageprocessorclient-tvplus-linear-7cd5d896cc-w2hbq.jpeg"/>
     <rating>
       <value>16</value>
     </rating>
@@ -190390,22 +190411,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <category>Children</category>
     <category>Series</category>
   </programme>
-  <programme start="20260828193654 +0000" stop="20260828203357 +0000" channel="La Abeja Maya">
-    <title>Maya 3D E113-116</title>
-    <desc>To Xi Kant | Por el amor de Max | El efecto mariposa | La mala suerte de Willy</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829975673_17_20260506T114727415Z_25_imageprocessorclient-tvplus-linear-74d4c47476-dxq8g.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme start="20260828203357 +0000" stop="20260828210056 +0000" channel="La Abeja Maya">
-    <title>La abeja Maya</title>
-    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829954664_31_20260506T114732480Z_119_imageprocessorclient-tvplus-linear-74d4c47476-kn8dq.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme start="20260828210056 +0000" stop="20260828212759 +0000" channel="La Abeja Maya">
     <title>La abeja Maya</title>
     <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
@@ -190474,6 +190479,22 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <title>La abeja Maya</title>
     <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829925373_27_20260506T114727940Z_62_imageprocessorclient-tvplus-linear-74d4c47476-4vvfw.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260829022738 +0000" stop="20260829025427 +0000" channel="La Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829963996_15_20260506T114729798Z_71_imageprocessorclient-tvplus-linear-74d4c47476-kvnbl.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260829025427 +0000" stop="20260829032314 +0000" channel="La Abeja Maya">
+    <title>Maya 3D E129-130</title>
+    <desc>Fobia | Maya, no te vayas</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829975805_34_20260506T114729563Z_1_imageprocessorclient-tvplus-linear-74d4c47476-j6nv5.jpeg"/>
     <rating>
       <value>NA</value>
     </rating>
@@ -200485,14 +200506,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <category>Action</category>
     <category>Adventure</category>
   </programme>
-  <programme start="20260828193000 +0000" stop="20260828210000 +0000" channel="Águila Roja (Samsung TV)">
-    <title>Águila Roja</title>
-    <desc>Alonso descubre que su tía vive como indigente. Cae gravemente enfermo y Margarita le lleva a casa.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_665615631_0_20250224T084510313Z_37_imageprocessorclient-tvplus-linear-6fb5b47f79-zjknk.jpeg"/>
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme start="20260828210000 +0000" stop="20260828223000 +0000" channel="Águila Roja (Samsung TV)">
     <title>Águila Roja</title>
     <desc>En la búsqueda de los asesinos de su mujer, Águila Roja sigue la pista que les dio el Capitán Rodrigo.</desc>
@@ -200520,6 +200533,14 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
   <programme start="20260829011500 +0000" stop="20260829024500 +0000" channel="Águila Roja (Samsung TV)">
     <title>Águila Roja</title>
     <desc>Alonso descubre que su tía vive como indigente. Cae gravemente enfermo y Margarita le lleva a casa.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_665615631_0_20250224T084510313Z_37_imageprocessorclient-tvplus-linear-6fb5b47f79-zjknk.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260829024500 +0000" stop="20260829043000 +0000" channel="Águila Roja (Samsung TV)">
+    <title>Águila Roja</title>
+    <desc>En la búsqueda de los asesinos de su mujer, Águila Roja sigue la pista que les dio el Capitán Rodrigo.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_665615631_0_20250224T084510313Z_37_imageprocessorclient-tvplus-linear-6fb5b47f79-zjknk.jpeg"/>
     <rating>
       <value>NA</value>
@@ -201105,24 +201126,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
 		<icon src="https://img2.rtve.es/v/881061/vertical/?h=400" />
 		<category>SERIES</category>
 	</programme>
-  <programme start="20260828195841 +0000" stop="20260828201401 +0000" channel="RTVE Cuéntame cómo pasó (Samsung TV)">
-    <title>Cuéntame cómo pasó</title>
-    <sub-title>S09 E11</sub-title>
-    <desc>A pesar de que franco está en las últimas, el régimen todavía controla todo, incluso las conversaciones entre los parroquianos en el bar de tiñen. Los comentarios de miguel sobre que ha llevado a franco a un club de alterne han provocado su detención y le acusan de injurias contra la figura del caudillo. Y si miguel ha sido detenido por hablar más de la cuenta, Antonio teme que le pase lo mismo por tener a vector en casa. Les pide a mercedes que hable con Begoña para que Víctor se vaya cuanto antes. Toni espera ansioso la vuelta de juan del Sahara y Carlitos y gocete no acaban de reponerse después de la ajetreada noche que tuvieron en la iglesia con Rosario e Isabel.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_658415794_0_20250221T101602817Z_107_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg"/>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
-  <programme start="20260828201401 +0000" stop="20260828204142 +0000" channel="RTVE Cuéntame cómo pasó (Samsung TV)">
-    <title>Cuéntame cómo pasó</title>
-    <sub-title>S09 E12</sub-title>
-    <desc>Los Alcántara viven pendientes de las noticias. Todos son conscientes de que el final de franco está cerca y parece que están más inquietos de lo habitual  sobre todo Antonio que no se quita de la cabeza los testamentos. Mercedes desconoce las preocupaciones de Antonio con la imprenta, porque a ella lo único que le preocupa ahora es que Víctor se vaya de casa cuanto antes. Carlitos, por su parte, teme tener que ir otra vez a confesarse después de la ajetreada noche que tuvieron Josete y el con rosario e Isabel. Tony continua al pie del cañón para no perderse la última hora del caudillo.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_658452726_0_20250221T101613143Z_102_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg"/>
-    <rating>
-      <value>15</value>
-    </rating>
-  </programme>
   <programme start="20260828204142 +0000" stop="20260828211213 +0000" channel="RTVE Cuéntame cómo pasó (Samsung TV)">
     <title>Cuéntame cómo pasó</title>
     <sub-title>S09 E12</sub-title>
@@ -201236,6 +201239,24 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <sub-title>S09 E16</sub-title>
     <desc>Llega la navidad y el ambiente festivo se nota en las calles. Las primeras navidades sin franco llegan con algunas novedades, como el árbol que por primera vez se instala en san Genaro. En el terreno político las trasformaciones van lentas. Se organiza la primera gran manifestación tras la muerte de franco. Carlitos, al enterarse de que Karina y azucena van a la manifestación, decide ir con Luis y Josete, aunque los tres están pensando más en otras cosas. El matrimonio Alcántara afronta unido el primer acto de rebeldía contra la situación politica existente en el país y están muy ilusionados con la llegada de su nieto.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_658406061_0_20250221T101603041Z_97_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg"/>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20260829022717 +0000" stop="20260829024416 +0000" channel="RTVE Cuéntame cómo pasó (Samsung TV)">
+    <title>Cuéntame cómo pasó</title>
+    <sub-title>S09 E16</sub-title>
+    <desc>Llega la navidad y el ambiente festivo se nota en las calles. Las primeras navidades sin franco llegan con algunas novedades, como el árbol que por primera vez se instala en san Genaro. En el terreno político las trasformaciones van lentas. Se organiza la primera gran manifestación tras la muerte de franco. Carlitos, al enterarse de que Karina y azucena van a la manifestación, decide ir con Luis y Josete, aunque los tres están pensando más en otras cosas. El matrimonio Alcántara afronta unido el primer acto de rebeldía contra la situación politica existente en el país y están muy ilusionados con la llegada de su nieto.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_658406061_0_20250221T101603041Z_97_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg"/>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20260829024416 +0000" stop="20260829031149 +0000" channel="RTVE Cuéntame cómo pasó (Samsung TV)">
+    <title>Cuéntame cómo pasó</title>
+    <sub-title>S09 E17</sub-title>
+    <desc>Programa especial. Capitulo que muestra las adaptaciones que se han hecho de la serie en otros países, incidiendo en Portugal e Italia. El programa hace un recorrido, junto con los actores Imanol arias y Ana dato, que viajan a Italia, y Ana arias y juan echa nove, desde Lisboa, por los escenarios que dan vida a la serie en el extranjero.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_658415796_0_20250221T101602818Z_95_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg"/>
     <rating>
       <value>15</value>
     </rating>
@@ -201702,11 +201723,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
 		<icon src="https://img2.rtve.es/v/16442951/vertical/?h=400" />
 		<category>SERIES</category>
 	</programme>
-  <programme start="20260828200036 +0000" stop="20260828210541 +0000" channel="RTVE La Promesa (Samsung TV)">
-    <title>Episodio 510</title>
-    <desc>Jana y Manuel se casan de nuevo, en una boda más íntima que la anterior.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1683749603_0_20260309T072132874Z_52_imageprocessorclient-tvplus-linear-85d7d49859-rzp2j.jpeg"/>
-  </programme>
   <programme start="20260828210541 +0000" stop="20260828220621 +0000" channel="RTVE La Promesa (Samsung TV)">
     <title>Episodio 511</title>
     <desc>Jana revela a Manuel que va a ser padre.</desc>
@@ -201732,10 +201748,10 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <desc>Jana y Manuel se casan de nuevo, en una boda más íntima que la anterior.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1683749603_0_20260309T072132874Z_52_imageprocessorclient-tvplus-linear-85d7d49859-rzp2j.jpeg"/>
   </programme>
-  <programme start="20260828195954 +0000" stop="20260828205847 +0000" channel="RTVE La Moderna (Samsung TV)">
-    <title>Episodio 231</title>
-    <desc>Don Fermín informa a Íñigo sobre su estrategia para que Bárbara venda la galería a Emiliano. Doña Lázara tiene plena libertad para organizar su boda.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1729375996_0_20260327T065812094Z_95_imageprocessorclient-tvplus-linear-74d4c47476-nxktg.jpeg"/>
+  <programme start="20260829022553 +0000" stop="20260829040000 +0000" channel="RTVE La Promesa (Samsung TV)">
+    <title>Episodio 511</title>
+    <desc>Jana revela a Manuel que va a ser padre.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1683779767_0_20260309T072132874Z_116_imageprocessorclient-tvplus-linear-85d7d49859-rzp2j.jpeg"/>
   </programme>
   <programme start="20260828205847 +0000" stop="20260828215925 +0000" channel="RTVE La Moderna (Samsung TV)">
     <title>Episodio 232</title>
@@ -202383,11 +202399,6 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
 		<desc>Javier Peña se desplaza hoy hasta Laguna de Duero, en la provincia de Valladolid donde conocerá de cerca el cómo se cultiva el guisante. Junto a Tamara Falcó elaborará dos deliciosas recetas: Ensaladilla de guisantes en aguacate y Nube de guisantes. Invitada: la diseñadora Agatha Ruiz de la Prada. Ágatha Ruiz de la Prada,Ana Guerra,Begoña Fraire,Blanca Padilla,Cecilia Gómez,Cristina Figueira,Javier García Peña,José Mota,María Gómez García,Miriam Diaz Aroca,Natalia de Molina,Rocío Muñoz,Santi Rodríguez,Soraya Arnelas,Tamara Falcó.</desc>
 		<icon src="https://img2.rtve.es/v/5620261/vertical/?h=400" />
 	</programme>
-  <programme start="20260828195756 +0000" stop="20260828205721 +0000" channel="RTVE Cocina (Samsung TV)">
-    <title>Garum</title>
-    <desc>Peña se desplaza hoy hasta Bolonia, en la provincia de Cádiz, para mostrar la elaboración del Garum, en el conjunto arqueológico Baelo Claudia. Javier y Tamara elaboran Chipirones encebollados con salsa garum y Tortilla de patata con jamón ibérico y queso manchego. Invitada: Eloisa Peña.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1486567220_0_20251228T150711835Z_1_imageprocessorclient-tvplus-linear-85d7d49859-q5j9t.jpeg"/>
-  </programme>
   <programme start="20260828205721 +0000" stop="20260828215359 +0000" channel="RTVE Cocina (Samsung TV)">
     <title>Las cerezas de Sierra Nevada</title>
     <desc>Javier Peña se desplaza hasta Gü ejar en Sierra Nevada, provincia de Granada, para conseguir las cerezas de más altura de Andalucía. También hoy cocina junto a Tamara Falcó Magret de pato con cerezas y Ensalada de queso feta y sardinas. Invitada: la actriz Miriam Díaz Aroca.</desc>
@@ -202433,17 +202444,15 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <desc>Queso canario Flor de guía y Herreño.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_784724729_1_20250408T173952816Z_142_imageprocessorclient-tvplus-linear-6fb5b47f79-84mv4.jpeg"/>
   </programme>
-  <programme start="20260828191832 +0000" stop="20260828201241 +0000" channel="RTVE Saber y Ganar (Samsung TV)">
-    <title>Saber y ganar. Edición de fin de semana</title>
-    <sub-title>17/09/22</sub-title>
-    <desc>En la edición de Saber y Ganar Fin de Semana nuestros concursantes se enfrentan a preguntas de un sinfín de temas.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1564301589_0_20260121T063237877Z_73_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.jpeg"/>
+  <programme start="20260829022411 +0000" stop="20260829025746 +0000" channel="RTVE Cocina (Samsung TV)">
+    <title>Vinos Rías Baixas</title>
+    <desc>Vinos Rías Baixas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_784724729_1_20250408T173952816Z_142_imageprocessorclient-tvplus-linear-6fb5b47f79-84mv4.jpeg"/>
   </programme>
-  <programme start="20260828201241 +0000" stop="20260828210619 +0000" channel="RTVE Saber y Ganar (Samsung TV)">
-    <title>Saber y ganar. Edición de fin de semana</title>
-    <sub-title>18/09/22</sub-title>
-    <desc>En la edición de Saber y Ganar Fin de Semana tenemos una Última Llamada literaria con seis títulos de novelas que tienen un nombre de ave en su título.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1564414198_0_20260121T063237874Z_81_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.jpeg"/>
+  <programme start="20260829025746 +0000" stop="20260829040000 +0000" channel="RTVE Cocina (Samsung TV)">
+    <title>Queso denominación origen Cabrales</title>
+    <desc>El queso de Cabrales.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_784724729_1_20250408T173952816Z_142_imageprocessorclient-tvplus-linear-6fb5b47f79-84mv4.jpeg"/>
   </programme>
   <programme start="20260828210619 +0000" stop="20260828215658 +0000" channel="RTVE Saber y Ganar (Samsung TV)">
     <title>Saber y ganar</title>
@@ -202480,6 +202489,12 @@ Una vez que el éxito de Manolo Escobar estaba más que garantizado en las taqui
     <sub-title>24/09/22</sub-title>
     <desc>Jugamos con las palabras en nuestras pruebas habituales</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1564303891_0_20260121T063233862Z_149_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.jpeg"/>
+  </programme>
+  <programme start="20260829022330 +0000" stop="20260829040000 +0000" channel="RTVE Saber y Ganar (Samsung TV)">
+    <title>Saber y ganar. Edición de fin de semana</title>
+    <sub-title>25/09/22</sub-title>
+    <desc>Última Llamada protagonizada por seis personajes emblemáticos de la Revolución Francesa.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1564387802_0_20260121T063237876Z_108_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.jpeg"/>
   </programme>
 	<programme start="20260828003500 +0200" stop="20260828015600 +0200" channel="La Revuelta">
     <title>Ca7riel Y Paco Amoroso</title>
@@ -261840,703 +261855,703 @@ También abrimos las puertas del Aula de Flamenco. Tenemos cerca de 60 clases y 
   <programme start="20260831002500 +0700" stop="20260831022500 +0700" channel="SS.La.Liga.za">
     <title lang="en">LaLiga 26/27: Deportivo v Valencia</title>
   </programme>
-	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Premier League">
+	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 28/08 a las 21:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Premier League">
+	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 28/08 a las 21:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Premier League">
+	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 28/08 a las 21:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Premier League">
+	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 28/08 a las 21:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Premier League">
+	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 28/08 a las 21:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828200000 +0200" stop="20260828210000 +0200" channel="DAZN Premier League">
+	<programme start="20260828200000 +0200" stop="20260828210000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 28/08 a las 21:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="DAZN Premier League">
+	<programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Crystal Palace FC vs Manchester City FC</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260828230000 +0200" stop="20260829030000 +0200" channel="DAZN Premier League">
+	<programme start="20260828230000 +0200" stop="20260829030000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 29/08 a las 13:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829030000 +0200" stop="20260829070000 +0200" channel="DAZN Premier League">
+	<programme start="20260829030000 +0200" stop="20260829070000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 29/08 a las 13:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829070000 +0200" stop="20260829110000 +0200" channel="DAZN Premier League">
+	<programme start="20260829070000 +0200" stop="20260829110000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 29/08 a las 13:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829110000 +0200" stop="20260829133000 +0200" channel="DAZN Premier League">
+	<programme start="20260829110000 +0200" stop="20260829133000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 29/08 a las 13:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829133000 +0200" stop="20260829153000 +0200" channel="DAZN Premier League">
+	<programme start="20260829133000 +0200" stop="20260829153000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Liverpool FC vs Nottingham Forest</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260829153000 +0200" stop="20260829160000 +0200" channel="DAZN Premier League">
+	<programme start="20260829153000 +0200" stop="20260829160000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 29/08 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829160000 +0200" stop="20260829180000 +0200" channel="DAZN Premier League">
+	<programme start="20260829160000 +0200" stop="20260829180000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>AFC Bournemouth vs Everton FC</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260829180000 +0200" stop="20260829183000 +0200" channel="DAZN Premier League">
+	<programme start="20260829180000 +0200" stop="20260829183000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Premier League">
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Tottenham Hotspur FC vs Newcastle United FC</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Premier League">
+	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Premier League">
+	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Premier League">
+	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Premier League">
+	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830123000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League">
+	<programme start="20260830123000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League">
+	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Chelsea FC vs Brighton &amp; Hove Albion FC</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260830170000 +0200" stop="20260830173000 +0200" channel="DAZN Premier League">
+	<programme start="20260830170000 +0200" stop="20260830173000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 30/08 a las 17:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830173000 +0200" stop="20260830193000 +0200" channel="DAZN Premier League">
+	<programme start="20260830173000 +0200" stop="20260830193000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Manchester United FC vs Ipswich Town</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260830193000 +0200" stop="20260830233000 +0200" channel="DAZN Premier League">
+	<programme start="20260830193000 +0200" stop="20260830233000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 31/08 a las 21:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830233000 +0200" stop="20260831033000 +0200" channel="DAZN Premier League">
+	<programme start="20260830233000 +0200" stop="20260831033000 +0200" channel="DAZN Premier League | Eventos 1">
     <title>Próximo evento el 31/08 a las 21:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 29/08 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 29/08 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 29/08 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 29/08 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829160000 +0200" stop="20260829180000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260829160000 +0200" stop="20260829180000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Coventry City vs Hull City</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260829180000 +0200" stop="20260829220000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260829180000 +0200" stop="20260829220000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829220000 +0200" stop="20260830020000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260829220000 +0200" stop="20260830020000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830020000 +0200" stop="20260830060000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260830020000 +0200" stop="20260830060000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830060000 +0200" stop="20260830100000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260830060000 +0200" stop="20260830100000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830100000 +0200" stop="20260830140000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260830100000 +0200" stop="20260830140000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830140000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260830140000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Leeds United vs Brentford FC</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260830170000 +0200" stop="20260830210000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260830170000 +0200" stop="20260830210000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 05/09 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830210000 +0200" stop="20260831010000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260830210000 +0200" stop="20260831010000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 05/09 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260831010000 +0200" stop="20260831050000 +0200" channel="DAZN Premier League 2">
+	<programme start="20260831010000 +0200" stop="20260831050000 +0200" channel="DAZN Premier League | Eventos 2">
     <title>Próximo evento el 05/09 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830000000 +0200" stop="20260830040000 +0200" channel="DAZN Premier League 3">
+	<programme start="20260830000000 +0200" stop="20260830040000 +0200" channel="DAZN Premier League | Eventos 3">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830040000 +0200" stop="20260830080000 +0200" channel="DAZN Premier League 3">
+	<programme start="20260830040000 +0200" stop="20260830080000 +0200" channel="DAZN Premier League | Eventos 3">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830080000 +0200" stop="20260830120000 +0200" channel="DAZN Premier League 3">
+	<programme start="20260830080000 +0200" stop="20260830120000 +0200" channel="DAZN Premier League | Eventos 3">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830120000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League 3">
+	<programme start="20260830120000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League | Eventos 3">
     <title>Próximo evento el 30/08 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League 3">
+	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League | Eventos 3">
     <title>Sunderland AFC vs FC Fulham</title>
     <desc>· Premier League 26/27</desc>
 	</programme>
-	<programme start="20260830170000 +0200" stop="20260830210000 +0200" channel="DAZN Premier League 3">
+	<programme start="20260830170000 +0200" stop="20260830210000 +0200" channel="DAZN Premier League | Eventos 3">
     <title>Próximo evento el 05/09 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830210000 +0200" stop="20260831010000 +0200" channel="DAZN Premier League 3">
+	<programme start="20260830210000 +0200" stop="20260831010000 +0200" channel="DAZN Premier League | Eventos 3">
     <title>Próximo evento el 05/09 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260831010000 +0200" stop="20260831050000 +0200" channel="DAZN Premier League 3">
+	<programme start="20260831010000 +0200" stop="20260831050000 +0200" channel="DAZN Premier League | Eventos 3">
     <title>Próximo evento el 05/09 a las 16:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828200000 +0200" stop="20260828203000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260828200000 +0200" stop="20260828203000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828203000 +0200" stop="20260828223000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260828203000 +0200" stop="20260828223000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Bayern Múnich vs Stuttgart</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260828223000 +0200" stop="20260829023000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260828223000 +0200" stop="20260829023000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829023000 +0200" stop="20260829063000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260829023000 +0200" stop="20260829063000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829063000 +0200" stop="20260829103000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260829063000 +0200" stop="20260829103000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829103000 +0200" stop="20260829143000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260829103000 +0200" stop="20260829143000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829143000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260829143000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>1. FC Colonia vs TSG Hoffenheim</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260829173000 +0200" stop="20260829183000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260829173000 +0200" stop="20260829183000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Borussia Dortmund vs Hamburgo</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830123000 +0200" stop="20260830153000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260830123000 +0200" stop="20260830153000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 30/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830153000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260830153000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>SC Friburgo vs Werder Bremen</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260830173000 +0200" stop="20260830193000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260830173000 +0200" stop="20260830193000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>FC Augsburgo vs Schalke 04</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260830193000 +0200" stop="20260830233000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260830193000 +0200" stop="20260830233000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 04/09 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830233000 +0200" stop="20260831033000 +0200" channel="DAZN Bundesliga">
+	<programme start="20260830233000 +0200" stop="20260831033000 +0200" channel="DAZN Bundesliga | Eventos 1">
     <title>Próximo evento el 04/09 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>FSV Mainz vs SC Paderborn</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga 2">
+	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga | Eventos 2">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>RB Leipzig vs Borussia M´gladbach</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga 3">
+	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga | Eventos 3">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>SV 07 Elversberg vs Bayer Leverkusen</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga 4">
+	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga | Eventos 4">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 29/08 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Union Berlin vs Eintracht Frankfurt</title>
     <desc>· Bundesliga 26/27</desc>
 	</programme>
-	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga 5">
+	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga | Eventos 5">
     <title>Próximo evento el 05/09 a las 15:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Serie A">
+	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Serie A">
+	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Serie A">
+	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Serie A">
+	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Serie A">
+	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828200000 +0200" stop="20260828204500 +0200" channel="DAZN Serie A">
+	<programme start="20260828200000 +0200" stop="20260828204500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 28/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260828204500 +0200" stop="20260828224500 +0200" channel="DAZN Serie A">
+	<programme start="20260828204500 +0200" stop="20260828224500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>AC Milán vs Venecia</title>
     <desc>· Serie A 26/27</desc>
 	</programme>
-	<programme start="20260828224500 +0200" stop="20260829024500 +0200" channel="DAZN Serie A">
+	<programme start="20260828224500 +0200" stop="20260829024500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829024500 +0200" stop="20260829064500 +0200" channel="DAZN Serie A">
+	<programme start="20260829024500 +0200" stop="20260829064500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829064500 +0200" stop="20260829104500 +0200" channel="DAZN Serie A">
+	<programme start="20260829064500 +0200" stop="20260829104500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829104500 +0200" stop="20260829144500 +0200" channel="DAZN Serie A">
+	<programme start="20260829104500 +0200" stop="20260829144500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829144500 +0200" stop="20260829183000 +0200" channel="DAZN Serie A">
+	<programme start="20260829144500 +0200" stop="20260829183000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A">
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>AC Monza vs Udinese Calcio</title>
     <desc>· Serie A 26/27</desc>
 	</programme>
-	<programme start="20260829203000 +0200" stop="20260829204500 +0200" channel="DAZN Serie A">
+	<programme start="20260829203000 +0200" stop="20260829204500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 29/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829204500 +0200" stop="20260829224500 +0200" channel="DAZN Serie A">
+	<programme start="20260829204500 +0200" stop="20260829224500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Juventus Turín vs Parma Calcio</title>
     <desc>· Serie A 26/27</desc>
 	</programme>
-	<programme start="20260829224500 +0200" stop="20260830024500 +0200" channel="DAZN Serie A">
+	<programme start="20260829224500 +0200" stop="20260830024500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 30/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830024500 +0200" stop="20260830064500 +0200" channel="DAZN Serie A">
+	<programme start="20260830024500 +0200" stop="20260830064500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 30/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830064500 +0200" stop="20260830104500 +0200" channel="DAZN Serie A">
+	<programme start="20260830064500 +0200" stop="20260830104500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 30/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830104500 +0200" stop="20260830144500 +0200" channel="DAZN Serie A">
+	<programme start="20260830104500 +0200" stop="20260830144500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 30/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830144500 +0200" stop="20260830183000 +0200" channel="DAZN Serie A">
+	<programme start="20260830144500 +0200" stop="20260830183000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 30/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830183000 +0200" stop="20260830203000 +0200" channel="DAZN Serie A">
+	<programme start="20260830183000 +0200" stop="20260830203000 +0200" channel="DAZN Serie A | Eventos 1">
     <title>SSC Nápoles vs Como 1907</title>
     <desc>· Serie A 26/27</desc>
 	</programme>
-	<programme start="20260830203000 +0200" stop="20260830204500 +0200" channel="DAZN Serie A">
+	<programme start="20260830203000 +0200" stop="20260830204500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 30/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830204500 +0200" stop="20260830224500 +0200" channel="DAZN Serie A">
+	<programme start="20260830204500 +0200" stop="20260830224500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Cagliari Calcio vs Inter Milán</title>
     <desc>· Serie A 26/27</desc>
 	</programme>
-	<programme start="20260830224500 +0200" stop="20260831024500 +0200" channel="DAZN Serie A">
+	<programme start="20260830224500 +0200" stop="20260831024500 +0200" channel="DAZN Serie A | Eventos 1">
     <title>Próximo evento el 31/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829160000 +0200" stop="20260829183000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260829160000 +0200" stop="20260829183000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>ACF Fiorentina vs Frosinone Calcio</title>
     <desc>· Serie A 26/27</desc>
 	</programme>
-	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 30/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 30/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 30/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 30/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830123000 +0200" stop="20260830163000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260830123000 +0200" stop="20260830163000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 30/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830163000 +0200" stop="20260830203000 +0200" channel="DAZN Serie A 2">
+	<programme start="20260830163000 +0200" stop="20260830203000 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 30/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830203000 +0200" stop="20260830204500 +0200" channel="DAZN Serie A 2">
+	<programme start="20260830203000 +0200" stop="20260830204500 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 30/08 a las 20:45</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260830204500 +0200" stop="20260830224500 +0200" channel="DAZN Serie A 2">
+	<programme start="20260830204500 +0200" stop="20260830224500 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Lazio Roma vs Génova CFC</title>
     <desc>· Serie A 26/27</desc>
 	</programme>
-	<programme start="20260830224500 +0200" stop="20260831024500 +0200" channel="DAZN Serie A 2">
+	<programme start="20260830224500 +0200" stop="20260831024500 +0200" channel="DAZN Serie A 2 | Eventos 2">
     <title>Próximo evento el 06/09 a las 15:00</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Serie A 3">
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Serie A 3 | Eventos 3">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Serie A 3">
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Serie A 3 | Eventos 3">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Serie A 3">
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Serie A 3 | Eventos 3">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Serie A 3">
+	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Serie A 3 | Eventos 3">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829160000 +0200" stop="20260829183000 +0200" channel="DAZN Serie A 3">
+	<programme start="20260829160000 +0200" stop="20260829183000 +0200" channel="DAZN Serie A 3 | Eventos 3">
     <title>Próximo evento el 29/08 a las 18:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
-	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A 3">
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A 3 | Eventos 3">
     <title>Sassuolo vs Torino FC</title>
     <desc>· Serie A 26/27</desc>
 	</programme>
-	<programme start="20260829203000 +0200" stop="20260829235959 +0200" channel="DAZN Serie A 3">
+	<programme start="20260829203000 +0200" stop="20260829235959 +0200" channel="DAZN Serie A 3 | Eventos 3">
     <title>Próximo evento el 29/08 a las 20:30</title>
     <desc>· Espacio reservado hasta el siguiente evento</desc>
 	</programme>
@@ -265299,6 +265314,939 @@ También abrimos las puertas del Aula de Flamenco. Tenemos cerca de 60 clases y 
     <category>Sports</category>
     <category>Series</category>
   </programme>
+  <programme start="20260828200000 +0000" stop="20260828210000 +0000" channel="CNN en Español">
+    <title>Deportes CNN (60m)</title>
+    <desc>Conducido desde Miami y Argentina, Deportes CNN cubre toda la acción del mundo de deportes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1966295818_0_20260627T070400017Z_125_imageprocessorclient-tvplus-linear-66fc4d58c8-2qxb4.png"/>
+  </programme>
+  <programme start="20260828192500 +0000" stop="20260828202900 +0000" channel="CLIPS dont lie">
+    <title>K-POP SUPERSTARS</title>
+    <desc>La energía idol que te envuelve y te deja queriendo repetir</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1477571396_0_20251226T090838551Z_142_imageprocessorclient-tvplus-linear-85d7d49859-b9h9w.jpeg"/>
+  </programme>
+  <programme start="20260828200000 +0000" stop="20260828210000 +0000" channel="Vevo Latino">
+    <title>Hora del Jangueo</title>
+    <desc>Los mejores vídeos para disfrutar bailando al beat del mejor reggaetón.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1090785153_1_20250728T064259115Z_130_imageprocessorclient-tvplus-linear-5db7c6bc99-87j56.png"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260828200000 +0000" stop="20260828210000 +0000" channel="Vevo Retro">
+    <title>Éxitos Latinos</title>
+    <desc>Los mejores hits del otro lado del charco.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1013390851_0_20250627T181424481Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-4h9xv.png"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260828150000 +0000" stop="20260828210000 +0000" channel="Thats 90s00s">
+    <title>NOW 100 Hits: 00s Love Songs</title>
+    <desc>Simon Bates with the ultimate countdown of 00s love songs - heartfelt vocals, lush strings &amp; big breakdowns in an 8 hour marathon! Expect Take That, Dido, Leona &amp; Michael Buble.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IN_USQO570425A_1918557043_3_20250909T143202824Z_60_imageprocessorclient-tvplus-linear-d7c8c765b-9v8zx.png"/>
+  </programme>
+  <programme start="20260828195028 +0000" stop="20260828202312 +0000" channel="¡Hola! Play">
+    <title>Royals</title>
+    <sub-title>S2:E3 Episodio 3: Felipe VI</sub-title>
+    <desc>S2:E3 Episodio 3: Felipe VI - Excepcional documental que retrata la vida de Su Majestad el Rey, Don Felipe de Borbón y Grecia.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_512219140_0_20241121T032127658Z_80_imageprocessorclient-tvplus-linear-7cd5d896cc-d4vtb.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260828202312 +0000" stop="20260828203938 +0000" channel="¡Hola! Play">
+    <title>Royals</title>
+    <sub-title>Los Borbones: Episodios 6-7</sub-title>
+    <desc>Royals - Los Borbones: Infanta Cristina - Victoria de Marichalar</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_2129154305_0_20260823T072937004Z_106_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260828203938 +0000" stop="20260828210434 +0000" channel="¡Hola! Play">
+    <title>Royals</title>
+    <sub-title>S8:E3 Fabiola de Bélgica</sub-title>
+    <desc>S8:E3 Fabiola de Bélgica - Fabiola de Mora y Aragón pertenecía a una de las familias de la nobleza española más monárquicas y leales a Alfonso XIII de su época.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_DEQY451056A_513988367_0_20241206T023714140Z_26_imageprocessorclient-tvplus-linear-7cd5d896cc-dxhcw.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260828200615 +0000" stop="20260828202754 +0000" channel="Ideas en 5 minutos Samsung TV">
+    <title>Trucos fascinantes y experimentos fascinantes</title>
+    <desc>Experimente la maravilla y el asombro de trucos cautivadores y experimentos alucinantes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_10_20250901T060510199Z_67_imageprocessorclient-tvplus-linear-5db7c6bc99-2pksq.jpeg"/>
+  </programme>
+  <programme start="20260828202754 +0000" stop="20260828205253 +0000" channel="Ideas en 5 minutos Samsung TV">
+    <title>Guía para diseñar ropa y zapatos únicos</title>
+    <desc>En este vídeo, aprenderás paso a paso técnicas y consejos para diseñar tu propia ropa y calzado únicos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_IMAGE_0_20250901T060500438Z_20_imageprocessorclient-tvplus-linear-5db7c6bc99-22gf2.jpeg"/>
+  </programme>
+  <programme start="20260828191700 +0000" stop="20260828201200 +0000" channel="Love the planet">
+    <title>Mi Familia y las Galápagos</title>
+    <desc>Monty Halls y su familia regresan a Galápagos, colaboran con conservacionistas y descubren fauna única.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018745132_0_20260715T165244211Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
+  </programme>
+  <programme start="20260828201200 +0000" stop="20260828210800 +0000" channel="Love the planet">
+    <title>Mi Familia y las Galápagos</title>
+    <desc>Monty Halls y su familia regresan a Galápagos, colaboran con conservacionistas y descubren fauna única.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_2018745132_0_20260715T165244211Z_107_imageprocessorclient-tvplus-linear-66fc4d58c8-9l6ph.jpeg"/>
+  </programme>
+  <programme start="20260828173000 +0000" stop="20260828203000 +0000" channel="Xataka">
+    <title>Lo mejor de Especiales Parte 5</title>
+    <desc>‘Especiales' es el formato con vídeos únicos y variados para aprender y entretenerte con la tecnología</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1262474852_0_20251017T061612184Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-vgnfm.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260828200000 +0000" stop="20260828203000 +0000" channel="Weather Spy">
+    <title>Fight To Survive | Nightmare Canyon Pt. 1</title>
+    <desc>Justin and Jeremy Harris' weekend decent into a remote Utah canyon becomes a survival nightmare when Justin severely breaks his leg. As night fast approaches and temperatures drop below freezing, how will these two brothers survive?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_644133718_22_20250104T171910227Z_34_imageprocessorclient-tvplus-linear-5dc4fd45f6-qf2ff.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260828203000 +0000" stop="20260828210000 +0000" channel="Weather Spy">
+    <title>Fight To Survive | Under the Desert Sun</title>
+    <desc>Ed Rosenthal set out for a short hike in Joshua Tree National Park, but in the heat of the day he became turned around and lost. His six-day ordeal of survival in blazing temperatures with no food or water is nothing short of miraculous.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_644133721_25_20250104T171859560Z_19_imageprocessorclient-tvplus-linear-5dc4fd45f6-qtwlw.jpeg"/>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20260828200009 +0000" stop="20260828203009 +0000" channel="The Pet Collective">
+    <title>The Animal Breakdown</title>
+    <sub-title>S1 E01</sub-title>
+    <desc>Are pig pens cleaner than your kitchen? And can you see better than a cow? We're down on the farm finding out!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1146764996_0_20250823T202443949Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-wwvrl.png"/>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20260828203009 +0000" stop="20260828210010 +0000" channel="The Pet Collective">
+    <title>The Animal Breakdown</title>
+    <sub-title>S1 E05</sub-title>
+    <desc>Adorable pets or tiny terrors? Find out which rodents belong in your house and which will totally trash it.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1251327584_0_20251011T203004003Z_70_imageprocessorclient-tvplus-linear-5db7c6bc99-ljxfj.jpeg"/>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20260828194452 +0000" stop="20260828201507 +0000" channel="Just For Laughs">
+    <title>Just for Laughs Gags</title>
+    <sub-title>S9 E07</sub-title>
+    <desc>You will laugh out loud watching Just for Laughs Gags. This episode features pranks like a reanimated mannequin, an allergic fortune teller, a bad little dog, and many more hilarious pranks from the masters of pranking!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1394777433_0_20251130T221605288Z_62_imageprocessorclient-tvplus-linear-85d7d49859-drfrv.png"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260828201507 +0000" stop="20260828204300 +0000" channel="Just For Laughs">
+    <title>Just for Laughs Gags</title>
+    <sub-title>S0 E10</sub-title>
+    <desc>Prepare for tears of laughter with this episode! A policeman hides a dog's poo under his hat, a soldier gets cheated on as he deploys and a remote-controlled golf kart goes through a media scrum!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1801471025_0_20260424T231809575Z_32_imageprocessorclient-tvplus-linear-74d4c47476-jm7vg.jpeg"/>
+    <rating>
+      <value>13</value>
+    </rating>
+  </programme>
+  <programme start="20260828200006 +0000" stop="20260828203006 +0000" channel="People Are Awesome">
+    <title>Dance Floor Shorts</title>
+    <sub-title>S1 E05</sub-title>
+    <desc>These amazing performers do it big, do it right, and do it with style.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_555878796_0_20250104T203539315Z_1_imageprocessorclient-tvplus-linear-7cd5d896cc-w2hbq.jpeg"/>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20260828203006 +0000" stop="20260828210007 +0000" channel="People Are Awesome">
+    <title>Dance Floor Shorts</title>
+    <sub-title>S1 E06</sub-title>
+    <desc>These performers take advantage of various elements of nature for their act</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_555874369_0_20250104T203539315Z_126_imageprocessorclient-tvplus-linear-7cd5d896cc-w2hbq.jpeg"/>
+    <rating>
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20260828185641 +0000" stop="20260828202249 +0000" channel="Bjgtjme">
+    <title>Condenados al infierno</title>
+    <desc>Tras una noche de excesos en la que muere una pareja, cuatro jóvenes cargan con la culpa. Años después, los persiguen tanto sus remordimientos como un siniestro danzante que parece conocer su secreto y busca venganza. Un thriller oscuro donde pasado y castigo se entrelazan.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQU352137A_1227604204_0_20250930T211233233Z_1_imageprocessorclient-tvplus-linear-5db7c6bc99-8fmg9.jpeg"/>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20260828193654 +0000" stop="20260828203357 +0000" channel="La Abeja Maya">
+    <title>Maya 3D E113-116</title>
+    <desc>To Xi Kant | Por el amor de Max | El efecto mariposa | La mala suerte de Willy</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829975673_17_20260506T114727415Z_25_imageprocessorclient-tvplus-linear-74d4c47476-dxq8g.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260828203357 +0000" stop="20260828210056 +0000" channel="La Abeja Maya">
+    <title>La abeja Maya</title>
+    <desc>La historia se centra en las aventuras de Maya, una joven abeja inquieta, aventurera y preguntona, así como de la forma que tiene de desenvolverse en un entorno plagado de todo tipo de insectos y demás bichitos. Maya es enviada por la abeja reina a buscar polen para su colmena. En esa tarea Maya, junto a su inseparable amigo Willi el zángano, descubre un mundo nuevo a su alrededor y entabla amistad con numerosas criaturas del bosque como el saltamontes Flip, la araña Tecla, la mosca Puck, el escarabajo Kurt o el ratón Alejandro. Es obvio, además, que no sólo se trata de una magnífica serie para los niños, sino que también tiene unos valores extraordinarios de libertad, fraternidad, paz y amistad que pueden y deben ser atendidos por muchos adultos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_1829954664_31_20260506T114732480Z_119_imageprocessorclient-tvplus-linear-74d4c47476-kn8dq.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260828193000 +0000" stop="20260828210000 +0000" channel="Águila Roja (Samsung TV)">
+    <title>Águila Roja</title>
+    <desc>Alonso descubre que su tía vive como indigente. Cae gravemente enfermo y Margarita le lleva a casa.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_665615631_0_20250224T084510313Z_37_imageprocessorclient-tvplus-linear-6fb5b47f79-zjknk.jpeg"/>
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme start="20260828195841 +0000" stop="20260828201401 +0000" channel="RTVE Cuéntame cómo pasó (Samsung TV)">
+    <title>Cuéntame cómo pasó</title>
+    <sub-title>S09 E11</sub-title>
+    <desc>A pesar de que franco está en las últimas, el régimen todavía controla todo, incluso las conversaciones entre los parroquianos en el bar de tiñen. Los comentarios de miguel sobre que ha llevado a franco a un club de alterne han provocado su detención y le acusan de injurias contra la figura del caudillo. Y si miguel ha sido detenido por hablar más de la cuenta, Antonio teme que le pase lo mismo por tener a vector en casa. Les pide a mercedes que hable con Begoña para que Víctor se vaya cuanto antes. Toni espera ansioso la vuelta de juan del Sahara y Carlitos y gocete no acaban de reponerse después de la ajetreada noche que tuvieron en la iglesia con Rosario e Isabel.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_658415794_0_20250221T101602817Z_107_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg"/>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20260828201401 +0000" stop="20260828204142 +0000" channel="RTVE Cuéntame cómo pasó (Samsung TV)">
+    <title>Cuéntame cómo pasó</title>
+    <sub-title>S09 E12</sub-title>
+    <desc>Los Alcántara viven pendientes de las noticias. Todos son conscientes de que el final de franco está cerca y parece que están más inquietos de lo habitual  sobre todo Antonio que no se quita de la cabeza los testamentos. Mercedes desconoce las preocupaciones de Antonio con la imprenta, porque a ella lo único que le preocupa ahora es que Víctor se vaya de casa cuanto antes. Carlitos, por su parte, teme tener que ir otra vez a confesarse después de la ajetreada noche que tuvieron Josete y el con rosario e Isabel. Tony continua al pie del cañón para no perderse la última hora del caudillo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_658452726_0_20250221T101613143Z_102_imageprocessorclient-tvplus-linear-6fb5b47f79-9tw54.jpeg"/>
+    <rating>
+      <value>15</value>
+    </rating>
+  </programme>
+  <programme start="20260828200036 +0000" stop="20260828210541 +0000" channel="RTVE La Promesa (Samsung TV)">
+    <title>Episodio 510</title>
+    <desc>Jana y Manuel se casan de nuevo, en una boda más íntima que la anterior.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1683749603_0_20260309T072132874Z_52_imageprocessorclient-tvplus-linear-85d7d49859-rzp2j.jpeg"/>
+  </programme>
+  <programme start="20260828195954 +0000" stop="20260828205847 +0000" channel="RTVE La Moderna (Samsung TV)">
+    <title>Episodio 231</title>
+    <desc>Don Fermín informa a Íñigo sobre su estrategia para que Bárbara venda la galería a Emiliano. Doña Lázara tiene plena libertad para organizar su boda.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1729375996_0_20260327T065812094Z_95_imageprocessorclient-tvplus-linear-74d4c47476-nxktg.jpeg"/>
+  </programme>
+  <programme start="20260828195756 +0000" stop="20260828205721 +0000" channel="RTVE Cocina (Samsung TV)">
+    <title>Garum</title>
+    <desc>Peña se desplaza hoy hasta Bolonia, en la provincia de Cádiz, para mostrar la elaboración del Garum, en el conjunto arqueológico Baelo Claudia. Javier y Tamara elaboran Chipirones encebollados con salsa garum y Tortilla de patata con jamón ibérico y queso manchego. Invitada: Eloisa Peña.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1486567220_0_20251228T150711835Z_1_imageprocessorclient-tvplus-linear-85d7d49859-q5j9t.jpeg"/>
+  </programme>
+  <programme start="20260828191832 +0000" stop="20260828201241 +0000" channel="RTVE Saber y Ganar (Samsung TV)">
+    <title>Saber y ganar. Edición de fin de semana</title>
+    <sub-title>17/09/22</sub-title>
+    <desc>En la edición de Saber y Ganar Fin de Semana nuestros concursantes se enfrentan a preguntas de un sinfín de temas.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1564301589_0_20260121T063237877Z_73_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.jpeg"/>
+  </programme>
+  <programme start="20260828201241 +0000" stop="20260828210619 +0000" channel="RTVE Saber y Ganar (Samsung TV)">
+    <title>Saber y ganar. Edición de fin de semana</title>
+    <sub-title>18/09/22</sub-title>
+    <desc>En la edición de Saber y Ganar Fin de Semana tenemos una Última Llamada literaria con seis títulos de novelas que tienen un nombre de ave en su título.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQO570425A_1564414198_0_20260121T063237874Z_81_imageprocessorclient-tvplus-linear-85d7d49859-2blcr.jpeg"/>
+  </programme>
+	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 28/08 a las 21:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 28/08 a las 21:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 28/08 a las 21:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 28/08 a las 21:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 28/08 a las 21:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828200000 +0200" stop="20260828210000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 28/08 a las 21:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="DAZN Premier League">
+    <title>Crystal Palace FC vs Manchester City FC</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260828230000 +0200" stop="20260829030000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 29/08 a las 13:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829030000 +0200" stop="20260829070000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 29/08 a las 13:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829070000 +0200" stop="20260829110000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 29/08 a las 13:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829110000 +0200" stop="20260829133000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 29/08 a las 13:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829133000 +0200" stop="20260829153000 +0200" channel="DAZN Premier League">
+    <title>Liverpool FC vs Nottingham Forest</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260829153000 +0200" stop="20260829160000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 29/08 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829160000 +0200" stop="20260829180000 +0200" channel="DAZN Premier League">
+    <title>AFC Bournemouth vs Everton FC</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260829180000 +0200" stop="20260829183000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Premier League">
+    <title>Tottenham Hotspur FC vs Newcastle United FC</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830123000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League">
+    <title>Chelsea FC vs Brighton &amp; Hove Albion FC</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260830170000 +0200" stop="20260830173000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 30/08 a las 17:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830173000 +0200" stop="20260830193000 +0200" channel="DAZN Premier League">
+    <title>Manchester United FC vs Ipswich Town</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260830193000 +0200" stop="20260830233000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 31/08 a las 21:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830233000 +0200" stop="20260831033000 +0200" channel="DAZN Premier League">
+    <title>Próximo evento el 31/08 a las 21:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 29/08 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 29/08 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 29/08 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 29/08 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829160000 +0200" stop="20260829180000 +0200" channel="DAZN Premier League 2">
+    <title>Coventry City vs Hull City</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260829180000 +0200" stop="20260829220000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829220000 +0200" stop="20260830020000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830020000 +0200" stop="20260830060000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830060000 +0200" stop="20260830100000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830100000 +0200" stop="20260830140000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830140000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League 2">
+    <title>Leeds United vs Brentford FC</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260830170000 +0200" stop="20260830210000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 05/09 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830210000 +0200" stop="20260831010000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 05/09 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260831010000 +0200" stop="20260831050000 +0200" channel="DAZN Premier League 2">
+    <title>Próximo evento el 05/09 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830000000 +0200" stop="20260830040000 +0200" channel="DAZN Premier League 3">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830040000 +0200" stop="20260830080000 +0200" channel="DAZN Premier League 3">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830080000 +0200" stop="20260830120000 +0200" channel="DAZN Premier League 3">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830120000 +0200" stop="20260830150000 +0200" channel="DAZN Premier League 3">
+    <title>Próximo evento el 30/08 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="DAZN Premier League 3">
+    <title>Sunderland AFC vs FC Fulham</title>
+    <desc>· Premier League 26/27</desc>
+	</programme>
+	<programme start="20260830170000 +0200" stop="20260830210000 +0200" channel="DAZN Premier League 3">
+    <title>Próximo evento el 05/09 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830210000 +0200" stop="20260831010000 +0200" channel="DAZN Premier League 3">
+    <title>Próximo evento el 05/09 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260831010000 +0200" stop="20260831050000 +0200" channel="DAZN Premier League 3">
+    <title>Próximo evento el 05/09 a las 16:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 28/08 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 28/08 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 28/08 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 28/08 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 28/08 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828200000 +0200" stop="20260828203000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 28/08 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828203000 +0200" stop="20260828223000 +0200" channel="DAZN Bundesliga">
+    <title>Bayern Múnich vs Stuttgart</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260828223000 +0200" stop="20260829023000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829023000 +0200" stop="20260829063000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829063000 +0200" stop="20260829103000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829103000 +0200" stop="20260829143000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829143000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga">
+    <title>1. FC Colonia vs TSG Hoffenheim</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260829173000 +0200" stop="20260829183000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Bundesliga">
+    <title>Borussia Dortmund vs Hamburgo</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 30/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 30/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 30/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 30/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830123000 +0200" stop="20260830153000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 30/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830153000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga">
+    <title>SC Friburgo vs Werder Bremen</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260830173000 +0200" stop="20260830193000 +0200" channel="DAZN Bundesliga">
+    <title>FC Augsburgo vs Schalke 04</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260830193000 +0200" stop="20260830233000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 04/09 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830233000 +0200" stop="20260831033000 +0200" channel="DAZN Bundesliga">
+    <title>Próximo evento el 04/09 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga 2">
+    <title>FSV Mainz vs SC Paderborn</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga 2">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga 3">
+    <title>RB Leipzig vs Borussia M´gladbach</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga 3">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga 4">
+    <title>SV 07 Elversberg vs Bayer Leverkusen</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga 4">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829120000 +0200" stop="20260829153000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 29/08 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829153000 +0200" stop="20260829173000 +0200" channel="DAZN Bundesliga 5">
+    <title>Union Berlin vs Eintracht Frankfurt</title>
+    <desc>· Bundesliga 26/27</desc>
+	</programme>
+	<programme start="20260829173000 +0200" stop="20260829213000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829213000 +0200" stop="20260830013000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830013000 +0200" stop="20260830053000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830053000 +0200" stop="20260830093000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830093000 +0200" stop="20260830133000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830133000 +0200" stop="20260830173000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830173000 +0200" stop="20260830213000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830213000 +0200" stop="20260831013000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260831013000 +0200" stop="20260831053000 +0200" channel="DAZN Bundesliga 5">
+    <title>Próximo evento el 05/09 a las 15:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 28/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828040000 +0200" stop="20260828080000 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 28/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828080000 +0200" stop="20260828120000 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 28/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828120000 +0200" stop="20260828160000 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 28/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828160000 +0200" stop="20260828200000 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 28/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828200000 +0200" stop="20260828204500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 28/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260828204500 +0200" stop="20260828224500 +0200" channel="DAZN Serie A">
+    <title>AC Milán vs Venecia</title>
+    <desc>· Serie A 26/27</desc>
+	</programme>
+	<programme start="20260828224500 +0200" stop="20260829024500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829024500 +0200" stop="20260829064500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829064500 +0200" stop="20260829104500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829104500 +0200" stop="20260829144500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829144500 +0200" stop="20260829183000 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A">
+    <title>AC Monza vs Udinese Calcio</title>
+    <desc>· Serie A 26/27</desc>
+	</programme>
+	<programme start="20260829203000 +0200" stop="20260829204500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 29/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829204500 +0200" stop="20260829224500 +0200" channel="DAZN Serie A">
+    <title>Juventus Turín vs Parma Calcio</title>
+    <desc>· Serie A 26/27</desc>
+	</programme>
+	<programme start="20260829224500 +0200" stop="20260830024500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 30/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830024500 +0200" stop="20260830064500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 30/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830064500 +0200" stop="20260830104500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 30/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830104500 +0200" stop="20260830144500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 30/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830144500 +0200" stop="20260830183000 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 30/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830183000 +0200" stop="20260830203000 +0200" channel="DAZN Serie A">
+    <title>SSC Nápoles vs Como 1907</title>
+    <desc>· Serie A 26/27</desc>
+	</programme>
+	<programme start="20260830203000 +0200" stop="20260830204500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 30/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830204500 +0200" stop="20260830224500 +0200" channel="DAZN Serie A">
+    <title>Cagliari Calcio vs Inter Milán</title>
+    <desc>· Serie A 26/27</desc>
+	</programme>
+	<programme start="20260830224500 +0200" stop="20260831024500 +0200" channel="DAZN Serie A">
+    <title>Próximo evento el 31/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829160000 +0200" stop="20260829183000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A 2">
+    <title>ACF Fiorentina vs Frosinone Calcio</title>
+    <desc>· Serie A 26/27</desc>
+	</programme>
+	<programme start="20260829203000 +0200" stop="20260830003000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 30/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830003000 +0200" stop="20260830043000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 30/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830043000 +0200" stop="20260830083000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 30/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830083000 +0200" stop="20260830123000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 30/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830123000 +0200" stop="20260830163000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 30/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830163000 +0200" stop="20260830203000 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 30/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830203000 +0200" stop="20260830204500 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 30/08 a las 20:45</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260830204500 +0200" stop="20260830224500 +0200" channel="DAZN Serie A 2">
+    <title>Lazio Roma vs Génova CFC</title>
+    <desc>· Serie A 26/27</desc>
+	</programme>
+	<programme start="20260830224500 +0200" stop="20260831024500 +0200" channel="DAZN Serie A 2">
+    <title>Próximo evento el 06/09 a las 15:00</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829000000 +0200" stop="20260829040000 +0200" channel="DAZN Serie A 3">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829040000 +0200" stop="20260829080000 +0200" channel="DAZN Serie A 3">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829080000 +0200" stop="20260829120000 +0200" channel="DAZN Serie A 3">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="DAZN Serie A 3">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829160000 +0200" stop="20260829183000 +0200" channel="DAZN Serie A 3">
+    <title>Próximo evento el 29/08 a las 18:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
+	<programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="DAZN Serie A 3">
+    <title>Sassuolo vs Torino FC</title>
+    <desc>· Serie A 26/27</desc>
+	</programme>
+	<programme start="20260829203000 +0200" stop="20260829235959 +0200" channel="DAZN Serie A 3">
+    <title>Próximo evento el 29/08 a las 20:30</title>
+    <desc>· Espacio reservado hasta el siguiente evento</desc>
+	</programme>
   <programme start="20260828160000 +0000" stop="20260828180000 +0000" channel="UEFA Champions League">
     <title>UCL Match Replay</title>
     <live/>
