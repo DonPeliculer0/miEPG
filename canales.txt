@@ -22,8 +22,8 @@ Neox,Neox
 Factoría de Ficción,Factoría de Ficción
 Divinity,Divinity
 Nova,Nova
-Teledeporte,Teledeporte
-Real Madrid TV,Real Madrid TV
+Teledeporte HD,Teledeporte
+Real Madrid TV HD,Real Madrid TV
 Clan,Clan
 Boing,Boing
 Movistar Plus HD,Movistar Plus HD
