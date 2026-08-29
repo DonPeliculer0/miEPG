@@ -680,14 +680,14 @@ ERI.Radio.3.ae,ERI Radio 3,https://www.sat.tv/wp-content/themes/twentytwenty-chi
 ERI.Radio.4.ae,ERI Radio 4,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-188289.png
 en:.Golf.Life.ae,en: Golf Life,
 en:.STARZPLAY.Sports.1.ae,en: STARZPLAY Sports 1,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
-en:.STARZPLAY.Sports.2.ae,en: STARZPLAY Sports 2,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG98671_landscape10-6e4f7ed7-7c20-45f1-9da6-0d13d750b2df.jpg
+en:.STARZPLAY.Sports.2.ae,en: STARZPLAY Sports 2,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
 en:.STARZPLAY.Sports.ae,en: STARZPLAY Sports,
 en:.YAS.TV.Extra.ae,en: YAS TV Extra,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG54972_landscape10_MASTER286212.jpg
 en:.Sony.TV.ae,en: Sony TV,https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg
 en:.STC.tv.Cinema.ae,en: STC tv Cinema,
 en:.STC.tv.Drama.ae,en: STC tv Drama,
 en:.STC.tv.Family.ae,en: STC tv Family,
-en:.Bloom.ae,en: Bloom,https://stap.tmsimg.com/assets/p8193514_b_h8_ag.jpg
+en:.Bloom.ae,en: Bloom,https://stap.tmsimg.com/assets/p16230301_b_h8_ak.jpg
 en:.Sky.News.Arabia.-.Live.ae,en: Sky News Arabia - Live,
 en:.Ben.10.by.WBTV.ae,en: Ben 10 by WBTV,
 en:.ARY.Digital.ae,en: ARY Digital,
@@ -703,7 +703,7 @@ en:.STARZPLAY.KLASSICZ.ae,en: STARZPLAY KLASSICZ,
 en:.Al.Arabiya.HD.ae,en: Al Arabiya HD,
 en:.Zee.Aflam.-.Live.ae,en: Zee Aflam - Live,
 en:.STARZPLAY.Cricket.2.ae,en: STARZPLAY Cricket 2,
-en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/OWPkhSDm.jpg
+en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://stap.tmsimg.com/assets/GNLZZGG00392PYT.jpg
 en:.EASL.(East.Asia.Super.League.2025-2026).ae,en: EASL (East Asia Super League 2025-2026),
 en:.STARZPLAY.Cricket.1.ae,en: STARZPLAY Cricket 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
 en:.AD.Sports.Extra.ae,en: AD Sports Extra,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
@@ -726,9 +726,9 @@ en:.Curiosity.Stream.ae,en: Curiosity Stream,
 en:.K-Drama+.ae,en: K-Drama+,
 en:.Colors.HD.ae,en: Colors HD,https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg
 en:.Zee.TV.HD.ae,en: Zee TV HD,https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg
-en:.Asianet.ME.ae,en: Asianet ME,https://stap.tmsimg.com/assets/p30899251_b_h10_aa.jpg
-en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://stap.tmsimg.com/assets/p14571494_b_h8_ae.jpg
-en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://stap.tmsimg.com/assets/p10744843_v_h10_aa.jpg
+en:.Asianet.ME.ae,en: Asianet ME,https://stap.tmsimg.com/assets/p10772600_b_h10_ac.jpg
+en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://stap.tmsimg.com/assets/p14951324_b_h10_aa.jpg
+en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://stap.tmsimg.com/assets/p10680220_b_h8_ab.jpg
 en:.Star.Plus.HD.ae,en: Star Plus HD,https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg
 en:.Emarat.FM.ae,en: Emarat FM,
 en:.Quran.Kareem.ae,en: Quran Kareem,
@@ -744,17 +744,17 @@ en:.CNBC.Arabiya.HD.ae,en: CNBC Arabiya HD,
 en:.CGTN.ae,en: CGTN,https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg
 en:.Al.Arabiya.Business.-.Live.ae,en: Al Arabiya Business - Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
 en:.Al.Hadath.Live.ae,en: Al Hadath Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-en:.SET.Max.ae,en: SET Max,https://stap.tmsimg.com/assets/p19546135_v_h10_ac.jpg
+en:.SET.Max.ae,en: SET Max,https://stap.tmsimg.com/assets/p27542887_v_h8_aa.jpg
 ar:.جولف.لايف.ae,ar: جولف لايف,
 ar:.ستارز.بلاي.سبورتس.1.ae,ar: ستارز بلاي سبورتس 1,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
-ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG98671_landscape10-6e4f7ed7-7c20-45f1-9da6-0d13d750b2df.jpg
+ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
 ar:.STARZPLAY.Sports.ae,ar: STARZPLAY Sports,
 ar:.ياس.تي.في.إكسترا.ae,ar: ياس تي في إكسترا,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG54972_landscape10_MASTER286212.jpg
 ar:.سوني.تي.في.ae,ar: سوني تي في,https://stap.tmsimg.com/assets/p12557899_b_h11_ad.jpg
 ar:.أس.تي.سي.سينما.ae,ar: أس تي سي سينما,
 ar:.أس.تي.سي.دراما.ae,ar: أس تي سي دراما,
 ar:.أس.تي.سي.عائلة.ae,ar: أس تي سي عائلة,
-ar:.بلوم.ae,ar: بلوم,https://stap.tmsimg.com/assets/p8193514_b_h8_ag.jpg
+ar:.بلوم.ae,ar: بلوم,https://stap.tmsimg.com/assets/p16230301_b_h8_ak.jpg
 ar:.سكاي.نيوز.عربية.-.مباشر.ae,ar: سكاي نيوز عربية - مباشر,
 ar:.غامبول.باي.دبليو.بي.تي.في.ae,ar: غامبول باي دبليو بي تي في,
 ar:.قناة.إي.آر.واي.ديجيتال.ae,ar: قناة إي آر واي ديجيتال,
@@ -770,7 +770,7 @@ ar:.ستارز.بلاي.كلاسيكز.ae,ar: ستارز بلاي كلاسيكز
 ar:.قناة.العربية.-.مباشر.ae,ar: قناة العربية - مباشر,
 ar:.زي.أفلام.-.مباشر.ae,ar: زي أفلام - مباشر,
 ar:.ستارزبلاي.كريكيت.2.ae,ar: ستارزبلاي كريكيت 2,
-ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/OWPkhSDm.jpg
+ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://stap.tmsimg.com/assets/GNLZZGG00392PYT.jpg
 ar:.اي.اي.اس.ال.(ايست.ايشيا.سوبر.ليغ.2025-2026).ae,ar: اي اي اس ال (ايست ايشيا سوبر ليغ 2025-2026),
 ar:.ستارزبلاي.كريكيت.1.ae,ar: ستارزبلاي كريكيت 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
 ar:.أبوظبي.الرياضية.إكسترا.ae,ar: أبوظبي الرياضية إكسترا,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
@@ -793,9 +793,9 @@ ar:.كيوريوسيتي.ستريم.ae,ar: كيوريوسيتي ستريم,
 ar:.ك-دراما+.ae,ar: ك-دراما+,
 ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg
 ar:.زي.تي.في.ae,ar: زي تي في,https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg
-ar:.آسيا.نت.ae,ar: آسيا نت,https://stap.tmsimg.com/assets/p30899251_b_h10_aa.jpg
-ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://stap.tmsimg.com/assets/p14571494_b_h8_ae.jpg
-ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://stap.tmsimg.com/assets/p10744843_v_h10_aa.jpg
+ar:.آسيا.نت.ae,ar: آسيا نت,https://stap.tmsimg.com/assets/p10772600_b_h10_ac.jpg
+ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://stap.tmsimg.com/assets/p14951324_b_h10_aa.jpg
+ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://stap.tmsimg.com/assets/p10680220_b_h8_ab.jpg
 ar:.ستار.بلس.ae,ar: ستار بلس,https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg
 ar:.إذاعة.الإمارات.إف.إم.ae,ar: إذاعة الإمارات إف إم,
 ar:.قناة.القرآن.الكريم.ae,ar: قناة القرآن الكريم,
@@ -811,4 +811,4 @@ ar:.سي.إن.بي.سي.عربية.-.مباشر.ae,ar: سي إن بي سي عر�
 ar:.سي.جي.تي.إن.ae,ar: سي جي تي إن,https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg
 ar:.العربية.بيزنس.-.مباشر.ae,ar: العربية بيزنس - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
 ar:.قناة.الحدث.-.مباشر.ae,ar: قناة الحدث - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-ar:.ست.ماكس.ae,ar: ست ماكس,https://stap.tmsimg.com/assets/p19546135_v_h10_ac.jpg
+ar:.ست.ماكس.ae,ar: ست ماكس,https://stap.tmsimg.com/assets/p27542887_v_h8_aa.jpg
