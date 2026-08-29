@@ -630,6 +630,8 @@ RNE_Radio3.TV,RNE_Radio3.TV
 RNE_Radio4.TV,RNE_Radio4.TV
 RNE_Radio5.TV,RNE_Radio5.TV
 OndaCero.TV,OndaCero.TV
+Onda Cero,OndaCero.TV
+COPE,COPE
 ,Onda Madrid
 PT | Sport TV +,SPORT.TV+.HD.pt
 PT | Sport TV 1,SPORT.TV1.HD.pt
