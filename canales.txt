@@ -136,19 +136,12 @@ DAZN F1 HD,DAZN F1 HD
 Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
 GOL,GOL
-Ubeat,Ubeat
-Aragón_Deporte1.TV,Aragón_Deporte1.TV
-Aragón_Deporte2.TV,Aragón_Deporte2.TV 
-Vinx.TV,Vinx.TV
-,ETB Deportes
 Esport3 Catalunya,Esport3 Catalunya
 Top Barça,Top Barça
-ES:.LaLiga.Inside.be,LALIGA.Inside.es
 65ea8b928145cb0008509426,UEFA Champions League
 ES:.FIFA+.be,ES:.FIFA+.be
 ,ITSF TV
 Futsalmafer.tv,FSM TV
-,Olympic Channel
 643054b1fc3be59477853717-6334a8e48a7b2a349d903b8c,Billiard TV
 Tennis Channel,Tennis Channel
 MyPadel TV,MyPadel TV
@@ -331,11 +324,9 @@ ElConfidencial.TV,ElConfidencial.TV
 CGTN Español,CGTN Español
 ES26000025M,¡Hola! Play
 ¡HOLA!.TV.us2,¡Hola! TV
-,Crafty Panda
 643054b1fc3be59477853717-6365779dde08f8eec6c3f21f,CraftsyTV
 ESBC3500002PW,Ideas en 5 minutos Samsung TV
 643054b1fc3be59477853717-64a355697d24564fba37bab8,Ideas en 5 minutos Plex
-,Pluto TV Hogar
 64db2e0835425100080f2f5a,Pluto TV Diseño
 690dd10a37b131228d76d5b1,El Mueble
 Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV)
@@ -346,7 +337,6 @@ ESBC4700002TD,Love the planet
 Fashion TV (Rakuten TV),Fashion TV
 ES42000022E,Xataka
 643054b1fc3be59477853717-67642f277c5e3b38af72dcdb,Cirque du Soleil
-,Pluto TV Viajes
 Dviaje,Dviaje
 622f42b831233300078658cc,Ciudadanos por el mundo
 Escapa TV,Escapa TV
@@ -361,21 +351,19 @@ DroneTV.distro,Drone TV
 Historia y Vida,Historia y Vida
 64ddcbb14c5ed80008fad416,Crimen e Historia
 Sangre Fría,Sangre Fría
-,Tuning
+Tuning,Tuning
 Motorvision,Motorvision
 Kaloopy.distro,Kaloopy
 61922be835f3910007fc58f6,En el punto de mira
 ,Sin filtros
 ES:.Oficios.Perdidos.be,Oficios perdidos
-5f1abce155a03d0007718834,Comedia Made in Spain
-604f8125c6669b00077f7699,Wipeout
-5f28009b150b2500077766b8,Vaya semanita Pluto TV
-ES1600006S8,LOL España
 Vivir con gatos,Vivir con gatos
 Vivir con perros,Vivir con perros
-,Cats 24/7
-,Dogs 24/7
 ,Curiosity Animales
+5f1abce155a03d0007718834,Comedia Made in Spain
+604f8125c6669b00077f7699,Wipeout
+ES1600006S8,LOL España
+5f28009b150b2500077766b8,Vaya semanita Pluto TV
 ESAJ4500016BH,The Pet Collective
 ESBC2700008SK,Just For Laughs
 6177fd9812fe0c000726f9eb,Just for Laughs Gags
