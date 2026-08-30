@@ -162,29 +162,6 @@ NBA.TV.HD.us2,NBA.TV.HD.us2
 Spectrum.SportsNet.Lakers.HD.us2,Spectrum.SportsNet.Lakers.HD.us2
 NBA-LosAngelesLakers.us,NBA-LosAngelesLakers.us
 NBA-NewYorkKnicks.us,NBA-NewYorkKnicks.us
-,LaLiga HighLights
-,LaLiga Replay 1 
-,LaLiga Replay 2
-,LaLiga Replay 3
-,LaLiga Replay 4
-,LaLiga Replay 5
-,LaLiga Replay 6
-,LaLiga Replay 7
-,LaLiga Replay 8
-,LaLiga Replay 9
-,LaLiga Replay 10
-,Replay Hypermotion
-,Replay Hypermotion 1
-,Replay Hypermotion 2
-,Replay Hypermotion 3
-,Replay Hypermotion 4
-,Replay Hypermotion 5
-,Replay Hypermotion 6
-,Replay Hypermotion 7
-,Replay Hypermotion 8
-,Replay Hypermotion 9
-,Replay Hypermotion 10
-,Replay Hypermotion 11
 ,+24 (1)
 ,+24 (2)
 ,+24 (3)
@@ -316,10 +293,10 @@ La 8 Zamora,La 8 Zamora
 ,Cortes Castilla y Leon | Sala Campos de Castilla
 ,Cortes Castilla y Leon | Sala Cortes de Leon
 ,Cortes Castilla y Leon | Sala Castillo de Fuensaldana
-El Toro TV,ElToro TV
-Negocios TV,Negocios TV
 ElPais.TV,ElPais.TV
 ElConfidencial.TV,ElConfidencial.TV
+Negocios TV,Negocios TV
+El Toro TV,ElToro TV
 CGTN Español,CGTN Español
 ES26000025M,¡Hola! Play
 ¡HOLA!.TV.us2,¡Hola! TV
@@ -421,8 +398,6 @@ Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 60cc807324d60a0007708dc8,Pluto TV Cine de autor
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
 plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
-plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
-plex.tv.ARTFLIX.-.Movie.Classics.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
 Cine.Friki.es,Cine Friki
 ES:.Cine.Friki.be,Cine Friki
 Cine Friki (Rakuten TV),Cine Friki
