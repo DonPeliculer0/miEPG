@@ -320,7 +320,6 @@ El Toro TV,ElToro TV
 Negocios TV,Negocios TV
 ElPais.TV,ElPais.TV
 ElConfidencial.TV,ElConfidencial.TV
-,The Guardian
 CGTN Español,CGTN Español
 ES26000025M,¡Hola! Play
 ¡HOLA!.TV.us2,¡Hola! TV
@@ -336,6 +335,7 @@ ESBC4700002TD,Love the planet
 ,FitDance 
 Fashion TV (Rakuten TV),Fashion TV
 ES42000022E,Xataka
+Cirque.du.Soleil.distro,Cirque du Soleil
 643054b1fc3be59477853717-67642f277c5e3b38af72dcdb,Cirque du Soleil
 Dviaje,Dviaje
 622f42b831233300078658cc,Ciudadanos por el mundo
@@ -381,7 +381,6 @@ CostaNO.TV,CostaNO.TV
 ,7TV Cadiz
 Onda Cádiz TV,Onda Cádiz TV
 ESBC1700004PX,Trailers
-,TVCortos
 68d566603d3a9580eb461251,Paramount Network de Pluto TV
 BOM Cine,BOM Cine
 8madrid TV,8madrid TV
@@ -422,11 +421,14 @@ Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 60cc807324d60a0007708dc8,Pluto TV Cine de autor
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
 plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
+plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
+plex.tv.ARTFLIX.-.Movie.Classics.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
+Cine.Friki.es,Cine Friki
+ES:.Cine.Friki.be,Cine Friki
 Cine Friki (Rakuten TV),Cine Friki
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Verdi TV Feel Good
 MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV)
-,Movies Central by TV Player
 ,Film&Co
 643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi
 6a1610bebdf296985fd95603-5eea605674085f0040ddc7a6,Dark Matter TV
