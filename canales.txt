@@ -223,6 +223,7 @@ XITE.80s.Flashback.DUMMY.us,XITE.80s.Flashback.DUMMY.us
 XITE.90s.Throwback.DUMMY.us,XITE.90s.Throwback.DUMMY.us
 ESBC2100002LV,Vevo Latino
 ESBD230000289,Vevo Retro
+ESBC2100001IU,Vevo Pop
 5d93b635b43dd1a399b39eee,Vevo Pop
 5f32f26bcd8aea00071240e5,Vevo 70s
 5fd7b8bf927e090007685853,Vevo 80s
@@ -337,7 +338,7 @@ Kaloopy.distro,Kaloopy
 ES:.Oficios.Perdidos.be,Oficios perdidos
 Vivir con gatos,Vivir con gatos
 Vivir con perros,Vivir con perros
-,Curiosity Animales
+ES1400002CJ,Curiosity Animales
 5f1abce155a03d0007718834,Comedia Made in Spain
 604f8125c6669b00077f7699,Wipeout
 ES1600006S8,LOL España
@@ -399,7 +400,7 @@ Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 60cc807324d60a0007708dc8,Pluto TV Cine de autor
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
 i205560cb5f4b7d87ad7073c53a81f931,Artflix
-plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
+plex.tv.ARTFLIX.-.Películas.Clásicas.plex,Artflix
 Cine.Friki.es,Cine Friki
 ES:.Cine.Friki.be,Cine Friki
 Cine Friki (Rakuten TV),Cine Friki
