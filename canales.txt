@@ -399,6 +399,7 @@ Cine Español (Rakuten TV),Cine Español (Rakuten TV)
 5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
 60cc807324d60a0007708dc8,Pluto TV Cine de autor
 61373bb45168fe000773eecd,Pluto TV Cine Clásico
+5e20b730f2f8d5003d739db7-6348a34c1159f6a5ce819b81,Artflix
 643054b1fc3be59477853717-6348a34c1159f6a5ce819b81,Artflix
 i205560cb5f4b7d87ad7073c53a81f931,Artflix
 plex.tv.ARTFLIX.-.Películas.Clásicas.plex,Artflix
