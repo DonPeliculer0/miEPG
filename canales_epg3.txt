@@ -1856,7 +1856,6 @@
 686e74b0e48af72bc266e798,Mattel Junior,https://images.pluto.tv/channels/686e74b0e48af72bc266e798/colorLogoPNG_1765806081318.png
 60dc6937b450ad0007377e48,Charlotte aux Fraises,https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png
 5ffc8c345822750007e167de,Bob l'éponge,https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png
-60b4c17a81e29300071d3a39,Avatar,https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png
 5f8ecc1b37867f00071469e9,Tortues Ninja TV,https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png
 5f8ecc7aa44d9c00081fca29,iCarly TV,https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png
 5f8eb99ff17815000784a3b0,Pluto TV  Teen,https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG_1750752089382.png
@@ -1876,7 +1875,6 @@
 66c45b36a72e7b0008a2b291,CNN Headlines International,https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/colorLogoPNG_1775159909058.png
 6231ec93779a9d00079ba8e2,CBS News 24/7,https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png
 60d35bcaf1ff4a00078af0a6,Euronews,https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png
-69690bb672db627531285928,NFL Channel,https://images.pluto.tv/channels/69690bb672db627531285928/colorLogoPNG_1785250829369.png
 62442f28afe626000747f195,I Jefferson,https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png
 66a0eea88561260008b1c5d0,Carabinieri,https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png
 6245d3792792150007e20634,Settimo Cielo,https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png
@@ -1946,6 +1944,7 @@
 60940a07d88ba90007b9cb71,16 Anni e Incinta,https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png
 62e7fc8c0d061100083946a9,Teen Mom,https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png
 64c109a4798def0008a6e03e,Top Gear,https://images.pluto.tv/channels/64c109a4798def0008a6e03e/colorLogoPNG.png
+69690bb672db627531285928,NFL Channel,https://images.pluto.tv/channels/69690bb672db627531285928/colorLogoPNG_1785250829369.png
 691c5bef3a369d8f40192e71,Inter 24/7,https://images.pluto.tv/channels/691c5bef3a369d8f40192e71/colorLogoPNG_1775046814007.png
 69148c76e9dec35c9269a16c,Pluto TV Snooker 900,https://images.pluto.tv/channels/69148c76e9dec35c9269a16c/colorLogoPNG_1763016465334.png
 696e0fe49ba4ac18057433ac,Rally TV,https://images.pluto.tv/channels/696e0fe49ba4ac18057433ac/colorLogoPNG_1770893941495.png
