@@ -1,218 +1,158 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz
-:24.HD.sk,:24 HD,https://files.cdn.magio.tv/tv_logos/24-hd.png
-:ŠPORT.HD.sk,:ŠPORT HD,https://files.cdn.magio.tv/tv_logos/sport-hd.png
-:ŠPORT.HD.-.LIVE.sk,:ŠPORT HD - LIVE,https://files.cdn.magio.tv/tv_logos/sport-hd---live.png
-AMC.HD.sk,AMC HD,
-ARD.sk,ARD,
-Animal.Planet.HD.sk,Animal Planet HD,https://files.cdn.magio.tv/tv_logos/animal-planet-hd.png
-Arena.Sport.1.HD.sk,Arena Sport 1 HD,https://files.cdn.magio.tv/tv_logos/kanal1-sport-hd.png
-Arena.Sport.2.HD.sk,Arena Sport 2 HD,https://files.cdn.magio.tv/tv_logos/kanal1-xtra-hd.png
-Arte.sk,Arte,
-Auto.Motor.Sport.HD.sk,Auto Motor Sport HD,https://files.cdn.magio.tv/tv_logos/auto-motor-sport-hd.png
-BBC.Earth.HD.sk,BBC Earth HD,https://files.cdn.magio.tv/tv_logos/bbc-earth-hd.png
-BBC.First.HD.sk,BBC First HD,https://files.cdn.magio.tv/tv_logos/bbc-first-hd.png
-BBC.News.sk,BBC News,https://files.cdn.magio.tv/tv_logos/bbc-news.png
-Barrandov.Krimi.HD.sk,Barrandov Krimi HD,https://files.cdn.magio.tv/tv_logos/barrandov-krimi-hd.png
-Barrandov.TV.HD.sk,Barrandov TV HD,https://files.cdn.magio.tv/tv_logos/barrandov-tv-hd.png
-Bloomberg.Eu.sk,Bloomberg Eu,
-Brazzers.TV.Europe.sk,Brazzers TV Europe,https://files.cdn.magio.tv/tv_logos/brazzers-tv-europe.png
-CANAL+.Action.HD.sk,CANAL+ Action HD,https://files.cdn.magio.tv/tv_logos/canal--action-hd.png
-CANAL+.Sport.4.HD.sk,CANAL+ Sport 4 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-4-hd.png
-CANAL+.Sport.5.HD.sk,CANAL+ Sport 5 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-5-hd.png
-CANAL+.Sport.6.HD.sk,CANAL+ Sport 6 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-6-hd.png
-CANAL+.Sport.7.HD.sk,CANAL+ Sport 7 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-7-hd.png
-CANAL+.Sport.8.HD.sk,CANAL+ Sport 8 HD,https://files.cdn.magio.tv/tv_logos/canal--sport-8-hd.png
-CANAL+.Sport.HD.sk,CANAL+ Sport HD,https://files.cdn.magio.tv/tv_logos/canal--sport-hd.png
-CNN.Intl..Europe.sk,CNN Intl. Europe,https://files.cdn.magio.tv/tv_logos/cnn-intl--europe.png
-CNN.Prima.News.HD.sk,CNN Prima News HD,https://files.cdn.magio.tv/tv_logos/cnn-prima-news-hd.png
-CS.Film-CS.Horror.HD.sk,CS Film-CS Horror HD,https://files.cdn.magio.tv/tv_logos/cs-film-cs-horror-hd.png
-CS.History.sk,CS History,https://files.cdn.magio.tv/tv_logos/cs-history-hd.png
-CS.Mystery.sk,CS Mystery,https://files.cdn.magio.tv/tv_logos/cs-mystery-hd.png
-Canal.24.Horas.sk,Canal 24 Horas,https://files.cdn.magio.tv/tv_logos/canal-24-horas.png
-Cartoon.Network.HD.sk,Cartoon Network HD,https://files.cdn.magio.tv/tv_logos/cartoon-network-hd.png
-Cinemax.2.HD.sk,Cinemax 2 HD,https://files.cdn.magio.tv/tv_logos/cinemax-2-hd.png
-Cinemax.HD.sk,Cinemax HD,https://files.cdn.magio.tv/tv_logos/cinemax-hd.png
-Club.MTV.sk,Club MTV,
-Comedy.Central.HU.sk,Comedy Central HU,
-Cool.TV.sk,Cool TV,https://files.cdn.magio.tv/tv_logos/cool-tv.png
-Crime.and.Inv..sk,Crime and Inv.,https://files.cdn.magio.tv/tv_logos/crime-and-inv-.png
-ČT.:D.-.ČT.Art.HD.sk,ČT :D - ČT Art HD,
-ČT1.HD.sk,ČT1 HD,https://files.cdn.magio.tv/tv_logos/ct1-hd.png
-ČT2.HD.sk,ČT2 HD,https://files.cdn.magio.tv/tv_logos/ct2-hd.png
-ČT24.HD.sk,ČT24 HD,https://files.cdn.magio.tv/tv_logos/ct24-hd.png
-DAJTO.HD.sk,DAJTO HD,https://files.cdn.magio.tv/tv_logos/dajto-hd.png
-DRAMOX.sk,DRAMOX,https://files.cdn.magio.tv/tv_logos/dramox.png
-DVTV.EXTRA.HD.sk,DVTV EXTRA HD,https://files.cdn.magio.tv/tv_logos/dvtv-extra-hd.png
-Deutsche.Welle.sk,Deutsche Welle,
-Discovery.Channel.HD.sk,Discovery Channel HD,https://files.cdn.magio.tv/tv_logos/discovery-channel-hd.png
-Disney.Channel.sk,Disney Channel,https://files.cdn.magio.tv/tv_logos/disney-channel-hd.png
-Doma.HD.sk,Doma HD,https://files.cdn.magio.tv/tv_logos/doma-hd.png
-Dorcel.TV.HD.sk,Dorcel TV HD,https://files.cdn.magio.tv/tv_logos/dorcel-tv-hd.png
-Duck.TV.HD.sk,Duck TV HD,https://files.cdn.magio.tv/tv_logos/duck-tv-hd.png
-Duna.HD.sk,Duna HD,https://files.cdn.magio.tv/tv_logos/duna-hd.png
-Duna.World.HD.sk,Duna World HD,https://files.cdn.magio.tv/tv_logos/duna-world-hd.png
-Dusk.TV.sk,Dusk TV,https://files.cdn.magio.tv/tv_logos/dusk-tv.png
-Dvojka.HD.sk,Dvojka HD,https://files.cdn.magio.tv/tv_logos/dvojka-hd.png
-English.Club.HD.sk,English Club HD,https://files.cdn.magio.tv/tv_logos/english-club-hd.png
-Epic.Drama.HD.sk,Epic Drama HD,https://files.cdn.magio.tv/tv_logos/viasat-epic-drama-hd.png
-Erox.HD.sk,Erox HD,https://files.cdn.magio.tv/tv_logos/erox-hd.png
-Eroxxx.HD.sk,Eroxxx HD,https://files.cdn.magio.tv/tv_logos/eroxxx-hd.png
-Euronews.sk,Euronews,https://files.cdn.magio.tv/tv_logos/euronews.png
-Eurosport.1.HD.sk,Eurosport 1 HD,https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png
-Eurosport.2.HD.sk,Eurosport 2 HD,https://files.cdn.magio.tv/tv_logos/eurosport-2-hd.png
-Extreme.sports.sk,Extreme sports,https://files.cdn.magio.tv/tv_logos/extreme-sports.png
-FILM+.HD.sk,FILM+ HD,
-FILM+.HU.HD.sk,FILM+ HU HD,https://files.cdn.magio.tv/tv_logos/film--hu-hd.png
-FREEDOM.sk,FREEDOM,https://files.cdn.magio.tv/tv_logos/freedom.png
-Fashion.TV.sk,Fashion TV,
-Fightbox.HD.sk,Fightbox HD,https://files.cdn.magio.tv/tv_logos/fightbox-hd.png
-Film.4.sk,Film 4,https://files.cdn.magio.tv/tv_logos/film-4.png
-Film.Europe.+.sk,Film Europe +,https://files.cdn.magio.tv/tv_logos/film-europe--.png
-Film.Europe.HD.sk,Film Europe HD,https://files.cdn.magio.tv/tv_logos/film-europe-hd.png
-Filmbox.Extra.HD.sk,Filmbox Extra HD,https://files.cdn.magio.tv/tv_logos/filmbox--emotion-hd.png
-Filmbox.Family.sk,Filmbox Family,https://files.cdn.magio.tv/tv_logos/filmbox--comedy.png
-Filmbox.HD.sk,Filmbox HD,https://files.cdn.magio.tv/tv_logos/filmbox--one-hd.png
-Filmbox.Premium.HD.sk,Filmbox Premium HD,https://files.cdn.magio.tv/tv_logos/filmbox--hits-hd.png
-Filmbox.Stars.HD.sk,Filmbox Stars HD,https://files.cdn.magio.tv/tv_logos/filmbox--love-crime-hd.png
-Fishing.and.Hunting.sk,Fishing and Hunting,https://files.cdn.magio.tv/tv_logos/fishing-and-hunting.png
-Folklorika.TV.HD.sk,Folklorika TV HD,https://files.cdn.magio.tv/tv_logos/folklorika-tv-hd.png
-Food.Network.HD.sk,Food Network HD,https://files.cdn.magio.tv/tv_logos/food-network-hd.png
-France.24.sk,France 24,https://files.cdn.magio.tv/tv_logos/france-24.png
-France.24.FR.sk,France 24 FR,https://files.cdn.magio.tv/tv_logos/france-24-fr.png
-Galaxy.4.sk,Galaxy 4,https://files.cdn.magio.tv/tv_logos/galaxy-4.png
-Ginx.eSports.TV.HD.sk,Ginx eSports TV HD,https://files.cdn.magio.tv/tv_logos/ginx-esports-tv-hd.png
-Golf.Channel.HD.sk,Golf Channel HD,https://files.cdn.magio.tv/tv_logos/golf-channel-hd.png
-HBO.HD.sk,HBO HD,https://files.cdn.magio.tv/tv_logos/hbo-hd.png
-HBO2.HD.sk,HBO2 HD,https://files.cdn.magio.tv/tv_logos/hbo2-hd.png
-HBO3.HD.sk,HBO3 HD,https://files.cdn.magio.tv/tv_logos/hbo3-hd.png
-History.HD.sk,History HD,https://files.cdn.magio.tv/tv_logos/history-hd.png
-Hír.TV.sk,Hír TV,https://files.cdn.magio.tv/tv_logos/hir-tv.png
-ID.HD.sk,ID HD,https://files.cdn.magio.tv/tv_logos/id-hd.png
-JOJ.24.HD.sk,JOJ 24 HD,https://files.cdn.magio.tv/tv_logos/joj-24-hd.png
-JOJ.Cinema.HD.sk,JOJ Cinema HD,https://files.cdn.magio.tv/tv_logos/joj-cinema-hd.png
-JOJ.HD.sk,JOJ HD,https://files.cdn.magio.tv/tv_logos/joj-hd.png
-JOJ.Svet.HD.sk,JOJ Svet HD,https://files.cdn.magio.tv/tv_logos/joj-svet-hd.png
-JOJ.ŠPORT.HD.sk,JOJ ŠPORT HD,https://files.cdn.magio.tv/tv_logos/joj-sport-hd.png
-Jednotka.HD.sk,Jednotka HD,https://files.cdn.magio.tv/tv_logos/jednotka-hd.png
-Jim.Jam.sk,Jim Jam,https://files.cdn.magio.tv/tv_logos/jim-jam.png
-Kino.Barrandov.HD.sk,Kino Barrandov HD,https://files.cdn.magio.tv/tv_logos/kino-barrandov-hd.png
-LEO.TV.sk,LEO TV,https://files.cdn.magio.tv/tv_logos/leo-tv.png
-LaLa.TV.HD.sk,LaLa TV HD,https://files.cdn.magio.tv/tv_logos/lala-tv-hd.png
-Leo.TV.Gold.HD.sk,Leo TV Gold HD,https://files.cdn.magio.tv/tv_logos/leo-tv-gold-hd.png
-Love.Nature.HD.sk,Love Nature HD,https://files.cdn.magio.tv/tv_logos/love-nature-hd.png
-Lux.TV.HD.sk,Lux TV HD,https://files.cdn.magio.tv/tv_logos/lux-tv-hd.png
-M1.HD.sk,M1 HD,https://files.cdn.magio.tv/tv_logos/m1-hd.png
-M2.HD.sk,M2 HD,https://files.cdn.magio.tv/tv_logos/m2-hd.png
-M4.sport.HD.sk,M4 sport HD,https://files.cdn.magio.tv/tv_logos/m4-sport-hd.png
-M5.HD.sk,M5 HD,https://files.cdn.magio.tv/tv_logos/m5-hd.png
-MAGIO.FITNES.sk,MAGIO FITNES,
-MAGIO.KOMÉDIE.sk,MAGIO KOMÉDIE,
-MAGIO.KONCERTY.sk,MAGIO KONCERTY,
-MAGIO.SVET.sk,MAGIO SVET,
-MEN.TV.sk,MEN.TV,https://files.cdn.magio.tv/tv_logos/men-tv.png
-MTV.sk,MTV,
-MTV.00s.sk,MTV 00s,
-MTV.80s.sk,MTV 80s,
-MTV.90s.sk,MTV 90s,
-MTV.HU.sk,MTV HU,
-MTV.Hits.sk,MTV Hits,
-MTV.Live.HD.sk,MTV Live HD,
-Magio.Promo.sk,Magio Promo,https://files.cdn.magio.tv/tv_logos/magio-promo.png
-Magyar.ATV.HD.sk,Magyar ATV HD,https://files.cdn.magio.tv/tv_logos/magyar-atv-hd.png
-Markíza.HD.sk,Markíza HD,https://files.cdn.magio.tv/tv_logos/markiza-hd.png
-Markíza.KRIMI.HD.sk,Markíza KRIMI HD,https://files.cdn.magio.tv/tv_logos/markiza-krimi-hd.png
-Markíza.Klasik.HD.sk,Markíza Klasik HD,https://files.cdn.magio.tv/tv_logos/markiza-klasik-hd.png
-Minimax.sk,Minimax,https://files.cdn.magio.tv/tv_logos/minimax.png
-Mozi+.sk,Mozi+,
-Muzsika.TV.sk,Muzsika TV,https://files.cdn.magio.tv/tv_logos/muzsika-tv.png
-NGC.HD.sk,NGC HD,https://files.cdn.magio.tv/tv_logos/national-geographic-hd.png
-NGC.Wild.HD.sk,NGC Wild HD,https://files.cdn.magio.tv/tv_logos/national-geographic-wild-hd.png
-NOE.sk,NOE,https://files.cdn.magio.tv/tv_logos/noe.png
-Nick.Jr..sk,Nick Jr.,
-Nick.Toons.sk,Nick Toons,
-Nickelodeon.sk,Nickelodeon,
-Nickelodeon.HU.sk,Nickelodeon HU,
-Nova.Intl..HD.sk,Nova Intl. HD,https://files.cdn.magio.tv/tv_logos/nova-intl--hd.png
-Nova.Sport.1.HD.sk,Nova Sport 1 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-1-hd.png
-Nova.Sport.2.HD.sk,Nova Sport 2 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-2-hd.png
-Nova.Sport.3.HD.sk,Nova Sport 3 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-3-hd.png
-Nova.Sport.4.HD.sk,Nova Sport 4 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-4-hd.png
-Nova.Sport.5.HD.sk,Nova Sport 5 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-5-hd.png
-Nova.Sport.6.HD.sk,Nova Sport 6 HD,https://files.cdn.magio.tv/tv_logos/nova-sport-6-hd.png
-ORF.2.sk,ORF 2,
-ORF1.sk,ORF1,
-Óčko.Black.HD.sk,Óčko Black HD,https://files.cdn.magio.tv/tv_logos/ocko-black-hd.png
-Óčko.Expres.HD.sk,Óčko Expres HD,https://files.cdn.magio.tv/tv_logos/ocko-expres-hd.png
-Óčko.HD.sk,Óčko HD,https://files.cdn.magio.tv/tv_logos/ocko-hd.png
-Óčko.Star.HD.sk,Óčko Star HD,https://files.cdn.magio.tv/tv_logos/ocko-star-hd.png
-PREMIER.SPORT.1.HD.sk,PREMIER SPORT 1 HD,https://files.cdn.magio.tv/tv_logos/premier-sport-1-hd.png
-PREMIER.SPORT.2.HD.sk,PREMIER SPORT 2 HD,https://files.cdn.magio.tv/tv_logos/premier-sport-2-hd.png
-PREMIER.SPORT.3.HD.sk,PREMIER SPORT 3 HD,https://files.cdn.magio.tv/tv_logos/premier-sport-3-hd.png
-PREMIUM.HD.sk,PREMIUM HD,https://files.cdn.magio.tv/tv_logos/premium-hd.png
-PRO7.sk,PRO7,https://files.cdn.magio.tv/tv_logos/pro7.png
-Plus.HD.sk,Plus HD,https://files.cdn.magio.tv/tv_logos/plus-hd.png
-Prima.COOL.SK.HD.sk,Prima COOL SK HD,https://files.cdn.magio.tv/tv_logos/prima-cool-sk-hd.png
-Prima.Krimi.HD.sk,Prima Krimi HD,
-Prima.LOVE.SK.HD.sk,Prima LOVE SK HD,https://files.cdn.magio.tv/tv_logos/prima-love-sk-hd.png
-Prima.SK.HD.sk,Prima SK HD,https://files.cdn.magio.tv/tv_logos/prima-sk-hd.png
-Prime.sk,Prime,
-RETRO.Music.TV.sk,RETRO Music TV,https://files.cdn.magio.tv/tv_logos/retro-music-tv.png
-RTL.sk,RTL,
-RTL.Gold.sk,RTL Gold,https://files.cdn.magio.tv/tv_logos/rtl-gold.png
-RTL.HÁROM.sk,RTL HÁROM,https://files.cdn.magio.tv/tv_logos/rtl-harom.png
-RTL.HU.HD.sk,RTL HU HD,https://files.cdn.magio.tv/tv_logos/rtl-hu-hd.png
-RTL.KETTŐ..HD.sk,RTL KETTŐ  HD,https://files.cdn.magio.tv/tv_logos/rtl-ketto--hd.png
-Rai.1.sk,Rai 1,https://files.cdn.magio.tv/tv_logos/rai-1.png
-Relax.sk,Relax,
-STORY.4.sk,STORY 4,https://files.cdn.magio.tv/tv_logos/story-4.png
-STRIKE.TV.HD.sk,STRIKE TV HD,https://files.cdn.magio.tv/tv_logos/strike-tv-hd.png
-Senzi.sk,Senzi,https://files.cdn.magio.tv/tv_logos/senzi.png
-Sláger.TV.HU.sk,Sláger TV HU,https://files.cdn.magio.tv/tv_logos/slager-tv-hu.png
-Sorozat+.sk,Sorozat+,https://files.cdn.magio.tv/tv_logos/sorozat-.png
-Spektrum.HD.sk,Spektrum HD,
-Spektrum.Home.HD.sk,Spektrum Home HD,https://files.cdn.magio.tv/tv_logos/spektrum-home-hd.png
-Sport1.HD.sk,Sport1 HD,
-Sport2.HD.sk,Sport2 HD,https://files.cdn.magio.tv/tv_logos/sport2-hd.png
-Stingray.Classica.HD.sk,Stingray Classica HD,https://files.cdn.magio.tv/tv_logos/stingray-classica-hd.png
-Stingray.Djazz.HD.sk,Stingray Djazz HD,https://files.cdn.magio.tv/tv_logos/stingray-djazz-hd.png
-Super.TV2.sk,Super TV2,https://files.cdn.magio.tv/tv_logos/tv2.png
-Svet.Zdravia.1.sk,Svet Zdravia 1,
-Svet.Zdravia.2.sk,Svet Zdravia 2,
-Svet.Zdravia.3.sk,Svet Zdravia 3,
-Šláger.Muzika.HD.sk,Šláger Muzika HD,https://files.cdn.magio.tv/tv_logos/slager-muzika-hd.png
-Šláger.Originál.HD.sk,Šláger Originál HD,https://files.cdn.magio.tv/tv_logos/slager-original-hd.png
-TA3.HD.sk,TA3 HD,https://files.cdn.magio.tv/tv_logos/ta3-hd.png
-TLC.HD.sk,TLC HD,https://files.cdn.magio.tv/tv_logos/tlc-hd.png
-TST1.Content.sk,TST1 Content,https://files.cdn.magio.tv/tv_logos/tst1-content.png
-TST2.Content.sk,TST2 Content,https://files.cdn.magio.tv/tv_logos/tst2-content.png
-TST3.HE.sk,TST3 HE,https://files.cdn.magio.tv/tv_logos/tst3-he.png
-TST4.HE.sk,TST4 HE,https://files.cdn.magio.tv/tv_logos/tst4-he.png
-TST5.Mcore.sk,TST5 Mcore,https://files.cdn.magio.tv/tv_logos/tst5-mcore.png
-TST6.Mcore.sk,TST6 Mcore,https://files.cdn.magio.tv/tv_logos/tst6-mcore.png
-TST7.Mcore.sk,TST7 Mcore,https://files.cdn.magio.tv/tv_logos/tst7-mcore.png
-TV.1000.Russkoe.Kino.sk,TV 1000 Russkoe Kino,https://files.cdn.magio.tv/tv_logos/tv-1000-russkoe-kino.png
-TV.Brno.1.sk,TV Brno 1,
-TV.REBEL.sk,TV REBEL,https://files.cdn.magio.tv/tv_logos/tv-rebel.png
-TV.RiK.HD.sk,TV RiK HD,https://files.cdn.magio.tv/tv_logos/tv-rik-hd.png
-TV.Spark.HD.sk,TV Spark HD,https://files.cdn.magio.tv/tv_logos/kanal-1-hd.png
-TV2.sk,TV2,
-TV2.Séf.sk,TV2 Séf,https://files.cdn.magio.tv/tv_logos/tv2-sef.png
-TV2Klub.sk,TV2Klub,https://files.cdn.magio.tv/tv_logos/fem3.png
-TV4.sk,TV4,https://files.cdn.magio.tv/tv_logos/tv4.png
-TVP.Polonia.sk,TVP Polonia,https://files.cdn.magio.tv/tv_logos/tvp-polonia.png
-Televize.Seznam.HD.sk,Televize Seznam HD,
-TinyTeen.HD.sk,TinyTeen HD,https://files.cdn.magio.tv/tv_logos/tinyteen-hd.png
-Travel.Channel.HD.sk,Travel Channel HD,https://files.cdn.magio.tv/tv_logos/travel-channel-hd.png
-Travel.XP.HD.sk,Travel XP HD,https://files.cdn.magio.tv/tv_logos/travel-xp-hd.png
-True.Amateurs.HD.sk,True Amateurs HD,https://files.cdn.magio.tv/tv_logos/true-amateurs-hd.png
-Ťuki.TV.HD.sk,Ťuki TV HD,
-Viasat.3.sk,Viasat 3,
-Viasat.6.sk,Viasat 6,
-Viasat.Explore.HD.sk,Viasat Explore HD,https://files.cdn.magio.tv/tv_logos/viasat-explore-hd.png
-Viasat.History.HD.sk,Viasat History HD,https://files.cdn.magio.tv/tv_logos/viasat-history-hd.png
-Viasat.Nature.HD.sk,Viasat Nature HD,https://files.cdn.magio.tv/tv_logos/viasat-nature-hd.png
-Viasat.True.Crime.HD.sk,Viasat True Crime HD,https://files.cdn.magio.tv/tv_logos/viasat-true-crime-hd.png
-Wau.HD.sk,Wau HD,https://files.cdn.magio.tv/tv_logos/joj-krimi-hd.png
-ZDF.sk,ZDF,
-Začíname.s.Voyo.sk,Začíname s Voyo,https://files.cdn.magio.tv/tv_logos/zaciname-s-voyo.png
-iConcerts.HD.sk,iConcerts HD,https://files.cdn.magio.tv/tv_logos/iconcerts-hd.png
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz
+[102].M-Net.ke,[102] M-Net,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MEH.png
+[104].M-Net.Movies.1.East.HD.ke,[104] M-Net Movies 1 East HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDM.png
+[106].M-Net.Movies.2.ke,[106] M-Net Movies 2,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAH.png
+[107].M-Net.Movies.3.ke,[107] M-Net Movies 3,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SMH.png
+[108].M-Net.Movies.4.ke,[108] M-Net Movies 4,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZ7.png
+[112].Studio.Universal.HD.ke,[112] Studio Universal HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/USD.png
+[113].MovieRoom.Africa.ke,[113] MovieRoom Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MRH.png
+[114].KIX.ke,[114] KIX,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KDH.png
+[117].Universal.TV.ke,[117] Universal TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HL4.png
+[118].TeleMundo.ke,[118] TeleMundo,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TE7.png
+[120].BBC.Brit.ke,[120] BBC Brit,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BP4.png
+[121].Discovery.Channel.HD.ke,[121] Discovery Channel HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDD.png
+[122].Comedy.Central.ke,[122] Comedy Central,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CCW.png
+[124].Bravo.ke,[124] Bravo,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EEW.png
+[130].MTV.ke,[130] MTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MT4.png
+[135].TLC.HD.ke,[135] TLC HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TL7.png
+[136].Discovery.Family.HD.ke,[136] Discovery Family HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDF.png
+[137].TNT.Africa.ke,[137] TNT Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TC4.png
+[140].Mambo.Moto.ke,[140] Mambo Moto,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MM7.png
+[144].Maisha.Magic.POA.ke,[144] Maisha Magic POA,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MB7.png
+[146].ABOL.TV.ke,[146] ABOL TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ABH.png
+[150].Akwaaba.Magic.ke,[150] Akwaaba Magic,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AKH.png
+[151].Africa.Magic.Showcase.HD.ke,[151] Africa Magic Showcase HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HAS.png
+[152].Africa.Magic.Epic.ke,[152] Africa Magic Epic,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A2W.png
+[154].Africa.Magic.Family.ke,[154] Africa Magic Family,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AMW.png
+[155].Real.Time.ke,[155] Real Time,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTW.png
+[156].Africa.Magic.Hausa.ke,[156] Africa Magic Hausa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HS7.png
+[157].Africa.Magic.Yoruba.ke,[157] Africa Magic Yoruba,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/YR7.png
+[158].Maisha.Magic.East.HD.ke,[158] Maisha Magic East HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AMS.png
+[159].Africa.Magic.Igbo.ke,[159] Africa Magic Igbo,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/IGW.png
+[160].Maisha.Magic.Bongo.ke,[160] Maisha Magic Bongo,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MT7.png
+[161].Pearl.Magic.ke,[161] Pearl Magic,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/PM7.png
+[163].Maisha.Magic.Plus.HD.ke,[163] Maisha Magic Plus HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MPH.png
+[166].Zee.World.ke,[166] Zee World,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ZW7.png
+[167].Star.Life.ke,[167] Star Life,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SI7.png
+[168].ROK.ke,[168] ROK,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ROW.png
+[169].ROK.2.ke,[169] ROK 2,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ROS.png
+[171].Discovery.ID.ke,[171] Discovery ID,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDI.png
+[174].BBC.Lifestyle.ke,[174] BBC Lifestyle,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/FOW.png
+[175].Food.Network.ke,[175] Food Network,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/FN7.png
+[176].The.Wedding.Channel.ke,[176] The Wedding Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WC7.png
+[181].National.Geographic.ke,[181] National Geographic,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NG4.png
+[182].Nat.Geo.Wild.ke,[182] Nat Geo Wild,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NWW.png
+[183].WildEarth.ke,[183] WildEarth,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/O1W.png
+[185].Curiosity.Channel.ke,[185] Curiosity Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CSW.png
+[186].History.ke,[186] History,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HIW.png
+[190].Spice.TV.ke,[190] Spice TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SP7.png
+[191].Pulaagu.ke,[191] Pulaagu,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/PU7.png
+[194].Televista.ke,[194] Televista,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TES.png
+[195].Trybe.ke,[195] Trybe,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TRW.png
+[199].SS.Events.ke,[199] SS Events,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MBH.png
+[218].ESPN.ke,[218] ESPN,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E1W.png
+[219].ESPN.2.HD.ke,[219] ESPN 2 HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E2H.png
+[220].SS.Blitz.Africa.ke,[220] SS Blitz Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HBW.png
+[221].SS.Grandstand.Africa.ke,[221] SS Grandstand Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H47.png
+[222].SS.Football.Plus.Africa.ke,[222] SS Football Plus Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD3.png
+[223].SS.Premier.League.ke,[223] SS Premier League,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EHD.png
+[224].SS.La.Liga.ke,[224] SS La Liga,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H77.png
+[225].SS.Football.ke,[225] SS Football,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S9W.png
+[226].SS.Action.ke,[226] SS Action,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ACH.png
+[227].SS.Africa.ke,[227] SS Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H27.png
+[228].SS.Africa.2.ke,[228] SS Africa 2,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H17.png
+[229].WWE.ke,[229] WWE,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HWS.png
+[230].SS.Variety.1.ke,[230] SS Variety 1,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SHD.png
+[234].SS.Tennis.Africa.ke,[234] SS Tennis Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H87.png
+[235].SS.Motorsport.Africa.ke,[235] SS Motorsport Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MS7.png
+[241].SS.Maximo.1.(P).ke,[241] SS Maximo 1 (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H8S.png
+[242].SS.Maximo.2.(P).ke,[242] SS Maximo 2 (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H9S.png
+[266].KASS.TV.ke,[266] KASS TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KAW.png
+[267].Ramogi.TV.ke,[267] Ramogi TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/UGS.png
+[269].Inooro.TV.ke,[269] Inooro TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/INS.png
+[270].KBCTV.ke,[270] KBCTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KBS.png
+[271].NTV.ke,[271] NTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NTS.png
+[272].KTN.ke,[272] KTN,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KTS.png
+[273].Citizen.TV.ke,[273] Citizen TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CTS.png
+[274].TV47.ke,[274] TV47,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T47.png
+[275].K24.ke,[275] K24,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K2W.png
+[276].Kameme.TV.ke,[276] Kameme TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KA7.png
+[283].NTVU.ke,[283] NTVU,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NAS.png
+[286].NBS.ke,[286] NBS,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NBW.png
+[290].TBC1.ke,[290] TBC1,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TAS.png
+[291].ZBC.TV.ke,[291] ZBC TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ZAW.png
+[292].Safari.TV.ke,[292] Safari TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SAW.png
+[295].TVE.Tanzania.ke,[295] TVE Tanzania,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TVS.png
+[296].Wasafi.TV.ke,[296] Wasafi TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WAW.png
+[298].Maboke.ke,[298] Maboke,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MBS.png
+[299].Rwanda.TV.ke,[299] Rwanda TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RBW.png
+[301].Cartoon.Network.ke,[301] Cartoon Network,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CA4.png
+[302].Cartoonito.ke,[302] Cartoonito,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BOW.png
+[303].Disney.Channel.ke,[303] Disney Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DNW.png
+[304].DreamWorks.ke,[304] DreamWorks,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DWS.png
+[305].Nickelodeon.ke,[305] Nickelodeon,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NIW.png
+[306].Cbeebies.ke,[306] Cbeebies,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CBS.png
+[307].NickJr.ke,[307] NickJr,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NJW.png
+[308].NickTOONS.ke,[308] NickTOONS,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NT7.png
+[309].Disney.Junior.ke,[309] Disney Junior,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DJW.png
+[310].Jim.Jam.ke,[310] Jim Jam,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/JJ7.png
+[311].Akili.Kids.ke,[311] Akili Kids,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AKW.png
+[314].Moonbug.ke,[314] Moonbug,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MBW.png
+[319].Mindset.ke,[319] Mindset,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ATW.png
+[322].Base.Pulse.ke,[322] Base Pulse,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S30.png
+[323].TRACE.Mziki.ke,[323] TRACE Mziki,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TR7.png
+[324].HIP.TV.ke,[324] HIP TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HI7.png
+[325].TRACE.Naija.ke,[325] TRACE Naija,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TRS.png
+[326].AFRO.Music.English.ke,[326] AFRO Music English,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AFE.png
+[327].Sound.City.ke,[327] Sound City,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SCW.png
+[332].Trace.Gospel.ke,[332] Trace Gospel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TG7.png
+[333].Trace.Jama.ke,[333] Trace Jama,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TGW.png
+[334].TRACE.Muzika.ke,[334] TRACE Muzika,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TE4.png
+[341].FAITH.ke,[341] FAITH,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TBN.png
+[342].Day.Star.ke,[342] Day Star,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DSW.png
+[343].TBN.ke,[343] TBN,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TBS.png
+[345].SBN.ke,[345] SBN,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SB7.png
+[347].ISLAM.CHANNEL.ke,[347] ISLAM CHANNEL,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ISW.png
+[348].Eternal.Word.Television.Network.ke,[348] Eternal Word Television Network,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EWW.png
+[349].Dove.TV.ke,[349] Dove TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DO7.png
+[352].World.Evangelism.TV.ke,[352] World Evangelism TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WE7.png
+[363].CHANNEL.ONE.TV.ke,[363] CHANNEL ONE TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CI7.png
+[368].Weru.TV.ke,[368] Weru TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WES.png
+[376].Y254.ke,[376] Y254,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/Y2W.png
+[396].TV10.ke,[396] TV10,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/R1W.png
+[397].Zacu.ke,[397] Zacu,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ZA7.png
+[400].BBC.World.News.ke,[400] BBC World News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BW4.png
+[401].CNN.International.ke,[401] CNN International,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CN4.png
+[402].Sky.News.ke,[402] Sky News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SKW.png
+[404].SABC.News.ke,[404] SABC News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SNW.png
+[405].Newzroom.Afrika.ke,[405] Newzroom Afrika,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NRH.png
+[406].Al.Jazeera.ke,[406] Al Jazeera,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ALW.png
+[409].CGTN.News.ke,[409] CGTN News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CT9.png
+[410].CNBC.Africa.ke,[410] CNBC Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CNS.png
+[411].Bloomberg.Television.ke,[411] Bloomberg Television,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BLW.png
+[413].NDTV.24x7.ke,[413] NDTV 24x7,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NDW.png
+[414].EuroNews.ke,[414] EuroNews,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EU7.png
+[416].Arise.News.ke,[416] Arise News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ARW.png
+[417].Africanews.ke,[417] Africanews,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NAW.png
+[421].Joy.News.ke,[421] Joy News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/JNW.png
+[422].News.Central.TV.ke,[422] News Central TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NC7.png
+[428].Sunu.Yeuf.ke,[428] Sunu Yeuf,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SY7.png
+[429].Mandeka.ke,[429] Mandeka,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAW.png
+[430].RAI.International.ke,[430] RAI International,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RA4.png
+[431].NHK.ke,[431] NHK,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NHW.png
+[437].TV5.Monde.Afrique.ke,[437] TV5 Monde Afrique,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TVK.png
+[438].EuroNews.French.ke,[438] EuroNews French,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EUS.png
+[444].CCTV.Entertainment.–.Mandarin.Entertainment.Channel.ke,[444] CCTV Entertainment – Mandarin Entertainment Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CTE.png
+[445].EuroNews.German.ke,[445] EuroNews German,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EU4.png
+[449].CGTN.French.ke,[449] CGTN French,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CC4.png
+[450].SET.Asia.ke,[450] SET Asia,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SY4.png
+[452].ZeeTV.ke,[452] ZeeTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ZW4.png
+[457].SET.Max.ke,[457] SET Max,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SXS.png
+[474].etv.News.ke,[474] etv News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ETW.png
+[556].RTPi.(P).ke,[556] RTPi (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RP4.png
+[579].TV.Mundial.(P).ke,[579] TV Mundial (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TMW.png
+[592].Trace.Brasil.ke,[592] Trace Brasil,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TBW.png
+[726].InfoSports+.ke,[726] InfoSports+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/IN7.png
+[738].France.2.ke,[738] France 2,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/F2S.png
+[741].Piwi+.ke,[741] Piwi+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TJS.png
+[743].FRANCE.24.ke,[743] FRANCE 24,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/F24.png

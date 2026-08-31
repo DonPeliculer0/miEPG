@@ -1,182 +1,169 @@
-# Fuente: https://www.tdtchannels.com/epg/TV.xml.gz
-La1.TV,La1.TV,
-La2.TV,La2.TV,
-Cuatro.TV,Cuatro.TV,
-Telecinco.TV,Telecinco.TV,
-FDF.TV,FDF.TV,
-Energy.TV,Energy.TV,
-Divinity.TV,Divinity.TV,
-Bemad.TV,Bemad.TV,
-DMax.TV,DMax.TV,
-13.TV,13.TV,
-ElToroTV.TV,ElToroTV.TV,
-TEN.TV,TEN.TV,
-DKISS.TV,DKISS.TV,
-24Horas.TV,24Horas.TV,
-Negocios.TV,Negocios.TV,
-TDP.TV,TDP.TV,
-GOL.TV,GOL.TV,
-E3.TV,E3.TV,
-RMTV.TV,RMTV.TV,
-Boing.TV,Boing.TV,
-Clan.TV,Clan.TV,
-CanalSurA.TV,CanalSurA.TV,
-AragonTV_INT.TV,AragonTV_INT.TV,
-AragonTV.TV,AragonTV.TV,
-Canarias.TV,Canarias.TV,
-CMM.TV,CMM.TV,
-La7.TV,La7.TV,
-TV3.TV,TV3.TV,
-324.TV,324.TV,
-C33.TV,C33.TV,
-SX3.TV,SX3.TV,
-BTV.TV,BTV.TV,
-Telemadrid.TV,Telemadrid.TV,
-LaOtra.TV,LaOtra.TV,
-NaTV.TV,NaTV.TV,
-APUNT.TV,APUNT.TV,
-8M.TV,8M.TV,
-Extremadura.TV,Extremadura.TV,
-TVGAL.TV,TVGAL.TV,
-TVG2.TV,TVG2.TV,
-IB3.TV,IB3.TV,
-TPA.TV,TPA.TV,
-7RM.TV,7RM.TV,
-ETB1.TV,ETB1.TV,
-ETB2.TV,ETB2.TV,
-TVC.TV,TVC.TV,
-TeleMadridInt.TV,TeleMadridInt.TV,
-ETBSAT.TV,ETBSAT.TV,
-CNNInt.TV,CNNInt.TV,
-AlJQ.TV,AlJQ.TV,
-France24.TV,France24.TV,
-TV5Monde.TV,TV5Monde.TV,
-CGTN.TV,CGTN.TV,
-Cubavision.TV,Cubavision.TV,
-TeleSUR.TV,TeleSUR.TV,
-Euronews.TV,Euronews.TV,
-Veo7.TV,Veo7.TV,
-Squirrel.TV,Squirrel.TV,
-AtlánticoTV.TV,AtlánticoTV.TV,
-CanalRed.TV,CanalRed.TV,
-RTVE_Promesa.TV,RTVE_Promesa.TV,
-RTVE_Epoca.TV,RTVE_Epoca.TV,
-RTVE_SomosCine.TV,RTVE_SomosCine.TV,
-RTVE_Cuentame.TV,RTVE_Cuentame.TV,
-RTVE_Series.TV,RTVE_Series.TV,
-RTVE_Cocina.TV,RTVE_Cocina.TV,
-RTVE_Moderna.TV,RTVE_Moderna.TV,
-Mitele_Calle.TV,Mitele_Calle.TV,
-Mitele_Viajes.TV,Mitele_Viajes.TV,
-Mitele_Comedia.TV,Mitele_Comedia.TV,
-Mitele_Series.TV,Mitele_Series.TV,
-Mitele_Eventos.TV,Mitele_Eventos.TV,
-Mitele_Eventos_2.TV,Mitele_Eventos_2.TV,
-Xarxa_Televisio_BDN.TV,Xarxa_Televisio_BDN.TV,
-Xarxa_Canal_Terres_Ebre.TV,Xarxa_Canal_Terres_Ebre.TV,
-Xarxa_Canal_Taronja_Anoia.TV,Xarxa_Canal_Taronja_Anoia.TV,
-Xarxa_El_9_TV.TV,Xarxa_El_9_TV.TV,
-Xarxa_Canal21_Ebre.TV,Xarxa_Canal21_Ebre.TV,
-Xarxa_Canal_Taronja_Central.TV,Xarxa_Canal_Taronja_Central.TV,
-Xarxa_TAC12.TV,Xarxa_TAC12.TV,
-Xarxa_Canal_Blau.TV,Xarxa_Canal_Blau.TV,
-Xarxa_Televisio_Ripolles.TV,Xarxa_Televisio_Ripolles.TV,
-Xarxa_Cugat_Media.TV,Xarxa_Cugat_Media.TV,
-Xarxa_ETV.TV,Xarxa_ETV.TV,
-Xarxa_TV_Sabadell_Valles.TV,Xarxa_TV_Sabadell_Valles.TV,
-Xarxa_Canal_Reus_TV.TV,Xarxa_Canal_Reus_TV.TV,
-Xarxa_TV_Girona.TV,Xarxa_TV_Girona.TV,
-Xarxa_VOTV.TV,Xarxa_VOTV.TV,
-Xarxa_TV_Bergueda.TV,Xarxa_TV_Bergueda.TV,
-Xarxa_Televisio_Hospitalet.TV,Xarxa_Televisio_Hospitalet.TV,
-Xarxa_LleidaTV.TV,Xarxa_LleidaTV.TV,
-Xarxa_EmpordaTV.TV,Xarxa_EmpordaTV.TV,
-Xarxa_Canal_10_Emporda.TV,Xarxa_Canal_10_Emporda.TV,
-Xarxa_Olot_TV.TV,Xarxa_Olot_TV.TV,
-Xarxa_Penedes_TV.TV,Xarxa_Penedes_TV.TV,
-Xarxa_Banyoles_TV.TV,Xarxa_Banyoles_TV.TV,
-Xarxa_TVMataro.TV,Xarxa_TVMataro.TV,
-Xarxa_TV_Costa_Brava.TV,Xarxa_TV_Costa_Brava.TV,
-Xarxa_Valles_Visio.TV,Xarxa_Valles_Visio.TV,
-Xarxa_Canal_Terrassa.TV,Xarxa_Canal_Terrassa.TV,
-ElConfidencial.TV,ElConfidencial.TV,
-ElPais.TV,ElPais.TV,
-La1_CAT.TV,La1_CAT.TV,
-La2_CAT.TV,La2_CAT.TV,
-La1_CAN.TV,La1_CAN.TV,
-La2_CAN.TV,La2_CAN.TV,
-24H_CAT.TV,24H_CAT.TV,
-7Televalencia.TV,7Televalencia.TV,
-OndaAlgeciras.TV,OndaAlgeciras.TV,
-TeleElx.TV,TeleElx.TV,
-Informacion.TV,Informacion.TV,
-Levante.TV,Levante.TV,
-7Rioja.TV,7Rioja.TV,
-PopularMU.TV,PopularMU.TV,
-Pirineus.TV,Pirineus.TV,
-OndaCadiz.TV,OndaCadiz.TV,
-La8CYL_Valla.TV,La8CYL_Valla.TV,
-La8CYL_Burgos.TV,La8CYL_Burgos.TV,
-Betis.TV,Betis.TV,
-SolMusica.TV,SolMusica.TV,
-BOM.TV,BOM.TV,
-24H_CAN.TV,24H_CAN.TV,
-Squirrel2.TV,Squirrel2.TV,
-TVE_INTER.TV,TVE_INTER.TV,
-TVE_STAR.TV,TVE_STAR.TV,
-RNE.TV,RNE.TV,
-RNE_Radio3.TV,RNE_Radio3.TV,
-RNE_Radio4.TV,RNE_Radio4.TV,
-RNE_Radio5.TV,RNE_Radio5.TV,
-Alacanti.TV,Alacanti.TV,
-Imas.TV,Imas.TV,
-Punt3.TV,Punt3.TV,
-Elche7.TV,Elche7.TV,
-Medi1.TV,Medi1.TV,
-TeleVigo.TV,TeleVigo.TV,
-ATVHD.TV,ATVHD.TV,
-MelillaTV.TV,MelillaTV.TV,
-Distrito.TV,Distrito.TV,
-EsTuTele.TV,EsTuTele.TV,
-Canal4_Tenerife.TV,Canal4_Tenerife.TV,
-7TV_Andalucía.TV,7TV_Andalucía.TV,
-ETB1ON.TV,ETB1ON.TV,
-ETB2ON.TV,ETB2ON.TV,
-ETBON_Vascos_mundo.TV,ETBON_Vascos_mundo.TV,
-ETBON_Conquistador.TV,ETBON_Conquistador.TV,
-ETBON_Herritxiki.TV,ETBON_Herritxiki.TV,
-ETBON_VayaSemanita.TV,ETBON_VayaSemanita.TV,
-ETBON_Oca1.TV,ETBON_Oca1.TV,
-ETBON_Oca2.TV,ETBON_Oca2.TV,
-RTVE_PopUp.TV,RTVE_PopUp.TV,
-RTVE_PopUp2.TV,RTVE_PopUp2.TV,
-RTVE_Conciertos_R3.TV,RTVE_Conciertos_R3.TV,
-RTVE_En_Play.TV,RTVE_En_Play.TV,
-Top_Barça.TV,Top_Barça.TV,
-InterAlmeria.TV,InterAlmeria.TV,
-El_Campo_Nuestro.TV,El_Campo_Nuestro.TV,
-Aragón_Noticias.TV,Aragón_Noticias.TV,
-Aragón_Deporte1.TV,Aragón_Deporte1.TV,
-Aragón_Deporte2.TV,Aragón_Deporte2.TV,
-Solidaria.TV,Solidaria.TV,
-La8CYL.TV,La8CYL.TV,
-PTV_Granada.TV,PTV_Granada.TV,
-PTV_Sevilla.TV,PTV_Sevilla.TV,
-PTV_Linares.TV,PTV_Linares.TV,
-PTV_Malaga.TV,PTV_Malaga.TV,
-HuelvaTV.TV,HuelvaTV.TV,
-Vision6.TV,Vision6.TV,
-Almería_24h.TV,Almería_24h.TV,
-TuyaLaJanda.TV,TuyaLaJanda.TV,
-DiezTV_Ubeda.TV,DiezTV_Ubeda.TV,
-DiezTV_LasVillas.TV,DiezTV_LasVillas.TV,
-DiezTV_Andujar.TV,DiezTV_Andujar.TV,
-EnergeekRetro.TV,EnergeekRetro.TV,
-EnergeekFan.TV,EnergeekFan.TV,
-PopularTV_S.TV,PopularTV_S.TV,
-BonDiaTV_CAT.TV,BonDiaTV_CAT.TV,
-OndaCero.TV,OndaCero.TV,
-Teleonuba.TV,Teleonuba.TV,
-CanalCosta.TV,CanalCosta.TV,
-Condavision.TV,Condavision.TV,
-Vinx.TV,Vinx.TV,
+# Fuente: https://github.com/matthuisman/i.mjh.nz/raw/master/DStv/za.xml
+101.dstv_com,M-Net HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png
+104.dstv_com,M Movies 1,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png
+106.dstv_com,M Movies 2,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png
+107.dstv_com,M Movies 3,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png
+108.dstv_com,M Movies 4,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png
+109.dstv_com,SWITCH’D ON Channel 109 (HD),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/35H.png
+110.dstv_com,SWITCH’D ON Channel 110 (HD),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/35K.png
+112.dstv_com,Studio Universal HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SUH.png
+113.dstv_com,MovieRoom,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/35E.png
+114.dstv_com,KIX,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ITH.png
+117.dstv_com,Universal TV HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/UHD.png
+118.dstv_com,TeleMundo English,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TEL.png
+119.dstv_com,BBC First HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B23.png
+120.dstv_com,BBC Brit HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B26.png
+121.dstv_com,Discovery Channel HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DHD.png
+122.dstv_com,Comedy Central,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CC7.png
+124.dstv_com,Bravo,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E26.png
+126.dstv_com,FOX Life,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/FOC.png
+128.dstv_com,WWE CHANNEL,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WWE.png
+129.dstv_com,BET,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BHD.png
+130.dstv_com,MTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MTV.png
+132.dstv_com,CBS Reality,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTK.png
+133.dstv_com,Novelas+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/630.png
+134.dstv_com,BBC UKTV HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/YHD.png
+135.dstv_com,TLC HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T32.png
+136.dstv_com,Discovery Family HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/F32.png
+137.dstv_com,TNT Africa HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TND.png
+138.dstv_com,eMovies,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E03.png
+140.dstv_com,eMovies Extra,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E05.png
+143.dstv_com,Magic Showcase,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SIK.png
+144.dstv_com,KykNET HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KHD.png
+145.dstv_com,KykNET &amp; Kie HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/K30.png
+146.dstv_com,KykNET Nou,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/KNM.png
+147.dstv_com,VIA HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/VHD.png
+148.dstv_com,KykNet Lekker,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/INM.png
+151.dstv_com,Africa Magic Showcase,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AME.png
+152.dstv_com,Africa Magic Epic,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/IA9.png
+154.dstv_com,Africa Magic Family,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/AFM.png
+155.dstv_com,Real Time,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTA.png
+157.dstv_com,Moja Love HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MOH.png
+158.dstv_com,Moja 9.9 HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M9H.png
+160.dstv_com,Star Khanya,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/STZ.jpg
+161.dstv_com,Mzansi Magic HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZH.png
+163.dstv_com,Mzansi Wethu HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png
+164.dstv_com,Mzansi Bioskop,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZB.png
+166.dstv_com,Zee World HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M11.png
+167.dstv_com,Star Life HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H26.png
+168.dstv_com,ROK,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/19K.png
+169.dstv_com,Zee Zonke HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/7ZH.png
+170.dstv_com,CBS Justice HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CJH.png
+171.dstv_com,Discovery ID,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png
+174.dstv_com,BBC Lifestyle,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BBL.png
+175.dstv_com,Food Network HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/F26.png
+176.dstv_com,The Home Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HCH.png
+177.dstv_com,HGTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/Z26.png
+179.dstv_com,Travel Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TRV.png
+181.dstv_com,National Geographic Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WHD.png
+182.dstv_com,NatGeo Wild,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/N26.png
+183.dstv_com,WildEarth,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/WEH.png
+184.dstv_com,BBC Earth HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ETH.png
+185.dstv_com,Curiosity Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CSH.png
+186.dstv_com,History HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H23.png
+189.dstv_com,IGNITION,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ITV.png
+190.dstv_com,Spice TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SPI.png
+191.dstv_com,SABC 1 HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B1C.png
+192.dstv_com,SABC 2 HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B2C.png
+193.dstv_com,SABC 3 HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B3C.png
+194.dstv_com,e.TV HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDE.png
+195.dstv_com,eExtra HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E01.png
+198.dstv_com,Big Brother Naija,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MDH.png
+199.dstv_com,SS Events,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M30.png
+200.dstv_com,BLITZ,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png
+201.dstv_com,GRANDSTAND,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png
+202.dstv_com,PSL,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png
+203.dstv_com,SS Premier League,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png
+204.dstv_com,SS La Liga,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png
+205.dstv_com,SS Football,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png
+206.dstv_com,SS Football Plus,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/9HD.png
+207.dstv_com,SS Kickoff,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD5.png
+208.dstv_com,SS Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/34S.png
+209.dstv_com,SS Action,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png
+210.dstv_com,SS Extra,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD6.png
+211.dstv_com,RUGBY,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png
+212.dstv_com,CRICKET,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png
+213.dstv_com,GOLF,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EDH.png
+214.dstv_com,TENNIS,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png
+215.dstv_com,MOTORSPORT,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png
+216.dstv_com,SuperSport School HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/35L.png
+217.dstv_com,SS UHD TEST,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/UH1.png
+217.dstv_com,SS UHD TEST,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/UH1.png
+218.dstv_com,ESPN HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I26.png
+219.dstv_com,ESPN 2 HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SDN.png
+236.dstv_com,Sporty TV+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CRH.png
+240.dstv_com,Racing 240,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DCH.png
+241.dstv_com,MAXIMO 1,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/XHD.png
+251.dstv_com,Soweto TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/STV.png
+260.dstv_com,Mpuma Kapa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TVB.png
+261.dstv_com,1 KZN,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/1KZ.png
+262.dstv_com,Tshwane TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TSH.png
+263.dstv_com,Cape Town TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CTV.png
+265.dstv_com,GauTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/GAU.png
+292.dstv_com,Lesotho TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/LTV.png
+299.dstv_com,NTA I,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NTA.png
+300.dstv_com,Playroom,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/V30.png
+301.dstv_com,Cartoon Network HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CHD.png
+302.dstv_com,Cartoonito,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/33B.png
+303.dstv_com,Disney Channel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SO8.png
+304.dstv_com,DreamWorks,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/FHD.png
+305.dstv_com,Nickelodeon,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NIK.png
+306.dstv_com,Cbeebies,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CBB.png
+307.dstv_com,NickJr,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NJR.png
+308.dstv_com,NickTOONS,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NTO.png
+309.dstv_com,Disney Junior,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DPH.png
+310.dstv_com,Jim Jam,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/JJM.png
+311.dstv_com,eToonz,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E06.png
+314.dstv_com,Moonbug,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ROK.png
+319.dstv_com,Mindset,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E11.png
+320.dstv_com,Channel O HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/OHD.png
+321.dstv_com,Mzansi Music,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ZMD.png
+322.dstv_com,MTV base,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CSN.png
+322.dstv_com,MTV base,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CSN.png
+325.dstv_com,TRACE URBAN HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/T26.png
+326.dstv_com,Trace Ngoma,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/8GT.png
+327.dstv_com,Sound City,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MM2.png
+331.dstv_com,One Gospel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/GOS.png
+332.dstv_com,Trace Gospel,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TG2.png
+340.dstv_com,Dumisa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DUM.png
+341.dstv_com,FAITH,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TBK.png
+342.dstv_com,Day Star,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DW5.png
+343.dstv_com,TBN,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TB1.png
+345.dstv_com,iNX Prime,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/INX.png
+347.dstv_com,Hilaal TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/IST.png
+400.dstv_com,BBC World News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BB8.png
+401.dstv_com,CNN International HD,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CNN.png
+402.dstv_com,Sky News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S33.png
+403.dstv_com,eNCA,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ENH.png
+404.dstv_com,SABC News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SAN.png
+405.dstv_com,Newzroom Afrika,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NZD.png
+406.dstv_com,Al Jazeera,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ALJ.png
+407.dstv_com,Russia Today,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EVE.png
+408.dstv_com,Parliamentary Service,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/PAR.png
+409.dstv_com,CGTN News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CC9.png
+410.dstv_com,CNBC Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CN8.png
+411.dstv_com,Bloomberg Television,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/BLO.png
+412.dstv_com,Business Day,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ABC.png
+413.dstv_com,NDTV 24x7,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DEE.png
+414.dstv_com,EuroNews Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EN1.png
+416.dstv_com,Arise News,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B4K.png
+417.dstv_com,Africanews,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CEE.png
+430.dstv_com,RAI International,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RAI.png
+431.dstv_com,NHK,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EEB.png
+435.dstv_com,RTPI,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTP.png
+437.dstv_com,TV5 Monde Afrique,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TVK.png
+447.dstv_com,CCTV 4,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SHO.png
+450.dstv_com,SET Asia,
+452.dstv_com,ZeeTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ZEE.png
+453.dstv_com,Star Plus,
+454.dstv_com,Sun TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DOO.png
+455.dstv_com,Star Vijay,
+456.dstv_com,Colors,
+457.dstv_com,SET Max,
+460.dstv_com,Zee Cinema,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/FTV.png
+489.dstv_com,Maaddii Abol,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MA7.png
+510.dstv_com,Telemundo (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TEP.png
+512.dstv_com,My Channel Africa,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTD.png
+517.dstv_com,SIC Internacional (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SIK.png
+560.dstv_com,TV Mozambique Internacional (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TMI.png
+877.dstv_com,Kosmos 94.1,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/R09.png
