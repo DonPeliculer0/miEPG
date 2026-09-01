@@ -163,15 +163,11 @@ NBA.TV.HD.us2,NBA.TV.HD.us2
 Spectrum.SportsNet.Lakers.HD.us2,Spectrum.SportsNet.Lakers.HD.us2
 NBA-LosAngelesLakers.us,NBA-LosAngelesLakers.us
 NBA-NewYorkKnicks.us,NBA-NewYorkKnicks.us
-,+24 (1)
-,+24 (2)
-,+24 (3)
-,+24 (4)
 3CatInfo,3CatInfo
 67517fae5534bb0008187997,Actualidad 360
 EbS.be,EbS Live
 EbSPlus.be,EbS+ Live
-Canal.Parlamento.es,Canal.Parlamento.es
+CanalParlamento.es,Canal Parlamento.es
 ,Canal Sur Mas Noticias
 643054b1fc3be59477853717-60089d97f682a3002c34829d,Euronews Español
 EuroNews,Euronews
@@ -231,8 +227,8 @@ ESBC2100001IU,Vevo Pop
 IN8000010D,Thats 70s
 GBBC900003B2,Thats 80s
 GB30033HI,Thats 90s00s 
-ES:.NOW.70s.be,Now 70s
-ES:.NOW.80s.be,Now 80s
+NOW70s.es,NOW 70's.es
+NOW80s.es,NOW 80's.es
 ES:.NOW.90s00s.be,Now 90s00s
 6076cd1df8576d0007c82193,VH1 Classics
 Očko.Star.HD.sk,Ocko Star
@@ -240,7 +236,7 @@ RETRO.Music.TV.sk,Retro Music TV
 ,Retro Plus TV 
 ALL.FLAMENCO_.fr,All Flamenco
 TheCountryNetwork.us@SD,The Country Network
-Djazz.distro,DJazz
+Djazz.es,Djazz.es
 Deluxe.Lounge.de,Deluxe Lounge
 PL:.Movie.Music.By.Stingray.be,Movie Music by Stingray
 Stingray Classica,Stingray Classica
@@ -290,11 +286,6 @@ La 8 Salamanca,La 8 Salamanca
 La 8 Segovia,La 8 Segovia
 La 8 Soria,La 8 Soria
 La 8 Zamora,La 8 Zamora
-,Junta de Castilla y Leon 
-,Cortes Castilla y Leon | Hemiciclo
-,Cortes Castilla y Leon | Sala Campos de Castilla
-,Cortes Castilla y Leon | Sala Cortes de Leon
-,Cortes Castilla y Leon | Sala Castillo de Fuensaldana
 ElPais.TV,ElPais.TV
 ElConfidencial.TV,ElConfidencial.TV
 Negocios TV,Negocios TV
@@ -309,8 +300,8 @@ ESBC3500002PW,Ideas en 5 minutos Samsung TV
 690dd10a37b131228d76d5b1,El Mueble
 Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV)
 ESBC4700002TD,Love the planet
-643054b1fc3be59477853717-61e9d9979da6ee6e05278269,Wellbeing TV
-,Armonia Teve Sana
+MyZenTV.es,MyZen TV.es
+ArmoniaTeVeSana.es,Armonía TeVe Sana.es
 ,FitDance 
 Fashion TV (Rakuten TV),Fashion TV
 ES42000022E,Xataka
@@ -325,7 +316,6 @@ USAJ3400014LK,Weather Spy
 DroneTV.distro,Drone TV
 69b3db5d61e8e298254c7108,Space Live
 ,NASA TV
-,NASA TV ISS Live
 61cd7b49543066000713b620,Pluto TV Historia
 Historia y Vida,Historia y Vida
 64ddcbb14c5ed80008fad416,Crimen e Historia
@@ -334,11 +324,12 @@ Tuning,Tuning
 Motorvision,Motorvision
 Kaloopy.distro,Kaloopy
 61922be835f3910007fc58f6,En el punto de mira
-,Sin filtros
+SinFiltros.es,Sin Filtros.es
 ES:.Oficios.Perdidos.be,Oficios perdidos
+OficiosPerdidos.es,Oficios Perdidos.es
 Vivir con gatos,Vivir con gatos
 Vivir con perros,Vivir con perros
-ES1400002CJ,Curiosity Animales
+CURIOSITYNow.es,CURIOSITY Now.es
 5f1abce155a03d0007718834,Comedia Made in Spain
 604f8125c6669b00077f7699,Wipeout
 ES1600006S8,LOL España
@@ -531,25 +522,14 @@ ES:.A.bocados.be,A bocados
 Canal.Elgourmet.ar,El Gourmet
 Food.Network.HD.us2,Food.Network.HD.us2
 643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6,Saborear TV
-643054b1fc3be59477853717-5f07e9fdf313eb0041bbecda,Cooking Panda
-Viajes y Sabores,Viajes y Sabores
+CookingPanda.es,Cooking Panda.es
+ViajesYSabores.es,Viajes y Sabores.es
 Love Wine,Love Wine
 643054b1fc3be59477853717-68645f7c1a2f321847ec0393,Wineman
-,+24
-,+24
-,+24
-,+24
-,tdp 2
-,tdp 3
-,tdp 4
-,tdp play
-,tdp play
-,tdp play
-,tdp play
-,tdp play
 TVE.Internacional.ch,TVE Internacional Europa (Web)
 Canal.TVE.Internacional.(Televisión.Española).ar,TVE Internacional America
 TVE.Internacional.Asia.es,TVE Internacional Asia Oceania (Web)
+TVEInternacionalAsia.es,TVE Internacional Asia.es
 Star TVE HD,Star TVE Europa
 Star.TVE.HD.co,Star TVE America
 /esaguila-roja,Aguila Roja (Rakuten TV)
@@ -914,3 +894,9 @@ DAZN NFL 12,DAZN NFL | Eventos 12
 DAZN NFL 13,DAZN NFL | Eventos 13
 DAZN NFL 14,DAZN NFL | Eventos 14
 DAZN NFL 15,DAZN NFL | Eventos 15
+
+InglesTotal.es,Inglés Total.es
+ITAAvanzado.es,ITA Avanzado.es
+ITAIntermedio.es,ITA Intermedio.es
+ITAPrincipiante.es,ITA Principiante.es
+VaughanTV.es,Vaughan TV.es
