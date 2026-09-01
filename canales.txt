@@ -528,7 +528,7 @@ Love Wine,Love Wine
 643054b1fc3be59477853717-68645f7c1a2f321847ec0393,Wineman
 TVE.Internacional.ch,TVE Internacional Europa (Web)
 Canal.TVE.Internacional.(Televisión.Española).ar,TVE Internacional America
-TVE.Internacional.Asia.es,TVE Internacional Asia Oceania (Web)
+TVE.Internacional.Asia.es,TVE.Internacional.Asia.es
 TVEInternacionalAsia.es,TVE Internacional Asia.es
 Star TVE HD,Star TVE Europa
 Star.TVE.HD.co,Star TVE America
