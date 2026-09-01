@@ -530,9 +530,9 @@ TVE.Internacional.ch,TVE Internacional Europa
 Canal.TVE.Internacional.(Televisión.Española).ar,TVE Internacional America
 TVE.Internacional.Asia.es,TVE Internacional Asia
 TVEInternacionalAsia.es,TVE Internacional Asia
+Star.TVE.HD.co,Star TVE America
 Star TVE HD,Star TVE Europa
 STAR.TVE.fr,Star TVE Europa
-Star.TVE.HD.co,Star TVE America
 /esaguila-roja,Aguila Roja (Rakuten TV)
 6812206e1b3e3be031a5c363,Águila Roja (Pluto TV)
 ES500005BP,Águila Roja (Samsung TV)
