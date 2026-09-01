@@ -33,5 +33,4 @@ https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz
-https://www.open-
-epg.com/generate/R97H5BC8fg.xml.gz
+https://www.open-epg.com/generate/R97H5BC8fg.xml.gz
