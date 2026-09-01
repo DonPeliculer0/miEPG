@@ -231,6 +231,7 @@ NOW70s.es,NOW 70's.es
 NOW80s.es,NOW 80's.es
 ES:.NOW.90s00s.be,Now 90s00s
 6076cd1df8576d0007c82193,VH1 Classics
+VH1ClassicUSA.gt,VH1 Classics
 Očko.Star.HD.sk,Ocko Star
 RETRO.Music.TV.sk,Retro Music TV
 ,Retro Plus TV 
