@@ -526,11 +526,12 @@ CookingPanda.es,Cooking Panda.es
 ViajesYSabores.es,Viajes y Sabores.es
 Love Wine,Love Wine
 643054b1fc3be59477853717-68645f7c1a2f321847ec0393,Wineman
-TVE.Internacional.ch,TVE Internacional Europa (Web)
+TVE.Internacional.ch,TVE Internacional Europa
 Canal.TVE.Internacional.(Televisión.Española).ar,TVE Internacional America
-TVE.Internacional.Asia.es,TVE.Internacional.Asia.es
-TVEInternacionalAsia.es,TVE Internacional Asia.es
+TVE.Internacional.Asia.es,TVE Internacional Asia
+TVEInternacionalAsia.es,TVE Internacional Asia
 Star TVE HD,Star TVE Europa
+STAR.TVE.fr,Star TVE Europa
 Star.TVE.HD.co,Star TVE America
 /esaguila-roja,Aguila Roja (Rakuten TV)
 6812206e1b3e3be031a5c363,Águila Roja (Pluto TV)
