@@ -1,8 +1,11 @@
 # Fuente: https://www.open-epg.com/generate/R97H5BC8fg.xml.gz
+El Gourmet.mx,El Gourmet.mx,https://images.open-epg.com/18727.png
+GUSTO TV.mx,GUSTO TV.mx,https://images.open-epg.com/19710632.png
 ArmoniaTeVeSana.es,Armonía TeVe Sana.es,https://images.open-epg.com/4932.png
 CanalParlamento.es,Canal Parlamento.es,https://images.open-epg.com/17504.png
 CookingPanda.es,Cooking Panda.es,https://images.open-epg.com/4976.png
 CURIOSITYNow.es,CURIOSITY Now.es,https://images.open-epg.com/18549625.png
+DFBPlayTV.es,DFB Play TV.es,https://images.open-epg.com/x2086.png
 Djazz.es,Djazz.es,https://images.open-epg.com/x2080.png
 FilmYCo.es,Film&amp;Co.es,https://images.open-epg.com/5016.png
 InglesTotal.es,Inglés Total.es,https://images.open-epg.com/5031.png
@@ -14,8 +17,35 @@ MyZenTV.es,MyZen TV.es,https://images.open-epg.com/17606.png
 NOW70s.es,NOW 70&apos;s.es,https://images.open-epg.com/5068.png
 NOW80s.es,NOW 80&apos;s.es,https://images.open-epg.com/5069.png
 OficiosPerdidos.es,Oficios Perdidos.es,https://images.open-epg.com/5073.png
-SICNoticias.es,SIC Noticias.es,https://images.open-epg.com/5110.png
 SinFiltros.es,Sin Filtros.es,https://images.open-epg.com/5111.png
 TVEInternacionalAsia.es,TVE Internacional Asia.es,https://images.open-epg.com/17655.png
 VaughanTV.es,Vaughan TV.es,https://images.open-epg.com/x2060.png
 ViajesYSabores.es,Viajes y Sabores.es,https://images.open-epg.com/x2059.png
+TV2Charlie.dk,TV2 Charlie.dk,https://images.open-epg.com/x1907.png
+Baywatch.uk,Baywatch.uk,https://images.open-epg.com/19029.png
+BBCFour.uk,BBC Four.uk,https://images.open-epg.com/x373.png
+BBCFourCBeebies.uk,BBC Four / CBeebies.uk,https://images.open-epg.com/x373.png
+BBCNews.uk,BBC News.uk,https://images.open-epg.com/x374.png
+BBCOne.uk,BBC One.uk,https://images.open-epg.com/x364.png
+BBCParliament.uk,BBC Parliament.uk,https://images.open-epg.com/x375.png
+BBCThree.uk,BBC Three.uk,https://images.open-epg.com/x372.png
+BBCThreeCBBC.uk,BBC Three / CBBC.uk,https://images.open-epg.com/x372.png
+BBCTwo.uk,BBC Two.uk,https://images.open-epg.com/x368.png
+BBCWorldService.uk,BBC World Service.uk,https://images.open-epg.com/x507.png
+FoodNetwork.uk,Food Network.uk,https://images.open-epg.com/16073.png
+FoodNetworkPlus1.uk,Food Network +1.uk,https://images.open-epg.com/16074.png
+GreatBritishMenu.uk,Great British Menu.uk,https://images.open-epg.com/19078.png
+ITV1London.uk,ITV1 London.uk,https://images.open-epg.com/x379.png
+ITV2.uk,ITV2.uk,https://images.open-epg.com/x381.png
+ITV3.uk,ITV3.uk,https://images.open-epg.com/x382.png
+ITV4.uk,ITV4.uk,https://images.open-epg.com/x383.png
+ITVQuiz.uk,ITV Quiz.uk,https://images.open-epg.com/x384.png
+LaLigaTV.uk,La Liga TV.uk,https://images.open-epg.com/x515.png
+Now70s.uk,Now 70s.uk,https://images.open-epg.com/16165.png
+Now80s.uk,Now 80s.uk,https://images.open-epg.com/16166.png
+Now90s00s.uk,Now 90s And 00s.uk,https://images.open-epg.com/16168.png
+Thats70s.uk,That&apos;s 70s.uk,https://images.open-epg.com/x2168.png
+ElGourmet.ar,El Gourmet.ar,https://images.open-epg.com/35622.png
+NBATV.ar,NBA TV.ar,https://images.open-epg.com/16782361.png
+TeleSUR.ar,TeleSUR.ar,https://images.open-epg.com/25850.png
+StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
