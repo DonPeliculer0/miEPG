@@ -421,7 +421,6 @@ Runtime Series,Runtime Series
 683457aebbc703dfd45a89eb,Merlí Pluto TV
 643054b1fc3be59477853717-68645a8619cc2e163e38d161,Merlí Rakuten TV
 676e7b4a4bd636000819c6a7,SensaCine TV x Pluto
-plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
 TV.2.Charlie.dk,Charlie
 TV.2.Charlie.Denmark.(DK,DA).no,Charlie
 Distrito TV,Distrito TV
@@ -513,6 +512,7 @@ ESBD3200002V5,La Abeja Maya
 Solidaria TV España,Solidaria TV España
 ES:.A.bocados.be,A bocados
 5f1acdaa8ba90f0007d5e760,Pluto TV Cocina
+ESAJ3800007PC,ESAJ3800007PC
 ,Canal Andalucia Cocina
 ,Cocina Familiar 
 ,Cocina Mediterranea
