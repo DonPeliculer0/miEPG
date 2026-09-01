@@ -531,6 +531,7 @@ Canal.TVE.Internacional.(Televisión.Española).ar,TVE Internacional America
 TVE.Internacional.Asia.es,TVE Internacional Asia
 TVEInternacionalAsia.es,TVE Internacional Asia
 StarTVE.pe,Star TVE America
+Canal.Star.TVE.sv,Star TVE America
 Star.TVE.HD.co,Star TVE America
 Star TVE HD,Star TVE Europa
 STAR.TVE.fr,Star TVE Europa
