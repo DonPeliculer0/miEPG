@@ -306,6 +306,7 @@ Estilo y Vida (Rakuten TV),Estilo y Vida (Rakuten TV)
 ESBC4700002TD,Love the planet
 MyZenTV.es,MyZen TV.es
 ArmoniaTeVeSana.es,Armonía TeVe Sana.es
+Armonía TeVe Sana.es,Armonía TeVe Sana.es
 ,FitDance 
 Fashion TV (Rakuten TV),Fashion TV
 ES42000022E,Xataka
