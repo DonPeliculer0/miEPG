@@ -423,6 +423,7 @@
 60cb6df2b2ad610008cd5bea,CBS News Sacramento,https://images.pluto.tv/channels/60cb6df2b2ad610008cd5bea/colorLogoPNG.png
 632b619c8d2a6c0007ff534e,KIRO Seattle,https://images.pluto.tv/channels/632b619c8d2a6c0007ff534e/colorLogoPNG.png
 5eceb0d4065c240007688ec6,CBS News Texas,https://images.pluto.tv/channels/5eceb0d4065c240007688ec6/colorLogoPNG.png
+66ba1f16cd0d3100086dcf22,Alien Files Unsealed,https://images.pluto.tv/channels/66ba1f16cd0d3100086dcf22/colorLogoPNG_1788298523404.png
 67f4ffda8ddd60c57dc24e35,Pluto TV Creature Features,https://images.pluto.tv/channels/67f4ffda8ddd60c57dc24e35/colorLogoPNG_1747213241493.png
 67f4fde1fbe45309c7699d6f,Pluto TV Masters of Horror,https://images.pluto.tv/channels/67f4fde1fbe45309c7699d6f/colorLogoPNG_1747213230911.png
 67f4ff72dea1c5e0d5c205fe,Pluto TV Slasher Movies,https://images.pluto.tv/channels/67f4ff72dea1c5e0d5c205fe/colorLogoPNG_1747147418647.png
