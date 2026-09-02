@@ -1,0 +1,6 @@
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz
+Deluxe.Dance.de,Deluxe Dance,https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_KONTOR_RGB-1.png
+Deluxe.Flashback.de,Deluxe Flashback,https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png
+Deluxe.Lounge.de,Deluxe Lounge,https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLXM_LOUNGE_LOGO.png
+Deluxe.Rap.de,Deluxe Rap,https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_RAP_LOGO_RGB-1.png
+Deluxe.Rock.de,Deluxe Rock,https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_ROCK_LOGO_RGB-1.png
