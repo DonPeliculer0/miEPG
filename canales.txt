@@ -543,6 +543,7 @@ Star TVE.pe,Star TVE America
 Canal.Star.TVE.sv,Star TVE America
 Star.TVE.HD.co,Star TVE America
 Star TVE HD,Star TVE Europa
+Star TVE,Star TVE Europa
 STAR.TVE.fr,Star TVE Europa
 /esaguila-roja,Aguila Roja (Rakuten TV)
 6812206e1b3e3be031a5c363,Águila Roja (Pluto TV)
