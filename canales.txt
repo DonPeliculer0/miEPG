@@ -229,9 +229,12 @@ GBBC900003B2,Thats 80s
 GB30033HI,Thats 90s00s 
 NOW70s.es,NOW 70s.es
 NOW80s.es,NOW 80s.es
+Now90s00s.uk,Now 90s00s
+Now 90s And 00s.uk,Now 90s00s
 ES:.NOW.90s00s.be,Now 90s00s
 6076cd1df8576d0007c82193,VH1 Classics
-VH1ClassicUSA.gt,VH1 Classics
+VH1ClassicUSA.gt,VH1 Classic USA.gt
+VH1 Classic USA.gt,VH1 Classics
 Očko.Star.HD.sk,Ocko Star
 RETRO.Music.TV.sk,Retro Music TV
 ,Retro Plus TV 
@@ -330,7 +333,8 @@ ES:.Oficios.Perdidos.be,Oficios perdidos
 OficiosPerdidos.es,Oficios Perdidos.es
 Vivir con gatos,Vivir con gatos
 Vivir con perros,Vivir con perros
-CURIOSITYNow.es,CURIOSITY Now.es
+CURIOSITYNow.es,Curiosity Animales
+CURIOSITY Now.es,Curiosity Animales
 5f1abce155a03d0007718834,Comedia Made in Spain
 604f8125c6669b00077f7699,Wipeout
 ES1600006S8,LOL España
@@ -519,7 +523,8 @@ ESAJ3800007PC,ESAJ3800007PC
 ,Cocina Mediterranea
 ,Fusion
 643054b1fc3be59477853717-65cd316a40ab06259e8168a0,Tastemade en Español
-643054b1fc3be59477853717-5f8746eabd529300418246d9,GUSTOTV
+643054b1fc3be59477853717-5f8746eabd529300418246d9,GUSTO TV
+GUSTO TV.mx,GUSTO TV
 Canal.Elgourmet.ar,El Gourmet
 Food.Network.HD.us2,Food.Network.HD.us2
 643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6,Saborear TV
@@ -530,8 +535,10 @@ Love Wine,Love Wine
 TVE.Internacional.ch,TVE Internacional Europa
 Canal.TVE.Internacional.(Televisión.Española).ar,TVE Internacional America
 TVE.Internacional.Asia.es,TVE Internacional Asia
+TVE Internacional Asia.es,TVE Internacional Asia
 TVEInternacionalAsia.es,TVE Internacional Asia
 StarTVE.pe,Star TVE America
+Star TVE.pe,Star TVE America
 Canal.Star.TVE.sv,Star TVE America
 Star.TVE.HD.co,Star TVE America
 Star TVE HD,Star TVE Europa
