@@ -1,3 +1,0 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz
-AlJazeera.Arabic.net,AlJazeera Arabic,http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png
-AlJazeera.English.net,AlJazeera English,http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png
