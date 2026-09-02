@@ -577,11 +577,19 @@ FoQ,FoQ
 Kidz,Kidz
 ,Gran Hermano 24h
 BBCOneHD.uk,BBCOneHD.uk
+BBCOne.uk,BBCOneHD.uk
+BBC One.uk,BBCOneHD.uk
 BBC2.uk,BBC2.uk
+BBCTwo.uk,BBC2.uk
+BBC TWO.uk,BBC2.uk
 BBCThree.uk,BBCThree.uk
 BBC4.uk,BBC4.uk
+BBCFourCBeebies.uk,BBC4.uk
+BBC Four / CBeebies.uk,BBC4.uk
 BBCParliament.uk,BBCParliament.uk
 BBCNEWS,BBCNEWS
+BBCNews.uk,BBCNEWS
+BBC News.uk,BBCNEWS
 BBCWORLDNEWS,BBCWORLDNEWS
 plex.tv.BBC.Food.plex,plex.tv.BBC.Food.plex
 plex.tv.BBC.Travel.plex,plex.tv.BBC.Travel.plex
