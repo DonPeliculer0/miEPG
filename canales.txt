@@ -914,7 +914,12 @@ DAZN NFL 13,DAZN NFL | Eventos 13
 DAZN NFL 14,DAZN NFL | Eventos 14
 DAZN NFL 15,DAZN NFL | Eventos 15
 InglesTotal.es,Inglés Total.es
+Inglés Total.es,Inglés Total.es
 ITAAvanzado.es,ITA Avanzado.es
+ITA Avanzado.es,ITA Avanzado.es
 ITAIntermedio.es,ITA Intermedio.es
+ITA Intermedio.es,ITA Intermedio.es
 ITAPrincipiante.es,ITA Principiante.es
+ITA Principiante.es,ITA Principiante.es
 VaughanTV.es,Vaughan TV.es
+Vaughan TV.es,Vaughan TV.es
