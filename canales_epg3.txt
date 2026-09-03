@@ -1323,7 +1323,7 @@
 5f4fb4cf605ddf000748e16f,Babyfirst,https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png
 64e50055286f6b000838c067,Teletubbies,https://images.pluto.tv/channels/64e50055286f6b000838c067/colorLogoPNG.png
 645951c0e94c38000802d2cb,Nickelodeon Toons,https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png
-6824ce10c5d53e1351ceb8d1,Nickelodeon Clássico,https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1750111537223.png
+6824ce10c5d53e1351ceb8d1,Nickelodeon Clássico,https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/colorLogoPNG_1788384899252.png
 62545c0b002f4b0007688b61,Bob Esponja Calça Quadrada,https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png
 63221e41af69b500076f84e7,Os Padrinhos Mágicos,https://images.pluto.tv/channels/63221e41af69b500076f84e7/colorLogoPNG.png
 63dd5c904e83e700088fb68a,As Tartarugas Ninja,https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG_1768926936698.png

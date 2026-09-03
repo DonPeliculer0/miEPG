@@ -57,7 +57,7 @@ English.Club.HD.sk,English Club HD,https://files.cdn.magio.tv/tv_logos/english-c
 Epic.Drama.HD.sk,Epic Drama HD,https://files.cdn.magio.tv/tv_logos/viasat-epic-drama-hd.png
 Erox.HD.sk,Erox HD,https://files.cdn.magio.tv/tv_logos/erox-hd.png
 Eroxxx.HD.sk,Eroxxx HD,https://files.cdn.magio.tv/tv_logos/eroxxx-hd.png
-Euronews.sk,Euronews,https://files.cdn.magio.tv/tv_logos/euronews.png
+Euronews.sk,Euronews,
 Eurosport.1.HD.sk,Eurosport 1 HD,https://files.cdn.magio.tv/tv_logos/eurosport-1-hd.png
 Eurosport.2.HD.sk,Eurosport 2 HD,https://files.cdn.magio.tv/tv_logos/eurosport-2-hd.png
 Extreme.sports.sk,Extreme sports,https://files.cdn.magio.tv/tv_logos/extreme-sports.png

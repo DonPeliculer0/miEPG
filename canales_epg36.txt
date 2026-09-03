@@ -1,6 +1,7 @@
 # Fuente: https://www.open-epg.com/generate/R97H5BC8fg.xml.gz
 El Gourmet.mx,El Gourmet.mx,https://images.open-epg.com/18727.png
 GUSTO TV.mx,GUSTO TV.mx,https://images.open-epg.com/19710632.png
+VH1ClassicUSA.gt,VH1 Classic USA.gt,https://images.open-epg.com/18896.png
 ArmoniaTeVeSana.es,Armonía TeVe Sana.es,https://images.open-epg.com/4932.png
 CanalParlamento.es,Canal Parlamento.es,https://images.open-epg.com/17504.png
 CookingPanda.es,Cooking Panda.es,https://images.open-epg.com/4976.png
@@ -21,7 +22,11 @@ SinFiltros.es,Sin Filtros.es,https://images.open-epg.com/5111.png
 TVEInternacionalAsia.es,TVE Internacional Asia.es,https://images.open-epg.com/17655.png
 VaughanTV.es,Vaughan TV.es,https://images.open-epg.com/x2060.png
 ViajesYSabores.es,Viajes y Sabores.es,https://images.open-epg.com/x2059.png
-TV2Charlie.dk,TV2 Charlie.dk,https://images.open-epg.com/x1907.png
+StarTVE.pe,Star TVE.pe,https://images.open-epg.com/x1392.png
+ElGourmet.ar,El Gourmet.ar,https://images.open-epg.com/35622.png
+NBATV.ar,NBA TV.ar,https://images.open-epg.com/16782361.png
+TeleSUR.ar,TeleSUR.ar,https://images.open-epg.com/25850.png
+StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
 Baywatch.uk,Baywatch.uk,https://images.open-epg.com/19029.png
 BBCFour.uk,BBC Four.uk,https://images.open-epg.com/x373.png
 BBCFourCBeebies.uk,BBC Four / CBeebies.uk,https://images.open-epg.com/x373.png
@@ -45,7 +50,3 @@ Now70s.uk,Now 70s.uk,https://images.open-epg.com/16165.png
 Now80s.uk,Now 80s.uk,https://images.open-epg.com/16166.png
 Now90s00s.uk,Now 90s And 00s.uk,https://images.open-epg.com/16168.png
 Thats70s.uk,That&apos;s 70s.uk,https://images.open-epg.com/x2168.png
-ElGourmet.ar,El Gourmet.ar,https://images.open-epg.com/35622.png
-NBATV.ar,NBA TV.ar,https://images.open-epg.com/16782361.png
-TeleSUR.ar,TeleSUR.ar,https://images.open-epg.com/25850.png
-StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
