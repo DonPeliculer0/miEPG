@@ -327,6 +327,8 @@ Historia y Vida,Historia y Vida
 Sangre Fría,Sangre Fría
 Tuning,Tuning
 Motorvision,Motorvision
+DISTROTV1#Kaloopy.distro,Kaloopy
+Kaloopy,Kaloopy
 Kaloopy.distro,Kaloopy
 61922be835f3910007fc58f6,En el punto de mira
 SinFiltros.es,Sin Filtros.es
