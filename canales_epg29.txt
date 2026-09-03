@@ -156,11 +156,11 @@ Al.Sumaria.TV.ae,Al Sumaria TV,https://www.sat.tv/wp-content/themes/twentytwenty
 Al.Rasheed.TV.HD.ae,Al Rasheed TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-497.png
 Iraq.Al.Hadath.ae,Iraq Al Hadath,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-162781.png
 Iraq.24.HD.ae,Iraq 24 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-225724.png
-Karbala.TV.HD.ae,Karbala TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-3496.png
+Karbala.TV.HD.ae,Karbala TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-3496.png
 Al.Forat.ae,Al Forat,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226055.png
 Iraq.Now.ae,Iraq Now,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-37306.png
 Alawla.ae,Alawla,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-519.png
-Al.Iraqiya.Kurd.ae,Al Iraqiya Kurd,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-152965.png
+Al.Iraqiya.Kurd.ae,Al Iraqiya Kurd,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-152965.png
 Kurdistan.TV.ae,Kurdistan TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-480.png
 KurdMax.HD.ae,KurdMax HD,https://www.sat.tv/wp-content/uploads/2022/09/logo.png
 Kurdsat.ae,Kurdsat,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-37998.png
@@ -253,17 +253,17 @@ Samira.HD.ae,Samira HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/d
 Zahra.TV.ae,Zahra TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-163083.png
 Al.Araby.2.HD.ae,Al Araby 2 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-195906.png
 Baynounah.TV.HD.ae,Baynounah TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-467.png
-Asharq.Documentary.HD.ae,Asharq Documentary HD,
-Al.Jazeera.Documentary.HD.ae,Al Jazeera Documentary HD,
-Palestine.Edu.HD.ae,Palestine Edu HD,
+Asharq.Documentary.HD.ae,Asharq Documentary HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-12853.png
+Al.Jazeera.Documentary.HD.ae,Al Jazeera Documentary HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-298.png
+Palestine.Edu.HD.ae,Palestine Edu HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1409152.png
 Nile.Education.ae,Nile Education,
-Nile.Culture.ae,Nile Culture,
-Asharq.Discovery.HD.ae,Asharq Discovery HD,
+Nile.Culture.ae,Nile Culture,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-561.png
+Asharq.Discovery.HD.ae,Asharq Discovery HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-78454.png
 AlThaqafeya.HD.ae,AlThaqafeya HD,
-Algérie.7.ae,Algérie 7,
-Algérie.8.HD.ae,Algérie 8 HD,
-Oman.TV.Culture.HD.ae,Oman TV Culture HD,
-Yemen.Documentary.ae,Yemen Documentary,
+Algérie.7.ae,Algérie 7,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-97234.png
+Algérie.8.HD.ae,Algérie 8 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-2002.png
+Oman.TV.Culture.HD.ae,Oman TV Culture HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-609.png
+Yemen.Documentary.ae,Yemen Documentary,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-96958.png
 Yemen.Education.ae,Yemen Education,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1871417.png
 Sheba.TV.ae,Sheba TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-75185.png
 Al.Wathaeqya.ae,Al Wathaeqya,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226428.png
@@ -325,7 +325,7 @@ Algérie.3.HD.ae,Algérie 3 HD,https://www.sat.tv/wp-content/themes/twentytwenty
 Echorouk.News.ae,Echorouk News,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-321.png
 Ennahar.TV.ae,Ennahar TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-39401.png
 Bilad.ae,Bilad,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-132.png
-El.Hayat.TV.ae,El Hayat TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-46069.png
+El.Hayat.TV.ae,El Hayat TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-46069.png
 Al.24.News.ae,Al 24 News,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-36907.png
 Nile.News.ae,Nile News,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-169.png
 Halab.Today.TV.ae,Halab Today TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-225669.png
@@ -358,7 +358,7 @@ Al.Jamahiriya.TV.ae,Al Jamahiriya TV,
 Libya.Alhadath.HD.ae,Libya Alhadath HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-31260.png
 Libya.Alrasmia.Channel.ae,Libya Alrasmia Channel,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-257.png
 Libya.Al.Hedaya.ae,Libya Al Hedaya,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1405665.png
-LuaLua.TV.HD.ae,LuaLua TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226497.png
+LuaLua.TV.HD.ae,LuaLua TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226497.png
 Mekameleen.ae,Mekameleen,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-425.png
 Misr.Al.Zeraeey.ae,Misr Al Zeraeey,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226489.png
 Palestine.HD.ae,Palestine HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-6196.png
@@ -529,7 +529,7 @@ Libya.Ly.ae,Libya Ly,
 Libya.Future.TV.HD.ae,Libya Future TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-206.png
 Nabaa.TV.ae,Nabaa TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-2506519.png
 Oyoun.Al.Watan.TV.ae,Oyoun Al Watan TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-159.png
-Salam.HD.ae,Salam HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226454.png
+Salam.HD.ae,Salam HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226454.png
 Watan.TV.ae,Watan TV,
 Aryen.TV.ae,Aryen TV,
 Jordan.sama.ae,Jordan sama,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-152964.png
@@ -679,7 +679,7 @@ ERI.Radio.2.ae,ERI Radio 2,https://www.sat.tv/wp-content/themes/twentytwenty-chi
 ERI.Radio.3.ae,ERI Radio 3,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-188289.png
 ERI.Radio.4.ae,ERI Radio 4,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-188289.png
 en:.Golf.Life.ae,en: Golf Life,
-en:.STARZPLAY.Sports.1.ae,en: STARZPLAY Sports 1,
+en:.STARZPLAY.Sports.1.ae,en: STARZPLAY Sports 1,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
 en:.STARZPLAY.Sports.2.ae,en: STARZPLAY Sports 2,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
 en:.STARZPLAY.Sports.ae,en: STARZPLAY Sports,
 en:.YAS.TV.Extra.ae,en: YAS TV Extra,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG631827_landscape10-444f307b-5b94-4666-8862-62aebc021b44.jpg
@@ -703,9 +703,9 @@ en:.STARZPLAY.KLASSICZ.ae,en: STARZPLAY KLASSICZ,
 en:.Al.Arabiya.HD.ae,en: Al Arabiya HD,
 en:.Zee.Aflam.-.Live.ae,en: Zee Aflam - Live,
 en:.STARZPLAY.Cricket.2.ae,en: STARZPLAY Cricket 2,
-en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/OWPkhSDm.jpg
+en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://stap.tmsimg.com/assets/GNLZZGG0038GBWR.jpg
 en:.EASL.(East.Asia.Super.League.2025-2026).ae,en: EASL (East Asia Super League 2025-2026),
-en:.STARZPLAY.Cricket.1.ae,en: STARZPLAY Cricket 1,
+en:.STARZPLAY.Cricket.1.ae,en: STARZPLAY Cricket 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
 en:.AD.Sports.Extra.ae,en: AD Sports Extra,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
 en:.AWSN+.ae,en: AWSN+,
 en:.Red.Bull.TV.Live.ae,en: Red Bull TV Live,
@@ -725,10 +725,10 @@ en:.M80.Moosa.ae,en: M80 Moosa,
 en:.Curiosity.Stream.ae,en: Curiosity Stream,
 en:.K-Drama+.ae,en: K-Drama+,
 en:.Colors.HD.ae,en: Colors HD,https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg
-en:.Zee.TV.HD.ae,en: Zee TV HD,
-en:.Asianet.ME.ae,en: Asianet ME,
-en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://stap.tmsimg.com/assets/p11058772_b_h8_ab.jpg
-en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://stap.tmsimg.com/assets/p12082763_b_h10_aa.jpg
+en:.Zee.TV.HD.ae,en: Zee TV HD,https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg
+en:.Asianet.ME.ae,en: Asianet ME,https://stap.tmsimg.com/assets/p10772227_v_h10_aa.jpg
+en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://stap.tmsimg.com/assets/p11018440_b_h8_ab.jpg
+en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://stap.tmsimg.com/assets/p10776621_v_h10_ab.jpg
 en:.Star.Plus.HD.ae,en: Star Plus HD,https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg
 en:.Emarat.FM.ae,en: Emarat FM,
 en:.Quran.Kareem.ae,en: Quran Kareem,
@@ -744,10 +744,10 @@ en:.CNBC.Arabiya.HD.ae,en: CNBC Arabiya HD,
 en:.CGTN.ae,en: CGTN,
 en:.Al.Arabiya.Business.-.Live.ae,en: Al Arabiya Business - Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
 en:.Al.Hadath.Live.ae,en: Al Hadath Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-en:.SET.Max.ae,en: SET Max,https://stap.tmsimg.com/assets/p137644_v_h8_aa.jpg
+en:.SET.Max.ae,en: SET Max,https://stap.tmsimg.com/assets/p25408420_v_h8_aa.jpg
 ar:.جولف.لايف.ae,ar: جولف لايف,
-ar:.ستارز.بلاي.سبورتس.1.ae,ar: ستارز بلاي سبورتس 1,
-ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,
+ar:.ستارز.بلاي.سبورتس.1.ae,ar: ستارز بلاي سبورتس 1,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
+ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
 ar:.STARZPLAY.Sports.ae,ar: STARZPLAY Sports,
 ar:.ياس.تي.في.إكسترا.ae,ar: ياس تي في إكسترا,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG631827_landscape10-444f307b-5b94-4666-8862-62aebc021b44.jpg
 ar:.سوني.تي.في.ae,ar: سوني تي في,https://stap.tmsimg.com/assets/p33877912_b_h10_aa.jpg
@@ -770,7 +770,7 @@ ar:.ستارز.بلاي.كلاسيكز.ae,ar: ستارز بلاي كلاسيكز
 ar:.قناة.العربية.-.مباشر.ae,ar: قناة العربية - مباشر,
 ar:.زي.أفلام.-.مباشر.ae,ar: زي أفلام - مباشر,
 ar:.ستارزبلاي.كريكيت.2.ae,ar: ستارزبلاي كريكيت 2,
-ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,
+ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://stap.tmsimg.com/assets/GNLZZGG0038GBWR.jpg
 ar:.اي.اي.اس.ال.(ايست.ايشيا.سوبر.ليغ.2025-2026).ae,ar: اي اي اس ال (ايست ايشيا سوبر ليغ 2025-2026),
 ar:.ستارزبلاي.كريكيت.1.ae,ar: ستارزبلاي كريكيت 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
 ar:.أبوظبي.الرياضية.إكسترا.ae,ar: أبوظبي الرياضية إكسترا,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
@@ -791,12 +791,12 @@ ar:.كاريم.نيسارام-مباشر.ae,ar: كاريم نيسارام-مبا
 ar:.M80.موسى.ae,ar: M80 موسى,
 ar:.كيوريوسيتي.ستريم.ae,ar: كيوريوسيتي ستريم,
 ar:.ك-دراما+.ae,ar: ك-دراما+,
-ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,
+ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg
 ar:.زي.تي.في.ae,ar: زي تي في,https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg
-ar:.آسيا.نت.ae,ar: آسيا نت,https://stap.tmsimg.com/assets/p12648935_b_h10_ac.jpg
-ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://stap.tmsimg.com/assets/p11058772_b_h8_ab.jpg
-ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,
-ar:.ستار.بلس.ae,ar: ستار بلس,
+ar:.آسيا.نت.ae,ar: آسيا نت,https://stap.tmsimg.com/assets/p10772227_v_h10_aa.jpg
+ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://stap.tmsimg.com/assets/p11018440_b_h8_ab.jpg
+ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://stap.tmsimg.com/assets/p10776621_v_h10_ab.jpg
+ar:.ستار.بلس.ae,ar: ستار بلس,https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg
 ar:.إذاعة.الإمارات.إف.إم.ae,ar: إذاعة الإمارات إف إم,
 ar:.قناة.القرآن.الكريم.ae,ar: قناة القرآن الكريم,
 ar:.ستار.إف.إم.ae,ar: ستار إف إم,
@@ -811,4 +811,4 @@ ar:.سي.إن.بي.سي.عربية.-.مباشر.ae,ar: سي إن بي سي عر�
 ar:.سي.جي.تي.إن.ae,ar: سي جي تي إن,
 ar:.العربية.بيزنس.-.مباشر.ae,ar: العربية بيزنس - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
 ar:.قناة.الحدث.-.مباشر.ae,ar: قناة الحدث - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-ar:.ست.ماكس.ae,ar: ست ماكس,
+ar:.ست.ماكس.ae,ar: ست ماكس,https://stap.tmsimg.com/assets/p25408420_v_h8_aa.jpg
