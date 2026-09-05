@@ -703,7 +703,7 @@ en:.STARZPLAY.KLASSICZ.ae,en: STARZPLAY KLASSICZ,
 en:.Al.Arabiya.HD.ae,en: Al Arabiya HD,
 en:.Zee.Aflam.-.Live.ae,en: Zee Aflam - Live,
 en:.STARZPLAY.Cricket.2.ae,en: STARZPLAY Cricket 2,
-en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://stap.tmsimg.com/assets/GNLZZGG0037LMMV.jpg
+en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/OWPkhSDm.jpg
 en:.EASL.(East.Asia.Super.League.2025-2026).ae,en: EASL (East Asia Super League 2025-2026),
 en:.STARZPLAY.Cricket.1.ae,en: STARZPLAY Cricket 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
 en:.AD.Sports.Extra.ae,en: AD Sports Extra,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
@@ -726,9 +726,9 @@ en:.Curiosity.Stream.ae,en: Curiosity Stream,
 en:.K-Drama+.ae,en: K-Drama+,
 en:.Colors.HD.ae,en: Colors HD,https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg
 en:.Zee.TV.HD.ae,en: Zee TV HD,https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg
-en:.Asianet.ME.ae,en: Asianet ME,https://stap.tmsimg.com/assets/p194192_v_h8_aa.jpg
-en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://stap.tmsimg.com/assets/p11058751_b_h10_ab.jpg
-en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://stap.tmsimg.com/assets/p11370004_v_h10_aa.jpg
+en:.Asianet.ME.ae,en: Asianet ME,https://stap.tmsimg.com/assets/p10705829_v_h10_aa.jpg
+en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://stap.tmsimg.com/assets/p29758714_b_h10_aa.jpg
+en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://stap.tmsimg.com/assets/p10115894_v_h10_aa.jpg
 en:.Star.Plus.HD.ae,en: Star Plus HD,https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg
 en:.Emarat.FM.ae,en: Emarat FM,
 en:.Quran.Kareem.ae,en: Quran Kareem,
@@ -744,7 +744,7 @@ en:.CNBC.Arabiya.HD.ae,en: CNBC Arabiya HD,
 en:.CGTN.ae,en: CGTN,
 en:.Al.Arabiya.Business.-.Live.ae,en: Al Arabiya Business - Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
 en:.Al.Hadath.Live.ae,en: Al Hadath Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-en:.SET.Max.ae,en: SET Max,https://stap.tmsimg.com/assets/p80977_b_h10_ad.jpg
+en:.SET.Max.ae,en: SET Max,https://stap.tmsimg.com/assets/p74370_v_h10_aa.jpg
 ar:.جولف.لايف.ae,ar: جولف لايف,
 ar:.ستارز.بلاي.سبورتس.1.ae,ar: ستارز بلاي سبورتس 1,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
 ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
@@ -770,7 +770,7 @@ ar:.ستارز.بلاي.كلاسيكز.ae,ar: ستارز بلاي كلاسيكز
 ar:.قناة.العربية.-.مباشر.ae,ar: قناة العربية - مباشر,
 ar:.زي.أفلام.-.مباشر.ae,ar: زي أفلام - مباشر,
 ar:.ستارزبلاي.كريكيت.2.ae,ar: ستارزبلاي كريكيت 2,
-ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://stap.tmsimg.com/assets/GNLZZGG0037LMMV.jpg
+ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/OWPkhSDm.jpg
 ar:.اي.اي.اس.ال.(ايست.ايشيا.سوبر.ليغ.2025-2026).ae,ar: اي اي اس ال (ايست ايشيا سوبر ليغ 2025-2026),
 ar:.ستارزبلاي.كريكيت.1.ae,ar: ستارزبلاي كريكيت 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
 ar:.أبوظبي.الرياضية.إكسترا.ae,ar: أبوظبي الرياضية إكسترا,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
@@ -793,9 +793,9 @@ ar:.كيوريوسيتي.ستريم.ae,ar: كيوريوسيتي ستريم,
 ar:.ك-دراما+.ae,ar: ك-دراما+,
 ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg
 ar:.زي.تي.في.ae,ar: زي تي في,https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg
-ar:.آسيا.نت.ae,ar: آسيا نت,https://stap.tmsimg.com/assets/p194192_v_h8_aa.jpg
-ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://stap.tmsimg.com/assets/p11058751_b_h10_ab.jpg
-ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://stap.tmsimg.com/assets/p11370004_v_h10_aa.jpg
+ar:.آسيا.نت.ae,ar: آسيا نت,https://stap.tmsimg.com/assets/p10705829_v_h10_aa.jpg
+ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://stap.tmsimg.com/assets/p29758714_b_h10_aa.jpg
+ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://stap.tmsimg.com/assets/p10115894_v_h10_aa.jpg
 ar:.ستار.بلس.ae,ar: ستار بلس,https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg
 ar:.إذاعة.الإمارات.إف.إم.ae,ar: إذاعة الإمارات إف إم,
 ar:.قناة.القرآن.الكريم.ae,ar: قناة القرآن الكريم,
@@ -811,4 +811,4 @@ ar:.سي.إن.بي.سي.عربية.-.مباشر.ae,ar: سي إن بي سي عر�
 ar:.سي.جي.تي.إن.ae,ar: سي جي تي إن,
 ar:.العربية.بيزنس.-.مباشر.ae,ar: العربية بيزنس - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
 ar:.قناة.الحدث.-.مباشر.ae,ar: قناة الحدث - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-ar:.ست.ماكس.ae,ar: ست ماكس,https://stap.tmsimg.com/assets/p80977_b_h10_ad.jpg
+ar:.ست.ماكس.ae,ar: ست ماكس,https://stap.tmsimg.com/assets/p74370_v_h10_aa.jpg

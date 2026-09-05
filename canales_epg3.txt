@@ -752,9 +752,8 @@
 66c45c0de7f5e80008b82005,CNN Headlines International,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
 6231ede1be5b460007f91bc1,CBS News 24/7,https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
 6a56ae6e0cbe9fec861af567,Touched By An Angel,https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png
-6a56ae45c868f8fd9818d59a,7th Heaven,https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png
 6a68dd013ee9d9664278cfb6,NFL Channel,https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png
-62e920403bd6940007fb68b8,Family Ties,https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png
+6a56ae45c868f8fd9818d59a,7th Heaven,https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png
 6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
 6a56ae15bd858f210ae007fe,Classic TV Comedy,https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png
 6a56add5f7dc4ada892d374b,The Wild Wild West,https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/colorLogoPNG_1784069781833.png
@@ -780,6 +779,7 @@
 66e2a94d167a8b000813485d,The Conners,https://images.pluto.tv/channels/66e2a94d167a8b000813485d/colorLogoPNG.png
 66bb3212fe11e5000883ea6b,Married... with Children,https://images.pluto.tv/channels/66bb3212fe11e5000883ea6b/colorLogoPNG.png
 62e91c3add66e00007eeb24c,More Pluto TV Comedy,https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png
+62e920403bd6940007fb68b8,Family Ties,https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png
 65cf8bdaa25d5e00081e1e5d,Anger Management,https://images.pluto.tv/channels/65cf8bdaa25d5e00081e1e5d/colorLogoPNG.png
 65cf8b9328730900087c5324,Are We There Yet?,https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png
 638e11951177840007fdd6b2,Pluto TV British Comedy,https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png
@@ -1538,9 +1538,8 @@
 5f85ca40eda1b10007b967cd,Conciertos por Stingray,https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
 5f85cf621d6d2200079f1de0,Karaoke por Stingray,https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png
 6a56ae6e0cbe9fec861af567,Touched By An Angel,https://images.pluto.tv/channels/6a56ae6e0cbe9fec861af567/colorLogoPNG_1784070124490.png
-6a56ae45c868f8fd9818d59a,7th Heaven,https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png
 6a68dd013ee9d9664278cfb6,NFL Channel,https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png
-62e920403bd6940007fb68b8,Family Ties,https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png
+6a56ae45c868f8fd9818d59a,7th Heaven,https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png
 6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
 6a56ae15bd858f210ae007fe,Classic TV Comedy,https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png
 6a56add5f7dc4ada892d374b,The Wild Wild West,https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/colorLogoPNG_1784069781833.png
@@ -1566,6 +1565,7 @@
 66e2a94d167a8b000813485d,The Conners,https://images.pluto.tv/channels/66e2a94d167a8b000813485d/colorLogoPNG.png
 66bb3212fe11e5000883ea6b,Married... with Children,https://images.pluto.tv/channels/66bb3212fe11e5000883ea6b/colorLogoPNG.png
 62e91c3add66e00007eeb24c,More Pluto TV Comedy,https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png
+62e920403bd6940007fb68b8,Family Ties,https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png
 65cf8bdaa25d5e00081e1e5d,Anger Management,https://images.pluto.tv/channels/65cf8bdaa25d5e00081e1e5d/colorLogoPNG.png
 65cf8b9328730900087c5324,Are We There Yet?,https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png
 638e11951177840007fdd6b2,Pluto TV British Comedy,https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png

@@ -29,7 +29,6 @@ ElGourmet.ar,El Gourmet.ar,https://images.open-epg.com/35622.png
 NBATV.ar,NBA TV.ar,https://images.open-epg.com/16782361.png
 TeleSUR.ar,TeleSUR.ar,https://images.open-epg.com/25850.png
 StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
-StarTVE.pe,Star TVE.pe,https://images.open-epg.com/x1392.png
 ArmoniaTeVeSana.es,Armonía TeVe Sana.es,https://images.open-epg.com/4932.png
 CanalParlamento.es,Canal Parlamento.es,https://images.open-epg.com/17504.png
 CookingPanda.es,Cooking Panda.es,https://images.open-epg.com/4976.png
@@ -50,3 +49,4 @@ SinFiltros.es,Sin Filtros.es,https://images.open-epg.com/5111.png
 TVEInternacionalAsia.es,TVE Internacional Asia.es,https://images.open-epg.com/17655.png
 VaughanTV.es,Vaughan TV.es,https://images.open-epg.com/x2060.png
 ViajesYSabores.es,Viajes y Sabores.es,https://images.open-epg.com/x2059.png
+StarTVE.pe,Star TVE.pe,https://images.open-epg.com/x1392.png
