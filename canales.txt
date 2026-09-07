@@ -930,6 +930,8 @@ VaughanTV.es,Vaughan TV.es
 Vaughan TV.es,Vaughan TV.es
 EnglishClub.ua,EnglishClub.ua
 EnglishClubTV.fi,EnglishClubTV.fi
+EnglishClub.lt,EnglishClub.lt
+EnglishClubTV.si,EnglishClubTV.si
 English.Club.TV.ch,English.Club.TV.ch
 English.Club.TV.hu,English.Club.TV.hu
 English.Club.TV.pl,English.Club.TV.pl
@@ -937,3 +939,4 @@ English.Club.TV.HD.pl,English.Club.TV.HD.pl
 English.Club.HD.sk,English.Club.HD.sk
 ENGLISH.CLUB.TV.tr,ENGLISH.CLUB.TV.tr
 ENGLISH.CLUB.TV.HD.tr,ENGLISH.CLUB.TV.HD.tr
+
