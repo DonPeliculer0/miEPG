@@ -928,3 +928,5 @@ ITAPrincipiante.es,ITA Principiante.es
 ITA Principiante.es,ITA Principiante.es
 VaughanTV.es,Vaughan TV.es
 Vaughan TV.es,Vaughan TV.es
+EnglishClub.ua,EnglishClub.ua
+EnglishClubTV.fi,EnglishClubTV.fi
