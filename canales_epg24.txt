@@ -53,8 +53,8 @@ Sky.Sport..254.it,Sky Sport  254,https://guidatv.sky.it/logo/234skysport_Light_F
 Sky.Sport..255.it,Sky Sport  255,https://guidatv.sky.it/logo/910skysport_Light_Fit.png?checksum=1486554b-09f4-4727-921c-4c9b1655b59e?tr=n-logo_80
 Sky.Sport..256.it,Sky Sport  256,https://guidatv.sky.it/logo/912skysport_Light_Fit.png?checksum=1c38728d-1774-4c93-a75f-622e062b1c29?tr=n-logo_80
 Sky.Sport..257.it,Sky Sport  257,https://guidatv.sky.it/logo/775skysport_Light_Fit.png?checksum=5cd2e53d-e3b3-4921-9391-de3e72d6fb81?tr=n-logo_80
-Sky.Sport..258.it,Sky Sport  258,https://guidatv.sky.it/logo/772skysport_Light_Fit.png?checksum=51beb5ec-84fe-4bb1-8252-4269885af3c8?tr=n-logo_80
-Sky.Sport..259.it,Sky Sport  259,https://guidatv.sky.it/logo/613skysport_Light_Fit.png?checksum=a039404e-e357-4503-b42c-6e459e9e2511?tr=n-logo_80
+Sky.Sport..258.it,Sky Sport  258,
+Sky.Sport..259.it,Sky Sport  259,
 Sky.Calcio.10..260.it,Sky Calcio 10  260,
 Sky.Calcio.11..261.it,Sky Calcio 11  261,
 SuperTennis.HD.it,SuperTennis HD,https://guidatv.sky.it/logo/5246supertennishd_Light_Fit.png?checksum=13f5cbb1646d848fde3af6fccba8dd4c?tr=n-logo_80
@@ -66,7 +66,7 @@ Horse.TV.HD.it,Horse TV HD,https://guidatv.sky.it/logo/5290horsetvhd_Light_Fit.p
 BIKE.it,BIKE,
 ACI.Sport.Tv.it,ACI Sport Tv,https://guidatv.sky.it/logo/445sporttv_Light_Fit.png?tr=n-logo_80
 Milan.TV.it,Milan TV,https://guidatv.sky.it/logo/261milantv_Light_Fit.png?checksum=b78acf3bc981bb6d87c595b24540e7dc?tr=n-logo_80
-Inter.TV.it,Inter TV,https://guidatv.sky.it/logo/487intertv_Light_Fit.png?checksum=3e72d3b0f67c78debf143812729c442d?tr=n-logo_80
+Inter.TV.it,Inter TV,
 CACCIA.e.Pesca.it,CACCIA e Pesca,https://guidatv.sky.it/logo/344cacciaepesca_Light_Fit.png?checksum=26abc2dcd1a555b19172485e63873fa0?tr=n-logo_80
 Caccia.e.PESCA.it,Caccia e PESCA,https://guidatv.sky.it/logo/350cacciaepesca_Light_Fit.png?checksum=2c27f7a1c4dbecd7801362884f16078d?tr=n-logo_80
 Discovery.+1.it,Discovery +1,
