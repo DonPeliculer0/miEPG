@@ -26,6 +26,10 @@ Now80s.uk,Now 80s.uk,https://images.open-epg.com/16166.png
 Now90s00s.uk,Now 90s And 00s.uk,https://images.open-epg.com/16168.png
 Thats70s.uk,That&apos;s 70s.uk,https://images.open-epg.com/x2168.png
 StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
+EnglishClubTV.fi,English Club TV.fi,https://images.open-epg.com/25516657.png
+EnglishClub.lt,English Club.lt,https://images.open-epg.com/19562856.png
+EnglishClubTV.si,English Club TV.si,https://images.open-epg.com/6197.png
+EnglishClub.ua,English Club.ua,https://images.open-epg.com/26522414.png
 ElGourmet.ar,El Gourmet.ar,https://images.open-epg.com/35622.png
 NBATV.ar,NBA TV.ar,https://images.open-epg.com/16782361.png
 TeleSUR.ar,TeleSUR.ar,https://images.open-epg.com/25850.png
