@@ -762,7 +762,6 @@
 62bdb0bcd707b9000739d2e5,Pluto TV Drama Movies,https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png
 64a3d96f060e830008af6745,MovieSphere by Lionsgate,https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png
 62ea3f8a38acc80007072d26,Pluto TV Horror,https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png
-6368e15a51e9560007c592ed,OUTflix Movies,https://images.pluto.tv/channels/6368e15a51e9560007c592ed/colorLogoPNG_1770024035875.png
 691e0561e32eb094b835c418,Fresh Movies by VVS Films,https://images.pluto.tv/channels/691e0561e32eb094b835c418/colorLogoPNG_1765876969706.png
 62fb6da41afad500077e9178,Thrillers 365,https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png
 6a28960eee86450920a1cab3,Pluto TV Spicy,https://images.pluto.tv/channels/6a28960eee86450920a1cab3/colorLogoPNG_1785269873653.png
@@ -830,7 +829,6 @@
 62e924f2be69bc0007b7d53d,Unsolved Mysteries,https://images.pluto.tv/channels/62e924f2be69bc0007b7d53d/colorLogoPNG.png
 62fb9c4539183b00076a3875,Busted at the Border,https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png
 62bdaa32a1b2fd00076693e8,FBI Files,https://images.pluto.tv/channels/62bdaa32a1b2fd00076693e8/colorLogoPNG.png
-63e36b374e83e70008987c58,Aftershock,https://images.pluto.tv/channels/63e36b374e83e70008987c58/colorLogoPNG_1785353474783.png
 69dd5d9dceddf13a1a7e39c2,True Crime Now,https://images.pluto.tv/channels/69dd5d9dceddf13a1a7e39c2/colorLogoPNG_1778606419889.png
 62bdabbc5611f2000761ca30,The New Detectives,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png
 6601948129adfd0008a1c0ba,Crime &amp; Justice,https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png
@@ -898,6 +896,7 @@
 62e92e536f28870007fa9b3a,The Judge Judy Channel,https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png
 62e93d0a80d8d10008a0181e,Nosey,https://images.pluto.tv/channels/62e93d0a80d8d10008a0181e/colorLogoPNG.png
 638e0f4832494900074481e7,Confess by Nosey,https://images.pluto.tv/channels/638e0f4832494900074481e7/colorLogoPNG.png
+6368e15a51e9560007c592ed,OUTflix Proud,https://images.pluto.tv/channels/6368e15a51e9560007c592ed/colorLogoPNG_1789142547640.png
 66166ce7aec96800080f6bd3,The Graham Norton Show,https://images.pluto.tv/channels/66166ce7aec96800080f6bd3/colorLogoPNG.png
 65a803b607e03a0008925118,Hot Ones,https://images.pluto.tv/channels/65a803b607e03a0008925118/colorLogoPNG.png
 62fb9844db5a4a0007ebc2a3,Beyond History,https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png
@@ -1242,7 +1241,6 @@
 604a8dedbca75b0007b1c753,Pluto TV Paisagens por Stingray,https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png
 6474aa984cfc2c0008883a92,Pluto TV Animais,https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png
 5f32d4d9ec194100070c7449,Pluto TV Vida Real,https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png
-61843f5e491af10007f7eefa,Pluto TV Minha Obsessão Favorita,https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png
 656e2a4b4261ca00083aa99e,Acumuladores Obsessivos,https://images.pluto.tv/channels/656e2a4b4261ca00083aa99e/colorLogoPNG.png
 69fca7fadf0b6d462c0a0ac3,Sobrevivi,https://images.pluto.tv/channels/69fca7fadf0b6d462c0a0ac3/colorLogoPNG_1778593398701.png
 61bb72a7bf8c520007a8fd27,Pronto-socorro: Histórias De Emergência,https://images.pluto.tv/channels/61bb72a7bf8c520007a8fd27/colorLogoPNG.png
@@ -1433,7 +1431,6 @@
 6419ab7c9189ce000865a469,COPS,https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png
 5f9992c685a2a80007fa414a,Dog el cazarrecompensas,https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png
 5f23102d5e239d00074b092a,Empeños a lo bestia,https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png
-6109ab25b84d6a0007504886,Pluto TV Mi Obsesión Favorita,https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png
 5ddc503ac7ef120009b101a2,Pluto TV Documentales,https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png
 69fcaaa1853a01a827bcd056,I Shouldn't Be Alive,https://images.pluto.tv/channels/69fcaaa1853a01a827bcd056/colorLogoPNG_1778856115341.png
 678533155e0e6a000828cd48,Untold Stories of the ER,https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png
@@ -1444,7 +1441,6 @@
 5f4d3696d938c900072679fd,Historias de Ultratumba,https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png
 645d1abbe1979c0008779d5a,Archivos Extraterrestres,https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png
 5dcde27ffae9520009c0c75a,Pluto TV Investiga,https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png
-6109a9f5531b840007a4a187,Cazador de Homicidas,https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png
 680bdaf54d7cf165c705f91e,Zona Investigación TV,https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1785345998479.png
 5e67d41b93312100076f3fca,Los archivos del FBI,https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png
 5efb8c19b2678b000780d032,Archivos Forenses,https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png
@@ -1550,7 +1546,6 @@
 62bdb0bcd707b9000739d2e5,Pluto TV Drama Movies,https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png
 64a3d96f060e830008af6745,MovieSphere by Lionsgate,https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png
 62ea3f8a38acc80007072d26,Pluto TV Horror,https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png
-6368e15a51e9560007c592ed,OUTflix Movies,https://images.pluto.tv/channels/6368e15a51e9560007c592ed/colorLogoPNG_1770024035875.png
 691e0561e32eb094b835c418,Fresh Movies by VVS Films,https://images.pluto.tv/channels/691e0561e32eb094b835c418/colorLogoPNG_1765876969706.png
 62fb6da41afad500077e9178,Thrillers 365,https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png
 6a28960eee86450920a1cab3,Pluto TV Spicy,https://images.pluto.tv/channels/6a28960eee86450920a1cab3/colorLogoPNG_1785269873653.png
@@ -1618,7 +1613,6 @@
 62e924f2be69bc0007b7d53d,Unsolved Mysteries,https://images.pluto.tv/channels/62e924f2be69bc0007b7d53d/colorLogoPNG.png
 62fb9c4539183b00076a3875,Busted at the Border,https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png
 62bdaa32a1b2fd00076693e8,FBI Files,https://images.pluto.tv/channels/62bdaa32a1b2fd00076693e8/colorLogoPNG.png
-63e36b374e83e70008987c58,Aftershock,https://images.pluto.tv/channels/63e36b374e83e70008987c58/colorLogoPNG_1785353474783.png
 69dd5d9dceddf13a1a7e39c2,True Crime Now,https://images.pluto.tv/channels/69dd5d9dceddf13a1a7e39c2/colorLogoPNG_1778606419889.png
 62bdabbc5611f2000761ca30,The New Detectives,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png
 6601948129adfd0008a1c0ba,Crime &amp; Justice,https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png
@@ -1686,6 +1680,7 @@
 62e92e536f28870007fa9b3a,The Judge Judy Channel,https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png
 62e93d0a80d8d10008a0181e,Nosey,https://images.pluto.tv/channels/62e93d0a80d8d10008a0181e/colorLogoPNG.png
 638e0f4832494900074481e7,Confess by Nosey,https://images.pluto.tv/channels/638e0f4832494900074481e7/colorLogoPNG.png
+6368e15a51e9560007c592ed,OUTflix Proud,https://images.pluto.tv/channels/6368e15a51e9560007c592ed/colorLogoPNG_1789142547640.png
 66166ce7aec96800080f6bd3,The Graham Norton Show,https://images.pluto.tv/channels/66166ce7aec96800080f6bd3/colorLogoPNG.png
 65a803b607e03a0008925118,Hot Ones,https://images.pluto.tv/channels/65a803b607e03a0008925118/colorLogoPNG.png
 62fb9844db5a4a0007ebc2a3,Beyond History,https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png
@@ -2014,6 +2009,7 @@
 69ef54f3c700cf0140272def,That's 80s,https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png
 69ef55c3b80e144b55d74e36,That's 90s/00s,https://images.pluto.tv/channels/69ef55c3b80e144b55d74e36/colorLogoPNG_1779094979748.png
 69ef5682980899a9edf1a884,That's Rock,https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png
+6a427495775f5e0d90f0a3c8,Star Trek: Enterprise,https://images.pluto.tv/channels/6a427495775f5e0d90f0a3c8/colorLogoPNG_1782740162482.png
 67a23b899a300a00086f3371,Dominance FC TV,https://images.pluto.tv/channels/67a23b899a300a00086f3371/colorLogoPNG_1750773360727.png
 6a427b4e7dd69d931963e771,Pluto TV Sci-fi filmer,https://images.pluto.tv/channels/6a427b4e7dd69d931963e771/colorLogoPNG_1788157956182.png
 62724ae034f5190007b63424,Doc Martin,https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png
@@ -2027,7 +2023,6 @@
 6a329b878aa69b1cc8c5d1b6,The Bob Ross Channel,https://images.pluto.tv/channels/6a329b878aa69b1cc8c5d1b6/colorLogoPNG_1782465097383.png
 6a426ea9a1c1cd6c590e17e4,Star Trek: Deep Space Nine,https://images.pluto.tv/channels/6a426ea9a1c1cd6c590e17e4/colorLogoPNG_1782738712339.png
 6a4270ee50c71f4dc3af2b0f,Star Trek: The Next Generation,https://images.pluto.tv/channels/6a4270ee50c71f4dc3af2b0f/colorLogoPNG_1782739257443.png
-6a427495775f5e0d90f0a3c8,Star Trek: Enterprise,https://images.pluto.tv/channels/6a427495775f5e0d90f0a3c8/colorLogoPNG_1782740162482.png
 6a427247cdc5ae2dd1174b50,Star Trek: Voyager,https://images.pluto.tv/channels/6a427247cdc5ae2dd1174b50/colorLogoPNG_1782739789622.png
 693addd62bf6cf7414c4b2fc,Star Trek: The Original Series,https://images.pluto.tv/channels/693addd62bf6cf7414c4b2fc/colorLogoPNG_1765465615277.png
 61c1db0391ddd400073badc5,Pluto TV Star Trek,https://images.pluto.tv/channels/61c1db0391ddd400073badc5/colorLogoPNG.png
@@ -2443,6 +2438,7 @@
 6512d72b473a540008592be5,Sabrina the Teenage Witch,https://images.pluto.tv/channels/6512d72b473a540008592be5/colorLogoPNG.png
 686d01ad94a028da3aaca6b3,The Nanny &amp; Mr Sheffield - A Fine Romance,https://images.pluto.tv/channels/686d01ad94a028da3aaca6b3/colorLogoPNG_1759145085675.png
 6391df52d146a40007c265f3,The Nanny,https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png
+66b22714d512590008c3d573,Den gule sofa med Allan Sindberg,https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png
 69f85041460b8b0496d4ca16,Divaernes Dillemmaer,https://images.pluto.tv/channels/69f85041460b8b0496d4ca16/colorLogoPNG_1788786889793.png
 6a2aa7a75d996facea208f2d,Temptation Island,https://images.pluto.tv/channels/6a2aa7a75d996facea208f2d/colorLogoPNG_1788186360129.png
 69f84eec9465b98649a769ac,Amalies verden,https://images.pluto.tv/channels/69f84eec9465b98649a769ac/colorLogoPNG_1788271091979.png
@@ -2478,7 +2474,6 @@
 654a3fe6986ad20008a42add,Langt fra Bryggen,https://images.pluto.tv/channels/654a3fe6986ad20008a42add/colorLogoPNG.png
 61c19bfb3bf4940007804d32,Love Island Danmark,https://images.pluto.tv/channels/61c19bfb3bf4940007804d32/colorLogoPNG-1757063056399.png
 61c19dcefbb4b50007d242e1,Forsidefruer,https://images.pluto.tv/channels/61c19dcefbb4b50007d242e1/colorLogoPNG.png
-66b22714d512590008c3d573,Den gule sofa med Allan Sindberg,https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png
 698ddf5a8c21a5f2d64c14a8,r8Dio TV,https://images.pluto.tv/channels/698ddf5a8c21a5f2d64c14a8/colorLogoPNG_1774610552478.png
 69256bd7db5cc2f81d8a1a08,Til julefrokost hos r8Dio,https://images.pluto.tv/channels/69256bd7db5cc2f81d8a1a08/colorLogoPNG_1764256965972.png
 678f8676ad083171df19ca07,Ditzel &amp; Turbomodul,https://images.pluto.tv/channels/678f8676ad083171df19ca07/colorLogoPNG.png
@@ -2804,7 +2799,6 @@
 6419ab7c9189ce000865a469,COPS,https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png
 5f9992c685a2a80007fa414a,Dog el cazarrecompensas,https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png
 5f23102d5e239d00074b092a,Empeños a lo bestia,https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png
-6109ab25b84d6a0007504886,Pluto TV Mi Obsesión Favorita,https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png
 5ddc503ac7ef120009b101a2,Pluto TV Documentales,https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png
 69fcaaa1853a01a827bcd056,I Shouldn't Be Alive,https://images.pluto.tv/channels/69fcaaa1853a01a827bcd056/colorLogoPNG_1778856115341.png
 678533155e0e6a000828cd48,Untold Stories of the ER,https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png
@@ -2815,7 +2809,6 @@
 5f4d3696d938c900072679fd,Historias de Ultratumba,https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png
 645d1abbe1979c0008779d5a,Archivos Extraterrestres,https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png
 5dcde27ffae9520009c0c75a,Pluto TV Investiga,https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png
-6109a9f5531b840007a4a187,Cazador de Homicidas,https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png
 680bdaf54d7cf165c705f91e,Zona Investigación TV,https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1785345998479.png
 5e67d41b93312100076f3fca,Los archivos del FBI,https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png
 5efb8c19b2678b000780d032,Archivos Forenses,https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png
