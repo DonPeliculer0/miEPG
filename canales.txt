@@ -778,6 +778,15 @@ DAZN Ligue 1 4,DAZN Ligue 1 | Eventos 4
 DAZN Ligue 1 5,DAZN Ligue 1 | Eventos 5
 DAZN Ligue 1 6,DAZN Ligue 1 | Eventos 6
 DAZN Ligue 1 7,DAZN Ligue 1 | Eventos 7
+FANPLAY TV Primera Federación 1,FANPLAY TV Primera Federación 1
+FANPLAY TV Primera Federación 2,FANPLAY TV Primera Federación 2
+FANPLAY TV Primera Federación 3,FANPLAY TV Primera Federación 3
+FANPLAY TV Primera Federación 4,FANPLAY TV Primera Federación 4
+FANPLAY TV Primera Federación 5,FANPLAY TV Primera Federación 5
+FANPLAY TV Primera Federación 6,FANPLAY TV Primera Federación 6
+FANPLAY TV Primera Federación 7,FANPLAY TV Primera Federación 7
+FANPLAY TV Primera Federación 8,FANPLAY TV Primera Federación 8
+FANPLAY TV Primera Federación 9,FANPLAY TV Primera Federación 9
 Primera Federación,Primera Federación
 ,Primera Federacion G1 | Eventos 1
 ,Primera Federacion G1 | Eventos 2
