@@ -751,23 +751,29 @@
 60d3583ef310610007fb02b1,Euronews,https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png
 66c45c0de7f5e80008b82005,CNN Headlines International,https://images.pluto.tv/channels/66c45c0de7f5e80008b82005/colorLogoPNG_1775159727857.png
 6231ede1be5b460007f91bc1,CBS News 24/7,https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png
-6a68dd013ee9d9664278cfb6,NFL Channel,https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png
-6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
-6a56ae15bd858f210ae007fe,Classic TV Comedy,https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png
+6a315581df0b6d462c18397e,Pluto TV 90s Hit Comedy,https://images.pluto.tv/channels/6a315581df0b6d462c18397e/colorLogoPNG_1783520464793.png
+6a67825875fd5e3828e83703,FloHockey 24/7,https://images.pluto.tv/channels/6a67825875fd5e3828e83703/colorLogoPNG_1785780851784.png
+67054838ec9d6d00082ee426,Pluto TV Zombies,https://images.pluto.tv/channels/67054838ec9d6d00082ee426/colorLogoPNG.png
 6a56add5f7dc4ada892d374b,The Wild Wild West,https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/colorLogoPNG_1784069781833.png
+6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
+691b023a7613e09a8b209539,The X-Files,https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png
+62ea3f8a38acc80007072d26,Pluto TV Horror,https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png
+68b9afd66985e192657a2b7f,APTN Beyond,https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png
+62e92a58f3e4290007290c96,Pluto TV Paranormal,https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png
+65cf8ace332fec00081e7ea2,Ghost Hunters,https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png
+63934c218ef524000757b122,HauntTV,https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png
+6874ad2f3484d60732267ba8,Scare Tactics,https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png
 62ea3d24b8e02600071fa296,Pluto TV Comedy Movies,https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png
 62ea3c2e4823db00072788ed,Pluto TV Action Movies,https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png
 69a9ae4d3bd16a4ed04240d7,Pluto TV Retro Action Movies,https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png
 62bdb0bcd707b9000739d2e5,Pluto TV Drama Movies,https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png
 64a3d96f060e830008af6745,MovieSphere by Lionsgate,https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png
-62ea3f8a38acc80007072d26,Pluto TV Horror,https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png
 691e0561e32eb094b835c418,Fresh Movies by VVS Films,https://images.pluto.tv/channels/691e0561e32eb094b835c418/colorLogoPNG_1765876969706.png
 62fb6da41afad500077e9178,Thrillers 365,https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png
 6a28960eee86450920a1cab3,Pluto TV Spicy,https://images.pluto.tv/channels/6a28960eee86450920a1cab3/colorLogoPNG_1785269873653.png
 62fb6cd97b90e60007bc318a,Romance 365,https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png
 62fb6d4308f5ec0007453c09,Christmas 365,https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png
 62e92178946c8000079a3160,Pluto TV Comedy,https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png
-6a315581df0b6d462c18397e,Pluto TV 90s Hit Comedy,https://images.pluto.tv/channels/6a315581df0b6d462c18397e/colorLogoPNG_1783520464793.png
 69b83e4169056557a9252f61,Hit Sitcoms,https://images.pluto.tv/channels/69b83e4169056557a9252f61/colorLogoPNG_1773682310878.png
 62f4f90e39183b000769f12b,Frasier,https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png
 62bdb7f0db2eb30007376d4d,Cheers,https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png
@@ -783,7 +789,6 @@
 677f929054f43dad4b325c1c,Just for Laughs GAGS,https://images.pluto.tv/channels/677f929054f43dad4b325c1c/colorLogoPNG.png
 62e92b5fca869f00078f0162,The Pet Collective,https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png
 62bdb5500c21270007218ce1,FailArmy,https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png
-6874ad2f3484d60732267ba8,Scare Tactics,https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png
 64f9cccf110545000837912e,MTV Ridiculousness,https://images.pluto.tv/channels/64f9cccf110545000837912e/colorLogoPNG-1734529908215.png
 64f8a408bd341e000818fcda,Comedy Central,https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png
 64f8a949f5b5e4000862467c,Comedy Central Animation,https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png
@@ -798,6 +803,7 @@
 62e9186f8b685d000773cf58,Taxi,https://images.pluto.tv/channels/62e9186f8b685d000773cf58/colorLogoPNG.png
 62e91af00c43540007f2bb43,Pluto TV Classic TV Families,https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png
 62e917b5e354cf0007b97a67,Happy Days,https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png
+6a56ae15bd858f210ae007fe,Classic TV Comedy,https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png
 6565fefdc917a50008485cc6,The Beverly Hillbillies,https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png
 62e9145ec07f2a00070e68dc,The Andy Griffith Show,https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png
 62e91384210bec0007ba714c,The Dick Van Dyke Show,https://images.pluto.tv/channels/62e91384210bec0007ba714c/colorLogoPNG.png
@@ -832,17 +838,12 @@
 62bdabbc5611f2000761ca30,The New Detectives,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png
 6601948129adfd0008a1c0ba,Crime &amp; Justice,https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png
 6703a96763292d000836b4fa,Crime Up Close,https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png
-691b023a7613e09a8b209539,The X-Files,https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png
 66166cb1307fa30008f275e7,Pluto TV Sci-fi,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png
 693bf37b75432d022c85ef01,Stargate,https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png
 6850335b5965a2fd49f7e36d,Andromeda,https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png
 62bdad934d73d50007a82472,Doctor Who Classic,https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png
 62e94ec74823db0007277a8f,One Piece,https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png
 68d25b620a0f3829b116bb6f,Pluto TV Anime,https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png
-68b9afd66985e192657a2b7f,APTN Beyond,https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png
-62e92a58f3e4290007290c96,Pluto TV Paranormal,https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png
-65cf8ace332fec00081e7ea2,Ghost Hunters,https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png
-63934c218ef524000757b122,HauntTV,https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png
 688a44cf5d73ec0a3f49718b,Weeds / Nurse Jackie,https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png
 62bdae69a47b6c00076af298,Baywatch,https://images.pluto.tv/channels/62bdae69a47b6c00076af298/colorLogoPNG.png
 65cf8d7428730900087c5907,Nashville,https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png
@@ -946,6 +947,8 @@
 6408b41b83f58900081d91ad,Pluto TV Retro Kid,https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png
 66588931a3865300085ca800,Bob l'éponge,https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png
 62e9566e27ce19000732ec85,Tortues Ninja TV,https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png
+6a68dd013ee9d9664278cfb6,NFL Channel,https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png
+66ed3eb27358ce000830df49,UFC,https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png
 638e10220aa6a6000726979f,Top Gear,https://images.pluto.tv/channels/638e10220aa6a6000726979f/colorLogoPNG_1756376814913.png
 69c592dff0f1a7d732dc6e36,Pluto TV Cars,https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png
 639b4f75d3d35c0007d37b30,Pluto TV Snooker 900,https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png
@@ -955,7 +958,6 @@
 6972546cc62833833a187f50,Willow Sports,https://images.pluto.tv/channels/6972546cc62833833a187f50/colorLogoPNG_1770648792020.png
 647f07e74cfc2c0008a2e557,DAZN TV,https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png
 660c29b5aec9680008f5b4a4,FIFA+,https://images.pluto.tv/channels/660c29b5aec9680008f5b4a4/colorLogoPNG_1750064928408.png
-66ed3eb27358ce000830df49,UFC,https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png
 62ea4dadce395f0007086df2,TNA Wrestling,https://images.pluto.tv/channels/62ea4dadce395f0007086df2/colorLogoPNG.png
 65bcc9c8d77d450008b34c6b,Monster Jam,https://images.pluto.tv/channels/65bcc9c8d77d450008b34c6b/colorLogoPNG.png
 6541010f770cf1000866be98,MTV Spankin’ New,https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png
@@ -1535,23 +1537,29 @@
 6868152657543d1f8be4ece3,Concert Channel,https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png
 5f85ca40eda1b10007b967cd,Conciertos por Stingray,https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
 5f85cf621d6d2200079f1de0,Karaoke por Stingray,https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png
-6a68dd013ee9d9664278cfb6,NFL Channel,https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png
-6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
-6a56ae15bd858f210ae007fe,Classic TV Comedy,https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png
+6a315581df0b6d462c18397e,Pluto TV 90s Hit Comedy,https://images.pluto.tv/channels/6a315581df0b6d462c18397e/colorLogoPNG_1783520464793.png
+6a67825875fd5e3828e83703,FloHockey 24/7,https://images.pluto.tv/channels/6a67825875fd5e3828e83703/colorLogoPNG_1785780851784.png
+67054838ec9d6d00082ee426,Pluto TV Zombies,https://images.pluto.tv/channels/67054838ec9d6d00082ee426/colorLogoPNG.png
 6a56add5f7dc4ada892d374b,The Wild Wild West,https://images.pluto.tv/channels/6a56add5f7dc4ada892d374b/colorLogoPNG_1784069781833.png
+6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
+691b023a7613e09a8b209539,The X-Files,https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png
+62ea3f8a38acc80007072d26,Pluto TV Horror,https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png
+68b9afd66985e192657a2b7f,APTN Beyond,https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png
+62e92a58f3e4290007290c96,Pluto TV Paranormal,https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png
+65cf8ace332fec00081e7ea2,Ghost Hunters,https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png
+63934c218ef524000757b122,HauntTV,https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png
+6874ad2f3484d60732267ba8,Scare Tactics,https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png
 62ea3d24b8e02600071fa296,Pluto TV Comedy Movies,https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png
 62ea3c2e4823db00072788ed,Pluto TV Action Movies,https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png
 69a9ae4d3bd16a4ed04240d7,Pluto TV Retro Action Movies,https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png
 62bdb0bcd707b9000739d2e5,Pluto TV Drama Movies,https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png
 64a3d96f060e830008af6745,MovieSphere by Lionsgate,https://images.pluto.tv/channels/64a3d96f060e830008af6745/colorLogoPNG.png
-62ea3f8a38acc80007072d26,Pluto TV Horror,https://images.pluto.tv/channels/62ea3f8a38acc80007072d26/colorLogoPNG.png
 691e0561e32eb094b835c418,Fresh Movies by VVS Films,https://images.pluto.tv/channels/691e0561e32eb094b835c418/colorLogoPNG_1765876969706.png
 62fb6da41afad500077e9178,Thrillers 365,https://images.pluto.tv/channels/62fb6da41afad500077e9178/colorLogoPNG.png
 6a28960eee86450920a1cab3,Pluto TV Spicy,https://images.pluto.tv/channels/6a28960eee86450920a1cab3/colorLogoPNG_1785269873653.png
 62fb6cd97b90e60007bc318a,Romance 365,https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png
 62fb6d4308f5ec0007453c09,Christmas 365,https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png
 62e92178946c8000079a3160,Pluto TV Comedy,https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png
-6a315581df0b6d462c18397e,Pluto TV 90s Hit Comedy,https://images.pluto.tv/channels/6a315581df0b6d462c18397e/colorLogoPNG_1783520464793.png
 69b83e4169056557a9252f61,Hit Sitcoms,https://images.pluto.tv/channels/69b83e4169056557a9252f61/colorLogoPNG_1773682310878.png
 62f4f90e39183b000769f12b,Frasier,https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png
 62bdb7f0db2eb30007376d4d,Cheers,https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png
@@ -1567,7 +1575,6 @@
 677f929054f43dad4b325c1c,Just for Laughs GAGS,https://images.pluto.tv/channels/677f929054f43dad4b325c1c/colorLogoPNG.png
 62e92b5fca869f00078f0162,The Pet Collective,https://images.pluto.tv/channels/62e92b5fca869f00078f0162/colorLogoPNG.png
 62bdb5500c21270007218ce1,FailArmy,https://images.pluto.tv/channels/62bdb5500c21270007218ce1/colorLogoPNG.png
-6874ad2f3484d60732267ba8,Scare Tactics,https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/colorLogoPNG_1756936023452.png
 64f9cccf110545000837912e,MTV Ridiculousness,https://images.pluto.tv/channels/64f9cccf110545000837912e/colorLogoPNG-1734529908215.png
 64f8a408bd341e000818fcda,Comedy Central,https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png
 64f8a949f5b5e4000862467c,Comedy Central Animation,https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png
@@ -1582,6 +1589,7 @@
 62e9186f8b685d000773cf58,Taxi,https://images.pluto.tv/channels/62e9186f8b685d000773cf58/colorLogoPNG.png
 62e91af00c43540007f2bb43,Pluto TV Classic TV Families,https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png
 62e917b5e354cf0007b97a67,Happy Days,https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png
+6a56ae15bd858f210ae007fe,Classic TV Comedy,https://images.pluto.tv/channels/6a56ae15bd858f210ae007fe/colorLogoPNG_1784069906159.png
 6565fefdc917a50008485cc6,The Beverly Hillbillies,https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png
 62e9145ec07f2a00070e68dc,The Andy Griffith Show,https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png
 62e91384210bec0007ba714c,The Dick Van Dyke Show,https://images.pluto.tv/channels/62e91384210bec0007ba714c/colorLogoPNG.png
@@ -1616,17 +1624,12 @@
 62bdabbc5611f2000761ca30,The New Detectives,https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png
 6601948129adfd0008a1c0ba,Crime &amp; Justice,https://images.pluto.tv/channels/6601948129adfd0008a1c0ba/colorLogoPNG.png
 6703a96763292d000836b4fa,Crime Up Close,https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png
-691b023a7613e09a8b209539,The X-Files,https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png
 66166cb1307fa30008f275e7,Pluto TV Sci-fi,https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png
 693bf37b75432d022c85ef01,Stargate,https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png
 6850335b5965a2fd49f7e36d,Andromeda,https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png
 62bdad934d73d50007a82472,Doctor Who Classic,https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png
 62e94ec74823db0007277a8f,One Piece,https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png
 68d25b620a0f3829b116bb6f,Pluto TV Anime,https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png
-68b9afd66985e192657a2b7f,APTN Beyond,https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png
-62e92a58f3e4290007290c96,Pluto TV Paranormal,https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png
-65cf8ace332fec00081e7ea2,Ghost Hunters,https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png
-63934c218ef524000757b122,HauntTV,https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png
 688a44cf5d73ec0a3f49718b,Weeds / Nurse Jackie,https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png
 62bdae69a47b6c00076af298,Baywatch,https://images.pluto.tv/channels/62bdae69a47b6c00076af298/colorLogoPNG.png
 65cf8d7428730900087c5907,Nashville,https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png
@@ -1730,6 +1733,8 @@
 6408b41b83f58900081d91ad,Pluto TV Retro Kid,https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png
 66588931a3865300085ca800,Bob l'éponge,https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png
 62e9566e27ce19000732ec85,Tortues Ninja TV,https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png
+6a68dd013ee9d9664278cfb6,NFL Channel,https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png
+66ed3eb27358ce000830df49,UFC,https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png
 638e10220aa6a6000726979f,Top Gear,https://images.pluto.tv/channels/638e10220aa6a6000726979f/colorLogoPNG_1756376814913.png
 69c592dff0f1a7d732dc6e36,Pluto TV Cars,https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png
 639b4f75d3d35c0007d37b30,Pluto TV Snooker 900,https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png
@@ -1739,7 +1744,6 @@
 6972546cc62833833a187f50,Willow Sports,https://images.pluto.tv/channels/6972546cc62833833a187f50/colorLogoPNG_1770648792020.png
 647f07e74cfc2c0008a2e557,DAZN TV,https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png
 660c29b5aec9680008f5b4a4,FIFA+,https://images.pluto.tv/channels/660c29b5aec9680008f5b4a4/colorLogoPNG_1750064928408.png
-66ed3eb27358ce000830df49,UFC,https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png
 62ea4dadce395f0007086df2,TNA Wrestling,https://images.pluto.tv/channels/62ea4dadce395f0007086df2/colorLogoPNG.png
 65bcc9c8d77d450008b34c6b,Monster Jam,https://images.pluto.tv/channels/65bcc9c8d77d450008b34c6b/colorLogoPNG.png
 6541010f770cf1000866be98,MTV Spankin’ New,https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png
@@ -1885,8 +1889,7 @@
 66c45b36a72e7b0008a2b291,CNN Headlines International,https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/colorLogoPNG_1775159909058.png
 6231ec93779a9d00079ba8e2,CBS News 24/7,https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png
 60d35bcaf1ff4a00078af0a6,Euronews,https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png
-661f8f4c307fa30008033ab5,Pluto TV Alieni,https://images.pluto.tv/channels/661f8f4c307fa30008033ab5/colorLogoPNG.png
-6994803179545c21a1061dab,Pluto TV Virus Letali,https://images.pluto.tv/channels/6994803179545c21a1061dab/colorLogoPNG_1773752798533.png
+691c5ba253a7a030e7c509d8,Distretto di Polizia,https://images.pluto.tv/channels/691c5ba253a7a030e7c509d8/colorLogoPNG_1788787884193.png
 62442f28afe626000747f195,I Jefferson,https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png
 66a0eea88561260008b1c5d0,Carabinieri,https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png
 6245d3792792150007e20634,Settimo Cielo,https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png
@@ -1938,7 +1941,9 @@
 62e8d5369e48940007fc1dc1,The Asylum,https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/colorLogoPNG.png
 67ed14aaf7c5d70b9089c3bf,Pluto TV Serie Sci-Fi,https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png
 61728bb9ee3773000840c1fa,Pluto TV Sci-Fi,https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png
+6994803179545c21a1061dab,Pluto TV Virus Letali,https://images.pluto.tv/channels/6994803179545c21a1061dab/colorLogoPNG_1773752798533.png
 65cb73d33ba51e00084cabad,Star Trek: Voyager,https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png
+661f8f4c307fa30008033ab5,Pluto TV Alieni,https://images.pluto.tv/channels/661f8f4c307fa30008033ab5/colorLogoPNG.png
 60802d37ee238e0007c94e64,Andromeda,https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png
 63eb57d6c111bc0008fe2658,Sanctuary,https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png
 66d9ab4bf0f17500084e9b7e,Pluto TV True Crime,https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/colorLogoPNG.png
