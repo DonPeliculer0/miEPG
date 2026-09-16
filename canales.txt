@@ -663,7 +663,7 @@ UK | Sky Sports +,UK | Sky Sports +
 UK | Sky Sports Mix,UK | Sky Sports Mix
 UK | Sky Sports Football,UK | Sky Sports Football
 UK | Sky Sports Premier League,UK | Sky Sports Premier League
-UK | Sky Sports Action,UK | Sky Sports Action
+UK | Sky Sports NFL,UK | Sky Sports NFL
 UK | Sky Sports F1,UK | Sky Sports F1
 UK | Sky Sports Golf,UK | Sky Sports Golf
 UK | Sky Sports Cricket,UK | Sky Sports Cricket
