@@ -162,3 +162,5 @@ Streaming.DUMMY.us,Streaming,https://www.shutterstock.com/image-vector/video-str
 The.Scooby-Doo.Show.DUMMY.us,The Scooby-Doo Show,https://1000logos.net/wp-content/uploads/2023/06/Scooby-Doo-Logo-1979.png
 Cartoon.DUMMY.us,Cartoon,https://imgcdn.stablediffusionweb.com/2026/7/5/ff579faf-c453-43ca-b7f4-17940d00e958.webp
 Uptown.Music.Television.DUMMY.us,Uptown Music Television,https://play-lh.googleusercontent.com/ZNlCVVT9lfD029S3c_UKg93Hik7PWC97w7hyNGPMyfy_Wp4mFmrhfGBN_GRQtWLUAN0
+Azteca.Conecta.DUMMY.mx,Azteca Conecta,https://assets.tvnotas.com.mx/dims4/default/7e8fe58/2147483647/strip/true/crop/800x450+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk3-prod-tvnotas.s3.us-west-2.amazonaws.com%2Fbrightspot%2F72%2Fb9%2F1e63fbf8f27eb0e0c8c81a7555c3%2Ftvn-27072018174057.jpg
+Azteca.Latidos.DUMMY.mx,Azteca Latidos,https://pbs.twimg.com/media/HQnunyTXwAAmZOT?format=webp
