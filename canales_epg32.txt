@@ -175,7 +175,7 @@ Sport1.HD.sk,Sport1 HD,
 Sport2.HD.sk,Sport2 HD,https://files.cdn.magio.tv/tv_logos/sport2-hd.png
 Stingray.Classica.HD.sk,Stingray Classica HD,https://files.cdn.magio.tv/tv_logos/stingray-classica-hd.png
 Stingray.Djazz.HD.sk,Stingray Djazz HD,https://files.cdn.magio.tv/tv_logos/stingray-djazz-hd.png
-Super.TV2.sk,Super TV2,https://files.cdn.magio.tv/tv_logos/super-tv2.png
+Super.TV2.sk,Super TV2,https://files.cdn.magio.tv/tv_logos/tv2.png
 Svet.Zdravia.1.sk,Svet Zdravia 1,
 Svet.Zdravia.2.sk,Svet Zdravia 2,
 Svet.Zdravia.3.sk,Svet Zdravia 3,
