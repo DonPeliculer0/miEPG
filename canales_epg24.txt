@@ -131,9 +131,9 @@ Mediaset.Italia.-.Australia.e.Asia.it,Mediaset Italia - Australia e Asia,https:/
 Radio.105.it,Radio 105,
 Cine34.it,Cine34,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/b6.png
 RMC.it,RMC,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/bb.png
-GF.VIP.-.Un’ora.fa.it,GF VIP - Un’ora fa,
-GF.VIP.-.Regia.2.it,GF VIP - Regia 2,
-GF.VIP.-.Regia.1.it,GF VIP - Regia 1,
+GF.VIP.-.Un’ora.fa.it,GF VIP - Un’ora fa,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/b9.png
+GF.VIP.-.Regia.2.it,GF VIP - Regia 2,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/b8.png
+GF.VIP.-.Regia.1.it,GF VIP - Regia 1,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/b7.png
 R101tv.it,R101tv,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/er.png
 Cartoonito.it,Cartoonito,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/la.png
 Boing.it,Boing,https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/kb.png
