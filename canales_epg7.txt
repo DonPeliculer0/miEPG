@@ -137,7 +137,7 @@
 6a1610bebdf296985fd95603-614398a08f30fa61e0da7c97,True History,https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png
 6a1610bebdf296985fd95603-67f592e6c97eb27725c8855f,MI-5,https://provider-static.plex.tv/epg/cms/production/1db7ca58-f6ab-4533-b342-969a37c960b4/SpooksMI5_Logo_Light_1500x1000_-_Harry_Marshall.png
 6a1610bebdf296985fd95603-5f74cf83ffbe690040689f50,History Hit,https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png
-6a1610bebdf296985fd95603-614a11bfa6f839154ee3306d,Spark TV Light &amp; Love,https://provider-static.plex.tv/epg/images/ott_channels/logos/SparkTV_logo_dark.png
+6a1610bebdf296985fd95603-614a11bfa6f839154ee3306d,Spark TV Light &amp; Love,https://provider-static.plex.tv/epg/cms/production/fa25b8fc-3d7e-428e-af71-6369dd1596a7/SparkTV_logo_darkWHTLETTERS.png
 6a1610bebdf296985fd95603-64275805efc65caa7e9514d6,Mayday: Air Disaster,https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png
 6a1610bebdf296985fd95603-69d940018061ebfbca58c32c,Medical Incredible,https://provider-static.plex.tv/epg/cms/production/d56a778a-d52e-440b-847d-a7e118b1c043/MedicalIncredible_Logo_Dark_1500x1000.png
 6a1610bebdf296985fd95603-6616cbcc0360e123d9f3f366,Highway Thru Hell,https://provider-static.plex.tv/epg/cms/production/d8e643e3-b9ca-4fd8-bcd2-1321a1f91df5/HighwayThruHell_Logo_White_1500x1000_-_Harry_Marshall.png
