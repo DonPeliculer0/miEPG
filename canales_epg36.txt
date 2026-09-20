@@ -1,6 +1,7 @@
 # Fuente: https://www.open-epg.com/generate/R97H5BC8fg.xml.gz
 El Gourmet.mx,El Gourmet.mx,https://images.open-epg.com/18727.png
 GUSTO TV.mx,GUSTO TV.mx,https://images.open-epg.com/19710632.png
+StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
 VH1ClassicUSA.gt,VH1 Classic USA.gt,https://images.open-epg.com/18896.png
 Baywatch.uk,Baywatch.uk,https://images.open-epg.com/19029.png
 BBCFour.uk,BBC Four.uk,https://images.open-epg.com/x373.png
@@ -31,7 +32,6 @@ EnglishClub.ua,English Club.ua,https://images.open-epg.com/26522414.png
 ElGourmet.ar,El Gourmet.ar,https://images.open-epg.com/35622.png
 NBATV.ar,NBA TV.ar,https://images.open-epg.com/16782361.png
 TeleSUR.ar,TeleSUR.ar,https://images.open-epg.com/25850.png
-StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
 StarTVE.pe,Star TVE.pe,https://images.open-epg.com/x1392.png
 EnglishClubTV.si,English Club TV.si,https://images.open-epg.com/6197.png
 ArmoniaTeVeSana.es,Armonía TeVe Sana.es,https://images.open-epg.com/4932.png
