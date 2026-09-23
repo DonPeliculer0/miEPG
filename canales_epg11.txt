@@ -1,7 +1,7 @@
 # Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/DStv/za.xml
 101.dstv_com,M-Net,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png
-106.dstv_com,M Movies +,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png
-106.dstv_com,M Movies +,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png
+106.dstv_com,M Movies+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png
+106.dstv_com,M Movies+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png
 107.dstv_com,M Movies Stars,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png
 108.dstv_com,M Movies Legends,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png
 109.dstv_com,SWITCH’D ON 109,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/35H.png
