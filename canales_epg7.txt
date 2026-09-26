@@ -2544,7 +2544,7 @@
 64305451fc3be5947773c339-69aed745e657bab5f7a9b7f2,Little Women: LA,https://provider-static.plex.tv/epg/cms/production/494c1763-e999-45a3-8588-354908051a56/Little_Women_LA_Logo_STACKED_WHT_COLORRDX.png
 64305451fc3be5947773c339-69dfefffb1533a88c65eac46,Chaos on Cam,https://provider-static.plex.tv/epg/cms/production/1f70ab34-e675-47d7-8153-e22b07aa806f/Chaos_on_Cam_channel_logo_4c_1500x1000RDX.png
 64305451fc3be5947773c339-606605549dbfca002d2ae873,TNA Wrestling Channel,https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png
-64305451fc3be5947773c339-6648d6f0a16b3a50177f4dc0,GREAT! romance,https://provider-static.plex.tv/epg/cms/production/34f15526-0e8a-4d84-aef9-5b1714bbd3ee/Plex_For_Dark_BG_1500x1000_GREAT_RomanceRDX.png
+64305451fc3be5947773c339-6648d6f0a16b3a50177f4dc0,GREAT! Christmas,https://provider-static.plex.tv/epg/cms/production/c97af2ba-a804-4761-a65a-064d3fb912e7/Plex_For_Dark_BG_1500x1000_GREAT_christmas__1__-_Nick_FoundoukisWHT_TEXT_W_GREENRDX.png
 64305451fc3be5947773c339-612919784f53e1002c9aa219,Are We There Yet?,https://provider-static.plex.tv/epg/cms/production/138a25f8-6dfb-4a03-bbec-acaa84628fcd/awty-logo-2.png
 64305451fc3be5947773c339-69012324d320237a5a2da1bc,Rookie Blue,https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png
 64305451fc3be5947773c339-6888e66c57acf2ceb6121ea8,Evidence of Evil,https://provider-static.plex.tv/epg/cms/production/bf9ff678-d3cf-4a9b-8095-eed2752bcb01/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png
