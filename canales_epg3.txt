@@ -2470,12 +2470,12 @@
 6512d72b473a540008592be5,Sabrina the Teenage Witch,https://images.pluto.tv/channels/6512d72b473a540008592be5/colorLogoPNG.png
 686d01ad94a028da3aaca6b3,The Nanny &amp; Mr Sheffield - A Fine Romance,https://images.pluto.tv/channels/686d01ad94a028da3aaca6b3/colorLogoPNG_1759145085675.png
 6391df52d146a40007c265f3,The Nanny,https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png
-6a749d816d05845d59c65de6,Great by Choice,https://images.pluto.tv/channels/6a749d816d05845d59c65de6/colorLogoPNG_1788794533551.png
+66b22714d512590008c3d573,Den gule sofa med Allan Sindberg,https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png
 62790dc1c733e8000733ba4d,Pixel.tv,https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png
 69f85041460b8b0496d4ca16,Divaernes Dillemmaer,https://images.pluto.tv/channels/69f85041460b8b0496d4ca16/colorLogoPNG_1788786889793.png
 6a2aa7a75d996facea208f2d,Temptation Island,https://images.pluto.tv/channels/6a2aa7a75d996facea208f2d/colorLogoPNG_1788186360129.png
 69f84eec9465b98649a769ac,Amalies verden,https://images.pluto.tv/channels/69f84eec9465b98649a769ac/colorLogoPNG_1788271091979.png
-66b22714d512590008c3d573,Den gule sofa med Allan Sindberg,https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png
+6a749d816d05845d59c65de6,Great by Choice,https://images.pluto.tv/channels/6a749d816d05845d59c65de6/colorLogoPNG_1788794533551.png
 6202358b9794740007133363,Doctor Who,https://images.pluto.tv/channels/6202358b9794740007133363/colorLogoPNG.png
 68ad8bececd330dcb0f050b5,Love Island: All Stars,https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png
 6a3e3b2aee8afbaedeebdd84,Et Ton Cash,https://images.pluto.tv/channels/6a3e3b2aee8afbaedeebdd84/colorLogoPNG_1788158418507.png
