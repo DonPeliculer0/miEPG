@@ -1,17 +1,6 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_AE1.xml.gz
-Dubai.ae,Dubai,https://dmi-vod-prod.akamaized.net/images/channels/DTV_1280x720_v2.png
-Sama.Dubai.ae,Sama Dubai,https://dmi-vod-prod.akamaized.net/images/channels/SamaTV_1280x720_v2.png
-One.Tv.ae,One Tv,https://dmi-vod-prod.akamaized.net/images/channels/OneTV_1280x720_v2.png
-Noor.DubaiTV.ae,Noor DubaiTV,https://dmi-vod-prod.akamaized.net/images/channels/Noor_Dubai_TV_1280x720_v2.png
-Dubai.Sports.1.ae,Dubai Sports 1,https://dmi-vod-prod.akamaized.net/images/channels/Dsports_1_1280x720_v2.png
-Dubai.Racing.ae,Dubai Racing,https://dmi-vod-prod.akamaized.net/images/channels/Racing_1_1280x720_v2.png
-Dubai.Zaman.ae,Dubai Zaman,https://dmi-vod-prod.akamaized.net/images/channels/Zaman_1280x720_v2.png
-Dubai.Radio.ae,Dubai Radio,https://dmi-vod-prod.akamaized.net/images/channels/DRadio_1280x720_v2.png
-Noor.Dubai.Radio.ae,Noor Dubai Radio,https://dmi-vod-prod.akamaized.net/images/channels/Noor_Dubai_Radio_1280x720_v2.png
-Quran.Radio.ae,Quran Radio,https://dmi-vod-prod.akamaized.net/images/channels/Quran_1280x720_v2.png
 Abu.Dhabi.HD.ae,Abu Dhabi HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1409153.png
 Emarat.HD.ae,Emarat HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1409154.png
-Dubai.HD.ae,Dubai HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-253.png
 Nat.Geo.Abu.Dhabi.HD.ae,Nat Geo Abu Dhabi HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1409155.png
 MBC.1.ae,MBC 1,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-43848.png
 MBC.2.ae,MBC 2,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-43636.png
@@ -20,8 +9,6 @@ MBC.Drama.ae,MBC Drama,https://www.sat.tv/wp-content/themes/twentytwenty-child/d
 MBC.Action.ae,MBC Action,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-43886.png
 MBC.Bollywood.ae,MBC Bollywood,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-43814.png
 MBC.Masr.HD.ae,MBC Masr HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-43521.png
-Sama.Dubai.HD.ae,Sama Dubai HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-115813.png
-Dubai.One.HD.ae,Dubai One HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-76859.png
 Rotana.Khalijia.ae,Rotana Khalijia,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-264.png
 Rotana.Cinema.KSA.ae,Rotana Cinema KSA,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-316.png
 Rotana.Cinema.Egypt.ae,Rotana Cinema Egypt,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-65.png
@@ -57,10 +44,6 @@ Saudi.HD.ae,Saudi HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/dat
 AD.Sports.1.HD.ae,AD Sports 1 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-85653.png
 AD.Sports.2.HD.ae,AD Sports 2 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-85654.png
 Yas.TV.HD.ae,Yas TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-279.png
-Dubai.Sports.1.HD.ae,Dubai Sports 1 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-278.png
-Dubai.Sports.2.ae,Dubai Sports 2,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-455.png
-Dubai.Racing.1.HD.ae,Dubai Racing 1 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-655.png
-Dubai.Racing.2.ae,Dubai Racing 2,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-6320.png
 Sharjah.Sports.HD.ae,Sharjah Sports HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-210.png
 KSA.sports.1.ae,KSA sports 1,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1651275.png
 KSA.sports.2.HD.ae,KSA sports 2 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1651277.png
@@ -686,7 +669,7 @@ en:.Sony.TV.ae,en: Sony TV,https://stap.tmsimg.com/assets/p33877912_b_h10_aa.jpg
 en:.STC.tv.Cinema.ae,en: STC tv Cinema,
 en:.STC.tv.Drama.ae,en: STC tv Drama,
 en:.STC.tv.Family.ae,en: STC tv Family,
-en:.Bloom.ae,en: Bloom,https://stap.tmsimg.com/assets/p186047_b_h8_al.jpg
+en:.Bloom.ae,en: Bloom,https://stap.tmsimg.com/assets/p25148154_b_h8_ac.jpg
 en:.Sky.News.Arabia.-.Live.ae,en: Sky News Arabia - Live,
 en:.Ben.10.by.WBTV.ae,en: Ben 10 by WBTV,
 en:.ARY.Digital.ae,en: ARY Digital,
@@ -702,9 +685,9 @@ en:.STARZPLAY.KLASSICZ.ae,en: STARZPLAY KLASSICZ,
 en:.Al.Arabiya.HD.ae,en: Al Arabiya HD,
 en:.Zee.Aflam.-.Live.ae,en: Zee Aflam - Live,
 en:.STARZPLAY.Cricket.2.ae,en: STARZPLAY Cricket 2,
-en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://stap.tmsimg.com/assets/GNLZZGG0037LM5E.jpg
+en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://stap.tmsimg.com/assets/p33894258_e_h10_aa.jpg
 en:.EASL.(East.Asia.Super.League.2025-2026).ae,en: EASL (East Asia Super League 2025-2026),
-en:.STARZPLAY.Cricket.1.ae,en: STARZPLAY Cricket 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
+en:.STARZPLAY.Cricket.1.ae,en: STARZPLAY Cricket 1,
 en:.AD.Sports.Extra.ae,en: AD Sports Extra,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
 en:.AWSN+.ae,en: AWSN+,
 en:.Red.Bull.TV.Live.ae,en: Red Bull TV Live,
@@ -715,7 +698,7 @@ en:.Majid.TV.ae,en: Majid TV,
 en:.National.Geographic.Abu.Dhabi.ae,en: National Geographic Abu Dhabi,
 en:.Abu.Dhabi.Sports.1.ae,en: Abu Dhabi Sports 1,
 en:.Yas.ae,en: Yas,
-en:.Sama.Dubai.ae,en: Sama Dubai,
+en:.Sama.Dubai.ae,en: Sama Dubai,https://dmi-vod-prod.akamaized.net/images/channels_transparent/SamaTV_1280x720.png
 en:.2M.Monde.ae,en: 2M Monde,
 en:.Roya.TV.Live.ae,en: Roya TV Live,
 en:.Zee.Alwan.ae,en: Zee Alwan,
@@ -723,11 +706,11 @@ en:.Karyam.Nissaram.-.Live.ae,en: Karyam Nissaram - Live,
 en:.M80.Moosa.ae,en: M80 Moosa,
 en:.Curiosity.Stream.ae,en: Curiosity Stream,
 en:.K-Drama+.ae,en: K-Drama+,
-en:.Colors.HD.ae,en: Colors HD,https://stap.tmsimg.com/assets/p33679624_b_h8_aa.jpg
+en:.Colors.HD.ae,en: Colors HD,https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg
 en:.Zee.TV.HD.ae,en: Zee TV HD,https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg
-en:.Asianet.ME.ae,en: Asianet ME,https://stap.tmsimg.com/assets/p10913885_b_h10_aa.jpg
-en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://stap.tmsimg.com/assets/p14782802_v_h10_aa.jpg
-en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://stap.tmsimg.com/assets/p11849990_b_h8_aa.jpg
+en:.Asianet.ME.ae,en: Asianet ME,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg
+en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://stap.tmsimg.com/assets/p11415247_b_h8_aa.jpg
+en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://stap.tmsimg.com/assets/p11101029_b_h10_ae.jpg
 en:.Star.Plus.HD.ae,en: Star Plus HD,https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg
 en:.Emarat.FM.ae,en: Emarat FM,
 en:.Quran.Kareem.ae,en: Quran Kareem,
@@ -743,7 +726,7 @@ en:.CNBC.Arabiya.HD.ae,en: CNBC Arabiya HD,
 en:.CGTN.ae,en: CGTN,https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg
 en:.Al.Arabiya.Business.-.Live.ae,en: Al Arabiya Business - Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
 en:.Al.Hadath.Live.ae,en: Al Hadath Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-en:.SET.Max.ae,en: SET Max,https://stap.tmsimg.com/assets/p156095_v_h10_ae.jpg
+en:.SET.Max.ae,en: SET Max,https://stap.tmsimg.com/assets/p15660616_v_h11_aa.jpg
 ar:.جولف.لايف.ae,ar: جولف لايف,
 ar:.ستارز.بلاي.سبورتس.1.ae,ar: ستارز بلاي سبورتس 1,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
 ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
@@ -753,7 +736,7 @@ ar:.سوني.تي.في.ae,ar: سوني تي في,https://stap.tmsimg.com/assets/
 ar:.أس.تي.سي.سينما.ae,ar: أس تي سي سينما,
 ar:.أس.تي.سي.دراما.ae,ar: أس تي سي دراما,
 ar:.أس.تي.سي.عائلة.ae,ar: أس تي سي عائلة,
-ar:.بلوم.ae,ar: بلوم,https://stap.tmsimg.com/assets/p186047_b_h8_al.jpg
+ar:.بلوم.ae,ar: بلوم,https://stap.tmsimg.com/assets/p25148154_b_h8_ac.jpg
 ar:.سكاي.نيوز.عربية.-.مباشر.ae,ar: سكاي نيوز عربية - مباشر,
 ar:.غامبول.باي.دبليو.بي.تي.في.ae,ar: غامبول باي دبليو بي تي في,
 ar:.قناة.إي.آر.واي.ديجيتال.ae,ar: قناة إي آر واي ديجيتال,
@@ -769,7 +752,7 @@ ar:.ستارز.بلاي.كلاسيكز.ae,ar: ستارز بلاي كلاسيكز
 ar:.قناة.العربية.-.مباشر.ae,ar: قناة العربية - مباشر,
 ar:.زي.أفلام.-.مباشر.ae,ar: زي أفلام - مباشر,
 ar:.ستارزبلاي.كريكيت.2.ae,ar: ستارزبلاي كريكيت 2,
-ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://stap.tmsimg.com/assets/GNLZZGG0037LM5E.jpg
+ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://stap.tmsimg.com/assets/p33894258_e_h10_aa.jpg
 ar:.اي.اي.اس.ال.(ايست.ايشيا.سوبر.ليغ.2025-2026).ae,ar: اي اي اس ال (ايست ايشيا سوبر ليغ 2025-2026),
 ar:.ستارزبلاي.كريكيت.1.ae,ar: ستارزبلاي كريكيت 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
 ar:.أبوظبي.الرياضية.إكسترا.ae,ar: أبوظبي الرياضية إكسترا,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
@@ -790,11 +773,11 @@ ar:.كاريم.نيسارام-مباشر.ae,ar: كاريم نيسارام-مبا
 ar:.M80.موسى.ae,ar: M80 موسى,
 ar:.كيوريوسيتي.ستريم.ae,ar: كيوريوسيتي ستريم,
 ar:.ك-دراما+.ae,ar: ك-دراما+,
-ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://stap.tmsimg.com/assets/p33679624_b_h8_aa.jpg
+ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://stap.tmsimg.com/assets/p33257755_b_h10_ab.jpg
 ar:.زي.تي.في.ae,ar: زي تي في,https://stap.tmsimg.com/assets/p30514065_b_h8_ac.jpg
-ar:.آسيا.نت.ae,ar: آسيا نت,https://stap.tmsimg.com/assets/p10913885_b_h10_aa.jpg
-ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://stap.tmsimg.com/assets/p14782802_v_h10_aa.jpg
-ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://stap.tmsimg.com/assets/p11849990_b_h8_aa.jpg
+ar:.آسيا.نت.ae,ar: آسيا نت,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg
+ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://stap.tmsimg.com/assets/p11415247_b_h8_aa.jpg
+ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://stap.tmsimg.com/assets/p11101029_b_h10_ae.jpg
 ar:.ستار.بلس.ae,ar: ستار بلس,https://stap.tmsimg.com/assets/p33748526_b_h8_ab.jpg
 ar:.إذاعة.الإمارات.إف.إم.ae,ar: إذاعة الإمارات إف إم,
 ar:.قناة.القرآن.الكريم.ae,ar: قناة القرآن الكريم,
@@ -810,4 +793,13 @@ ar:.سي.إن.بي.سي.عربية.-.مباشر.ae,ar: سي إن بي سي عر�
 ar:.سي.جي.تي.إن.ae,ar: سي جي تي إن,https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg
 ar:.العربية.بيزنس.-.مباشر.ae,ar: العربية بيزنس - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
 ar:.قناة.الحدث.-.مباشر.ae,ar: قناة الحدث - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-ar:.ست.ماكس.ae,ar: ست ماكس,https://stap.tmsimg.com/assets/p156095_v_h10_ae.jpg
+ar:.ست.ماكس.ae,ar: ست ماكس,https://stap.tmsimg.com/assets/p15660616_v_h11_aa.jpg
+Dubai.ae,Dubai,
+Sama.Dubai.ae,Sama Dubai,
+Dubai.Sports.2.ae,Dubai Sports 2,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Dsports_2_1280x720.png
+Dubai.Racing.2.ae,Dubai Racing 2,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Racing_2_1280x720.png
+Noor.DubaiTV.ae,Noor DubaiTV,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Noor_Dubai_TV_1280x720.png
+One.Tv.ae,One Tv,https://dmi-vod-prod.akamaized.net/images/channels_transparent/OneTV_1280x720.png
+Dubai.Sports.1.ae,Dubai Sports 1,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Dsports_1_1280x720.png
+Dubai.Racing.1.ae,Dubai Racing 1,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Racing_1_1280x720.png
+Dubai.Zaman.ae,Dubai Zaman,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Zaman_1280x720.png
