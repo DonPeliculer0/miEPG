@@ -47,7 +47,7 @@ Sky.Adventure.it,Sky Adventure,https://guidatv.sky.it/logo/962skyadventure_Light
 Sky.Sport.Mix.it,Sky Sport Mix,https://guidatv.sky.it/logo/579skysportmix_Light_Fit.png?checksum=68d457d4-ae25-40ec-8198-2be42327d82d?tr=n-logo_80
 Sky.Sport.Legend.it,Sky Sport Legend,https://guidatv.sky.it/logo/578skysportlegend_Light_Fit.png?checksum=4887b8c8-ab51-46c9-890e-2367de4fa38e?tr=n-logo_80
 Sky.Sport..251.it,Sky Sport  251,https://guidatv.sky.it/logo/917skysport_Light_Fit.png?checksum=4f061bab-25db-4c9b-8220-e560abc222b5?tr=n-logo_80
-Sky.Sport..252.it,Sky Sport  252,
+Sky.Sport..252.it,Sky Sport  252,https://guidatv.sky.it/logo/951skysport_Light_Fit.png?tr=n-logo_80
 Sky.Sport..253.it,Sky Sport  253,
 Sky.Sport..254.it,Sky Sport  254,
 Sky.Sport..255.it,Sky Sport  255,
