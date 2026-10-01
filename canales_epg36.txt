@@ -4,6 +4,7 @@ GUSTO TV.mx,GUSTO TV.mx,https://images.open-epg.com/19710632.png
 EnglishClubTV.fi,English Club TV.fi,https://images.open-epg.com/25516657.png
 VH1ClassicUSA.gt,VH1 Classic USA.gt,https://images.open-epg.com/18896.png
 EnglishClub.lt,English Club.lt,https://images.open-epg.com/19562856.png
+StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
 ArmoniaTeVeSana.es,Armonía TeVe Sana.es,https://images.open-epg.com/4932.png
 CanalParlamento.es,Canal Parlamento.es,https://images.open-epg.com/17504.png
 CookingPanda.es,Cooking Panda.es,https://images.open-epg.com/4976.png
@@ -51,6 +52,5 @@ EnglishClub.ua,English Club.ua,https://images.open-epg.com/26522414.png
 ElGourmet.ar,El Gourmet.ar,https://images.open-epg.com/35622.png
 NBATV.ar,NBA TV.ar,https://images.open-epg.com/16782361.png
 TeleSUR.ar,TeleSUR.ar,https://images.open-epg.com/25850.png
-StarTVE.fr,Star TVE.fr,https://images.open-epg.com/x1877.png
 StarTVE.pe,Star TVE.pe,https://images.open-epg.com/x1392.png
 EnglishClubTV.si,English Club TV.si,https://images.open-epg.com/6197.png

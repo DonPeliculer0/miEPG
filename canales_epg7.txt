@@ -756,6 +756,7 @@
 697140a85d851f5e69414688-65e0c8c6d899afe817b9d224,Cricket Gold,https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png
 697140a85d851f5e69414688-64f101b1c4b308f2fe3e7c0c,Beyond Belief,https://provider-static.plex.tv/epg/cms/production/1837808e-79a1-439e-9ae2-ff9c4b200b81/FilmRise_BeyondBelief_Logo_Whiterdx.png
 697140a85d851f5e69414688-5f170d62b898490041b4936e,FailArmy,https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png
+697140a85d851f5e69414688-6a8cc101fc51826f5301a160,COPS Reloaded,https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png
 697140a85d851f5e69414688-6448ba1baf92c31f4a190c27,JAIL,https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png
 697140a85d851f5e69414688-666291ad8dfc36b8c8a399c8,FIFA+,https://provider-static.plex.tv/epg/cms/production/2c509e78-5c38-43b6-94cf-f25e1bff3765/FIFA__Logo_Rectangle_1500x1000_WHT.png
 697140a85d851f5e69414688-650b5bb3f4b2d9579946a500,Mythical 24/7,https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png
@@ -1028,6 +1029,7 @@
 5e20b730f2f8d5003d739db7-64f101b1c4b308f2fe3e7c0c,Beyond Belief,https://provider-static.plex.tv/epg/cms/production/1837808e-79a1-439e-9ae2-ff9c4b200b81/FilmRise_BeyondBelief_Logo_Whiterdx.png
 5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e,FailArmy,https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png
 5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27,JAIL,https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png
+5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160,COPS Reloaded,https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png
 5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2,FUEL TV,https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png
 5e20b730f2f8d5003d739db7-68b74a235dc5413c905efd62,TV5MONDE Voyage,https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png
 5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500,Mythical 24/7,https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png
@@ -1863,6 +1865,7 @@
 647f8d22a2fc3fadb4721685-6515fa752ff655e77635c626,The Osbournes,https://provider-static.plex.tv/epg/cms/production/800e74ab-7d32-40a7-bfcd-46759da46896/TheOsbournes_Logo_White_1500x1000_-_Harry_Marshall.png
 647f8d22a2fc3fadb4721685-63e63f20abacad42ed3d1acf,Baywatch,https://provider-static.plex.tv/epg/cms/production/dda6e0f8-0807-417b-b30f-1f67dc5084d6/BAYWATCH_PLEX_LOGO_COLOR_DarkBkg_1500x1000_-_Elaine_De_Santiago.png
 647f8d22a2fc3fadb4721685-6087ff3ae99ff1002ce1465b,Nashville,https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7ed379f6fe9fb99d36e235c9e315b03f.png
+647f8d22a2fc3fadb4721685-6a8cc101fc51826f5301a160,COPS Reloaded,https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png
 647f8d22a2fc3fadb4721685-6448ba1baf92c31f4a190c27,JAIL,https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png
 647f8d22a2fc3fadb4721685-6685c23d2deb7f424133b08d,The Mightiest by CTV,https://provider-static.plex.tv/epg/cms/production/f323e9b0-59d0-4a95-8fab-106cee3d095e/Mightiest_Logo_ForDarkBackgrounds_1500x1000.png
 647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873,FilmRise Made In Canada,https://provider-static.plex.tv/epg/cms/production/db87895d-9c6d-446d-b303-e790561044dc/FilmRise_MadeInCanada_1500x1000_Light_Logo.png
@@ -2601,6 +2604,7 @@
 64305451fc3be5947773c339-650b60deb2413c46bf584d86,History &amp; Warfare,https://provider-static.plex.tv/epg/cms/production/cd331b0e-4fa8-4771-a9be-d74565549d45/Plex_HistoryWarfare_Logo_DarkBackground_.png
 64305451fc3be5947773c339-67d9a3d663c5439aeaf61305,The Bold and the Beautiful,https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png
 64305451fc3be5947773c339-69bb1f002028859eafc637e1,Legacy,https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png
+64305451fc3be5947773c339-6a8cc101fc51826f5301a160,COPS Reloaded,https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png
 64305451fc3be5947773c339-6448ba1baf92c31f4a190c27,JAIL,https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png
 64305451fc3be5947773c339-6a2ab3dce6a243c85608e4b2,60 Days In Jail,https://provider-static.plex.tv/epg/cms/production/f98eaac1-2402-4220-bc91-c71ad34c49e1/60_Days_In_Jail_channel_logo_dark_1500x1000WHT_RDX.png
 64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86e,FilmRise Free Series,https://provider-static.plex.tv/epg/cms/production/d16da0ef-6eb2-4013-8fe3-09d800303cd7/FilmRise_FreeSeries_1500x1000_logo_light.png
