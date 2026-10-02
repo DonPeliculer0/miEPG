@@ -52,7 +52,7 @@ Sky.Sport..253.it,Sky Sport  253,https://guidatv.sky.it/logo/233233_Light_Fit.pn
 Sky.Sport..254.it,Sky Sport  254,https://guidatv.sky.it/logo/234skysport_Light_Fit.png?tr=n-logo_80
 Sky.Sport..255.it,Sky Sport  255,https://guidatv.sky.it/logo/910skysport_Light_Fit.png?checksum=1486554b-09f4-4727-921c-4c9b1655b59e?tr=n-logo_80
 Sky.Sport..256.it,Sky Sport  256,https://guidatv.sky.it/logo/912skysport_Light_Fit.png?checksum=1c38728d-1774-4c93-a75f-622e062b1c29?tr=n-logo_80
-Sky.Sport..257.it,Sky Sport  257,
+Sky.Sport..257.it,Sky Sport  257,https://guidatv.sky.it/logo/775skysport_Light_Fit.png?checksum=5cd2e53d-e3b3-4921-9391-de3e72d6fb81?tr=n-logo_80
 Sky.Sport..258.it,Sky Sport  258,
 Sky.Sport..259.it,Sky Sport  259,
 Sky.Calcio.10..260.it,Sky Calcio 10  260,
@@ -83,7 +83,7 @@ TG.NORBA.24.it,TG NORBA 24,
 Emilia.Romagna.24.it,Emilia Romagna 24,
 TRM.h24.it,TRM h24,https://guidatv.sky.it/logo/5421trmh24_Light_Fit.png?checksum=550c404365a3b09ee9d2cb21d22ab992?tr=n-logo_80
 San.Marino.RTV.it,San Marino RTV,https://guidatv.sky.it/logo/5407sanmarinortv_Light_Fit.png?checksum=b427cf09-e93d-4aa9-aea3-1f5ce6a5cade?tr=n-logo_80
-Euronews.it,Euronews,https://guidatv.sky.it/logo/801euronews_Light_Fit.png?checksum=277e1027b916e49f4f386e93321cf63c?tr=n-logo_80
+Euronews.it,Euronews,
 Sky.News.it,Sky News,https://guidatv.sky.it/logo/108skynews_Light_Fit.png?checksum=7aed4b47-0ec3-443a-9bfd-df84af1ad880?tr=n-logo_80
 Fox.News.it,Fox News,https://guidatv.sky.it/logo/103foxnews_Light_Fit.png?tr=n-logo_80
 CNN.Intl..it,CNN Intl.,https://guidatv.sky.it/logo/211cnnintl_Light_Fit.png?checksum=9b32c1b66584bbd6a1e1ff740832e9b0?tr=n-logo_80
