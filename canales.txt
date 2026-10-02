@@ -429,8 +429,7 @@ Runtime Series,Runtime Series
 683457aebbc703dfd45a89eb,Merlí Pluto TV
 643054b1fc3be59477853717-68645a8619cc2e163e38d161,Merlí Rakuten TV
 676e7b4a4bd636000819c6a7,SensaCine TV x Pluto
-TV.2.Charlie.dk,Charlie
-TV.2.Charlie.Denmark.(DK,DA).no,Charlie
+66b0e00814a2bb00085f5934,Pluto TV Terror Clásico
 Distrito TV,Distrito TV
 ,Univers TV
 La Ocho Mediterráneo,La 8 Mediterráneo
