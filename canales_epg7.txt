@@ -2499,7 +2499,7 @@
 64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b,Love after Lockup,https://provider-static.plex.tv/epg/cms/production/de1c07c9-c023-41c1-ad1b-6b84c58358ac/LOVE_AFTER_LOCKUP_1500x1000_LOGO_WHITE.png
 64305451fc3be5947773c339-6920e0045cbe620c1f9b6bad,Sony One | Comedy TV,https://provider-static.plex.tv/epg/cms/production/c4e190fc-8140-4f9f-babe-39fb0675b9dc/UK_FAST_Plex_ComedyTV_logo_dark.png
 64305451fc3be5947773c339-66c3cd45d263903b4c6d991c,MYSTERY TV,https://provider-static.plex.tv/epg/cms/production/5a26c618-961a-4051-a833-2dbdcbea2d84/Mystery-Tv_Logo_Dark_-_Greta_WilliamsRDX.png
-64305451fc3be5947773c339-692111d750fe592fd6d5b7da,Sony One | Action Hits,https://provider-static.plex.tv/epg/cms/production/cd8ecd7d-ec9a-466b-b1ed-0a8b56fe87d9/UK_FAST_Plex_ActionHits_logo_dark.png
+64305451fc3be5947773c339-692111d750fe592fd6d5b7da,Sony One | Action Hits,https://provider-static.plex.tv/epg/cms/production/b7e6dc61-1c07-4ec3-b63e-4d69b5dc8d78/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png
 64305451fc3be5947773c339-65847c56d60830ce4d4f303a,Hardcore Pawn,https://provider-static.plex.tv/epg/cms/production/2729a7a8-8f45-474a-90a3-ca23aa1241a0/HardcorePawn_Logo_Light_1500x1000_-_Harry_Marshall.png
 64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7,AMC Reality,https://provider-static.plex.tv/epg/cms/production/81b22af9-7a76-45f1-b13b-1d3ff39c2c33/AMC_REALITY_1500x1000_LOGO_LIGHT.png
 64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d,AMC Cupid,https://provider-static.plex.tv/epg/cms/production/cf793ad1-fa4c-4dc5-ad43-73faa32e5355/AMC_CUPID_1500x1000_LOGO_LIGHT.png
