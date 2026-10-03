@@ -761,8 +761,10 @@
 6abab1c8d33c7e25d227502e,Pluto TV Fantastic,https://images.pluto.tv/channels/6abab1c8d33c7e25d227502e/colorLogoPNG_1790624099120.png
 6abab32a198ce62db3f7e54d,TV Land Sitcoms,https://images.pluto.tv/channels/6abab32a198ce62db3f7e54d/colorLogoPNG_1790624268181.png
 6a71f490f5f14c2045cd6118,Pluto TV TGIF Comedy,https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png
-6a8d96aa2cfd341eb5809214,SI TV,https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png
 6aa1c48cf5f14c2045c43776,Private Eyes,https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png
+6aa2c3d1cb18e0ed0255f8d0,COPS,https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png
+6aa2c09cf5f14c2045c7c87a,Paranormal Chronicles,https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png
+6a8d96aa2cfd341eb5809214,SI TV,https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png
 6a8d96996d62a56d3bdd959c,Wired2Fish TV,https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png
 6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
 691b023a7613e09a8b209539,The X-Files,https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png
@@ -856,7 +858,6 @@
 62bdad934d73d50007a82472,Doctor Who Classic,https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png
 62e94ec74823db0007277a8f,One Piece,https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png
 68d25b620a0f3829b116bb6f,Pluto TV Anime,https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png
-6aa2c09cf5f14c2045c7c87a,Paranormal Chronicles,https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png
 688a44cf5d73ec0a3f49718b,Weeds / Nurse Jackie,https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png
 62bdae69a47b6c00076af298,Baywatch,https://images.pluto.tv/channels/62bdae69a47b6c00076af298/colorLogoPNG.png
 65cf8d7428730900087c5907,Nashville,https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png
@@ -1552,8 +1553,10 @@
 6abab1c8d33c7e25d227502e,Pluto TV Fantastic,https://images.pluto.tv/channels/6abab1c8d33c7e25d227502e/colorLogoPNG_1790624099120.png
 6abab32a198ce62db3f7e54d,TV Land Sitcoms,https://images.pluto.tv/channels/6abab32a198ce62db3f7e54d/colorLogoPNG_1790624268181.png
 6a71f490f5f14c2045cd6118,Pluto TV TGIF Comedy,https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png
-6a8d96aa2cfd341eb5809214,SI TV,https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png
 6aa1c48cf5f14c2045c43776,Private Eyes,https://images.pluto.tv/channels/6aa1c48cf5f14c2045c43776/colorLogoPNG_1790078703073.png
+6aa2c3d1cb18e0ed0255f8d0,COPS,https://images.pluto.tv/channels/6aa2c3d1cb18e0ed0255f8d0/colorLogoPNG_1790717127559.png
+6aa2c09cf5f14c2045c7c87a,Paranormal Chronicles,https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png
+6a8d96aa2cfd341eb5809214,SI TV,https://images.pluto.tv/channels/6a8d96aa2cfd341eb5809214/colorLogoPNG_1790272809808.png
 6a8d96996d62a56d3bdd959c,Wired2Fish TV,https://images.pluto.tv/channels/6a8d96996d62a56d3bdd959c/colorLogoPNG_1789399217901.png
 6a56adb02f9e0117d78f5b44,Hogan's Heroes,https://images.pluto.tv/channels/6a56adb02f9e0117d78f5b44/colorLogoPNG_1784069707330.png
 691b023a7613e09a8b209539,The X-Files,https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png
@@ -1647,7 +1650,6 @@
 62bdad934d73d50007a82472,Doctor Who Classic,https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png
 62e94ec74823db0007277a8f,One Piece,https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png
 68d25b620a0f3829b116bb6f,Pluto TV Anime,https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png
-6aa2c09cf5f14c2045c7c87a,Paranormal Chronicles,https://images.pluto.tv/channels/6aa2c09cf5f14c2045c7c87a/colorLogoPNG_1790356068202.png
 688a44cf5d73ec0a3f49718b,Weeds / Nurse Jackie,https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png
 62bdae69a47b6c00076af298,Baywatch,https://images.pluto.tv/channels/62bdae69a47b6c00076af298/colorLogoPNG.png
 65cf8d7428730900087c5907,Nashville,https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png
