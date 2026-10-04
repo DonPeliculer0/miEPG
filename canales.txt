@@ -136,6 +136,7 @@ DAZN F1 HD,DAZN F1 HD
 Eurosport 1 HD,Eurosport 1 HD
 Eurosport 2,Eurosport 2
 GOL,GOL
+Replay,Replay
 Esport3 Catalunya,Esport3 Catalunya
 Top Barça,Top Barça
 65ea8b928145cb0008509426,UEFA Champions League
