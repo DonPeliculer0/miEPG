@@ -62,7 +62,6 @@
 193.dstv_com,SABC 3,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/B3C.png
 194.dstv_com,eTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDE.png
 195.dstv_com,eExtra,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E01.png
-198.dstv_com,Big Brother Naija,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MDH.png
 199.dstv_com,SS Events,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M30.png
 200.dstv_com,SS Blitz,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png
 201.dstv_com,SS Grandstand,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png
@@ -150,7 +149,6 @@
 450.dstv_com,SET Asia,
 452.dstv_com,ZeeTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ZEE.png
 453.dstv_com,Star Plus,
-454.dstv_com,Sun TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DOO.png
 455.dstv_com,Star Vijay,
 456.dstv_com,Colors,
 457.dstv_com,SET Max,
