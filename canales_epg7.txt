@@ -526,7 +526,6 @@
 6a1610bebdf296985fd95603-6a3c2c8c14e447db7984cc3a,Billboard Español TV,https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png
 6a1610bebdf296985fd95603-688cf47e324d7b6bc116198d,Teleonce America,https://provider-static.plex.tv/epg/cms/production/af7d82cf-f17f-40b5-b086-ed6a61c17d2e/logo_Teleonce_AmericaRDX_COLOR.png
 6a1610bebdf296985fd95603-66e0d0c4f70549a9bc1eceb0,WAPA+,https://provider-static.plex.tv/epg/cms/production/b8a22bfa-9e21-41cc-a789-84a2f8924af8/LOGO_WAPA__Color_Dark_24MAY_marketing_HMTVRDX_COLOR.png
-6a1610bebdf296985fd95603-6477b95b7ba9c0d593859bfc,Cops en Español,https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png
 6a1610bebdf296985fd95603-67db5c68d66f778a752f8203,Gata Salvaje,https://provider-static.plex.tv/epg/cms/production/d6690839-646f-43fc-bd75-b508f908d1ee/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png
 6a1610bebdf296985fd95603-6469502df73356567a64ce8e,Clic,https://provider-static.plex.tv/epg/cms/production/5524a542-5952-4090-9e2e-780e1a3adc22/clic_logo_light_-_James_Stowe_Color_rdx.png
 6a1610bebdf296985fd95603-661d6a8db518ef381a85ed60,Spark TV Luz y Amor,https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png
@@ -1099,6 +1098,7 @@
 5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d,Robot Wars by Mech+,https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png
 5e20b730f2f8d5003d739db7-621672e42c2627c068e73ad8,Galxy TV,https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png
 5e20b730f2f8d5003d739db7-66f6b947515e742745f5ca34,21 Jump Street,https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png
+5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63,INTER 24/7,https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png
 5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495,Monster Jam,https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png
 5e20b730f2f8d5003d739db7-68caada21fabab6eb2e99331,Bassmaster,https://provider-static.plex.tv/epg/cms/production/f6d14e42-d9be-4f81-893f-cb676d32c473/BassmasterChannel_DarkBackground_-_Will_Flowers.png
 5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136,RACER International,https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png
@@ -1129,7 +1129,6 @@
 5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169,World Surf League 24/7,https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png
 5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc,PursuitUP,https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png
 5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa,FTF Sports,https://provider-static.plex.tv/epg/cms/production/aa1c5515-a30f-4790-a384-ca23a3ba0740/FTFSportsWHT.png
-5e20b730f2f8d5003d739db7-69011e71d320237a5a2d9f63,INTER 24/7,https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png
 5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88,The Bob Ross Channel,https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png
 5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9,Revry,https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png
 5e20b730f2f8d5003d739db7-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
@@ -1325,7 +1324,6 @@
 608049aefa2b8ae93c2c3a63-68645c1f1a2f321847ec0391,Platos Sucios,https://provider-static.plex.tv/epg/cms/production/295bd4d4-c84e-4cb7-a0fe-e96f66ba2c40/PLATOS_SUCIOS_channel_logo_colorRDX.png
 608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843,Zona Investigación,https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png
 608049aefa2b8ae93c2c3a63-666e1af3d91d13cb4c8cbb6d,La Fiebre del Jade,https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png
-608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops en Español,https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png
 608049aefa2b8ae93c2c3a63-666e192cd91d13cb4c8cbb6b,Ice Pilots NWT (en español),https://provider-static.plex.tv/epg/cms/production/cd6eed5a-9ec7-469b-90cd-378bc8e95f3f/pilotos_del_artico_logo_WHT.png
 608049aefa2b8ae93c2c3a63-67c24d5a45ae99120c07158c,Gata Salvaje,https://provider-static.plex.tv/epg/cms/production/c4604da1-d6b6-4043-95fb-9a90f4f0273c/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png
 608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7,Cindie TV,https://provider-static.plex.tv/epg/cms/production/5620421b-a237-4877-8e66-fab487246259/Cindie_TV_Horizontal_3840x2160-DarkRDX.png
@@ -1539,7 +1537,6 @@
 643054b1fc3be59477853717-67e6979de1de65be88aeb39f,RCN Noticias,https://provider-static.plex.tv/epg/cms/production/078ace21-2c9e-4b63-b222-1dd0a525ad3e/RCN_NOTICIAS_BG_COLOR_n_-_JuanMa_VelasquezRDX.png
 643054b1fc3be59477853717-69a529f77c245b3390e8a4de,Masha and the Bear,https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png
 643054b1fc3be59477853717-69b164bc87340e48b7b72247,CNN Headlines International,https://provider-static.plex.tv/epg/cms/production/c6b66b76-8050-4cc8-9e61-1ab6cc2b0015/CNN_HeadlinesInternational_RED_wht_logo.png
-643054b1fc3be59477853717-6477b95b7ba9c0d593859bfc,Cops en Español,https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png
 643054b1fc3be59477853717-692232ee5cbe620c1f9b6bc5,Sony One | Hits Comedia,https://provider-static.plex.tv/epg/cms/production/cbde5bbf-d9cb-4188-b1aa-fce8c91d5a45/ES_FAST_Plex_ComedyHits_logo_dark.png
 643054b1fc3be59477853717-66841fb8702b9db9f817725a,Runtime Ana y los 7,https://provider-static.plex.tv/epg/cms/production/b69028cf-3d86-4e92-a816-e5f4dfff47e7/Runtime_ES_Ana_y_Los_7_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-685c78a77223639b1ac098a1,RCN Más,https://provider-static.plex.tv/epg/cms/production/3536c2ea-de74-421a-8942-642d472cc7c8/rcn-mas.png

@@ -183,13 +183,13 @@ Svet.Zdravia.3.sk,Svet Zdravia 3,
 Šláger.Originál.HD.sk,Šláger Originál HD,https://files.cdn.magio.tv/tv_logos/slager-original-hd.png
 TA3.HD.sk,TA3 HD,https://files.cdn.magio.tv/tv_logos/ta3-hd.png
 TLC.HD.sk,TLC HD,https://files.cdn.magio.tv/tv_logos/tlc-hd.png
-TST1.Content.sk,TST1 Content,https://files.cdn.magio.tv/tv_logos/tst1-content.png
-TST2.Content.sk,TST2 Content,https://files.cdn.magio.tv/tv_logos/tst2-content.png
-TST3.HE.sk,TST3 HE,https://files.cdn.magio.tv/tv_logos/tst3-he.png
-TST4.HE.sk,TST4 HE,https://files.cdn.magio.tv/tv_logos/tst4-he.png
-TST5.Mcore.sk,TST5 Mcore,https://files.cdn.magio.tv/tv_logos/tst5-mcore.png
-TST6.Mcore.sk,TST6 Mcore,https://files.cdn.magio.tv/tv_logos/tst6-mcore.png
-TST7.Mcore.sk,TST7 Mcore,https://files.cdn.magio.tv/tv_logos/tst7-mcore.png
+TST1.Content.sk,TST1 Content,
+TST2.Content.sk,TST2 Content,
+TST3.HE.sk,TST3 HE,
+TST4.HE.sk,TST4 HE,
+TST5.Mcore.sk,TST5 Mcore,
+TST6.Mcore.sk,TST6 Mcore,
+TST7.Mcore.sk,TST7 Mcore,
 TV.1000.Russkoe.Kino.sk,TV 1000 Russkoe Kino,https://files.cdn.magio.tv/tv_logos/tv-1000-russkoe-kino.png
 TV.Brno.1.sk,TV Brno 1,
 TV.REBEL.sk,TV REBEL,https://files.cdn.magio.tv/tv_logos/tv-rebel.png
