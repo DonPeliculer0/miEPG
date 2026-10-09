@@ -186,8 +186,8 @@ Discovery.Channel.it,Discovery Channel,https://www.tivu.tv/_common/images/loghi_
 Solocalcio.it.it,Solocalcio,https://www.tivu.tv/_common/images/loghi_epg/logo_4996.png
 DAZN.1.it.it,DAZN 1,https://guidatv.sky.it/logo/566dazn1_Light_Fit.png?checksum=c755def2-ca8b-4941-a87c-345487727272?tr=n-logo_80
 DAZN.2.it.it,DAZN 2,https://guidatv.sky.it/logo/535dazn2_Light_Fit.png?checksum=af9c8e0f-77ec-4da7-913c-af23e2519823?tr=n-logo_80
-Eurosport.Italia.it,Eurosport Italia,
-Eurosport.2.Italia.it,Eurosport 2 Italia,
+Eurosport.Italia.it,Eurosport Italia,https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/intent/SV09320/channelLogo?type=channel
+Eurosport.2.Italia.it,Eurosport 2 Italia,https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/intent/SV09322/channelLogo?type=channel
 K2.it,K2,
 Frisbee.it,Frisbee,
 Sky.Sport.24.it,Sky Sport 24,https://iptvx.one/picons/sky-sport24-it.png
