@@ -1357,7 +1357,7 @@
 60f5fabf0721880007cd50e3,Nickelodeon Teen,https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png
 620ff46e0a576e0007dc2f89,Nickelodeon iCarly,https://images.pluto.tv/channels/620ff46e0a576e0007dc2f89/colorLogoPNG.png
 5ffcc5130fd98c0007f2e216,Kenan &amp; Kel,https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png
-5dcde437229eff00091b6c30,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1789054308569.png
+5dcde437229eff00091b6c30,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1791579490743.png
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción,https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png
 5e972a21ad709d00074195ba,Estrellas de Acción,https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png
 61b793ccf571b80007b7a610,Adrenalina Pura TV,https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png
@@ -2779,7 +2779,7 @@
 66b229b0d2d50d00083990b2,Taxi,https://images.pluto.tv/channels/66b229b0d2d50d00083990b2/colorLogoPNG.png
 6391cef9edb23c0008598cee,The Nanny,https://images.pluto.tv/channels/6391cef9edb23c0008598cee/colorLogoPNG.png
 686d0130ed17cf4c902cbd19,The Nanny &amp; Mr Sheffield - A Fine Romance,https://images.pluto.tv/channels/686d0130ed17cf4c902cbd19/colorLogoPNG_1759130742330.png
-5dcde437229eff00091b6c30,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1789054308569.png
+5dcde437229eff00091b6c30,Pluto TV Cine Estelar,https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG_1791579490743.png
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción,https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png
 5e972a21ad709d00074195ba,Estrellas de Acción,https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png
 61b793ccf571b80007b7a610,Adrenalina Pura TV,https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png

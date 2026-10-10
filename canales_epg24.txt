@@ -193,3 +193,4 @@ Frisbee.it,Frisbee,
 Sky.Sport.24.it,Sky Sport 24,https://iptvx.one/picons/sky-sport24-it.png
 Super!.it,Super!,https://guidatv.sky.it/logo/421super_Light_Fit.png?checksum=306fe7e2-fe34-43a1-9fd5-5967814574eb?tr=n-logo_80
 Sky.Collection.it,Sky Collection,
+Sportitalia.HD.it,Sportitalia HD,https://staticqbr-ch-prod.prod.cdn.dmdsdp.com/image-service/intent/SV09724/channelLogo?type=channel
