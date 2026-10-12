@@ -295,6 +295,7 @@ ElPais.TV,ElPais.TV
 ElConfidencial.TV,ElConfidencial.TV
 Negocios TV,Negocios TV
 El Toro TV,ElToro TV
+Canal RED,Canal RED
 CGTN Español,CGTN Español
 ES26000025M,¡Hola! Play
 ¡HOLA!.TV.us2,¡Hola! TV
