@@ -667,7 +667,7 @@
 6a1610bebdf296985fd95603-62ee76b5271f393d2d9f709a,Easy Listening,https://provider-static.plex.tv/epg/cms/production/9300cb7f-9eef-4e0f-b0d3-d7469da72cda/EASY_LISTENING.png
 6a1610bebdf296985fd95603-63226c03e67cf9cd9011fcdf,TRACE Latina,https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png
 6a1610bebdf296985fd95603-6889467267ddc0ef2cdbf4ff,XITE Just Chill,https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png
-6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503,XITE Celebrates,https://provider-static.plex.tv/epg/cms/production/ea24a0cf-9535-4f90-a96c-c8f769ffd7b2/xitecelebrates_logo_light_-_Arlette_FiranRDX.png
+6a1610bebdf296985fd95603-68894a9267ddc0ef2cdbf503,XITE The Beatles,https://provider-static.plex.tv/epg/cms/production/7a14a2b6-b69c-4609-92f0-386b6042136c/Platform_XITE_Logo_Artwork_Beatles_whiteRDX.png
 6a1610bebdf296985fd95603-697283d831b12b32a91db6bd,FreeTV Live,https://provider-static.plex.tv/epg/cms/production/c76bfce2-95b6-4ce7-b817-2eb3a3de13bf/FreeTV_Live.png
 6a1610bebdf296985fd95603-697282d631b12b32a91db6bb,FreeTV Banda,https://provider-static.plex.tv/epg/cms/production/a6106bee-f101-428a-a703-38bd10c7b467/FreeTV_Banda__1_.png
 6a1610bebdf296985fd95603-62ee7992271f393d2d9f709c,Pop Adult,https://provider-static.plex.tv/epg/cms/production/050c6ca4-f732-4d97-aa14-0ed9fe3d2d36/pop_adult.png
@@ -2191,7 +2191,7 @@
 647f8d22a2fc3fadb4721685-666e1bc2d91d13cb4c8cbb6f,Life+Style,https://provider-static.plex.tv/epg/cms/production/c61624db-2926-433a-850c-a9ce4a359336/channel_logo_1500x1000_light.png.png
 647f8d22a2fc3fadb4721685-62ee72cc271f393d2d9f7098,Y2K,https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png
 647f8d22a2fc3fadb4721685-62ee6eae271f393d2d9f7096,Today's K-Pop,https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png
-647f8d22a2fc3fadb4721685-68894a9267ddc0ef2cdbf503,XITE Celebrates,https://provider-static.plex.tv/epg/cms/production/ea24a0cf-9535-4f90-a96c-c8f769ffd7b2/xitecelebrates_logo_light_-_Arlette_FiranRDX.png
+647f8d22a2fc3fadb4721685-68894a9267ddc0ef2cdbf503,XITE The Beatles,https://provider-static.plex.tv/epg/cms/production/7a14a2b6-b69c-4609-92f0-386b6042136c/Platform_XITE_Logo_Artwork_Beatles_whiteRDX.png
 647f8d22a2fc3fadb4721685-61aa9f50784a2161d3caf7fb,Remember the ‘80s,https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png
 647f8d22a2fc3fadb4721685-5eea605474085f0040ddc76d,Glewed TV,https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png
 647f8d22a2fc3fadb4721685-688006e7015fe7e375a1a0ac,XITE 80s Flashback,https://provider-static.plex.tv/epg/cms/production/bf2b581f-5de1-4596-a76e-0123fb6c49b8/xite80sflashback_logo_WHT_Arlette_FiranRDX.png
