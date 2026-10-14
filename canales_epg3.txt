@@ -2506,7 +2506,6 @@
 6512d72b473a540008592be5,Sabrina the Teenage Witch,https://images.pluto.tv/channels/6512d72b473a540008592be5/colorLogoPNG.png
 686d01ad94a028da3aaca6b3,The Nanny &amp; Mr Sheffield - A Fine Romance,https://images.pluto.tv/channels/686d01ad94a028da3aaca6b3/colorLogoPNG_1759145085675.png
 6391df52d146a40007c265f3,The Nanny,https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png
-6618f54baec96800081525ec,Pluto TV Håndbold Live,https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png
 66fbf4d3d7de140008d41f5b,NCIS: Los Angeles,https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png
 6a4b6106064a1780422088b1,One of the Girls - med Kenny Aleksandr,https://images.pluto.tv/channels/6a4b6106064a1780422088b1/colorLogoPNG_1790327982233.png
 66b22714d512590008c3d573,Den gule sofa med Allan Sindberg,https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png
@@ -2568,6 +2567,7 @@
 6357f3de3643ba0007bc0b50,Pluto TV Sport,https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png
 6405d444d200410008009419,BET25 LIVE,https://images.pluto.tv/channels/6405d444d200410008009419/colorLogoPNG.png
 675c0762f433320008707f68,BET25 Live+,https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png
+6618f54baec96800081525ec,Pluto TV Håndbold Live,https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png
 68dfa431cc3c6cd904053100,Pluto TV Håndbold Highlights,https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png
 671656a37d5da50008de6514,MODUS Super Series Darts,https://images.pluto.tv/channels/671656a37d5da50008de6514/colorLogoPNG_1732093553712.png
 67a23b4e15d6eb000827a20d,Dominance FC TV,https://images.pluto.tv/channels/67a23b4e15d6eb000827a20d/colorLogoPNG_1750773377786.png
