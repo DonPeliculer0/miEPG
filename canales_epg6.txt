@@ -208,6 +208,7 @@
 643054b1fc3be59477853717-63226c03e67cf9cd9011fcdf,TRACE Latina,https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png
 643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,Stingray Classica Stream,https://provider-static.plex.tv/4/epg/channels/logos/gracenote/48c0b1e3e9ef43979ca3e055e2ed3409.png
 643054b1fc3be59477853717-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
+643054b1fc3be59477853717-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 643054b1fc3be59477853717-6164a963766ab4f9f57e81b1,Camp Spoopy,https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png
 643054b1fc3be59477853717-646c0dfbfb58444e4e1e262d,Pac-12 Insider,https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png
 643054b1fc3be59477853717-656fbbd6dbcce28c3a41741b,Surf Cinema,https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png

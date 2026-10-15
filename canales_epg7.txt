@@ -295,7 +295,7 @@
 6a1610bebdf296985fd95603-6745dca72832b870acf53220,365BLK [FAST],https://provider-static.plex.tv/1/epg/channels/logos/gracenote/15a11cfd0f014785527aa0c87cbf6752.png
 6a1610bebdf296985fd95603-6308fa9c0417b7074a4ad959,Impossible - Quiz Show,https://provider-static.plex.tv/epg/cms/production/953d835b-1761-4106-8a1f-b8c18894009a/PLEX_IMPOSSIBLE_Logo_Light_1500X1000.png
 6a1610bebdf296985fd95603-6876f9be20555588ef322221,American Gladiators by MGM,https://provider-static.plex.tv/epg/cms/production/18f1bacd-6b37-4f59-acbf-f2ec32680589/AmericanGladiators_logo_dark_-_Carl_HoffelderRDX.png
-6a1610bebdf296985fd95603-64b710b44612b1f48e9ad31a,Family Feud Classic,https://provider-static.plex.tv/epg/cms/production/02e41ea5-71c0-4922-b313-5b37b19cb11d/FF_CLASSIC_Logo_lgt_BKG_1500x1000_-_Elaine_De_Santiago.png
+6a1610bebdf296985fd95603-64b710b44612b1f48e9ad31a,Classic Family Feud,https://provider-static.plex.tv/epg/cms/production/4a755121-3503-4036-9727-5a301db01c17/Plex_Classic_Family_Feud_Logo_1500x1000-Full_Color_-_Patty_Gopez.png
 6a1610bebdf296985fd95603-64d2bdf1b18b113e0c610113,GameTVGO,https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8c3aad2c9b28628409cee12512aecb32.png
 6a1610bebdf296985fd95603-66ce3fc059062698a13c39e1,The Sherlock Holmes Channel,https://provider-static.plex.tv/epg/cms/production/c69f7df3-5f6d-4fa2-b111-0f96df7b7a07/SherlockHolmesChannelThe_Logo_White.png
 6a1610bebdf296985fd95603-6759a32270e41582b1b7a236,NESN NATION,https://provider-static.plex.tv/epg/cms/production/ccd78f14-bcae-425b-8e81-0570914550b0/NESN_Logo_WHTRDX2.png
@@ -630,6 +630,7 @@
 6a1610bebdf296985fd95603-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
 6a1610bebdf296985fd95603-62fbf197c67d52bddf74cc87,Movie Music by Stingray,https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png
 6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325,Stingray Greatest Hits,https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png
+6a1610bebdf296985fd95603-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 6a1610bebdf296985fd95603-62ee6eae271f393d2d9f7096,Today's K-Pop,https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png
 6a1610bebdf296985fd95603-63f0ca427b78030ed9990309,CombaTV,https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png
 6a1610bebdf296985fd95603-60240f57676235002df19f49,FreeTV Familia,https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png
@@ -950,6 +951,7 @@
 697140a85d851f5e69414688-62fbf52c1567211fdb82e922,Stingray Naturescape,https://provider-static.plex.tv/epg/cms/production/ed9d822b-dc74-4d16-98e7-b562c341cfde/Stingray_Naturescape_logo_light.png
 697140a85d851f5e69414688-61aaa0cc784a2161d3caf7ff,Classic Rock,https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png
 697140a85d851f5e69414688-62ee784852f7d73061eec493,Smooth Jazz,https://provider-static.plex.tv/epg/cms/production/42ab39da-78b9-443f-9ba6-d6767a4db372/smooth_jazz.png
+697140a85d851f5e69414688-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 697140a85d851f5e69414688-62efbb8652f7d73061eec498,Alternative,https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png
 697140a85d851f5e69414688-62f15810a3ffe928ef806c75,Flashback 70s,https://provider-static.plex.tv/epg/cms/production/32c9c7ca-8544-4434-92c5-9a5dd9577746/flashback_70srdx.png
 697140a85d851f5e69414688-61aa9f50784a2161d3caf7fb,Remember the ‘80s,https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png
@@ -1222,6 +1224,7 @@
 5e20b730f2f8d5003d739db7-6164a963766ab4f9f57e81b1,Camp Spoopy,https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png
 5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc,Rookie Blue,https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png
 5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
+5e20b730f2f8d5003d739db7-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325,Stingray Greatest Hits,https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png
 5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096,Today's K-Pop,https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png
 5e20b730f2f8d5003d739db7-63f0ca427b78030ed9990309,CombaTV,https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png
@@ -1463,6 +1466,7 @@
 608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0,Made In Hollywood,https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png
 608049aefa2b8ae93c2c3a63-652875586425fdb1f32d2169,World Surf League 24/7,https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png
 608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
+608049aefa2b8ae93c2c3a63-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c,Journy,https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png
 608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01,ACL Cornhole TV,https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png
 608049aefa2b8ae93c2c3a63-6970fdabbde579fb71262401,Bowling TV,https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png
@@ -1741,6 +1745,7 @@
 643054b1fc3be59477853717-63226c03e67cf9cd9011fcdf,TRACE Latina,https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png
 643054b1fc3be59477853717-62d7f68fb19cbf65dc7bef7d,Stingray Classica Stream,https://provider-static.plex.tv/4/epg/channels/logos/gracenote/48c0b1e3e9ef43979ca3e055e2ed3409.png
 643054b1fc3be59477853717-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
+643054b1fc3be59477853717-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 643054b1fc3be59477853717-6164a963766ab4f9f57e81b1,Camp Spoopy,https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png
 643054b1fc3be59477853717-646c0dfbfb58444e4e1e262d,Pac-12 Insider,https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png
 643054b1fc3be59477853717-656fbbd6dbcce28c3a41741b,Surf Cinema,https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png
@@ -1974,7 +1979,7 @@
 647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06,FilmRise Sci-Fi,https://provider-static.plex.tv/epg/cms/production/a082f488-9d7e-4e89-be52-4b7e5c8d91d3/FilmRise_SciFi_1500x1000_Light_Logo.png
 647f8d22a2fc3fadb4721685-614398a08f30fa61e0da7c97,True History,https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png
 647f8d22a2fc3fadb4721685-684c201a3496598cf4003fbc,PBS Travel,https://provider-static.plex.tv/epg/cms/production/7498e884-3fc2-42a7-813d-8294e2ff22a6/PBS_Travel_Logo_Stacked_BLUEWhiteRDX.png
-647f8d22a2fc3fadb4721685-64b710b44612b1f48e9ad31a,Family Feud Classic,https://provider-static.plex.tv/epg/cms/production/02e41ea5-71c0-4922-b313-5b37b19cb11d/FF_CLASSIC_Logo_lgt_BKG_1500x1000_-_Elaine_De_Santiago.png
+647f8d22a2fc3fadb4721685-64b710b44612b1f48e9ad31a,Classic Family Feud,https://provider-static.plex.tv/epg/cms/production/4a755121-3503-4036-9727-5a301db01c17/Plex_Classic_Family_Feud_Logo_1500x1000-Full_Color_-_Patty_Gopez.png
 647f8d22a2fc3fadb4721685-64b1e1217d4037206787f384,Nolly Africa HD,https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png
 647f8d22a2fc3fadb4721685-67cbd471cc5136329877e098,The New Detectives,https://provider-static.plex.tv/epg/cms/production/a301a4e7-5c14-47c3-a0a0-de3a3145c848/Plex_FilmRiseNewDetectives_WHITELogo.png
 647f8d22a2fc3fadb4721685-64e43b37200cd2f67473e0d4,True Crime Now,https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png
@@ -2137,6 +2142,7 @@
 647f8d22a2fc3fadb4721685-62d7f68fb19cbf65dc7bef7d,Stingray Classica Stream,https://provider-static.plex.tv/4/epg/channels/logos/gracenote/48c0b1e3e9ef43979ca3e055e2ed3409.png
 647f8d22a2fc3fadb4721685-67182cd9d321899c5dc8a00c,My Little Pony,https://provider-static.plex.tv/epg/cms/production/3b3175d0-6efb-4f2f-afe5-1e53312210da/PLEX---1500X1000-Logo-suitable-for-dark-backgrounds.png
 647f8d22a2fc3fadb4721685-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
+647f8d22a2fc3fadb4721685-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112d,NEW K-POP,https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png
 647f8d22a2fc3fadb4721685-67f99397bf750bd4ca333ddb,Un Si Grand Soleil,https://provider-static.plex.tv/epg/cms/production/463b2340-1bca-4d07-a8bf-09ed3338d196/Plex_FilmRiseUnSiGrandSoliel_logo_white.png
 647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5,Stingray Naturescape,https://provider-static.plex.tv/epg/cms/production/c01ebda0-1d80-4935-ad6a-a5d3c3ef108e/Stingray-Naturescape_Logo_Lightrdx.png
@@ -2411,6 +2417,7 @@
 6430aa45fc3be5947780904e-62fbf197c67d52bddf74cc87,Movie Music by Stingray,https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png
 6430aa45fc3be5947780904e-62d7f68fb19cbf65dc7bef7d,Stingray Classica Stream,https://provider-static.plex.tv/4/epg/channels/logos/gracenote/48c0b1e3e9ef43979ca3e055e2ed3409.png
 6430aa45fc3be5947780904e-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
+6430aa45fc3be5947780904e-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 6430aa45fc3be5947780904e-6470477fe536e0faaf10be9d,Robot Wars by Mech+,https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png
 6430aa45fc3be5947780904e-693cbba358076a970420f597,Cesar's Pack Leader TV,https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png
 6430aa45fc3be5947780904e-6970fdabbde579fb71262401,Bowling TV,https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png
@@ -2814,6 +2821,7 @@
 64305451fc3be5947773c339-68b9f5a3d60e5dd29263c7ac,NEW KFOOD,https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png
 64305451fc3be5947773c339-66be8cd4871131188099527e,TRACE UK,https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png
 64305451fc3be5947773c339-62d7f68fb19cbf65dc7bef7c,Qello Concerts,https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png
+64305451fc3be5947773c339-6aaa1f33083227098739435d,VEEPS Concert Pass,https://provider-static.plex.tv/epg/cms/production/6fba9fc8-1826-423c-9924-655ebbfd3066/VEEPS_Concert_Pass_1920x1080_ColorWHT_REDRDX.png
 64305451fc3be5947773c339-60d4edd7b2fdec002c14112d,NEW K-POP,https://provider-static.plex.tv/epg/images/ott_channels/logos/newkpop_logo_dark_v2.png
 64305451fc3be5947773c339-62ee74af52f7d73061eec491,Euro Hits,https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png
 64305451fc3be5947773c339-61aa9f50784a2161d3caf7fb,Remember the ‘80s,https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png
