@@ -232,7 +232,7 @@
 6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d,Circle Country,https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png
 6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2,Places &amp; Spaces,https://provider-static.plex.tv/epg/cms/production/93b7eade-14c9-434b-822b-f86ed372481f/PLEX_P_S_LOGOFORDARKBKG_1500X1500_REV_-_Patty_Gopez.png
 6a1610bebdf296985fd95603-6373bfe48e2036e4410ddb82,Discovery Turbo TV,https://provider-static.plex.tv/epg/cms/production/29397b83-4169-4eaa-8d67-e01d54812191/DiscoveryTurboTV_logo_1500x1000px_darkBg.png
-6a1610bebdf296985fd95603-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+6a1610bebdf296985fd95603-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 6a1610bebdf296985fd95603-63c1e64df0f132afc3afbab4,Torque Presented By History,https://provider-static.plex.tv/epg/cms/production/58e9d900-596f-4be9-bb02-8e9d9b8c278d/Torque_channel_logo_4c_2250x1500_-_Laura_ConnollyRDX.png
 6a1610bebdf296985fd95603-67c614985908ba2cc8775bf5,Classic Car Auctions,https://provider-static.plex.tv/epg/cms/production/6ec1a14f-5b64-4782-a743-b175c60213f3/Classic_Car_Auctions_By_HISTORY_COLOR_WhtTEXT_RDX.png
 6a1610bebdf296985fd95603-64b7170c4612b1f48e9ad31e,The Jamie Oliver Channel,https://provider-static.plex.tv/epg/cms/production/5dccd34e-4587-4168-999c-eda400c74715/PLEX_JO_WHT_LOGO_1500X1000_-_Elaine_De_Santiago.png
@@ -875,7 +875,7 @@
 697140a85d851f5e69414688-652a8b001b5c74bc83cf727c,Dog Whisperer,https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png
 697140a85d851f5e69414688-6582a1316b91be4547aa153c,Hot Ones,https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png
 697140a85d851f5e69414688-69814bbff871095eafc65925,Powernation,https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png
-697140a85d851f5e69414688-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+697140a85d851f5e69414688-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 697140a85d851f5e69414688-5f0ff262d71dcb00449ec018,Judge Nosey,https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png
 697140a85d851f5e69414688-6615522e50e81fa51eb0df60,Sonic The Hedgehog,https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png
 697140a85d851f5e69414688-69a1f84e8d9f2822f6f50639,Beyblade,https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png
@@ -1143,7 +1143,7 @@
 5e20b730f2f8d5003d739db7-67d9a3d663c5439aeaf61305,The Bold and the Beautiful,https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png
 5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1,Legacy,https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png
 5e20b730f2f8d5003d739db7-6582a1316b91be4547aa153c,Hot Ones,https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png
-5e20b730f2f8d5003d739db7-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+5e20b730f2f8d5003d739db7-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 5e20b730f2f8d5003d739db7-69814bbff871095eafc65925,Powernation,https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png
 5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018,Judge Nosey,https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png
 5e20b730f2f8d5003d739db7-640205c68ecb41f2d89d5814,The Ed Sullivan Show,https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png
@@ -1454,7 +1454,7 @@
 608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8,TG Junior,https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png
 608049aefa2b8ae93c2c3a63-689e1f0dd84bfb3d54b6756f,Bizaar,https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png
 608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a661,pocket.watch Game-On,https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png
-608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+608049aefa2b8ae93c2c3a63-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb,123GO!,https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png
 608049aefa2b8ae93c2c3a63-654eb862dde2222e8ba551f1,Stingray Holidayscapes,https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png
 608049aefa2b8ae93c2c3a63-5fd115b8b7ef8d002dcf1817,Waypoint TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png
@@ -1697,7 +1697,7 @@
 643054b1fc3be59477853717-689e1f0dd84bfb3d54b6756f,Bizaar,https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png
 643054b1fc3be59477853717-60089d90f682a3002c348299,Euronews,https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png
 643054b1fc3be59477853717-640205c68ecb41f2d89d5814,The Ed Sullivan Show,https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png
-643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 643054b1fc3be59477853717-6490c01f3b3ce9e1aaad95be,FashionTV,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
 643054b1fc3be59477853717-5ef11487d33ab9004048a1d9,Revry,https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png
 643054b1fc3be59477853717-5f0ff263d71dcb00449ec021,People are Awesome,https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png
@@ -1869,7 +1869,7 @@
 647f8d22a2fc3fadb4721685-66e4cbef38de9754b6b13e90,Dr. Phil,https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png
 647f8d22a2fc3fadb4721685-5f74cf83ffbe690040689f50,History Hit,https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png
 647f8d22a2fc3fadb4721685-6582a024a90606db3c841b1b,The FBI Files,https://provider-static.plex.tv/epg/cms/production/7c8f08bd-78d1-45e6-a447-ad9c0142963d/FilmRise_FBIFilesThe_Logo_Color.png
-647f8d22a2fc3fadb4721685-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+647f8d22a2fc3fadb4721685-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 647f8d22a2fc3fadb4721685-64f1177d79fd56092f9061bf,Highway to Heaven,https://provider-static.plex.tv/epg/cms/production/2fb512c1-2609-47fb-848c-35b3fc1caf1a/FilmRise_HighwayToHeaven_Logo_Color_StackedRDX.png
 647f8d22a2fc3fadb4721685-6515fa752ff655e77635c626,The Osbournes,https://provider-static.plex.tv/epg/cms/production/800e74ab-7d32-40a7-bfcd-46759da46896/TheOsbournes_Logo_White_1500x1000_-_Harry_Marshall.png
 647f8d22a2fc3fadb4721685-63e63f20abacad42ed3d1acf,Baywatch,https://provider-static.plex.tv/epg/cms/production/dda6e0f8-0807-417b-b30f-1f67dc5084d6/BAYWATCH_PLEX_LOGO_COLOR_DarkBkg_1500x1000_-_Elaine_De_Santiago.png
@@ -2451,7 +2451,7 @@
 6430aa45fc3be5947780904e-69333216ac5b3f9f53442374,Baby Einstein,https://provider-static.plex.tv/epg/cms/production/e757f7e3-f3de-46f5-b6e0-9aa42bdb61d1/BabyEinstein_logo_1500x1000_light.png.png
 6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d3,BOOT,https://provider-static.plex.tv/epg/cms/production/5e31e123-a40b-41c6-9153-67c983c6d9e6/boot_all-white_1500X1000_PNG_transparent_background.png
 6430aa45fc3be5947780904e-650b5bb3f4b2d9579946a500,Mythical 24/7,https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png
-6430aa45fc3be5947780904e-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+6430aa45fc3be5947780904e-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 6430aa45fc3be5947780904e-6245cd154f27f4e9c76d67e9,Euronews Portuguese,https://provider-static.plex.tv/epg/cms/production/76a8ddca-38be-4d5b-b8db-be69fcaa6231/Plex-WURL_Euronews-Logos_PT_-_astrid_collomb.png
 6430aa45fc3be5947780904e-6245f13093b402a3d1097789,Euronews Italiano,https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png
 6430aa45fc3be5947780904e-6245efe9f137de43897ea1ae,Euronews Deutsch,https://provider-static.plex.tv/epg/cms/production/f4d271ea-6f09-46e0-910c-c052a63c3287/Plex-WURL_Euronews-Logos_DE_-_astrid_collomb.png
@@ -2590,7 +2590,7 @@
 64305451fc3be5947773c339-66a2e7fe94b6a49cb5054d7b,Mr. Bean,https://provider-static.plex.tv/epg/cms/production/2de25078-3e41-4261-8a48-c326d7541ae5/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png
 64305451fc3be5947773c339-635c61cc797a33fa4193cc93,Cosmic Frontiers,https://provider-static.plex.tv/epg/cms/production/a514ca78-cb8d-4c2f-9d21-cdb8e6ed8197/Plex_CosmicFrontiers__Logo_DarkBackground_.png
 64305451fc3be5947773c339-671ab1dc79fce66281154344,Pointless,https://provider-static.plex.tv/epg/cms/production/d8995392-14ce-4eaf-b4b2-ebc6237282f5/Pointless_Logo_Light_1500x1000_-_Harry_Marshall.png
-64305451fc3be5947773c339-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
+64305451fc3be5947773c339-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 64305451fc3be5947773c339-67c2496d45ae99120c071588,Life Down Under,https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png
 64305451fc3be5947773c339-66ce3e009ac0b1441b19ca29,Z Nation,https://provider-static.plex.tv/epg/cms/production/0ddae0a9-e4b8-43ed-91f3-e097d8376304/ZNation_logo_1500x1000_light.png.png
 64305451fc3be5947773c339-66469eecdad45e1759c1c06b,PBS Science,https://provider-static.plex.tv/epg/cms/production/98120494-d8ce-4851-9567-b0a22d1135ad/PBS_Science_Logo_Horizontal_WhiteBlue_1500x1000_-_Jaszmine_RayRDX.png
