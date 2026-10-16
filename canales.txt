@@ -80,7 +80,7 @@ Dark Rojo,Dark Rojo
 Calle 13 HD,Calle 13 HD
 Warner TV HD,Warner TV HD
 STAR Channel HD,STAR Channel HD
-SyFy HD,SyFy HD
+SciFi HD,SciFi
 SkyShowtime,SkyShowtime
 HBO Max Avances,HBO Max Avances
 Cosmo HD,Cosmo HD
