@@ -214,5 +214,5 @@ Viasat.Nature.HD.sk,Viasat Nature HD,https://files.cdn.magio.tv/tv_logos/viasat-
 Viasat.True.Crime.HD.sk,Viasat True Crime HD,https://files.cdn.magio.tv/tv_logos/viasat-true-crime-hd.png
 Wau.HD.sk,Wau HD,https://files.cdn.magio.tv/tv_logos/joj-krimi-hd.png
 ZDF.sk,ZDF,
-Začíname.s.Voyo.sk,Začíname s Voyo,https://files.cdn.magio.tv/tv_logos/zaciname-s-voyo.png
+Začíname.s.Voyo.sk,Začíname s Voyo,
 iConcerts.HD.sk,iConcerts HD,https://files.cdn.magio.tv/tv_logos/iconcerts-hd.png
