@@ -849,7 +849,6 @@
 697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c,AfroLandTV,https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png
 697140a85d851f5e69414688-60d4edd6b2fdec002c141123,Johnny Carson TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png
 697140a85d851f5e69414688-6a3024ae590e1273e55dd5e3,Tiny House Nation,https://provider-static.plex.tv/epg/cms/production/05731f39-c980-4c30-97d0-9874d9999fe8/Tiny_House_Nation_Logo_STACKED_COLOR_RDX.png
-697140a85d851f5e69414688-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 697140a85d851f5e69414688-66be955c8711311880995282,GB News,https://provider-static.plex.tv/epg/cms/production/f3cd56a1-3096-4d60-83ad-c8e6ec531384/GB_News_logo_light_-_Angela_Chan.png
 697140a85d851f5e69414688-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
 697140a85d851f5e69414688-640205c68ecb41f2d89d5814,The Ed Sullivan Show,https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png
@@ -1476,7 +1475,6 @@
 608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299,Euronews,https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png
 608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f,More U,https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png
 608049aefa2b8ae93c2c3a63-5eea71d65252710041e0ccbc,The Reuters 60,https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png
-608049aefa2b8ae93c2c3a63-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1,Yahoo Finance,https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png
 608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb,Remember the ‘80s,https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png
 608049aefa2b8ae93c2c3a63-61aa9e73784a2161d3caf7f9,Stingray Hot Country,https://provider-static.plex.tv/epg/cms/production/21cb88d9-8ca5-4a3c-b8dc-ca5b42ed351d/13212_SM_Plex_Logos_Hot-Country_1500x1000_V01-white_-_Olivia_bronfman.png
@@ -1730,7 +1728,6 @@
 643054b1fc3be59477853717-62fbf36c1567211fdb82e920,Stingray Naturescape,https://provider-static.plex.tv/epg/cms/production/42759e04-9961-44c5-b9ae-585ac62f34ca/Stingray_Naturescape_logo_light.png
 643054b1fc3be59477853717-6245efe9f137de43897ea1ae,Euronews Deutsch,https://provider-static.plex.tv/epg/cms/production/f4d271ea-6f09-46e0-910c-c052a63c3287/Plex-WURL_Euronews-Logos_DE_-_astrid_collomb.png
 643054b1fc3be59477853717-5f0641d3e8ffda004033b16e,The Design Network,https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png
-643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 643054b1fc3be59477853717-5f123330eca6a20040b328e8,TG Junior,https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png
 643054b1fc3be59477853717-6245f13093b402a3d1097789,Euronews Italiano,https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png
 643054b1fc3be59477853717-63eecb32ac23d1ee072087cb,123GO!,https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png
@@ -1965,7 +1962,6 @@
 647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd,BBC Travel,https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png
 647f8d22a2fc3fadb4721685-69a51ffb7c245b3390e8a4d8,CBC News Quebec,https://provider-static.plex.tv/epg/cms/production/e089a0c5-3a4f-485e-b142-739e9c52ce9a/CBCNews-LOCAL-Quebec_Plex_LOGO-COL-ON-DARK_WHT_TEXT_RDX.png
 647f8d22a2fc3fadb4721685-65b28dd28f05102bce4a790f,Radio-Canada INFO,https://provider-static.plex.tv/7/epg/channels/logos/gracenote/722a587b42db503d96ac4e7b11923644.png
-647f8d22a2fc3fadb4721685-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f88,The Bob Ross Channel,https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png
 647f8d22a2fc3fadb4721685-66855a2a714fe577eb7db920,Deal Or No Deal,https://provider-static.plex.tv/epg/cms/production/15f53c2f-081e-47a5-aa7d-5bcabc7ee8bd/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1___1_.png
 647f8d22a2fc3fadb4721685-6582a1316b91be4547aa153c,Hot Ones,https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png
@@ -2355,7 +2351,6 @@
 6430aa45fc3be5947780904e-606605549dbfca002d2ae877,Fight Network,https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png
 6430aa45fc3be5947780904e-64704954e536e0faaf10be9f,Just For Laughs Gags,https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png
 6430aa45fc3be5947780904e-66bfb2e6144c201b8b61c10f,NewsWorld,https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png
-6430aa45fc3be5947780904e-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 6430aa45fc3be5947780904e-5f170f01b898490041b49dd1,Yahoo Finance,https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png
 6430aa45fc3be5947780904e-61d73c3ca7b7c7f703418518,Bloomberg Originals,https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png
 6430aa45fc3be5947780904e-64c91830ea7db2f52688c52c,CBC News,https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d300a0c0dd6ffb82aca554ff87e8a364.png
@@ -2722,7 +2717,6 @@
 64305451fc3be5947773c339-5eea71d65252710041e0ccbc,The Reuters 60,https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png
 64305451fc3be5947773c339-678fe7959407a53556d3e8eb,FRANCE 24,https://provider-static.plex.tv/epg/cms/production/d5065d4c-eb84-4fd6-862f-655ff5ca01cd/france24fastenglish_logo_dark_-_David_COURET.png
 64305451fc3be5947773c339-60aeb5cd87f9b1002ce12323,NHRA TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png
-64305451fc3be5947773c339-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 64305451fc3be5947773c339-64b1e1217d4037206787f384,Nolly Africa HD,https://provider-static.plex.tv/epg/cms/production/a50425a8-5b58-47b5-96c9-43c842f77806/1500X1000_PNG_w__transparent_background__Logo_suitable_for_light_backgrounds__-_Herliane_Pedro.png
 64305451fc3be5947773c339-60d4edd8b2fdec002c14112f,Rakuten Viki,https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png
 64305451fc3be5947773c339-66bfb2e6144c201b8b61c10f,NewsWorld,https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png

@@ -30,10 +30,10 @@
 58e55b14ad8e9c364d55f717,Flicks of Fury,https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png
 5c665db3e6c01b72c4977bc2,Pluto TV Cult Films,https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png
 6ab165fdeae99d62d7e541ff,Pluto TV Halloween,https://images.pluto.tv/channels/6ab165fdeae99d62d7e541ff/colorLogoPNG_1790715914846.png
+5c2d64ffbdf11b71587184b8,TV Land Sitcoms,https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
 633354b63df9700007f6a1b7,Sitcom Legends,https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png
 6a28827ef4a627f3b07df1ea,Cheers,https://images.pluto.tv/channels/6a28827ef4a627f3b07df1ea/colorLogoPNG_1781731467139.png
 66ba495ffe11e5000881f049,Frasier,https://images.pluto.tv/channels/66ba495ffe11e5000881f049/colorLogoPNG_1782142982491.png
-5c2d64ffbdf11b71587184b8,TV Land Sitcoms,https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png
 6a5ff6d9c868f8fd984e005c,Ghosts,https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785791941652.png
 6132619f9ddaa50007e7dd86,More TV Sitcoms,https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png
 66e0b4a3f0f17500085cc268,Hit Sitcoms,https://images.pluto.tv/channels/66e0b4a3f0f17500085cc268/colorLogoPNG.png
@@ -928,16 +928,20 @@
 6aaaec2ec349e6a78bb333eb,CBC News Quebec,https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png
 62cbfbd6ad95670007f567af,Global News Montreal,https://images.pluto.tv/channels/62cbfbd6ad95670007f567af/colorLogoPNG.png
 6aaaec502714ce519248c55e,CBC News Calgary,https://images.pluto.tv/channels/6aaaec502714ce519248c55e/colorLogoPNG_1791207790533.png
-62cbf23dcfb48300077f8348,Global News Calgary,https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png
 62cbf2de1fba5f0007e47d9c,Global News Edmonton,https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png
+62cbf23dcfb48300077f8348,Global News Calgary,https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png
 6aaaec5abd51830177e9a185,CBC News Edmonton,https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/colorLogoPNG_1791207891782.png
+6aaaec477a9bc501c300ca35,CBC News Ottawa,https://images.pluto.tv/channels/6aaaec477a9bc501c300ca35/colorLogoPNG_1792161692436.png
 62cbf398b8e02600071deda5,Global News Halifax,https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png
+6aaaec6dde3a888e5a491479,CBC News New Brunswick,https://images.pluto.tv/channels/6aaaec6dde3a888e5a491479/colorLogoPNG_1792162742552.png
 62cbf4964446e2000742073e,Global News Kingston,https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png
 62cbf7439cb58900088dc77b,Global News Lethbridge,https://images.pluto.tv/channels/62cbf7439cb58900088dc77b/colorLogoPNG.png
 62cbfc572dc3750007a493ce,Global News Okanagan,https://images.pluto.tv/channels/62cbfc572dc3750007a493ce/colorLogoPNG.png
 62cbfcd8c2db990007861e43,Global News Peterborough,https://images.pluto.tv/channels/62cbfcd8c2db990007861e43/colorLogoPNG.png
+6aaaec640c9f5239c2f17359,CBC News Saskatchewan,https://images.pluto.tv/channels/6aaaec640c9f5239c2f17359/colorLogoPNG_1792162938456.png
 62cbff53ca8f2200080253b5,Global News Regina,https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png
 62cc00359cb58900088dc840,Global News Saskatoon,https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png
+6aaaec396d05845d59cdabc0,CBC News Manitoba,https://images.pluto.tv/channels/6aaaec396d05845d59cdabc0/colorLogoPNG_1792162386664.png
 62cc0120880c890007191016,Global News Winnipeg,https://images.pluto.tv/channels/62cc0120880c890007191016/colorLogoPNG.png
 638e10de75c3a30007092693,Antiques Road Show UK,https://images.pluto.tv/channels/638e10de75c3a30007092693/colorLogoPNG.png
 62e91b5ca909cb0008114ae4,Leave it to Bryan,https://images.pluto.tv/channels/62e91b5ca909cb0008114ae4/colorLogoPNG.png
@@ -1727,16 +1731,20 @@
 6aaaec2ec349e6a78bb333eb,CBC News Quebec,https://images.pluto.tv/channels/6aaaec2ec349e6a78bb333eb/colorLogoPNG_1790975116070.png
 62cbfbd6ad95670007f567af,Global News Montreal,https://images.pluto.tv/channels/62cbfbd6ad95670007f567af/colorLogoPNG.png
 6aaaec502714ce519248c55e,CBC News Calgary,https://images.pluto.tv/channels/6aaaec502714ce519248c55e/colorLogoPNG_1791207790533.png
-62cbf23dcfb48300077f8348,Global News Calgary,https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png
 62cbf2de1fba5f0007e47d9c,Global News Edmonton,https://images.pluto.tv/channels/62cbf2de1fba5f0007e47d9c/colorLogoPNG.png
+62cbf23dcfb48300077f8348,Global News Calgary,https://images.pluto.tv/channels/62cbf23dcfb48300077f8348/colorLogoPNG.png
 6aaaec5abd51830177e9a185,CBC News Edmonton,https://images.pluto.tv/channels/6aaaec5abd51830177e9a185/colorLogoPNG_1791207891782.png
+6aaaec477a9bc501c300ca35,CBC News Ottawa,https://images.pluto.tv/channels/6aaaec477a9bc501c300ca35/colorLogoPNG_1792161692436.png
 62cbf398b8e02600071deda5,Global News Halifax,https://images.pluto.tv/channels/62cbf398b8e02600071deda5/colorLogoPNG.png
+6aaaec6dde3a888e5a491479,CBC News New Brunswick,https://images.pluto.tv/channels/6aaaec6dde3a888e5a491479/colorLogoPNG_1792162742552.png
 62cbf4964446e2000742073e,Global News Kingston,https://images.pluto.tv/channels/62cbf4964446e2000742073e/colorLogoPNG.png
 62cbf7439cb58900088dc77b,Global News Lethbridge,https://images.pluto.tv/channels/62cbf7439cb58900088dc77b/colorLogoPNG.png
 62cbfc572dc3750007a493ce,Global News Okanagan,https://images.pluto.tv/channels/62cbfc572dc3750007a493ce/colorLogoPNG.png
 62cbfcd8c2db990007861e43,Global News Peterborough,https://images.pluto.tv/channels/62cbfcd8c2db990007861e43/colorLogoPNG.png
+6aaaec640c9f5239c2f17359,CBC News Saskatchewan,https://images.pluto.tv/channels/6aaaec640c9f5239c2f17359/colorLogoPNG_1792162938456.png
 62cbff53ca8f2200080253b5,Global News Regina,https://images.pluto.tv/channels/62cbff53ca8f2200080253b5/colorLogoPNG.png
 62cc00359cb58900088dc840,Global News Saskatoon,https://images.pluto.tv/channels/62cc00359cb58900088dc840/colorLogoPNG.png
+6aaaec396d05845d59cdabc0,CBC News Manitoba,https://images.pluto.tv/channels/6aaaec396d05845d59cdabc0/colorLogoPNG_1792162386664.png
 62cc0120880c890007191016,Global News Winnipeg,https://images.pluto.tv/channels/62cc0120880c890007191016/colorLogoPNG.png
 638e10de75c3a30007092693,Antiques Road Show UK,https://images.pluto.tv/channels/638e10de75c3a30007092693/colorLogoPNG.png
 62e91b5ca909cb0008114ae4,Leave it to Bryan,https://images.pluto.tv/channels/62e91b5ca909cb0008114ae4/colorLogoPNG.png
@@ -1783,7 +1791,6 @@
 64240d3d466225000827412b,Qello Concerts,https://images.pluto.tv/channels/64240d3d466225000827412b/colorLogoPNG.png
 6a6a02ff1b1c90d8bf955701,Soda,https://images.pluto.tv/channels/6a6a02ff1b1c90d8bf955701/colorLogoPNG_1790683275822.png
 6a3a9ad35304e3244456d376,Adrenaline Spica Life,https://images.pluto.tv/channels/6a3a9ad35304e3244456d376/colorLogoPNG_1789116626806.png
-69c3e22886431735d9615775,Dominance FC TV,https://images.pluto.tv/channels/69c3e22886431735d9615775/colorLogoPNG_1791791988594.png
 6a43ab7bfd93e35b5dadb67e,Tennis Channel,https://images.pluto.tv/channels/6a43ab7bfd93e35b5dadb67e/colorLogoPNG_1782819767954.png
 667d38df64aca60008eab7c6,That's Rock,https://images.pluto.tv/channels/667d38df64aca60008eab7c6/colorLogoPNG_1790238529013.png
 667d38a5ca74680008696392,That's 90s00s,https://images.pluto.tv/channels/667d38a5ca74680008696392/colorLogoPNG_1790760509250.png
@@ -1927,9 +1934,8 @@
 66c45b36a72e7b0008a2b291,CNN Headlines International,https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/colorLogoPNG_1775159909058.png
 6231ec93779a9d00079ba8e2,CBS News 24/7,https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png
 60d35bcaf1ff4a00078af0a6,Euronews,https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png
-691c5ba253a7a030e7c509d8,Distretto di Polizia,https://images.pluto.tv/channels/691c5ba253a7a030e7c509d8/colorLogoPNG_1788787884193.png
+691c5ba253a7a030e7c509d8,Distretto di Polizia,https://images.pluto.tv/channels/691c5ba253a7a030e7c509d8/colorLogoPNG_1792399773676.png
 6a4399d27d65ad4fa68a8806,Mr. Bean,https://images.pluto.tv/channels/6a4399d27d65ad4fa68a8806/colorLogoPNG_1784646205585.png
-67b483618344dd93338afd7d,Dominance FC TV,https://images.pluto.tv/channels/67b483618344dd93338afd7d/colorLogoPNG_1791792909029.png
 62e8d3c2c2db99000787b786,Pluto TV Halloween,https://images.pluto.tv/channels/62e8d3c2c2db99000787b786/colorLogoPNG_1751971574499.png
 66335533307fa300082bd80a,Pluto TV Splatter,https://images.pluto.tv/channels/66335533307fa300082bd80a/colorLogoPNG.png
 6633551323e24f00084744aa,Pluto TV Mostri e Vampiri,https://images.pluto.tv/channels/6633551323e24f00084744aa/colorLogoPNG-1757422171108.png
@@ -1941,8 +1947,8 @@
 691c5b2e74baa89ef7230baf,Nina,https://images.pluto.tv/channels/691c5b2e74baa89ef7230baf/colorLogoPNG_1771598155961.png
 60b9ff2722bfa400072676ef,Pluto TV Serie,https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG_1779187121953.png
 60a2837f8154ab0007c4dcdf,Le sorelle McLeod,https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png
-6a7c73738a40fc87bcbac99e,Call the Midwife,https://images.pluto.tv/channels/6a7c73738a40fc87bcbac99e/colorLogoPNG_1790774970554.png
 62e7fa5ab5062e0007dcf97d,BBC Series,https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/colorLogoPNG_1770365241843.png
+6a7c73738a40fc87bcbac99e,Call the Midwife,https://images.pluto.tv/channels/6a7c73738a40fc87bcbac99e/colorLogoPNG_1790774970554.png
 6349279ed5023700078f2bc2,Mai dire sì,https://images.pluto.tv/channels/6349279ed5023700078f2bc2/colorLogoPNG.png
 69664afedcbf5c784492e422,The Intern,https://images.pluto.tv/channels/69664afedcbf5c784492e422/colorLogoPNG_1772434734016.png
 66d7120815d2c60008cec006,Flashpoint,https://images.pluto.tv/channels/66d7120815d2c60008cec006/colorLogoPNG.png
@@ -1956,8 +1962,8 @@
 608aa777b907770007e5d05d,Pluto TV Serie Crime,https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png
 65cb78b83a116800079e2e35,Cin Cin,https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png
 65cb76723a116800079e1fc3,Love Boat,https://images.pluto.tv/channels/65cb76723a116800079e1fc3/colorLogoPNG.png
-65cb76ea11ced70008206b66,Dynasty,https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png
 65cb77853ba51e00084cba02,Mission Impossible,https://images.pluto.tv/channels/65cb77853ba51e00084cba02/colorLogoPNG.png
+65cb76ea11ced70008206b66,Dynasty,https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png
 634926e4b51d2d00077819a2,Renegade,https://images.pluto.tv/channels/634926e4b51d2d00077819a2/colorLogoPNG.png
 608aa17fb9f4490007e6419a,Pluto TV Film,https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png
 608aa20a2e7f270007c4878d,Pluto TV Film Azione,https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png
@@ -1984,8 +1990,8 @@
 62e8d5369e48940007fc1dc1,The Asylum,https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/colorLogoPNG.png
 67ed14aaf7c5d70b9089c3bf,Pluto TV Serie Sci-Fi,https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png
 61728bb9ee3773000840c1fa,Pluto TV Sci-Fi,https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png
-65cb73d33ba51e00084cabad,Star Trek: Voyager,https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png
 661f8f4c307fa30008033ab5,Pluto TV Alieni,https://images.pluto.tv/channels/661f8f4c307fa30008033ab5/colorLogoPNG.png
+65cb73d33ba51e00084cabad,Star Trek: Voyager,https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png
 60802d37ee238e0007c94e64,Andromeda,https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png
 63eb57d6c111bc0008fe2658,Sanctuary,https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png
 66d9ab4bf0f17500084e9b7e,Pluto TV True Crime,https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/colorLogoPNG.png

@@ -193,7 +193,6 @@
 643054b1fc3be59477853717-62fbf36c1567211fdb82e920,Stingray Naturescape,https://provider-static.plex.tv/epg/cms/production/42759e04-9961-44c5-b9ae-585ac62f34ca/Stingray_Naturescape_logo_light.png
 643054b1fc3be59477853717-6245efe9f137de43897ea1ae,Euronews Deutsch,https://provider-static.plex.tv/epg/cms/production/f4d271ea-6f09-46e0-910c-c052a63c3287/Plex-WURL_Euronews-Logos_DE_-_astrid_collomb.png
 643054b1fc3be59477853717-5f0641d3e8ffda004033b16e,The Design Network,https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png
-643054b1fc3be59477853717-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 643054b1fc3be59477853717-5f123330eca6a20040b328e8,TG Junior,https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png
 643054b1fc3be59477853717-6245f13093b402a3d1097789,Euronews Italiano,https://provider-static.plex.tv/epg/cms/production/c3f285d3-0411-496b-9cee-9244c21e106c/Plex-WURL_Euronews-Logos_IT_-_astrid_collomb.png
 643054b1fc3be59477853717-63eecb32ac23d1ee072087cb,123GO!,https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png
