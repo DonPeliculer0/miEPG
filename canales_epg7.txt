@@ -1192,6 +1192,7 @@
 5e20b730f2f8d5003d739db7-66fd3e25216b603e031725fe,ZenLIFE by Stingray,https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png
 5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0,Made In Hollywood,https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png
 5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a,Nosey Escándalos,https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png
+5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44,NEWSMAX,https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png
 5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc,The Reuters 60,https://provider-static.plex.tv/epg/cms/production/8cf9c131-2d92-4d91-86b1-22ef458d703f/reuters_reutersnow_1RDX.png
 5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607,USA TODAY,https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png
 5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1,Yahoo Finance,https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png
@@ -1254,7 +1255,6 @@
 5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098,Y2K,https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png
 5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8,Ideas En 5 Minutos,https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png
 5e20b730f2f8d5003d739db7-630fa9e577ec3866def38fa2,Women's Sports Network,https://provider-static.plex.tv/epg/cms/production/5c5587dd-f93b-42db-b0dc-6b7a78801c3d/WSNLogoColor_1500x1000.png
-5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44,NEWSMAX,https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png
 608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db,AZTECA UNO -1 hora,https://provider-static.plex.tv/epg/cms/production/a11b1ba3-d109-45ec-a87e-4312bad0682c/uno-hora_color_logodrx.png
 608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062,Canal 6 CDMX,https://provider-static.plex.tv/epg/cms/production/f9027051-ccd0-49ce-a246-5e4f89cdfcc8/Logotipo_C6_1500x1000_for_dark_backgrounds_-_James_Stowe.png
 608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac,Milenio Television,https://provider-static.plex.tv/epg/cms/production/1e99eb82-f642-4f2f-86e3-16df76547494/Logotipo_MILENIO_1500x1000_for_dark_backgrounds_-_James_Stowe.png
