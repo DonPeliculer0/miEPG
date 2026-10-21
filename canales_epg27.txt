@@ -71,7 +71,7 @@ CONCERT.CHANNEL.HD.uy,CONCERT CHANNEL HD,
 CRONICA.TV..uy,CRONICA TV,http://resources.nuevosiglo.com.uy/reportv/img/senales/192.svg
 CRONICA.uy,CRONICA,https://www.reportv.com.ar/buscador/img/Logos/33228636.jpg
 DE.PELICULA.HD.uy,DE PELICULA HD,https://www.reportv.com.ar/buscador/img/Logos/13178529.jpg
-DE.PELICULA.PLUS.HD.uy,DE PELICULA PLUS HD,
+DE.PELICULA.PLUS.HD.uy,DE PELICULA PLUS HD,https://www.reportv.com.ar/buscador/img/Logos/13177981.jpg
 DEUTSCHE.WELLE.ESPAÑOL..uy,DEUTSCHE WELLE ESPAÑOL,http://resources.nuevosiglo.com.uy/reportv/img/senales/16.svg
 DISCOVERY..uy,DISCOVERY,
 DISCOVERY.H.and.H.HD.uy,DISCOVERY H and H HD,https://www.reportv.com.ar/buscador/img/Logos/1990431831.jpg
