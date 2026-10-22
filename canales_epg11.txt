@@ -143,7 +143,7 @@
 417.dstv_com,Africanews,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CEE.png
 430.dstv_com,RAI International,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RAI.png
 431.dstv_com,NHK,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EEB.png
-435.dstv_com,RTPi (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTP.png
+435.dstv_com,RTPmundo (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTP.png
 437.dstv_com,TV5 Monde Afrique,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TVK.png
 447.dstv_com,CCTV 4,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SHO.png
 450.dstv_com,SET Asia,
