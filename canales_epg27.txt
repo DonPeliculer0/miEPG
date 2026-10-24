@@ -284,7 +284,7 @@ TV.CIUDAD..uy,TV CIUDAD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1
 TV.CIUDAD.HD..uy,TV CIUDAD HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4523.svg
 TV.GLOBO.HD..uy,TV GLOBO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5222.svg
 TV.NACIONAL.HD.uy,TV NACIONAL HD,https://www.reportv.com.ar/buscador/img/Logos/52772661.jpg
-TV.PUBLICA.uy,TV PUBLICA,https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg
+TV.PUBLICA.uy,TV PUBLICA,https://www.reportv.com.ar/buscador/img/Logos/1996680501.jpg
 TVE..uy,TVE,
 TVE.HD..uy,TVE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3181.svg
 TVE.HD.uy,TVE HD,https://www.reportv.com.ar/buscador/img/Logos/1901625.jpg

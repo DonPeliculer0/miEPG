@@ -2533,12 +2533,11 @@
 6512d72b473a540008592be5,Sabrina the Teenage Witch,https://images.pluto.tv/channels/6512d72b473a540008592be5/colorLogoPNG.png
 686d01ad94a028da3aaca6b3,The Nanny &amp; Mr Sheffield - A Fine Romance,https://images.pluto.tv/channels/686d01ad94a028da3aaca6b3/colorLogoPNG_1759145085675.png
 6391df52d146a40007c265f3,The Nanny,https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png
-6a749d816d05845d59c65de6,Great by Choice,https://images.pluto.tv/channels/6a749d816d05845d59c65de6/colorLogoPNG_1788794533551.png
 66fbf4d3d7de140008d41f5b,NCIS: Los Angeles,https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png
 6a4b6106064a1780422088b1,One of the Girls - med Kenny Aleksandr,https://images.pluto.tv/channels/6a4b6106064a1780422088b1/colorLogoPNG_1790327982233.png
 66b22714d512590008c3d573,Den gule sofa med Allan Sindberg,https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png
-660d6360c8311c0008b8a7c6,Top Gear Classics,https://images.pluto.tv/channels/660d6360c8311c0008b8a7c6/colorLogoPNG.png
 6512edf7473a540008599a31,Nathan for You,https://images.pluto.tv/channels/6512edf7473a540008599a31/colorLogoPNG.png
+660d6360c8311c0008b8a7c6,Top Gear Classics,https://images.pluto.tv/channels/660d6360c8311c0008b8a7c6/colorLogoPNG.png
 6202358b9794740007133363,Doctor Who,https://images.pluto.tv/channels/6202358b9794740007133363/colorLogoPNG.png
 6a2aa7f163d0b737c2f0a668,Just Shoot Me,https://images.pluto.tv/channels/6a2aa7f163d0b737c2f0a668/colorLogoPNG_1787551854121.png
 63a1c9790cc44a0007dc8857,Pluto TV Horror,https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png
@@ -2575,8 +2574,8 @@
 6577224bb3801200084865d6,All exclusive,https://images.pluto.tv/channels/6577224bb3801200084865d6/colorLogoPNG.png
 67334bed030a2c000805e414,Se og Hør – rød løber,https://images.pluto.tv/channels/67334bed030a2c000805e414/colorLogoPNG.png
 692ec3a76f84242a60f75f59,Reality Awards,https://images.pluto.tv/channels/692ec3a76f84242a60f75f59/colorLogoPNG_1766133823688.png
-688a20c69034bd35f34aaa9e,Simba Prisen,https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png
 692ec3f475169f09b5c0a8b3,Robert Prisen,https://images.pluto.tv/channels/692ec3f475169f09b5c0a8b3/colorLogoPNG_1766052484579.png
+688a20c69034bd35f34aaa9e,Simba Prisen,https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png
 689a0ab0f4af1aaca24530ae,Den gode gerning,https://images.pluto.tv/channels/689a0ab0f4af1aaca24530ae/colorLogoPNG-1757332399265.png
 67f79fdb3481170e68c0bc38,PodRadio på Pluto TV,https://images.pluto.tv/channels/67f79fdb3481170e68c0bc38/colorLogoPNG_1748943874109.png
 62790dc1c733e8000733ba4d,Pixel.tv,https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png
@@ -2613,6 +2612,7 @@
 660d714719ca71000849cc1f,Realmadrid TV,https://images.pluto.tv/channels/660d714719ca71000849cc1f/colorLogoPNG.png
 660bfc7b2433010008def3e3,FIFA+,https://images.pluto.tv/channels/660bfc7b2433010008def3e3/colorLogoPNG_1750064634195.png
 691ed751bef819002f2c7296,Inter 24/7,https://images.pluto.tv/channels/691ed751bef819002f2c7296/colorLogoPNG_1775046963615.png
+6a749d816d05845d59c65de6,Great by Choice,https://images.pluto.tv/channels/6a749d816d05845d59c65de6/colorLogoPNG_1788794533551.png
 660e7404e8fba8000853abc0,AWSN,https://images.pluto.tv/channels/660e7404e8fba8000853abc0/colorLogoPNG_1748590816382.png
 66461eb33d173b000805ecd3,DFB Play TV,https://images.pluto.tv/channels/66461eb33d173b000805ecd3/colorLogoPNG_1769414804838.png
 6a68c47558918556e6078b1d,NFL Channel,https://images.pluto.tv/channels/6a68c47558918556e6078b1d/colorLogoPNG_1785250985851.png
