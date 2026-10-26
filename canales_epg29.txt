@@ -660,142 +660,250 @@ ERI.Radio.1.ae,ERI Radio 1,https://www.sat.tv/wp-content/themes/twentytwenty-chi
 ERI.Radio.2.ae,ERI Radio 2,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-188289.png
 ERI.Radio.3.ae,ERI Radio 3,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-188289.png
 ERI.Radio.4.ae,ERI Radio 4,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-188289.png
-en:.Golf.Life.ae,en: Golf Life,
-en:.STARZPLAY.Sports.1.ae,en: STARZPLAY Sports 1,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG530100_landscape10-44335c24-b60a-4c3f-ab8b-5b950c09a0d2.jpg
-en:.STARZPLAY.Sports.2.ae,en: STARZPLAY Sports 2,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
-en:.STARZPLAY.Sports.ae,en: STARZPLAY Sports,
-en:.YAS.TV.Extra.ae,en: YAS TV Extra,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG642251_landscape10-349232cb-994a-488e-8dc2-e7d6a30ea132.jpg
-en:.Sony.TV.ae,en: Sony TV,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33877912_b_h10_aa.jpg
-en:.STC.tv.Cinema.ae,en: STC tv Cinema,
-en:.STC.tv.Drama.ae,en: STC tv Drama,
-en:.STC.tv.Family.ae,en: STC tv Family,
-en:.Bloom.ae,en: Bloom,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p16230301_b_h8_ak.jpg
-en:.Sky.News.Arabia.-.Live.ae,en: Sky News Arabia - Live,
-en:.Ben.10.by.WBTV.ae,en: Ben 10 by WBTV,
-en:.ARY.Digital.ae,en: ARY Digital,
-en:.Geo.TV.ae,en: Geo TV,
-en:.CNN.Headlines.ae,en: CNN Headlines,
-en:.Wedo.Sports.MENA.ae,en: Wedo Sports MENA,
-en:.Abu.Dhabi.Sports.2.ae,en: Abu Dhabi Sports 2,
-en:.Abu.Dhabi.TV.ae,en: Abu Dhabi TV,
-en:.Al.Jadeed.ae,en: Al Jadeed,
-en:.MBC+.e&amp;.ae,en: MBC+ e&amp;,
-en:.Unbeaten.Sports.ae,en: Unbeaten Sports,
-en:.STARZPLAY.KLASSICZ.ae,en: STARZPLAY KLASSICZ,
-en:.Al.Arabiya.HD.ae,en: Al Arabiya HD,
-en:.Zee.Aflam.-.Live.ae,en: Zee Aflam - Live,
-en:.STARZPLAY.Cricket.2.ae,en: STARZPLAY Cricket 2,
-en:.StarzPlay.Rugby.-.Live.ae,en: StarzPlay Rugby - Live,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33894258_e_h10_aa.jpg
-en:.EASL.(East.Asia.Super.League.2025-2026).ae,en: EASL (East Asia Super League 2025-2026),
-en:.STARZPLAY.Cricket.1.ae,en: STARZPLAY Cricket 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
-en:.AD.Sports.Extra.ae,en: AD Sports Extra,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
-en:.AWSN+.ae,en: AWSN+,
-en:.Red.Bull.TV.Live.ae,en: Red Bull TV Live,
-en:.DAZN.Combat.&amp;.Fighting.ae,en: DAZN Combat &amp; Fighting,
-en:.Al.Emarat.TV.ae,en: Al Emarat TV,
-en:.Baynounah.TV.ae,en: Baynounah TV,
-en:.Majid.TV.ae,en: Majid TV,
-en:.National.Geographic.Abu.Dhabi.ae,en: National Geographic Abu Dhabi,
-en:.Abu.Dhabi.Sports.1.ae,en: Abu Dhabi Sports 1,
-en:.Yas.ae,en: Yas,
-en:.Sama.Dubai.ae,en: Sama Dubai,https://dmi-vod-prod.akamaized.net/images/channels_transparent/SamaTV_1280x720.png
-en:.2M.Monde.ae,en: 2M Monde,
-en:.Roya.TV.Live.ae,en: Roya TV Live,
-en:.Zee.Alwan.ae,en: Zee Alwan,
-en:.Karyam.Nissaram.-.Live.ae,en: Karyam Nissaram - Live,
-en:.M80.Moosa.ae,en: M80 Moosa,
-en:.Curiosity.Stream.ae,en: Curiosity Stream,
-en:.K-Drama+.ae,en: K-Drama+,
-en:.Colors.HD.ae,en: Colors HD,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30722223_b_h8_ad.jpg
-en:.Zee.TV.HD.ae,en: Zee TV HD,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33643621_b_h8_ab.jpg
-en:.Asianet.ME.ae,en: Asianet ME,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11308227_b_h8_aa.jpg
-en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10664351_b_h10_aa.jpg
-en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10692865_v_h10_aa.jpg
-en:.Star.Plus.HD.ae,en: Star Plus HD,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p1002730_b_h8_ad.jpg
-en:.Emarat.FM.ae,en: Emarat FM,
-en:.Quran.Kareem.ae,en: Quran Kareem,
-en:.Star.FM.ae,en: Star FM,
-en:.Radio.2.ae,en: Radio 2,
-en:.KADAK.FM.ae,en: KADAK FM,
-en:.Abu.Dhabi.Classic.FM.ae,en: Abu Dhabi Classic FM,
-en:.Radio.1.ae,en: Radio 1,
-en:.Abu.Dhabi.FM.ae,en: Abu Dhabi FM,
-en:.India.Today.TV.ae,en: India Today TV,
-en:.Asharq.News.ae,en: Asharq News,
-en:.CNBC.Arabiya.HD.ae,en: CNBC Arabiya HD,
-en:.CGTN.ae,en: CGTN,https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg
-en:.Al.Arabiya.Business.-.Live.ae,en: Al Arabiya Business - Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
-en:.Al.Hadath.Live.ae,en: Al Hadath Live,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-en:.SET.Max.ae,en: SET Max,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27936608_v_h10_aa.jpg
-ar:.جولف.لايف.ae,ar: جولف لايف,
-ar:.ستارز.بلاي.سبورتس.1.ae,ar: ستارز بلاي سبورتس 1,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
-ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg
-ar:.STARZPLAY.Sports.ae,ar: STARZPLAY Sports,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG530100_landscape10-44335c24-b60a-4c3f-ab8b-5b950c09a0d2.jpg
-ar:.ياس.تي.في.إكسترا.ae,ar: ياس تي في إكسترا,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG642251_landscape10-349232cb-994a-488e-8dc2-e7d6a30ea132.jpg
-ar:.سوني.تي.في.ae,ar: سوني تي في,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33877912_b_h10_aa.jpg
-ar:.أس.تي.سي.سينما.ae,ar: أس تي سي سينما,
-ar:.أس.تي.سي.دراما.ae,ar: أس تي سي دراما,
-ar:.أس.تي.سي.عائلة.ae,ar: أس تي سي عائلة,
-ar:.بلوم.ae,ar: بلوم,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p16230301_b_h8_ak.jpg
-ar:.سكاي.نيوز.عربية.-.مباشر.ae,ar: سكاي نيوز عربية - مباشر,
-ar:.غامبول.باي.دبليو.بي.تي.في.ae,ar: غامبول باي دبليو بي تي في,
-ar:.قناة.إي.آر.واي.ديجيتال.ae,ar: قناة إي آر واي ديجيتال,
-ar:.قناة.جيو.ae,ar: قناة جيو,
-ar:.عناوين.أخبار.سي.إن.إن.ae,ar: عناوين أخبار سي إن إن,
-ar:.ويدوسبورتس.مينا.ae,ar: ويدوسبورتس مينا,
-ar:.2.أبوظبي.الرياضية.ae,ar: 2 أبوظبي الرياضية,
-ar:.قناة.أبوظبي.ae,ar: قناة أبوظبي,
-ar:.Al.Jadeed.ae,ar: Al Jadeed,
-ar:.MBC+.e&amp;.ae,ar: MBC+ e&amp;,
-ar:.يونبيتن.سبورتس.ae,ar: يونبيتن سبورتس,
-ar:.ستارز.بلاي.كلاسيكز.ae,ar: ستارز بلاي كلاسيكز,
-ar:.قناة.العربية.-.مباشر.ae,ar: قناة العربية - مباشر,
-ar:.زي.أفلام.-.مباشر.ae,ar: زي أفلام - مباشر,
-ar:.ستارزبلاي.كريكيت.2.ae,ar: ستارزبلاي كريكيت 2,
-ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33894258_e_h10_aa.jpg
-ar:.اي.اي.اس.ال.(ايست.ايشيا.سوبر.ليغ.2025-2026).ae,ar: اي اي اس ال (ايست ايشيا سوبر ليغ 2025-2026),
-ar:.ستارزبلاي.كريكيت.1.ae,ar: ستارزبلاي كريكيت 1,https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qhMTsLhi.jpg
-ar:.أبوظبي.الرياضية.إكسترا.ae,ar: أبوظبي الرياضية إكسترا,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG278998_landscape10_MASTER298708.jpg
-ar:.أيه.دبل.يو.إس.إن.بلس.ae,ar: أيه دبل يو إس إن بلس,
-ar:.Red.Bull.TV.Live.ae,ar: Red Bull TV Live,
-ar:.DAZN.Combat.&amp;.Fighting.ae,ar: DAZN Combat &amp; Fighting,
-ar:.قناة.الإمارات.ae,ar: قناة الإمارات,
-ar:.قناة.بينونة.ae,ar: قناة بينونة,
-ar:.قناة.ماجد.ae,ar: قناة ماجد,
-ar:.ناشيونال.جيوغرافيك.أبوظبي.ae,ar: ناشيونال جيوغرافيك أبوظبي,
-ar:.1.أبوظبي.الرياضية.ae,ar: 1 أبوظبي الرياضية,
-ar:.قناة.ياس.ae,ar: قناة ياس,
-ar:.سما.دبي.ae,ar: سما دبي,
-ar:.2M.Monde.ae,ar: 2M Monde,
-ar:.Roya.TV.Live.ae,ar: Roya TV Live,
-ar:.زي.ألوان.-.البث.المباشر.ae,ar: زي ألوان - البث المباشر,
-ar:.كاريم.نيسارام-مباشر.ae,ar: كاريم نيسارام-مباشر,
-ar:.M80.موسى.ae,ar: M80 موسى,
-ar:.كيوريوسيتي.ستريم.ae,ar: كيوريوسيتي ستريم,
-ar:.ك-دراما+.ae,ar: ك-دراما+,
-ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30722223_b_h8_ad.jpg
-ar:.زي.تي.في.ae,ar: زي تي في,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33643621_b_h8_ab.jpg
-ar:.آسيا.نت.ae,ar: آسيا نت,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p11308227_b_h8_aa.jpg
-ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10664351_b_h10_aa.jpg
-ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10692865_v_h10_aa.jpg
-ar:.ستار.بلس.ae,ar: ستار بلس,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p1002730_b_h8_ad.jpg
-ar:.إذاعة.الإمارات.إف.إم.ae,ar: إذاعة الإمارات إف إم,
-ar:.قناة.القرآن.الكريم.ae,ar: قناة القرآن الكريم,
-ar:.ستار.إف.إم.ae,ar: ستار إف إم,
-ar:.راديو.2.ae,ar: راديو 2,
-ar:.كدك.إف.إم.ae,ar: كدك إف إم,
-ar:.أبوظبي.كلاسيك.إف.إم.ae,ar: أبوظبي كلاسيك إف إم,
-ar:.راديو.1.ae,ar: راديو 1,
-ar:.إذاعة.أبوظبي.إف.إم.ae,ar: إذاعة أبوظبي إف إم,
-ar:.قناة.إنديا.توداي.التلفزيونية.ae,ar: قناة إنديا توداي التلفزيونية,
-ar:.الشرق.للأخبار-.لايف.ae,ar: الشرق للأخبار- لايف,
-ar:.سي.إن.بي.سي.عربية.-.مباشر.ae,ar: سي إن بي سي عربية - مباشر,
-ar:.سي.جي.تي.إن.ae,ar: سي جي تي إن,https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg
-ar:.العربية.بيزنس.-.مباشر.ae,ar: العربية بيزنس - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg
-ar:.قناة.الحدث.-.مباشر.ae,ar: قناة الحدث - مباشر,https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg
-ar:.ست.ماكس.ae,ar: ست ماكس,https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27936608_v_h10_aa.jpg
-Dubai.ae,Dubai,
-Sama.Dubai.ae,Sama Dubai,
+en:.Sky.News.Arabia.-.Live.ae,en: Sky News Arabia - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/skynews/active/d8459747c839a7a4245dba1c26c69ed7.png
+en:.Abu.Dhabi.Sports.1.ae,en: Abu Dhabi Sports 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports1/active/05ec3a0dd0f04e36e25a7b6e4b8e90d8.png
+en:.Abu.Dhabi.Sports.2.ae,en: Abu Dhabi Sports 2,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports2/active/84f5309012f3e824633d9b9b35856dbb.png
+en:.Abu.Dhabi.Sports.HDR.ae,en: Abu Dhabi Sports HDR,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/abudhabisportshdr/active/208e52ee8e33007aff211b097204378f.png
+en:.STARZPLAY.Sports.1.ae,en: STARZPLAY Sports 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports1/active/ef4231c5fe16f3cbc97c7219a04ad7be.png
+en:.STARZPLAY.Sports.2.ae,en: STARZPLAY Sports 2,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports2/active/7f3318d8cd582c3e98cb7be5b3aabe19.png
+en:.Cricbuzz.1.ae,en: Cricbuzz 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife2-active.png
+en:.Cricbuzz.2.ae,en: Cricbuzz 2,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife3-active.png
+en:.Al.Emarat.TV.ae,en: Al Emarat TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnalemarattv/active/2b6092733df431e839de5e8b5acc5170.png
+en:.Abu.Dhabi.TV.ae,en: Abu Dhabi TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnabudhabichannel/active/5053dc59a6720698c26127b27e5e2098.png
+en:.National.Geographic.Abu.Dhabi.ae,en: National Geographic Abu Dhabi,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/nationalgeographicabudhabitv/active/28116b613c9c8ccbb1a27a47cc862b6c.png
+en:.2M.Monde.ae,en: 2M Monde,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/2mmondetv-active.png
+en:.ejunior.ae,en: ejunior,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/e-junior/active/c9230b8eb40375d23c8217af7307003f.png
+en:.Majid.TV.ae,en: Majid TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png
+en:.Spacetoon.ae,en: Spacetoon,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/spacetoon/active/49f3866d8762fa3a0ee59cf27d218550.png
+en:.Cartoon.Network.Arabic.ae,en: Cartoon Network Arabic,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/93e98df5ba32fbc19119bd5257ad5011.png
+en:.Asianet.ME.ae,en: Asianet ME,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianethd/active/ffd7f8f6bb94c02f62df1ac9cbd40d81.png
+en:.Asianet.Cinema.ae,en: Asianet Cinema,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetcinema-active.png
+en:.Colors.HD.ae,en: Colors HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorshd/active/3e8fd0ab64f1ae2e85200b9253d9868a.png
+en:.Colors.Kannada.ae,en: Colors Kannada,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorskannada/active/8d17c173f4b177554c4550436de3142e.png
+en:.Sky.News.ae,en: Sky News,
+en:.CNN.International.ae,en: CNN International,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnninternational/active/a214e2ce83044afc7df54bad50236dbc.png
+en:.India.Today.TV.ae,en: India Today TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/india-today-active.png
+en:.Republic.TV.ae,en: Republic TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/republictv/active/460c1490653cec76b7f7426ce5ff2640.png
+en:.Asianet.News.ae,en: Asianet News,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/anews-active.png
+en:.Manorama.News.ae,en: Manorama News,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/manoramanews/active/cbd04ba3010ca27d297f93d60395c575.png
+en:.Reporter.TV.ae,en: Reporter TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/reportertv/active/1cf2c8b05a8a30f16d492d91a9772796.png
+en:.Asharq.Bloomberg.ae,en: Asharq Bloomberg,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsharqnews-active.png
+en:.CNBC.Arabiya.HD.ae,en: CNBC Arabiya HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnbc-active.png
+en:.CGTN.ae,en: CGTN,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtn-active.png
+en:.CNN.Headlines.International.ae,en: CNN Headlines International,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnn-active.png
+en:.France.24.Arabic.ae,en: France 24 Arabic,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24arabic/active/13d5dbd161f370f28abdbf2ea97748d8.png
+en:.France.24.French.ae,en: France 24 French,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24french/active/0068e4dea45fea81bdd1b124a6d4adb1.png
+en:.STARZPLAY.Sports.3.ae,en: STARZPLAY Sports 3,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports-active.png
+en:.YAS.TV.Extra.ae,en: YAS TV Extra,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportsasia1-active.png
+en:.STARZPLAY.Cricket.ae,en: STARZPLAY Cricket,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife1-active.png
+en:.STARZPLAY.Golf.ae,en: STARZPLAY Golf,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/golflife-active.png
+en:.AD.Sports.Extra.ae,en: AD Sports Extra,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportsasia2-active.png
+en:.Red.Bull.TV.Live.ae,en: Red Bull TV Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/Redbull-Colored.png
+en:.DAZN.Ringside.ae,en: DAZN Ringside,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/dazncombat-active.png
+en:.StarzPlay.Rugby.ae,en: StarzPlay Rugby,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayrugby/active/565476417d766816d04d5a372fa54032.png
+en:.FIFA+.Live.ae,en: FIFA+ Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/fifaplus-active.png
+en:.Super.League.Kerala.ae,en: Super League Kerala,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/superleaguekerala/active/751c66af924f752bf5327a258b7dfc07.png
+en:.Baynounah.TV.ae,en: Baynounah TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/baynouahtv/active/8b723ad288abb23eeaf34ef4ab7e4f15.png
+en:.Yas.ae,en: Yas,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnyastv/active/bc02dafed731fb108be055d04e267342.png
+en:.AD.Fight.ae,en: AD Fight,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adfight/active/148e429d490678b682f11eb5046f99ca.png
+en:.Kanal.D.Drama.ae,en: Kanal D Drama,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kanalddrama/active/d1f21ca8367d4176212f2b5573950418.png
+en:.Sharjah.TV.ae,en: Sharjah TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/saudiquran-active.png
+en:.Rotana.Classic.ae,en: Rotana Classic,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanaclassic/active/05a3c50c26e3e404d3a7e56244fb7013.png
+en:.Rotana.Comedy.ae,en: Rotana Comedy,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacomedy/active/c30fba551543a57259a2d90338ab3df0.png
+en:.Rotana.Drama.ae,en: Rotana Drama,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanadrama/active/94a2fae0a57c87b45b17f7ff2e4d8cd6.png
+en:.MBC+.e&amp;.ae,en: MBC+ e&amp;,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.png
+en:.STARZPLAY.Action.ae,en: STARZPLAY Action,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayaction/active/ac5b839d7ddb2789cc746f2827a235c5.png
+en:.STARZPLAY.Comedy.ae,en: STARZPLAY Comedy,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaycomedy/active/aaf3fc7751df7d9b30bde82db1a6ca64.png
+en:.STARZPLAY.Series.ae,en: STARZPLAY Series,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayseries/active/6f793faac4402a002db0df4e7c4434b1.png
+en:.Saudi.1.ae,en: Saudi 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/saudione-active.png
+en:.Rotana.Khaleejiah.ae,en: Rotana Khaleejiah,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanakhaleejiah/active/dcb462c1b2beb45e46627850f23b98cc.png
+en:.Zee.Alwan.ae,en: Zee Alwan,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeealwan-active.png
+en:.Roya.TV.Live.ae,en: Roya TV Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/royatv-active.png
+en:.LBC.Sat.ae,en: LBC Sat,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/lbcsat/active/030caf0d1d289752808053bf531b1a8f.png
+en:.Curiosity.Stream.ae,en: Curiosity Stream,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/curiositystream_active.png
+en:.Star.Plus.HD.ae,en: Star Plus HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starplushd/active/fcf24df80613459462ac740b47210454.png
+en:.Sharqiya.from.Kalba.ae,en: Sharqiya from Kalba,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sharqiyafromKalba/active/a0ff54ac8f9f9d9cbf50ce1b6c070762.png
+en:.Al.Wousta.Al.Dhaid.ae,en: Al Wousta Al Dhaid,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alwoustaaldhaid/active/c5c38ed9b3be97200d47dfcc5914221d.png
+en:.Al.Jadeed.ae,en: Al Jadeed,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/aljadeedtv-active.png
+en:.6ter.ae,en: 6ter,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/6tertv/active/40dddab81f075010018306a3abf3b02a.png
+en:.M6.ae,en: M6,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/m6television/active/d9e657685694cd3a07513addb378f0a1.png
+en:.M6.Music.ae,en: M6 Music,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/m6music/active/d90aa2bf6622f2b00049113ba4ef5c15.png
+en:.RFM.ae,en: RFM,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rfmtv/active/1614bd8ae4b9b3b6b2a643c55be3ca06.png
+en:.W9.ae,en: W9,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/w9television/active/68414662564455c3335e94373ff1ced5.png
+en:.Colors.Bangla.ae,en: Colors Bangla,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorsbangla/active/d53cf252588dd5fd9bf3e77e15dfb431.png
+en:.MTV.India.ae,en: MTV India,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mtvindia/active/2fd951a4068f8b683c46894bddc6a4a6.png
+en:.Bloom.ae,en: Bloom,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/bloomtv/active/9bcbdc333430a207ce4d49d79a59acff.png
+en:.Looney.Tunes.By.CN.ae,en: Looney Tunes By CN,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/tomandjerry-active.png
+en:.Al.Sanafer.ae,en: Al Sanafer,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsanafer/active/7f8ca41f8ef93124e925deeb17eb2848.png
+en:.Kartoon.Channel!.-.Live.ae,en: Kartoon Channel! - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kartoonchannel-active.png
+en:.Gulli.ae,en: Gulli,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/gulli/active/a1ae2fe60ce0e9a9d9f4bd799c8474db.png
+en:.TiJi.ae,en: TiJi,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/tijitv/active/a6da11a0a2922caa6cf6c70a57f384bb.png
+en:.Zee.Bangla.ae,en: Zee Bangla,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeebangla/active/02ee03e55f48f2e6efcc9448bcf4fc28.png
+en:.SET.Max.ae,en: SET Max,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/test/setmax/active/dc7d5a08fca92b8978b4f7f7419f9fb9.png
+en:.Star.Gold.ae,en: Star Gold,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/stargold/active/5be6b8838b9e34e6fc026e88b7d47cf8.png
+en:.Zee.Cinema.ae,en: Zee Cinema,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeecinema/active/f1fd1b246c873332d86e6ddecd77db1e.png
+en:.Asianet.Plus.HD.ae,en: Asianet Plus HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetplushd/active/712b1d125fdc68d5fa8f69d133c62137.png
+en:.em.Bollywood.Unlimited.ae,en: em Bollywood Unlimited,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/emasala/active/df7facca36712dbe48b23565022d8c05.png
+en:.Sony.TV.ae,en: Sony TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/test/sonytv/active/5f78636e38b938fe937377bd3b59dd7a.png
+en:.Zee.TV.HD.ae,en: Zee TV HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeetvhd/active/e38cf10b7bdf74046f5699569cf74c42.png
+en:.Sab.TV.ae,en: Sab TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sabtv/active/01ec3c04923e983dc3bb8f4089934c16.png
+en:.Flowers.International.ae,en: Flowers International,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/flowersinternational/active/59e45f6babce9f16102059b5b2ecae6a.png
+en:.Geo.TV.ae,en: Geo TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/geotv/active/020233bc9b4b05638eca8b3ffd3128d7.png
+en:.Asianet.Movies.HD.ae,en: Asianet Movies HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetmovieshd/active/61665dffc9569403b2e23289f2ce4f01.png
+en:.Mazhavil.Manorama.ae,en: Mazhavil Manorama,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mazhavilmanorama/active/44553484c4590dcc8057dbfa4ae0813e.png
+en:.NTV.HD.ae,en: NTV HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/ntvhd/active/d7613c5367e9f4d4df627b71aad65829.png
+en:.Emasala.Simply.South.ae,en: Emasala Simply South,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/emsimplysouth/active/7b47b7819f44603df174495efb9b3479.png
+en:.Zee.Keralam.ae,en: Zee Keralam,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeekaralam/active/ccea69db8fe108f87ff46511325005d3.png
+en:.Zee.Tamil.ae,en: Zee Tamil,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeetamil/active/8ece4fa0006314c07668bbc5f8f47add.png
+en:.Zee.Marathi.ae,en: Zee Marathi,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeemarathi/active/335261e708a7c9be203f9e668ef9fc05.png
+en:.M80.Moosa.ae,en: M80 Moosa,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/m80-active.png
+en:.Karyam.Nissaram.-.Live.ae,en: Karyam Nissaram - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/karyam-active.png
+en:.Star.Jalsha.ae,en: Star Jalsha,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starjalsha/active/ad5cd6142a57ce3048528cc58f1a71a6.png
+en:.ARY.Digital.ae,en: ARY Digital,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/arydigital/active/e31525f33f72c7e5e4116ac8db564fa8.png
+en:.STARZPLAY.Movies.ae,en: STARZPLAY Movies,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaymovie/active/32afed472f138a52e93c37d4eb095e36.png
+en:.Zee.Aflam.-.Live.ae,en: Zee Aflam - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeeaflam-active.png
+en:.Rotana.Cinema.KSA.ae,en: Rotana Cinema KSA,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacinemaksa/active/f5eac282ac0d1b54d7ec9e8bc3ff0ee0.png
+en:.Rotana.Cinema.Egypt.ae,en: Rotana Cinema Egypt,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacinemaegypt/active/bdfeccb2a06631affbc6c40489ef8a05.png
+en:.K.Music.-.Live.ae,en: K Music - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kmusic-active.png
+en:.CGTN.Discovering.China.ae,en: CGTN Discovering China,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/ctgndiscoveringchina/active/36d95c97435ea7bccc65b6055e870e71.png
+en:.CGTN.China.Travel.ae,en: CGTN China Travel,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtnchinatravel/active/81b6e3f487603b8c42152a464da36103.png
+en:.Concerto.TV.ae,en: Concerto TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/concreto-active.png
+en:.That's.Rock.ae,en: That's Rock,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/nowrock-active.png
+en:.That’s.80s.ae,en: That’s 80s,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/now80s-active.png
+en:.Pet.Club.TV.ae,en: Pet Club TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/petclub-active.png
+en:.That’s.70s.ae,en: That’s 70s,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/now70s-active.png
+en:.Saudi.Quran.ae,en: Saudi Quran,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sharjahtv-active.png
+en:.Quran.Kareem.ae,en: Quran Kareem,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnqurankareemfm/active/5854d3dee75f692abf2fc0fc8e63fcd0.png
+en:.Emarat.FM.ae,en: Emarat FM,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnemaratfm/active/a8624499b31abc1df6a28c9a9f3a9aad.png
+en:.Star.FM.ae,en: Star FM,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnstarfm/active/2b4d2de0a31e9dccfc6eb9a5ab68592a.png
+en:.Radio.2.ae,en: Radio 2,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnradio2fm/active/103f32c3b5ae0e6348f41abbed23817a.png
+en:.KADAK.FM.ae,en: KADAK FM,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnkadakfm/active/5e656ef71312fa2228b6b2364ae05dbd.png
+en:.Abu.Dhabi.Classic.FM.ae,en: Abu Dhabi Classic FM,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadclassicfm/active/46e65cc866962d1e72046d9202897c57.png
+en:.Radio.1.ae,en: Radio 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnradio1fm/active/c7bd6188415bd5192c0010b055b95d22.png
+en:.Abu.Dhabi.FM.ae,en: Abu Dhabi FM,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/abudhabifm/active/4c5b88c3228df5b7bacf91f69993e0bc.png
+ar:.سكاي.نيوز.عربية.-.مباشر.ae,ar: سكاي نيوز عربية - مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/skynews/active/d8459747c839a7a4245dba1c26c69ed7.png
+ar:.1.أبوظبي.الرياضية.ae,ar: 1 أبوظبي الرياضية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports1/active/05ec3a0dd0f04e36e25a7b6e4b8e90d8.png
+ar:.2.أبوظبي.الرياضية.ae,ar: 2 أبوظبي الرياضية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports2/active/84f5309012f3e824633d9b9b35856dbb.png
+ar:.أبوظبي.الرياضية.ae,ar: أبوظبي الرياضية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/abudhabisportshdr/active/208e52ee8e33007aff211b097204378f.png
+ar:.ستارز.بلاي.سبورتس.1.ae,ar: ستارز بلاي سبورتس 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports1/active/ef4231c5fe16f3cbc97c7219a04ad7be.png
+ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports2/active/7f3318d8cd582c3e98cb7be5b3aabe19.png
+ar:.كريكبز.1.ae,ar: كريكبز 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife2-active.png
+ar:.كريكبز.2.ae,ar: كريكبز 2,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife3-active.png
+ar:.قناة.الإمارات.ae,ar: قناة الإمارات,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnalemarattv/active/2b6092733df431e839de5e8b5acc5170.png
+ar:.قناة.أبوظبي.ae,ar: قناة أبوظبي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnabudhabichannel/active/5053dc59a6720698c26127b27e5e2098.png
+ar:.ناشيونال.جيوغرافيك.أبوظبي.ae,ar: ناشيونال جيوغرافيك أبوظبي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/nationalgeographicabudhabitv/active/28116b613c9c8ccbb1a27a47cc862b6c.png
+ar:.2M.Monde.ae,ar: 2M Monde,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/2mmondetv-active.png
+ar:.إي.جونيور.ae,ar: إي جونيور,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/e-junior/active/c9230b8eb40375d23c8217af7307003f.png
+ar:.قناة.ماجد.ae,ar: قناة ماجد,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png
+ar:.سبيستون.ae,ar: سبيستون,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/spacetoon/active/49f3866d8762fa3a0ee59cf27d218550.png
+ar:.كرتون.نتورك.بالعربية.ae,ar: كرتون نتورك بالعربية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/93e98df5ba32fbc19119bd5257ad5011.png
+ar:.آسيا.نت.مي.ae,ar: آسيا نت مي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianethd/active/ffd7f8f6bb94c02f62df1ac9cbd40d81.png
+ar:.آسيانت.سينما.ae,ar: آسيانت سينما,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetcinema-active.png
+ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorshd/active/3e8fd0ab64f1ae2e85200b9253d9868a.png
+ar:.كولورز.كانادا.ae,ar: كولورز كانادا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorskannada/active/8d17c173f4b177554c4550436de3142e.png
+ar:.سكاي.نيوز.ae,ar: سكاي نيوز,
+ar:.سي.إن.إن.إنترناشيونال.ae,ar: سي إن إن إنترناشيونال,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnninternational/active/a214e2ce83044afc7df54bad50236dbc.png
+ar:.قناة.إنديا.توداي.التلفزيونية.ae,ar: قناة إنديا توداي التلفزيونية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/india-today-active.png
+ar:.ريبابليك.تي.في.ae,ar: ريبابليك تي في,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/republictv/active/460c1490653cec76b7f7426ce5ff2640.png
+ar:.آسيانيت.نيوز.ae,ar: آسيانيت نيوز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/anews-active.png
+ar:.مانوراما.نيوز.ae,ar: مانوراما نيوز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/manoramanews/active/cbd04ba3010ca27d297f93d60395c575.png
+ar:.ريبورتر.تي.في.ae,ar: ريبورتر تي في,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/reportertv/active/1cf2c8b05a8a30f16d492d91a9772796.png
+ar:.الشرق.بلومبرغ.ae,ar: الشرق بلومبرغ,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsharqnews-active.png
+ar:.سي.إن.بي.سي.عربية.-.مباشر.ae,ar: سي إن بي سي عربية - مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnbc-active.png
+ar:.سي.جي.تي.إن.ae,ar: سي جي تي إن,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtn-active.png
+ar:.عناوين.سي.إن.إن.الدولية.ae,ar: عناوين سي إن إن الدولية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnn-active.png
+ar:.فرانس.24.العربية.ae,ar: فرانس 24 العربية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24arabic/active/13d5dbd161f370f28abdbf2ea97748d8.png
+ar:.فرانس.24.الفرنسية.ae,ar: فرانس 24 الفرنسية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24french/active/0068e4dea45fea81bdd1b124a6d4adb1.png
+ar:.STARZPLAY.Sports.3.ae,ar: STARZPLAY Sports 3,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports-active.png
+ar:.ياس.تي.في.إكسترا.ae,ar: ياس تي في إكسترا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportsasia1-active.png
+ar:.ستارزبلاي.كريكيت.ae,ar: ستارزبلاي كريكيت,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife1-active.png
+ar:.ستارزبلاي.جولف.ae,ar: ستارزبلاي جولف,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/golflife-active.png
+ar:.أبوظبي.الرياضية.إكسترا.ae,ar: أبوظبي الرياضية إكسترا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adsportsasia2-active.png
+ar:.Red.Bull.TV.Live.ae,ar: Red Bull TV Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/Redbull-Colored.png
+ar:.دازن.رينغسايد.ae,ar: دازن رينغسايد,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/dazncombat-active.png
+ar:.ستارزبلاي.رغبي.ae,ar: ستارزبلاي رغبي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayrugby/active/565476417d766816d04d5a372fa54032.png
+ar:.فيفا+.ae,ar: فيفا+,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/fifaplus-active.png
+ar:.دوري.كيرالا.الممتاز.ae,ar: دوري كيرالا الممتاز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/superleaguekerala/active/751c66af924f752bf5327a258b7dfc07.png
+ar:.قناة.بينونة.ae,ar: قناة بينونة,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/baynouahtv/active/8b723ad288abb23eeaf34ef4ab7e4f15.png
+ar:.قناة.ياس.ae,ar: قناة ياس,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnyastv/active/bc02dafed731fb108be055d04e267342.png
+ar:.أبوظبي.فايت.ae,ar: أبوظبي فايت,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/adfight/active/148e429d490678b682f11eb5046f99ca.png
+ar:.كنال.دي.دراما.ae,ar: كنال دي دراما,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kanalddrama/active/d1f21ca8367d4176212f2b5573950418.png
+ar:.تلفزيون.الشارقة.ae,ar: تلفزيون الشارقة,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/saudiquran-active.png
+ar:.روتانا.كلاسيك.ae,ar: روتانا كلاسيك,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanaclassic/active/05a3c50c26e3e404d3a7e56244fb7013.png
+ar:.روتانا.كوميدي.ae,ar: روتانا كوميدي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacomedy/active/c30fba551543a57259a2d90338ab3df0.png
+ar:.روتانا.دراما.ae,ar: روتانا دراما,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanadrama/active/94a2fae0a57c87b45b17f7ff2e4d8cd6.png
+ar:.MBC+.e&amp;.ae,ar: MBC+ e&amp;,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.png
+ar:.ستارزبلاي.أكشن.ae,ar: ستارزبلاي أكشن,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayaction/active/ac5b839d7ddb2789cc746f2827a235c5.png
+ar:.ستارزبلاي.كوميدي.ae,ar: ستارزبلاي كوميدي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaycomedy/active/aaf3fc7751df7d9b30bde82db1a6ca64.png
+ar:.ستارزبلاي.سيريز.ae,ar: ستارزبلاي سيريز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayseries/active/6f793faac4402a002db0df4e7c4434b1.png
+ar:.السعودية.1.ae,ar: السعودية 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/saudione-active.png
+ar:.روتانا.خليجية.ae,ar: روتانا خليجية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanakhaleejiah/active/dcb462c1b2beb45e46627850f23b98cc.png
+ar:.زي.ألوان.-.البث.المباشر.ae,ar: زي ألوان - البث المباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeealwan-active.png
+ar:.Roya.TV.Live.ae,ar: Roya TV Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/royatv-active.png
+ar:.أل.بي.سي.سات.ae,ar: أل بي سي سات,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/lbcsat/active/030caf0d1d289752808053bf531b1a8f.png
+ar:.كيوريوسيتي.ستريم.ae,ar: كيوريوسيتي ستريم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/curiositystream_active.png
+ar:.ستار.بلس.ae,ar: ستار بلس,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starplushd/active/fcf24df80613459462ac740b47210454.png
+ar:.الشرقية.من.كلباء.ae,ar: الشرقية من كلباء,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sharqiyafromKalba/active/a0ff54ac8f9f9d9cbf50ce1b6c070762.png
+ar:.الوسطى.من.الذيد.ae,ar: الوسطى من الذيد,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alwoustaaldhaid/active/c5c38ed9b3be97200d47dfcc5914221d.png
+ar:.Al.Jadeed.ae,ar: Al Jadeed,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/aljadeedtv-active.png
+ar:.سيكستير.ae,ar: سيكستير,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/6tertv/active/40dddab81f075010018306a3abf3b02a.png
+ar:.إم.6.ae,ar: إم 6,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/m6television/active/d9e657685694cd3a07513addb378f0a1.png
+ar:.إم.6.ميوزيك.ae,ar: إم 6 ميوزيك,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/m6music/active/d90aa2bf6622f2b00049113ba4ef5c15.png
+ar:.آر.إف.إم.ae,ar: آر إف إم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rfmtv/active/1614bd8ae4b9b3b6b2a643c55be3ca06.png
+ar:.دبليو.9.ae,ar: دبليو 9,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/w9television/active/68414662564455c3335e94373ff1ced5.png
+ar:.كولورز.بانغلا.ae,ar: كولورز بانغلا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorsbangla/active/d53cf252588dd5fd9bf3e77e15dfb431.png
+ar:.إم.تي.في.إنديا.ae,ar: إم تي في إنديا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mtvindia/active/2fd951a4068f8b683c46894bddc6a4a6.png
+ar:.بلوم.ae,ar: بلوم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/bloomtv/active/9bcbdc333430a207ce4d49d79a59acff.png
+ar:.لوني.تونز.باي.سي.إن.ae,ar: لوني تونز باي سي إن,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/tomandjerry-active.png
+ar:.أل.سنافر.ae,ar: أل سنافر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsanafer/active/7f8ca41f8ef93124e925deeb17eb2848.png
+ar:.كارتون.شانل.ae,ar: كارتون شانل,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kartoonchannel-active.png
+ar:.غولي.ae,ar: غولي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/gulli/active/a1ae2fe60ce0e9a9d9f4bd799c8474db.png
+ar:.تي.جي.ae,ar: تي جي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/tijitv/active/a6da11a0a2922caa6cf6c70a57f384bb.png
+ar:.زي.بنغلا.ae,ar: زي بنغلا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeebangla/active/02ee03e55f48f2e6efcc9448bcf4fc28.png
+ar:.ست.ماكس.ae,ar: ست ماكس,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/test/setmax/active/dc7d5a08fca92b8978b4f7f7419f9fb9.png
+ar:.ستار.غولد.ae,ar: ستار غولد,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/stargold/active/5be6b8838b9e34e6fc026e88b7d47cf8.png
+ar:.زي.سينما.ae,ar: زي سينما,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeecinema/active/f1fd1b246c873332d86e6ddecd77db1e.png
+ar:.آسيا.نت.بلس.ae,ar: آسيا نت بلس,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetplushd/active/712b1d125fdc68d5fa8f69d133c62137.png
+ar:.إي.إم.بوليوود.بلا.حدود.ae,ar: إي إم بوليوود بلا حدود,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/emasala/active/df7facca36712dbe48b23565022d8c05.png
+ar:.سوني.تي.في.ae,ar: سوني تي في,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/test/sonytv/active/5f78636e38b938fe937377bd3b59dd7a.png
+ar:.زي.تي.في.ae,ar: زي تي في,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeetvhd/active/e38cf10b7bdf74046f5699569cf74c42.png
+ar:.ساب.تي.في.ae,ar: ساب تي في,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sabtv/active/01ec3c04923e983dc3bb8f4089934c16.png
+ar:.فلورز.إنترناشيونال.ae,ar: فلورز إنترناشيونال,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/flowersinternational/active/59e45f6babce9f16102059b5b2ecae6a.png
+ar:.قناة.جيو.ae,ar: قناة جيو,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/geotv/active/020233bc9b4b05638eca8b3ffd3128d7.png
+ar:.آسيا.نت.موفيز.ae,ar: آسيا نت موفيز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetmovieshd/active/61665dffc9569403b2e23289f2ce4f01.png
+ar:.مازافيل.مانوراما.ae,ar: مازافيل مانوراما,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mazhavilmanorama/active/44553484c4590dcc8057dbfa4ae0813e.png
+ar:.این.ٹی.وی.ae,ar: این ٹی وی,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/ntvhd/active/d7613c5367e9f4d4df627b71aad65829.png
+ar:.إي.مسالا.سيمبلي.ساوث.ae,ar: إي مسالا سيمبلي ساوث,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/emsimplysouth/active/7b47b7819f44603df174495efb9b3479.png
+ar:.زي.كيرلام.ae,ar: زي كيرلام,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeekaralam/active/ccea69db8fe108f87ff46511325005d3.png
+ar:.زي.تاميل.ae,ar: زي تاميل,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeetamil/active/8ece4fa0006314c07668bbc5f8f47add.png
+ar:.زي.ماراثي.ae,ar: زي ماراثي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeemarathi/active/335261e708a7c9be203f9e668ef9fc05.png
+ar:.M80.موسى.ae,ar: M80 موسى,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/m80-active.png
+ar:.كاريم.نيسارام-مباشر.ae,ar: كاريم نيسارام-مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/karyam-active.png
+ar:.ستار.جالسا.ae,ar: ستار جالسا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starjalsha/active/ad5cd6142a57ce3048528cc58f1a71a6.png
+ar:.قناة.إي.آر.واي.ديجيتال.ae,ar: قناة إي آر واي ديجيتال,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/arydigital/active/e31525f33f72c7e5e4116ac8db564fa8.png
+ar:.ستارزبلاي.موفيز..ae,ar: ستارزبلاي موفيز ,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaymovie/active/32afed472f138a52e93c37d4eb095e36.png
+ar:.زي.أفلام.-.مباشر.ae,ar: زي أفلام - مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeeaflam-active.png
+ar:.روتانا.سينما.السعودية.ae,ar: روتانا سينما السعودية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacinemaksa/active/f5eac282ac0d1b54d7ec9e8bc3ff0ee0.png
+ar:.روتانا.سينما.مصر.ae,ar: روتانا سينما مصر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacinemaegypt/active/bdfeccb2a06631affbc6c40489ef8a05.png
+ar:.كيه.ميوزيك.-.مباشر.ae,ar: كيه ميوزيك - مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kmusic-active.png
+ar:.سي.جي.تي.ان.ديسكفرينغ.تشاينا.ae,ar: سي جي تي ان ديسكفرينغ تشاينا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/ctgndiscoveringchina/active/36d95c97435ea7bccc65b6055e870e71.png
+ar:.سي.جي.تي.ان.تشاينا.ترافل.ae,ar: سي جي تي ان تشاينا ترافل,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtnchinatravel/active/81b6e3f487603b8c42152a464da36103.png
+ar:.تلفزيون.كونشيرتو.ae,ar: تلفزيون كونشيرتو,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/concreto-active.png
+ar:.ذاتس.روك.ae,ar: ذاتس روك,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/nowrock-active.png
+ar:.ذاتس.إيتيز.ae,ar: ذاتس إيتيز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/now80s-active.png
+ar:.برنامج.نادي.الحيوانات.الأليفة.التلفزيوني.ae,ar: برنامج نادي الحيوانات الأليفة التلفزيوني,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/petclub-active.png
+ar:.ذاتس.سيفنتيز.ae,ar: ذاتس سيفنتيز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/now70s-active.png
+ar:.القرآن.الكريم.السعودية.ae,ar: القرآن الكريم السعودية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sharjahtv-active.png
+ar:.قناة.القرآن.الكريم.ae,ar: قناة القرآن الكريم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnqurankareemfm/active/5854d3dee75f692abf2fc0fc8e63fcd0.png
+ar:.إذاعة.الإمارات.إف.إم.ae,ar: إذاعة الإمارات إف إم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnemaratfm/active/a8624499b31abc1df6a28c9a9f3a9aad.png
+ar:.ستار.إف.إم.ae,ar: ستار إف إم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnstarfm/active/2b4d2de0a31e9dccfc6eb9a5ab68592a.png
+ar:.راديو.2.ae,ar: راديو 2,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnradio2fm/active/103f32c3b5ae0e6348f41abbed23817a.png
+ar:.كدك.إف.إم.ae,ar: كدك إف إم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnkadakfm/active/5e656ef71312fa2228b6b2364ae05dbd.png
+ar:.أبوظبي.كلاسيك.إف.إم.ae,ar: أبوظبي كلاسيك إف إم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadclassicfm/active/46e65cc866962d1e72046d9202897c57.png
+ar:.راديو.1.ae,ar: راديو 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnradio1fm/active/c7bd6188415bd5192c0010b055b95d22.png
+ar:.إذاعة.أبوظبي.إف.إم.ae,ar: إذاعة أبوظبي إف إم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/abudhabifm/active/4c5b88c3228df5b7bacf91f69993e0bc.png
+Dubai.ae,Dubai,https://dmi-vod-prod.akamaized.net/images/channels_transparent/DTV_1280x720.png
+Sama.Dubai.ae,Sama Dubai,https://dmi-vod-prod.akamaized.net/images/channels_transparent/SamaTV_1280x720.png
 Dubai.Sports.2.ae,Dubai Sports 2,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Dsports_2_1280x720.png
 Dubai.Racing.2.ae,Dubai Racing 2,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Racing_2_1280x720.png
 Noor.DubaiTV.ae,Noor DubaiTV,https://dmi-vod-prod.akamaized.net/images/channels_transparent/Noor_Dubai_TV_1280x720.png
