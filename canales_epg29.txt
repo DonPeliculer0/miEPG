@@ -712,8 +712,8 @@ en:.Rotana.Classic.ae,en: Rotana Classic,https://starzplay-img-prod-ssl.akamaize
 en:.Rotana.Comedy.ae,en: Rotana Comedy,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacomedy/active/c30fba551543a57259a2d90338ab3df0.png
 en:.Rotana.Drama.ae,en: Rotana Drama,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanadrama/active/94a2fae0a57c87b45b17f7ff2e4d8cd6.png
 en:.MBC+.e&amp;.ae,en: MBC+ e&amp;,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.png
-en:.STARZPLAY.Action.ae,en: STARZPLAY Action,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayaction/active/ac5b839d7ddb2789cc746f2827a235c5.png
-en:.STARZPLAY.Comedy.ae,en: STARZPLAY Comedy,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaycomedy/active/aaf3fc7751df7d9b30bde82db1a6ca64.png
+en:.STARZPLAY.Action.ae,en: STARZPLAY Action,
+en:.STARZPLAY.Comedy.ae,en: STARZPLAY Comedy,
 en:.STARZPLAY.Series.ae,en: STARZPLAY Series,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayseries/active/6f793faac4402a002db0df4e7c4434b1.png
 en:.Saudi.1.ae,en: Saudi 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/saudione-active.png
 en:.Rotana.Khaleejiah.ae,en: Rotana Khaleejiah,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanakhaleejiah/active/dcb462c1b2beb45e46627850f23b98cc.png
@@ -833,8 +833,8 @@ ar:.روتانا.كلاسيك.ae,ar: روتانا كلاسيك,https://starzplay
 ar:.روتانا.كوميدي.ae,ar: روتانا كوميدي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacomedy/active/c30fba551543a57259a2d90338ab3df0.png
 ar:.روتانا.دراما.ae,ar: روتانا دراما,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanadrama/active/94a2fae0a57c87b45b17f7ff2e4d8cd6.png
 ar:.MBC+.e&amp;.ae,ar: MBC+ e&amp;,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.png
-ar:.ستارزبلاي.أكشن.ae,ar: ستارزبلاي أكشن,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayaction/active/ac5b839d7ddb2789cc746f2827a235c5.png
-ar:.ستارزبلاي.كوميدي.ae,ar: ستارزبلاي كوميدي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaycomedy/active/aaf3fc7751df7d9b30bde82db1a6ca64.png
+ar:.ستارزبلاي.أكشن.ae,ar: ستارزبلاي أكشن,
+ar:.ستارزبلاي.كوميدي.ae,ar: ستارزبلاي كوميدي,
 ar:.ستارزبلاي.سيريز.ae,ar: ستارزبلاي سيريز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayseries/active/6f793faac4402a002db0df4e7c4434b1.png
 ar:.السعودية.1.ae,ar: السعودية 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/saudione-active.png
 ar:.روتانا.خليجية.ae,ar: روتانا خليجية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanakhaleejiah/active/dcb462c1b2beb45e46627850f23b98cc.png
