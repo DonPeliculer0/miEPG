@@ -764,7 +764,7 @@ en:.STARZPLAY.Movies.ae,en: STARZPLAY Movies,https://starzplay-img-prod-ssl.akam
 en:.Zee.Aflam.-.Live.ae,en: Zee Aflam - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeeaflam-active.png
 en:.Rotana.Cinema.KSA.ae,en: Rotana Cinema KSA,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacinemaksa/active/f5eac282ac0d1b54d7ec9e8bc3ff0ee0.png
 en:.Rotana.Cinema.Egypt.ae,en: Rotana Cinema Egypt,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacinemaegypt/active/bdfeccb2a06631affbc6c40489ef8a05.png
-en:.K.Music.-.Live.ae,en: K Music - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kmusic-active.png
+en:.K.Music.-.Live.ae,en: K Music - Live,
 en:.CGTN.Discovering.China.ae,en: CGTN Discovering China,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/ctgndiscoveringchina/active/36d95c97435ea7bccc65b6055e870e71.png
 en:.CGTN.China.Travel.ae,en: CGTN China Travel,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtnchinatravel/active/81b6e3f487603b8c42152a464da36103.png
 en:.Concerto.TV.ae,en: Concerto TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/concreto-active.png
@@ -885,7 +885,7 @@ ar:.ستارزبلاي.موفيز..ae,ar: ستارزبلاي موفيز ,https:/
 ar:.زي.أفلام.-.مباشر.ae,ar: زي أفلام - مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeeaflam-active.png
 ar:.روتانا.سينما.السعودية.ae,ar: روتانا سينما السعودية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacinemaksa/active/f5eac282ac0d1b54d7ec9e8bc3ff0ee0.png
 ar:.روتانا.سينما.مصر.ae,ar: روتانا سينما مصر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacinemaegypt/active/bdfeccb2a06631affbc6c40489ef8a05.png
-ar:.كيه.ميوزيك.-.مباشر.ae,ar: كيه ميوزيك - مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kmusic-active.png
+ar:.كيه.ميوزيك.-.مباشر.ae,ar: كيه ميوزيك - مباشر,
 ar:.سي.جي.تي.ان.ديسكفرينغ.تشاينا.ae,ar: سي جي تي ان ديسكفرينغ تشاينا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/ctgndiscoveringchina/active/36d95c97435ea7bccc65b6055e870e71.png
 ar:.سي.جي.تي.ان.تشاينا.ترافل.ae,ar: سي جي تي ان تشاينا ترافل,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtnchinatravel/active/81b6e3f487603b8c42152a464da36103.png
 ar:.تلفزيون.كونشيرتو.ae,ar: تلفزيون كونشيرتو,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/concreto-active.png
