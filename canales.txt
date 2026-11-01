@@ -685,6 +685,7 @@ DE | Sky Sport F1,DE | Sky Sport F1
 DE | Sky Sport Tennis,DE | Sky Sport Tennis
 DE | Sky Sport Golf,DE | Sky Sport Golf
 Sky.Sport.Austria.1.HD.de,Sky.Sport.Austria.1.HD.de
+Sky.Sport.Austria.2.HD.de,Sky.Sport.Austria.2.HD.de
 Eurosport.Italia.it,Eurosport.Italia.it
 Eurosport.2.Italia.it,Eurosport.2.Italia.it
 RAI.Sport...227.it,RAI.Sport...227.it
