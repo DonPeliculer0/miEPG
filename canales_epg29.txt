@@ -712,8 +712,8 @@ en:.Rotana.Classic.ae,en: Rotana Classic,https://starzplay-img-prod-ssl.akamaize
 en:.Rotana.Comedy.ae,en: Rotana Comedy,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacomedy/active/c30fba551543a57259a2d90338ab3df0.png
 en:.Rotana.Drama.ae,en: Rotana Drama,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanadrama/active/94a2fae0a57c87b45b17f7ff2e4d8cd6.png
 en:.MBC+.e&amp;.ae,en: MBC+ e&amp;,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.png
-en:.STARZPLAY.Action.ae,en: STARZPLAY Action,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayaction/active/ac5b839d7ddb2789cc746f2827a235c5.png
-en:.STARZPLAY.Comedy.ae,en: STARZPLAY Comedy,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaycomedy/active/aaf3fc7751df7d9b30bde82db1a6ca64.png
+en:.STARZPLAY.Action.ae,en: STARZPLAY Action,
+en:.STARZPLAY.Comedy.ae,en: STARZPLAY Comedy,
 en:.STARZPLAY.Series.ae,en: STARZPLAY Series,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayseries/active/6f793faac4402a002db0df4e7c4434b1.png
 en:.Saudi.1.ae,en: Saudi 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/saudione-active.png
 en:.Rotana.Khaleejiah.ae,en: Rotana Khaleejiah,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanakhaleejiah/active/dcb462c1b2beb45e46627850f23b98cc.png
@@ -771,7 +771,7 @@ en:.Concerto.TV.ae,en: Concerto TV,https://starzplay-img-prod-ssl.akamaized.net/
 en:.That's.Rock.ae,en: That's Rock,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/nowrock-active.png
 en:.That’s.80s.ae,en: That’s 80s,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/now80s-active.png
 en:.Pet.Club.TV.ae,en: Pet Club TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/petclub-active.png
-en:.That’s.70s.ae,en: That’s 70s,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/now70s-active.png
+en:.That’s.70s.ae,en: That’s 70s,
 en:.Saudi.Quran.ae,en: Saudi Quran,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sharjahtv-active.png
 en:.Quran.Kareem.ae,en: Quran Kareem,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnqurankareemfm/active/5854d3dee75f692abf2fc0fc8e63fcd0.png
 en:.Emarat.FM.ae,en: Emarat FM,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnemaratfm/active/a8624499b31abc1df6a28c9a9f3a9aad.png
@@ -833,8 +833,8 @@ ar:.روتانا.كلاسيك.ae,ar: روتانا كلاسيك,https://starzplay
 ar:.روتانا.كوميدي.ae,ar: روتانا كوميدي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanacomedy/active/c30fba551543a57259a2d90338ab3df0.png
 ar:.روتانا.دراما.ae,ar: روتانا دراما,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanadrama/active/94a2fae0a57c87b45b17f7ff2e4d8cd6.png
 ar:.MBC+.e&amp;.ae,ar: MBC+ e&amp;,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mbcpluselife-active.png
-ar:.ستارزبلاي.أكشن.ae,ar: ستارزبلاي أكشن,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayaction/active/ac5b839d7ddb2789cc746f2827a235c5.png
-ar:.ستارزبلاي.كوميدي.ae,ar: ستارزبلاي كوميدي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaycomedy/active/aaf3fc7751df7d9b30bde82db1a6ca64.png
+ar:.ستارزبلاي.أكشن.ae,ar: ستارزبلاي أكشن,
+ar:.ستارزبلاي.كوميدي.ae,ar: ستارزبلاي كوميدي,
 ar:.ستارزبلاي.سيريز.ae,ar: ستارزبلاي سيريز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplayseries/active/6f793faac4402a002db0df4e7c4434b1.png
 ar:.السعودية.1.ae,ar: السعودية 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/saudione-active.png
 ar:.روتانا.خليجية.ae,ar: روتانا خليجية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/rotanakhaleejiah/active/dcb462c1b2beb45e46627850f23b98cc.png
@@ -892,7 +892,7 @@ ar:.تلفزيون.كونشيرتو.ae,ar: تلفزيون كونشيرتو,https
 ar:.ذاتس.روك.ae,ar: ذاتس روك,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/nowrock-active.png
 ar:.ذاتس.إيتيز.ae,ar: ذاتس إيتيز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/now80s-active.png
 ar:.برنامج.نادي.الحيوانات.الأليفة.التلفزيوني.ae,ar: برنامج نادي الحيوانات الأليفة التلفزيوني,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/petclub-active.png
-ar:.ذاتس.سيفنتيز.ae,ar: ذاتس سيفنتيز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/now70s-active.png
+ar:.ذاتس.سيفنتيز.ae,ar: ذاتس سيفنتيز,
 ar:.القرآن.الكريم.السعودية.ae,ar: القرآن الكريم السعودية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sharjahtv-active.png
 ar:.قناة.القرآن.الكريم.ae,ar: قناة القرآن الكريم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnqurankareemfm/active/5854d3dee75f692abf2fc0fc8e63fcd0.png
 ar:.إذاعة.الإمارات.إف.إم.ae,ar: إذاعة الإمارات إف إم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnemaratfm/active/a8624499b31abc1df6a28c9a9f3a9aad.png
