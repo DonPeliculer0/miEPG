@@ -164,6 +164,9 @@ NBA.TV.HD.us2,NBA.TV.HD.us2
 Spectrum.SportsNet.Lakers.HD.us2,Spectrum.SportsNet.Lakers.HD.us2
 NBA-LosAngelesLakers.us,NBA-LosAngelesLakers.us
 NBA-NewYorkKnicks.us,NBA-NewYorkKnicks.us
+Spectrum.SportsNet.Knicks.HD.us2,Spectrum.SportsNet.Knicks.HD.us2
+NBA-DallasMavericks.us,NBA-DallasMavericks.us
+Spectrum.SportsNet.Mavericks.HD.us2,Spectrum.SportsNet.Mavericks.HD.us2
 3CatInfo,3CatInfo
 67517fae5534bb0008187997,Actualidad 360
 EbS.be,EbS Live
