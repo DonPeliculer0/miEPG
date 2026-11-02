@@ -51,7 +51,7 @@
 6a1610bebdf296985fd95603-645e328fb164db00b4547f05,Bravo Vault,https://provider-static.plex.tv/4/epg/channels/logos/gracenote/43deefc8c74a6bffb583fb38b5a7d35b.png
 6a1610bebdf296985fd95603-5fb84bc1b7ad2d002dcb735f,MOVIESPHERE,https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png
 6a1610bebdf296985fd95603-6533de63bd43e1c8b1865152,Ebony TV by Lionsgate,https://provider-static.plex.tv/epg/cms/production/09d19711-7f10-45d1-8ec9-2100d6f0d27a/EbonyTV_Logo_1500x1000_DarkBG.png
-6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2,Lifetime Movie Favorites,https://provider-static.plex.tv/epg/cms/production/64ce3127-c379-4c7f-b576-7a4c167c8311/LTMF_channel_logo_4c_1500x1000rdx.png
+6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2,Lifetime Holiday Movie Favorites,https://provider-static.plex.tv/epg/cms/production/7d61d917-bcb1-48d9-ac16-38a7a6a9ca1b/Lifetime_Holiday_Movie_Favorites_channel_logo_4c_1500x1000.png
 6a1610bebdf296985fd95603-690549d77a3fc35d95153b9e,America’s Funniest Home Videos,https://provider-static.plex.tv/epg/cms/production/7f49eb97-4926-4302-8710-0b4e64f7560b/Americas_Funniest_Home_Video_AFHV_LogoA_Color_1500x1000.png
 6a1610bebdf296985fd95603-648095b14e104622d093d902,Laff More,https://provider-static.plex.tv/2/epg/channels/logos/gracenote/299cf5577f1c895c5485425867f63d52.png
 6a1610bebdf296985fd95603-65622fb65dbccec83a87b643,BBC Comedy,https://provider-static.plex.tv/epg/cms/production/1e92ab4a-8016-45ef-8f59-1190695f2c6a/BBC_COMEDY_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png
@@ -232,7 +232,7 @@
 6a1610bebdf296985fd95603-66f6b6baac1a1890ef197a4b,Hunter,https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png
 6a1610bebdf296985fd95603-689fb2c329e3c9f1368c04a3,Green Acres,https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png
 6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d,Circle Country,https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png
-6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2,Places &amp; Spaces,https://provider-static.plex.tv/epg/cms/production/93b7eade-14c9-434b-822b-f86ed372481f/PLEX_P_S_LOGOFORDARKBKG_1500X1500_REV_-_Patty_Gopez.png
+6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2,The Great Christmas Light Fight on Places &amp; Spaces,https://provider-static.plex.tv/epg/cms/production/a19d1fe4-a6f3-4f34-b203-4dd55ea1bd9a/TheGreatChristmasLightFight_P_S_Logocolor_white_colorRDX.png
 6a1610bebdf296985fd95603-6373bfe48e2036e4410ddb82,Discovery Turbo TV,https://provider-static.plex.tv/epg/cms/production/29397b83-4169-4eaa-8d67-e01d54812191/DiscoveryTurboTV_logo_1500x1000px_darkBg.png
 6a1610bebdf296985fd95603-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/eaf0f82d-10b5-4ad5-b673-caeca5180eab/SV_4C_LOGO_LIGHT_1500x1000.png
 6a1610bebdf296985fd95603-63c1e64df0f132afc3afbab4,Torque Presented By History,https://provider-static.plex.tv/epg/cms/production/58e9d900-596f-4be9-bb02-8e9d9b8c278d/Torque_channel_logo_4c_2250x1500_-_Laura_ConnollyRDX.png
@@ -2533,7 +2533,7 @@
 64305451fc3be5947773c339-69b164bc87340e48b7b72247,CNN Headlines International,https://provider-static.plex.tv/epg/cms/production/c6b66b76-8050-4cc8-9e61-1ab6cc2b0015/CNN_HeadlinesInternational_RED_wht_logo.png
 64305451fc3be5947773c339-61d73ab0a7b7c7f703418516,Bloomberg TV,https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png
 64305451fc3be5947773c339-66c3d1abd263903b4c6d991e,INSIDE CRIME,https://provider-static.plex.tv/epg/cms/production/a1148e03-0d33-4faf-ab74-4039f5f3b6e8/Inside-Crime-Logo_Dark_-_Greta_WilliamsRDX.png
-64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a,Lifetime Movies,https://provider-static.plex.tv/epg/cms/production/18bab13d-afa7-4df6-8149-c8ddef9dd212/Lifetime_Movies_channel_logo_white_1500x1000.png
+64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a,Christmas Movies by Lifetime,https://provider-static.plex.tv/epg/cms/production/18bab13d-afa7-4df6-8149-c8ddef9dd212/Lifetime_Movies_channel_logo_white_1500x1000.png
 64305451fc3be5947773c339-69f4f6c2647c1d14cc38677b,NFL Channel,https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png
 64305451fc3be5947773c339-69ad87a9e657bab5f7a9b7e4,Duck Dynasty,https://provider-static.plex.tv/epg/cms/production/1bdd61ab-fa81-4ade-8673-6e649ef36100/DuckDynasty-Channel-Logo-_Light_-1500x1000px.png
 64305451fc3be5947773c339-6a2ac1a1da7a9b723a906c36,Ice Road Truckers,https://provider-static.plex.tv/epg/cms/production/05b05aac-5615-4577-bc88-4c4f8f7d4393/Ice_Road_Truckers_1500x1500_channel_logo_4cRDX.png
