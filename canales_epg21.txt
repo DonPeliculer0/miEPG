@@ -174,6 +174,6 @@ Canal.WAPA.2.Deportes.pt,Canal WAPA 2 Deportes,https://imagenes.gatotv.com/logos
 News.Now.pt,News Now,https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NEWSNOW&amp;profile=corner_transparent_positive&amp;width=60
 SIC.pt,SIC,
 SIC.Notícias.pt,SIC Notícias,
-SIC.Alta.Definição.pt,SIC Alta Definição,https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_h7yt338j/width/0/height/0/quality/85/format/png32
+SIC.Alta.Definição.pt,SIC Alta Definição,
 SIC.Replay.pt,SIC Replay,
 Kuriakos.Cine.pt,Kuriakos Cine,https://kuriakos-cine.com/wp-content/uploads/2022/11/Logo_cine.png

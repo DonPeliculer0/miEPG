@@ -41,7 +41,7 @@ Crime.and.Inv..sk,Crime and Inv.,https://files.cdn.magio.tv/tv_logos/crime-and-i
 ČT2.HD.sk,ČT2 HD,https://files.cdn.magio.tv/tv_logos/ct2-hd.png
 ČT24.HD.sk,ČT24 HD,https://files.cdn.magio.tv/tv_logos/ct24-hd.png
 DAJTO.HD.sk,DAJTO HD,https://files.cdn.magio.tv/tv_logos/dajto-hd.png
-DRAMOX.sk,DRAMOX,https://files.cdn.magio.tv/tv_logos/dramox.png
+DRAMOX.sk,DRAMOX,
 DVTV.EXTRA.HD.sk,DVTV EXTRA HD,https://files.cdn.magio.tv/tv_logos/dvtv-extra-hd.png
 Deutsche.Welle.sk,Deutsche Welle,
 Discovery.Channel.HD.sk,Discovery Channel HD,https://files.cdn.magio.tv/tv_logos/discovery-channel-hd.png

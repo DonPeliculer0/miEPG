@@ -54,7 +54,7 @@ Sky.Sport..255.it,Sky Sport  255,https://guidatv.sky.it/logo/910skysport_Light_F
 Sky.Sport..256.it,Sky Sport  256,https://guidatv.sky.it/logo/912skysport_Light_Fit.png?checksum=1c38728d-1774-4c93-a75f-622e062b1c29?tr=n-logo_80
 Sky.Sport..257.it,Sky Sport  257,https://guidatv.sky.it/logo/775skysport_Light_Fit.png?checksum=5cd2e53d-e3b3-4921-9391-de3e72d6fb81?tr=n-logo_80
 Sky.Sport..258.it,Sky Sport  258,https://guidatv.sky.it/logo/772skysport_Light_Fit.png?checksum=51beb5ec-84fe-4bb1-8252-4269885af3c8?tr=n-logo_80
-Sky.Sport..259.it,Sky Sport  259,
+Sky.Sport..259.it,Sky Sport  259,https://guidatv.sky.it/logo/613skysport_Light_Fit.png?checksum=a039404e-e357-4503-b42c-6e459e9e2511?tr=n-logo_80
 Sky.Calcio.10..260.it,Sky Calcio 10  260,
 Sky.Calcio.11..261.it,Sky Calcio 11  261,
 SuperTennis.HD.it,SuperTennis HD,https://guidatv.sky.it/logo/5246supertennishd_Light_Fit.png?checksum=13f5cbb1646d848fde3af6fccba8dd4c?tr=n-logo_80

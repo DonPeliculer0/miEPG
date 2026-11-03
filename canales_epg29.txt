@@ -21,7 +21,7 @@ Saudi.Al.Ekhbariya.HD.ae,Saudi Al Ekhbariya HD,https://www.sat.tv/wp-content/the
 BBC.Arabic.ae,BBC Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-281.png
 Extra.News.HD.ae,Extra News HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-98176.png
 RT.Arabic.HD.ae,RT Arabic HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-283.png
-CGTN.Arabic.ae,CGTN Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-61358.png
+CGTN.Arabic.ae,CGTN Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-459.png
 France.24.Arabic.ae,France 24 Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-282.png
 B4U.Plus.ae,B4U Plus,
 Zee.Aflam.ae,Zee Aflam,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-73038.png
@@ -734,7 +734,7 @@ en:.Colors.Bangla.ae,en: Colors Bangla,https://starzplay-img-prod-ssl.akamaized.
 en:.MTV.India.ae,en: MTV India,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mtvindia/active/2fd951a4068f8b683c46894bddc6a4a6.png
 en:.Bloom.ae,en: Bloom,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/bloomtv/active/9bcbdc333430a207ce4d49d79a59acff.png
 en:.Looney.Tunes.By.CN.ae,en: Looney Tunes By CN,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/tomandjerry-active.png
-en:.Al.Sanafer.ae,en: Al Sanafer,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsanafer/active/7f8ca41f8ef93124e925deeb17eb2848.png
+en:.Al.Sanafer.ae,en: Al Sanafer,
 en:.Kartoon.Channel!.-.Live.ae,en: Kartoon Channel! - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kartoonchannel-active.png
 en:.Gulli.ae,en: Gulli,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/gulli/active/a1ae2fe60ce0e9a9d9f4bd799c8474db.png
 en:.TiJi.ae,en: TiJi,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/tijitv/active/a6da11a0a2922caa6cf6c70a57f384bb.png
@@ -855,7 +855,7 @@ ar:.كولورز.بانغلا.ae,ar: كولورز بانغلا,https://starzplay
 ar:.إم.تي.في.إنديا.ae,ar: إم تي في إنديا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/mtvindia/active/2fd951a4068f8b683c46894bddc6a4a6.png
 ar:.بلوم.ae,ar: بلوم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/bloomtv/active/9bcbdc333430a207ce4d49d79a59acff.png
 ar:.لوني.تونز.باي.سي.إن.ae,ar: لوني تونز باي سي إن,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/tomandjerry-active.png
-ar:.أل.سنافر.ae,ar: أل سنافر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsanafer/active/7f8ca41f8ef93124e925deeb17eb2848.png
+ar:.أل.سنافر.ae,ar: أل سنافر,
 ar:.كارتون.شانل.ae,ar: كارتون شانل,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/kartoonchannel-active.png
 ar:.غولي.ae,ar: غولي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/gulli/active/a1ae2fe60ce0e9a9d9f4bd799c8474db.png
 ar:.تي.جي.ae,ar: تي جي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/tijitv/active/a6da11a0a2922caa6cf6c70a57f384bb.png
