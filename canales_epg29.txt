@@ -21,7 +21,7 @@ Saudi.Al.Ekhbariya.HD.ae,Saudi Al Ekhbariya HD,https://www.sat.tv/wp-content/the
 BBC.Arabic.ae,BBC Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-281.png
 Extra.News.HD.ae,Extra News HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-98176.png
 RT.Arabic.HD.ae,RT Arabic HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-283.png
-CGTN.Arabic.ae,CGTN Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-459.png
+CGTN.Arabic.ae,CGTN Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-61358.png
 France.24.Arabic.ae,France 24 Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-282.png
 B4U.Plus.ae,B4U Plus,
 Zee.Aflam.ae,Zee Aflam,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-73038.png
