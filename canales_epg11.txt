@@ -2,8 +2,8 @@
 101.dstv_com,M-Net,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HDT.png
 106.dstv_com,M Movies+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png
 106.dstv_com,M Movies+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png
-107.dstv_com,M Movies Stars,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png
-108.dstv_com,M Movies Legends,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png
+107.dstv_com,M Stars,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png
+108.dstv_com,M Legends,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png
 109.dstv_com,SWITCH’D ON 109,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/35H.png
 110.dstv_com,SWITCH’D ON 110,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/35K.png
 112.dstv_com,Studio Universal,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SUH.png
@@ -37,7 +37,7 @@
 158.dstv_com,Moja 9.9,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M9H.png
 160.dstv_com,Star Khanya,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/STZ.jpg
 161.dstv_com,Mzansi Magic,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZH.png
-163.dstv_com,Wethu +,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png
+163.dstv_com,Wethu+,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/W30.png
 164.dstv_com,Mzansi Bioskop,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZB.png
 166.dstv_com,Zee World,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M11.png
 167.dstv_com,Star Life,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/H26.png
@@ -143,16 +143,13 @@
 417.dstv_com,Africanews,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/CEE.png
 430.dstv_com,RAI International,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RAI.png
 431.dstv_com,NHK,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EEB.png
-435.dstv_com,RTPmundo (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTP.png
+435.dstv_com,RTP Mundo,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/RTP.png
 437.dstv_com,TV5 Monde Afrique,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TVK.png
 447.dstv_com,CCTV 4,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SHO.png
-450.dstv_com,SET Asia,
-452.dstv_com,ZeeTV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ZEE.png
 453.dstv_com,Star Plus,
+454.dstv_com,Sun TV,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DOO.png
 455.dstv_com,Star Vijay,
 456.dstv_com,Colors,
-457.dstv_com,SET Max,
-460.dstv_com,Zee Cinema,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/FTV.png
 489.dstv_com,Maaddii Abol,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MA7.png
 510.dstv_com,Telemundo (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TEP.png
 512.dstv_com,My Channel Africa (P),https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TVR.png

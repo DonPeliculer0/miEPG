@@ -53,7 +53,7 @@ Duna.HD.sk,Duna HD,https://files.cdn.magio.tv/tv_logos/duna-hd.png
 Duna.World.HD.sk,Duna World HD,https://files.cdn.magio.tv/tv_logos/duna-world-hd.png
 Dusk.TV.sk,Dusk TV,https://files.cdn.magio.tv/tv_logos/dusk-tv.png
 Dvojka.HD.sk,Dvojka HD,https://files.cdn.magio.tv/tv_logos/dvojka-hd.png
-English.Club.HD.sk,English Club HD,https://files.cdn.magio.tv/tv_logos/english-club-hd.png
+English.Club.HD.sk,English Club HD,
 Epic.Drama.HD.sk,Epic Drama HD,https://files.cdn.magio.tv/tv_logos/viasat-epic-drama-hd.png
 Erox.HD.sk,Erox HD,https://files.cdn.magio.tv/tv_logos/erox-hd.png
 Eroxxx.HD.sk,Eroxxx HD,https://files.cdn.magio.tv/tv_logos/eroxxx-hd.png
@@ -201,7 +201,7 @@ TV2Klub.sk,TV2Klub,https://files.cdn.magio.tv/tv_logos/fem3.png
 TV4.sk,TV4,https://files.cdn.magio.tv/tv_logos/tv4.png
 TVP.Polonia.sk,TVP Polonia,https://files.cdn.magio.tv/tv_logos/tvp-polonia.png
 Televize.Seznam.HD.sk,Televize Seznam HD,
-TinyTeen.HD.sk,TinyTeen HD,https://files.cdn.magio.tv/tv_logos/tinyteen-hd.png
+TinyTeen.HD.sk,TinyTeen HD,
 Travel.Channel.HD.sk,Travel Channel HD,https://files.cdn.magio.tv/tv_logos/travel-channel-hd.png
 Travel.XP.HD.sk,Travel XP HD,https://files.cdn.magio.tv/tv_logos/travel-xp-hd.png
 True.Amateurs.HD.sk,True Amateurs HD,https://files.cdn.magio.tv/tv_logos/true-amateurs-hd.png
