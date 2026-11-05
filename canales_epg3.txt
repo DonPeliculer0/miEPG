@@ -886,6 +886,7 @@
 693bf37b75432d022c85ef01,Stargate,https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png
 6850335b5965a2fd49f7e36d,Andromeda,https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png
 62bdad934d73d50007a82472,Doctor Who Classic,https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png
+6874ad743ffa5e0c917f6e20,The Outer Limits,https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png
 62e94ec74823db0007277a8f,One Piece,https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png
 68d25b620a0f3829b116bb6f,Pluto TV Anime,https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png
 68b9afd66985e192657a2b7f,APTN Beyond,https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png
@@ -902,7 +903,6 @@
 62bdaf3470f09a000714a2f6,Degrassi,https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png
 62fb9ade112ca70007d8441d,Nonstop Drama,https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png
 62e922f6675f71000736db3b,Doc Martin,https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png
-6874ad743ffa5e0c917f6e20,The Outer Limits,https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png
 691b012d1148fa1cd8a75d5c,Hardcore Pawn,https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png
 6408ae8f9b39550008caf94f,American Pickers,https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png
 655f2ee6c0fc88000877d26c,Bar Rescue,https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png
@@ -1086,7 +1086,6 @@
 6672f49f61a39900089db68e,Pluto TV Deutsche Comedy,https://images.pluto.tv/channels/6672f49f61a39900089db68e/colorLogoPNG_1748857141516.png
 697a05f9539a4a433a64cb53,Büro, Büro,https://images.pluto.tv/channels/697a05f9539a4a433a64cb53/colorLogoPNG_1789479440129.png
 5d767a76367b89cf0032550d,Pluto TV Mistletoe,https://images.pluto.tv/channels/5d767a76367b89cf0032550d/colorLogoPNG_1761128648314.png
-684ac14b5965a2fd49583311,Weihnachtskino,https://images.pluto.tv/channels/684ac14b5965a2fd49583311/colorLogoPNG_1757587715183.png
 5dc29179c928a600093a7747,Pluto TV Christmas,https://images.pluto.tv/channels/5dc29179c928a600093a7747/colorLogoPNG.png
 5be1c0d81843b56328bc3fba,Pluto TV Fireplace,https://images.pluto.tv/channels/5be1c0d81843b56328bc3fba/colorLogoPNG.png
 66c6fb43489bab0008b6f7cd,Scorpion,https://images.pluto.tv/channels/66c6fb43489bab0008b6f7cd/colorLogoPNG.png
@@ -1709,6 +1708,7 @@
 693bf37b75432d022c85ef01,Stargate,https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png
 6850335b5965a2fd49f7e36d,Andromeda,https://images.pluto.tv/channels/6850335b5965a2fd49f7e36d/colorLogoPNG_1750087529738.png
 62bdad934d73d50007a82472,Doctor Who Classic,https://images.pluto.tv/channels/62bdad934d73d50007a82472/colorLogoPNG.png
+6874ad743ffa5e0c917f6e20,The Outer Limits,https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png
 62e94ec74823db0007277a8f,One Piece,https://images.pluto.tv/channels/62e94ec74823db0007277a8f/colorLogoPNG.png
 68d25b620a0f3829b116bb6f,Pluto TV Anime,https://images.pluto.tv/channels/68d25b620a0f3829b116bb6f/colorLogoPNG_1758618285949.png
 68b9afd66985e192657a2b7f,APTN Beyond,https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/colorLogoPNG_1760690903489.png
@@ -1725,7 +1725,6 @@
 62bdaf3470f09a000714a2f6,Degrassi,https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png
 62fb9ade112ca70007d8441d,Nonstop Drama,https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png
 62e922f6675f71000736db3b,Doc Martin,https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png
-6874ad743ffa5e0c917f6e20,The Outer Limits,https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png
 691b012d1148fa1cd8a75d5c,Hardcore Pawn,https://images.pluto.tv/channels/691b012d1148fa1cd8a75d5c/colorLogoPNG_1776452409517.png
 6408ae8f9b39550008caf94f,American Pickers,https://images.pluto.tv/channels/6408ae8f9b39550008caf94f/colorLogoPNG.png
 655f2ee6c0fc88000877d26c,Bar Rescue,https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png
@@ -2572,9 +2571,9 @@
 6512d72b473a540008592be5,Sabrina the Teenage Witch,https://images.pluto.tv/channels/6512d72b473a540008592be5/colorLogoPNG.png
 686d01ad94a028da3aaca6b3,The Nanny &amp; Mr Sheffield - A Fine Romance,https://images.pluto.tv/channels/686d01ad94a028da3aaca6b3/colorLogoPNG_1759145085675.png
 6391df52d146a40007c265f3,The Nanny,https://images.pluto.tv/channels/6391df52d146a40007c265f3/colorLogoPNG.png
-66fbf4d3d7de140008d41f5b,NCIS: Los Angeles,https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png
 6790d6c7bc03978b9bfbfd44,FBoy Island,https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png
 688a20c69034bd35f34aaa9e,Simba Prisen,https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png
+66fbf4d3d7de140008d41f5b,NCIS: Los Angeles,https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png
 6525426e81f942000833d131,Andersens Julehemmelighed,https://images.pluto.tv/channels/6525426e81f942000833d131/colorLogoPNG.png
 6a4b6106064a1780422088b1,One of the Girls - med Kenny Aleksandr,https://images.pluto.tv/channels/6a4b6106064a1780422088b1/colorLogoPNG_1790327982233.png
 61e0608a2a0b2700078687e2,Familien Thunderman,https://images.pluto.tv/channels/61e0608a2a0b2700078687e2/colorLogoPNG.png
