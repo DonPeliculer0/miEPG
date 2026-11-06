@@ -74,7 +74,7 @@ History.it,History,https://guidatv.sky.it/logo/513history_Light_Fit.png?checksum
 History.+1.it,History +1,
 QVC.it,QVC,
 Fashion.TV.it,Fashion TV,
-VALUE.24.TV.it,VALUE 24 TV,
+VALUE.24.TV.it,VALUE 24 TV,https://guidatv.sky.it/logo/5524value24tv_Light_Fit.png?checksum=53fa037b-0987-4bb5-9f15-93ccee609aca?tr=n-logo_80
 Sky.TG24.it,Sky TG24,https://guidatv.sky.it/logo/521skytg24_Light_Fit.png?checksum=da35dbfe-8079-4ba1-adcb-fa9e2cfe3392?tr=n-logo_80
 Sky.Meteo24.it,Sky Meteo24,
 TG24PrimoPiano.it,TG24PrimoPiano,

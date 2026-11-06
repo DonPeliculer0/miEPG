@@ -276,7 +276,7 @@ Alkass.Three.ae,Alkass Three,https://www.sat.tv/wp-content/themes/twentytwenty-c
 Alkass.Four.ae,Alkass Four,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-611.png
 Al.Iraqiya.Sport.HD.ae,Al Iraqiya Sport HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-656.png
 Outdoor.Channel.ae,Outdoor Channel,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1125120.png
-World.Poker.Tour.ae,World Poker Tour,
+World.Poker.Tour.ae,World Poker Tour,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-2905575.png
 Cricket.Gold.ae,Cricket Gold,
 Bare.Knuckle.ae,Bare Knuckle,
 World.Fishing.Network.ae,World Fishing Network,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1850553.png
@@ -356,11 +356,11 @@ NRT.HD.ae,NRT HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_li
 Payam.TV.ae,Payam TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226453.png
 Rojava.TV.HD.ae,Rojava TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226474.png
 Al.Jazeera.English.HD.ae,Al Jazeera English HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-304.png
-Nile.TV.ae,Nile TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-162493.png
+Nile.TV.ae,Nile TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-68744.png
 TRT.World.ae,TRT World,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-251.png
-Wion.HD.ae,Wion HD,
-Press.TV.HD.ae,Press TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-293.png
-Arirang.World.ae,Arirang World,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-68744.png
+Wion.HD.ae,Wion HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-293.png
+Press.TV.HD.ae,Press TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-162493.png
+Arirang.World.ae,Arirang World,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-2905578.png
 Karameesh.ae,Karameesh,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-107966.png
 Toyor.Aljanah.TV.ae,Toyor Aljanah TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-83218.png
 Kidsy.TV.ae,Kidsy TV,
