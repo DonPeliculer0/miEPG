@@ -4,7 +4,6 @@ Antena 3 HD,Antena 3 HD
 Cuatro HD,Cuatro HD
 Telecinco HD,Telecinco HD
 La Sexta HD,La Sexta HD
-LaSeptima.TV,LaSeptima.TV
 La 7 CyL,La 7 CyL
 La 8 Valladolid,La 8 Valladolid
 24 Horas,24 Horas
@@ -12,6 +11,7 @@ Ten,Ten
 DMAX,DMAX
 DKISS,DKISS
 TRECE,TR3CE
+La Séptima,La Séptima
 Veo7,Veo7
 SQUIRREL,Squirrel TV
 Squirrel 2,Squirrel 2
