@@ -15,7 +15,7 @@ La Séptima,La Séptima
 Veo7,Veo7
 SQUIRREL,Squirrel TV
 Squirrel 2,Squirrel 2
-Be Mad HD,Be Mad
+Be Mad,Be Mad
 Mega,Mega
 Energy,Energy
 Atreseries,Atreseries
