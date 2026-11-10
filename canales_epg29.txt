@@ -663,7 +663,7 @@ ERI.Radio.4.ae,ERI Radio 4,https://www.sat.tv/wp-content/themes/twentytwenty-chi
 en:.Sky.News.Arabia.-.Live.ae,en: Sky News Arabia - Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/skynews/active/d8459747c839a7a4245dba1c26c69ed7.png
 en:.Abu.Dhabi.Sports.1.ae,en: Abu Dhabi Sports 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports1/active/05ec3a0dd0f04e36e25a7b6e4b8e90d8.png
 en:.Abu.Dhabi.Sports.2.ae,en: Abu Dhabi Sports 2,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports2/active/84f5309012f3e824633d9b9b35856dbb.png
-en:.Abu.Dhabi.Sports.HDR.ae,en: Abu Dhabi Sports HDR,
+en:.Abu.Dhabi.Sports.HDR.ae,en: Abu Dhabi Sports HDR,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/abudhabisportshdr/active/208e52ee8e33007aff211b097204378f.png
 en:.STARZPLAY.Sports.1.ae,en: STARZPLAY Sports 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports1/active/ef4231c5fe16f3cbc97c7219a04ad7be.png
 en:.STARZPLAY.Sports.2.ae,en: STARZPLAY Sports 2,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports2/active/7f3318d8cd582c3e98cb7be5b3aabe19.png
 en:.Cricbuzz.1.ae,en: Cricbuzz 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife2-active.png
@@ -784,7 +784,7 @@ en:.Abu.Dhabi.FM.ae,en: Abu Dhabi FM,https://starzplay-img-prod-ssl.akamaized.ne
 ar:.سكاي.نيوز.عربية.-.مباشر.ae,ar: سكاي نيوز عربية - مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/skynews/active/d8459747c839a7a4245dba1c26c69ed7.png
 ar:.1.أبوظبي.الرياضية.ae,ar: 1 أبوظبي الرياضية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports1/active/05ec3a0dd0f04e36e25a7b6e4b8e90d8.png
 ar:.2.أبوظبي.الرياضية.ae,ar: 2 أبوظبي الرياضية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports2/active/84f5309012f3e824633d9b9b35856dbb.png
-ar:.أبوظبي.الرياضية.ae,ar: أبوظبي الرياضية,
+ar:.أبوظبي.الرياضية.ae,ar: أبوظبي الرياضية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/abudhabisportshdr/active/208e52ee8e33007aff211b097204378f.png
 ar:.ستارز.بلاي.سبورتس.1.ae,ar: ستارز بلاي سبورتس 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports1/active/ef4231c5fe16f3cbc97c7219a04ad7be.png
 ar:.أبوظبي.الرياضية.بريميوم.2.-.الدوري.الإيطالي.ae,ar: أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports2/active/7f3318d8cd582c3e98cb7be5b3aabe19.png
 ar:.كريكبز.1.ae,ar: كريكبز 1,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife2-active.png
