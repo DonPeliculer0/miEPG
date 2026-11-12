@@ -955,3 +955,29 @@ English.Club.TV.HD.pl,English.Club.TV.HD.pl
 English.Club.HD.sk,English.Club.HD.sk
 ENGLISH.CLUB.TV.tr,ENGLISH.CLUB.TV.tr
 ENGLISH.CLUB.TV.HD.tr,ENGLISH.CLUB.TV.HD.tr
+M+ Navidad,M+ Navidad
+M+ PopUp,M+ Navidad
+M+ PopUp 2,M+ Navidad
+RTVE_Navidad.TV,RTVE Navidad
+RTVE_PopUp.TV,RTVE Navidad
+A3P_Navidad.TV,Navidad atresplayer
+En Familia (Rakuten TV),family-rakuten-tv,family-rakuten-tv
+Runtime Familia,runtime-familia-1
+5f984b18dfe75800070e8645,5f984b18dfe75800070e8645
+GreatChristmas.uk,Great! Christmas
+62fb6d4308f5ec0007453c09,62fb6d4308f5ec0007453c09
+62ea41f42db3220007db97a6,62ea41f42db3220007db97a6
+63335df531a7590007c226b9,63335df531a7590007c226b9
+Merry Christmas from Viafree,Merry Christmas from Viafree
+66e0b265dd2d690008c5496b,66e0b265dd2d690008c5496b
+5f984fdc470d460007a67094,5f984fdc470d460007a67094
+MTV Xmas,MTV Xmas
+Now Christmas,Now Christmas
+ES35000016A,ES35000016A
+5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801-us,5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801-us
+stingray-greatest-hits,stingray-greatest-hits
+stingray-hot-country-christmas,stingray-hot-country-christmas
+643054b1fc3be59477853717-654eb862dde2222e8ba551f1,643054b1fc3be59477853717-654eb862dde2222e8ba551f1
+DistroTV_Relaxing Winterscapes,DistroTV_Relaxing Winterscapes
+ES2200001SF, ES2200001SF
+Happy Christmas Radio,Happy Christmas Radio
