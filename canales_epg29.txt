@@ -143,7 +143,7 @@ Karbala.TV.HD.ae,Karbala TV HD,https://www.sat.tv/wp-content/themes/twentytwenty
 Al.Forat.ae,Al Forat,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226055.png
 Iraq.Now.ae,Iraq Now,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-37306.png
 Alawla.ae,Alawla,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-519.png
-Al.Iraqiya.Kurd.ae,Al Iraqiya Kurd,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-152965.png
+Al.Iraqiya.Kurd.ae,Al Iraqiya Kurd,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-152965.png
 Kurdistan.TV.ae,Kurdistan TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-480.png
 KurdMax.HD.ae,KurdMax HD,https://www.sat.tv/wp-content/uploads/2022/09/logo.png
 Kurdsat.ae,Kurdsat,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-37998.png
@@ -153,14 +153,14 @@ Zagros.ae,Zagros,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_li
 One.America.News.Network.ae,One America News Network,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-2842148.png
 Al.Iraqiya.Turkuman.ae,Al Iraqiya Turkuman,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-481.png
 Iraqia.Syriac.ae,Iraqia Syriac,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-482.png
-China.Arab.TV.ae,China Arab TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-33766.png
+China.Arab.TV.ae,China Arab TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-2910962.png
 Zee.Alwan.Egypt.ae,Zee Alwan Egypt,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1480036.png
 Baywatch.ae,Baywatch,
 Wedotv.Big.Stories.ae,Wedotv Big Stories,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1266879.png
 AWE.ae,AWE,
 Mix.bel.Araby.TV.ae,Mix bel Araby TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-75152.png
 Cima.ae,Cima,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-122550.png
-Dijlah.Zaman.ae,Dijlah Zaman,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-86619.png
+Dijlah.Zaman.ae,Dijlah Zaman,
 Al.Hayah.Mosalsalat.ae,Al Hayah Mosalsalat,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-500.png
 Nile.Comedy.ae,Nile Comedy,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-41108.png
 Nile.Drama.ae,Nile Drama,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-122516.png
@@ -288,7 +288,7 @@ Al.Mashhad.ae,Al Mashhad,https://www.sat.tv/wp-content/themes/twentytwenty-child
 Al.Shaoub.TV.ae,Al Shaoub TV,
 Al.Jazeera.HD.ae,Al Jazeera HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-303.png
 Al.Jazeera.Mobasher.HD.ae,Al Jazeera Mobasher HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-5953.png
-Al.Jazeera.Mobasher.2.HD.ae,Al Jazeera Mobasher 2 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-125.png
+Al.Jazeera.Mobasher.2.HD.ae,Al Jazeera Mobasher 2 HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-2909673.png
 Al.Araby.HD.ae,Al Araby HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-322.png
 CNBC.Arabiya.ae,CNBC Arabiya,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-358.png
 DW.Arabia.HD.ae,DW Arabia HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-92399.png
@@ -341,7 +341,7 @@ Al.Jamahiriya.TV.ae,Al Jamahiriya TV,https://www.sat.tv/wp-content/themes/twenty
 Libya.Alhadath.HD.ae,Libya Alhadath HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-31260.png
 Libya.Alrasmia.Channel.ae,Libya Alrasmia Channel,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-257.png
 Libya.Al.Hedaya.ae,Libya Al Hedaya,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1405665.png
-LuaLua.TV.HD.ae,LuaLua TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226497.png
+LuaLua.TV.HD.ae,LuaLua TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226497.png
 Mekameleen.ae,Mekameleen,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-425.png
 Misr.Al.Zeraeey.ae,Misr Al Zeraeey,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226489.png
 Palestine.HD.ae,Palestine HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-6196.png
@@ -392,7 +392,7 @@ Al.Nas.ae,Al Nas,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_li
 Madrasetna.1.ae,Madrasetna 1,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-107365.png
 Madrasetna.2.ae,Madrasetna 2,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-83226.png
 Madrasetna.3.ae,Madrasetna 3,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-107339.png
-Al.Ayyam.TV.ae,Al Ayyam TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-421.png
+Al.Ayyam.TV.ae,Al Ayyam TV,
 Al.Madeeh.ae,Al Madeeh,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226052.png
 Al.Nada.TV.ae,Al Nada TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-166.png
 Misr.Quran.Kareem.ae,Misr Quran Kareem,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-188289.png
@@ -514,7 +514,7 @@ Oyoun.Al.Watan.TV.ae,Oyoun Al Watan TV,https://www.sat.tv/wp-content/themes/twen
 Salam.HD.ae,Salam HD,
 Watan.TV.ae,Watan TV,
 Aryen.TV.ae,Aryen TV,
-Jordan.sama.ae,Jordan sama,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-152964.png
+Jordan.sama.ae,Jordan sama,
 Manu.Chat.ae,Manu Chat,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226437.png
 Sat.tv.ae,Sat.tv,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-150211.png
 CHAINE.1.ae,CHAINE 1,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-188289.png
