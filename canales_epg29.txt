@@ -360,7 +360,7 @@ Nile.TV.ae,Nile TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_
 TRT.World.ae,TRT World,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-251.png
 Wion.HD.ae,Wion HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-293.png
 Press.TV.HD.ae,Press TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-162493.png
-Arirang.World.ae,Arirang World,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-2905578.png
+Arirang.World.ae,Arirang World,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-2914984.png
 Karameesh.ae,Karameesh,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-107966.png
 Toyor.Aljanah.TV.ae,Toyor Aljanah TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-83218.png
 Kidsy.TV.ae,Kidsy TV,
