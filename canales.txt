@@ -962,23 +962,23 @@ RTVE_Navidad.TV,RTVE Navidad
 RTVE_PopUp.TV,RTVE Navidad
 A3P_Navidad.TV,Navidad atresplayer
 ES260001081,Rakuten 100% Navidad
-Runtime Familia,runtime-familia-1
-5f984b18dfe75800070e8645,5f984b18dfe75800070e8645
-GreatChristmas.uk,Great! Christmas
-62fb6d4308f5ec0007453c09,62fb6d4308f5ec0007453c09
-62ea41f42db3220007db97a6,62ea41f42db3220007db97a6
-63335df531a7590007c226b9,63335df531a7590007c226b9
-Merry Christmas from Viafree,Merry Christmas from Viafree
-66e0b265dd2d690008c5496b,66e0b265dd2d690008c5496b
-5f984fdc470d460007a67094,5f984fdc470d460007a67094
+Runtime Familia,Runtime Christmas
+5f984b18dfe75800070e8645,Pluto TV Cine Navideño
+64305451fc3be5947773c339-6648d6f0a16b3a50177f4dc0,Great! Christmas
+62fb6d4308f5ec0007453c09,Christmas 365
+62ea41f42db3220007db97a6,Pluto TV Christmas 1
+63335df531a7590007c226b9,Pluto TV Christmas 2
+63047bd6b0726b000795341d,Merry Christmas from Viafree
+66e0b265dd2d690008c5496b,The Great Christmas Light Fight
+5f984fdc470d460007a67094,MTV Hits Navidad
 MTV Xmas,MTV Xmas
 Now Christmas,Now Christmas
-ES35000016A,ES35000016A
-5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801-us,5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801-us
+ES35000016A,Vevo Navidad
+5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801-us,Soul Storm Christmas
 stingray-greatest-hits,stingray-greatest-hits
 stingray-hot-country-christmas,stingray-hot-country-christmas
-643054b1fc3be59477853717-654eb862dde2222e8ba551f1-es,643054b1fc3be59477853717-654eb862dde2222e8ba551f1-es
-5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325-us,5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325-us
+643054b1fc3be59477853717-654eb862dde2222e8ba551f1-es,Stingray Holidayscapes
+5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325-us,Stingray Greatest Holiday Hits
 DistroTV_Relaxing Winterscapes,DistroTV_Relaxing Winterscapes
-ES2200001SF, ES2200001SF
+ES2200001SF,Fireplace Vibes
 Happy Christmas Radio,Happy Christmas Radio
