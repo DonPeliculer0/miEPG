@@ -960,6 +960,9 @@ M+ PopUp,M+ Navidad
 M+ PopUp 2,M+ Navidad
 RTVE_Navidad.TV,RTVE Navidad
 RTVE_PopUp.TV,RTVE Navidad
+RTVE_PopUp.TV,RTVE PopUp
+RTVE_PopUp2.TV,RTVE PopUp2
+RTVE_PopUp3.TV,RTVE PopUp3
 A3P_Navidad.TV,Navidad atresplayer
 Runtime Familia,Runtime Familia
 ES260001081,Rakuten 100% Navidad
