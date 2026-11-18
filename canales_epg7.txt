@@ -2563,7 +2563,7 @@
 64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d,AMC Cupid,https://provider-static.plex.tv/epg/cms/production/cf793ad1-fa4c-4dc5-ad43-73faa32e5355/AMC_CUPID_1500x1000_LOGO_LIGHT.png
 64305451fc3be5947773c339-612919784f53e1002c9aa219,Are We There Yet?,https://provider-static.plex.tv/epg/cms/production/138a25f8-6dfb-4a03-bbec-acaa84628fcd/awty-logo-2.png
 64305451fc3be5947773c339-69012324d320237a5a2da1bc,Rookie Blue,https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png
-64305451fc3be5947773c339-6888e66c57acf2ceb6121ea8,Evidence of Evil,https://provider-static.plex.tv/epg/cms/production/bf9ff678-d3cf-4a9b-8095-eed2752bcb01/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png
+64305451fc3be5947773c339-6888e66c57acf2ceb6121ea8,Evidence of Evil,https://provider-static.plex.tv/epg/cms/production/b22dbf0a-61e9-4e1b-ac2f-2f6cbfb08bbb/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png
 64305451fc3be5947773c339-69aed20de657bab5f7a9b7ee,Live PD Presents,https://provider-static.plex.tv/epg/cms/production/391a5281-f2df-43ea-a2d9-678d64a45d09/Live_PD_Presents_Channel_Logo_All_White_RDX__1_.png
 64305451fc3be5947773c339-66743f1cc79bcedcc731019f,Great! Mystery,https://provider-static.plex.tv/epg/cms/production/a57e065b-4f07-40e5-bc3a-e26bdacfe439/Plex_For_Dark_BG_1500x1000_GREAT_Mystery_-_Nick_FoundoukisRDX.png
 64305451fc3be5947773c339-65e9d0ad8fe4ef7053c3c86b,FilmRise Free Movies,https://provider-static.plex.tv/epg/cms/production/36234e95-ef97-466b-8f36-cd5d260ec0e0/FilmRise_FreeMovies_1500x1000_logo_light.png
@@ -2575,7 +2575,7 @@
 64305451fc3be5947773c339-6515fa752ff655e77635c626,The Osbournes,https://provider-static.plex.tv/epg/cms/production/800e74ab-7d32-40a7-bfcd-46759da46896/TheOsbournes_Logo_White_1500x1000_-_Harry_Marshall.png
 64305451fc3be5947773c339-6a300b4d50e72a483a631e71,I Survived…,https://provider-static.plex.tv/epg/cms/production/0628c3b8-a030-44b3-9c85-fc6db637e07e/I_Survived_1500x1500_channel_logo_wRDX.png
 64305451fc3be5947773c339-69dfefffb1533a88c65eac46,Chaos on Cam,https://provider-static.plex.tv/epg/cms/production/1f70ab34-e675-47d7-8153-e22b07aa806f/Chaos_on_Cam_channel_logo_4c_1500x1000RDX.png
-64305451fc3be5947773c339-6888e72c053adc1e3a34e40e,True Crime UK,https://provider-static.plex.tv/epg/cms/production/9b2e24be-ea1a-4d23-8a0e-d2c1ae742e01/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png
+64305451fc3be5947773c339-6888e72c053adc1e3a34e40e,True Crime UK,https://provider-static.plex.tv/epg/cms/production/4aa7cf2f-b85b-486a-89f4-b9689d2c2610/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png
 64305451fc3be5947773c339-66e8d5d20a1c525933947790,Homes Under the Hammer,https://provider-static.plex.tv/epg/cms/production/763ac36e-6b69-46b2-8197-c789a459e897/Homes_hammer_white.png
 64305451fc3be5947773c339-69a20544bccf10670e5e498e,Born To Kill?,https://provider-static.plex.tv/epg/cms/production/5333f1c1-a0bd-4b39-858b-7bc5c24f8008/BornToKill_Logo_Colour_1500X1000.png
 64305451fc3be5947773c339-64106a1075be345a863fe0d7,Fifth Gear (UK),https://provider-static.plex.tv/epg/cms/production/2355a75e-cc71-4f8c-89bb-69587e8e4fc6/5thcd2457359e3d9e7c617b0296c36feb09OG_RDX_Color.png
@@ -2653,7 +2653,7 @@
 64305451fc3be5947773c339-6a5d48cabfb60c398ce03cd5,Inazuma Eleven,https://provider-static.plex.tv/epg/cms/production/b2414fae-fe37-4df7-b898-59e1ddd9c8a1/Logo_InazumaEleven_1500x1000_DarkBackground.png
 64305451fc3be5947773c339-674f6a6cf44561420465f9f3,Animation+,https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png
 64305451fc3be5947773c339-6a6cfd2e8f82b5f5c3fc7c35,Homicide Hunter,https://provider-static.plex.tv/epg/cms/production/846eafad-94d0-41b3-944d-dd5e4ac77fcd/HH_WHITE_1500x1000.png
-64305451fc3be5947773c339-6888e5c7d7b56a61e6e2643c,Bloodline Detectives,https://provider-static.plex.tv/epg/cms/production/6cdc7f1d-3755-4ad7-9193-fa6606c2873e/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png
+64305451fc3be5947773c339-6888e5c7d7b56a61e6e2643c,Bloodline Detectives,https://provider-static.plex.tv/epg/cms/production/22e03bff-9d69-42c3-a578-3e9e29962537/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png
 64305451fc3be5947773c339-5ef4e1b40d9ad000423c4430,Maverick Black Cinema,https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png
 64305451fc3be5947773c339-6674bc83a9c715b93ca6ca92,Untold Stories of the ER,https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png
 64305451fc3be5947773c339-642d67a42476824150b0a6e9,wedo movies,https://provider-static.plex.tv/epg/cms/production/24e9bfc3-7a31-44cf-8b4a-c43b1b29b3fa/wedo-movies_1500x1000_white.png

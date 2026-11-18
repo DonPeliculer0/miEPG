@@ -308,7 +308,7 @@ Algérie.3.HD.ae,Algérie 3 HD,https://www.sat.tv/wp-content/themes/twentytwenty
 Echorouk.News.ae,Echorouk News,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-321.png
 Ennahar.TV.ae,Ennahar TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-39401.png
 Bilad.ae,Bilad,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-132.png
-El.Hayat.TV.ae,El Hayat TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-46069.png
+El.Hayat.TV.ae,El Hayat TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-46069.png
 Al.24.News.ae,Al 24 News,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-36907.png
 Nile.News.ae,Nile News,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-169.png
 Halab.Today.TV.ae,Halab Today TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-225669.png
@@ -482,7 +482,7 @@ Türkmeneli.TV.HD.ae,Türkmeneli TV HD,https://www.sat.tv/wp-content/themes/twen
 Waar.HD.ae,Waar HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-495.png
 Sahar.Kurdi.ae,Sahar Kurdi,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226466.png
 Télé.Tchad.ae,Télé Tchad,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-73501.png
-OSN.TV.ae,OSN TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-226274.png
+OSN.TV.ae,OSN TV,
 iKA.TV.ae,iKA TV,
 Al.Eshraq.TV.ae,Al Eshraq TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226384.png
 Altaleaa.TV.ae,Altaleaa TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-2504926.png
@@ -690,7 +690,7 @@ en:.Reporter.TV.ae,en: Reporter TV,https://starzplay-img-prod-ssl.akamaized.net/
 en:.Asharq.Bloomberg.ae,en: Asharq Bloomberg,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsharqnews-active.png
 en:.CNBC.Arabiya.HD.ae,en: CNBC Arabiya HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnbc-active.png
 en:.CGTN.ae,en: CGTN,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtn-active.png
-en:.CNN.Headlines.International.ae,en: CNN Headlines International,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnn-active.png
+en:.CNN.Headlines.International.ae,en: CNN Headlines International,
 en:.France.24.Arabic.ae,en: France 24 Arabic,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24arabic/active/13d5dbd161f370f28abdbf2ea97748d8.png
 en:.France.24.French.ae,en: France 24 French,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24french/active/0068e4dea45fea81bdd1b124a6d4adb1.png
 en:.STARZPLAY.Sports.3.ae,en: STARZPLAY Sports 3,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports-active.png
@@ -720,7 +720,7 @@ en:.Rotana.Khaleejiah.ae,en: Rotana Khaleejiah,https://starzplay-img-prod-ssl.ak
 en:.Zee.Alwan.ae,en: Zee Alwan,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeealwan-active.png
 en:.Roya.TV.Live.ae,en: Roya TV Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/royatv-active.png
 en:.LBC.Sat.ae,en: LBC Sat,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/lbcsat/active/030caf0d1d289752808053bf531b1a8f.png
-en:.Curiosity.Stream.ae,en: Curiosity Stream,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/curiositystream_active.png
+en:.Curiosity.Stream.ae,en: Curiosity Stream,
 en:.Star.Plus.HD.ae,en: Star Plus HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starplushd/active/fcf24df80613459462ac740b47210454.png
 en:.Sharqiya.from.Kalba.ae,en: Sharqiya from Kalba,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sharqiyafromKalba/active/a0ff54ac8f9f9d9cbf50ce1b6c070762.png
 en:.Al.Wousta.Al.Dhaid.ae,en: Al Wousta Al Dhaid,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alwoustaaldhaid/active/c5c38ed9b3be97200d47dfcc5914221d.png
@@ -811,7 +811,7 @@ ar:.ريبورتر.تي.في.ae,ar: ريبورتر تي في,https://starzplay-i
 ar:.الشرق.بلومبرغ.ae,ar: الشرق بلومبرغ,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsharqnews-active.png
 ar:.سي.إن.بي.سي.عربية.-.مباشر.ae,ar: سي إن بي سي عربية - مباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnbc-active.png
 ar:.سي.جي.تي.إن.ae,ar: سي جي تي إن,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtn-active.png
-ar:.عناوين.سي.إن.إن.الدولية.ae,ar: عناوين سي إن إن الدولية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnn-active.png
+ar:.عناوين.سي.إن.إن.الدولية.ae,ar: عناوين سي إن إن الدولية,
 ar:.فرانس.24.العربية.ae,ar: فرانس 24 العربية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24arabic/active/13d5dbd161f370f28abdbf2ea97748d8.png
 ar:.فرانس.24.الفرنسية.ae,ar: فرانس 24 الفرنسية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24french/active/0068e4dea45fea81bdd1b124a6d4adb1.png
 ar:.STARZPLAY.Sports.3.ae,ar: STARZPLAY Sports 3,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports-active.png
@@ -841,7 +841,7 @@ ar:.روتانا.خليجية.ae,ar: روتانا خليجية,https://starzplay
 ar:.زي.ألوان.-.البث.المباشر.ae,ar: زي ألوان - البث المباشر,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/zeealwan-active.png
 ar:.Roya.TV.Live.ae,ar: Roya TV Live,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/royatv-active.png
 ar:.أل.بي.سي.سات.ae,ar: أل بي سي سات,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/lbcsat/active/030caf0d1d289752808053bf531b1a8f.png
-ar:.كيوريوسيتي.ستريم.ae,ar: كيوريوسيتي ستريم,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/curiositystream_active.png
+ar:.كيوريوسيتي.ستريم.ae,ar: كيوريوسيتي ستريم,
 ar:.ستار.بلس.ae,ar: ستار بلس,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starplushd/active/fcf24df80613459462ac740b47210454.png
 ar:.الشرقية.من.كلباء.ae,ar: الشرقية من كلباء,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/sharqiyafromKalba/active/a0ff54ac8f9f9d9cbf50ce1b6c070762.png
 ar:.الوسطى.من.الذيد.ae,ar: الوسطى من الذيد,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alwoustaaldhaid/active/c5c38ed9b3be97200d47dfcc5914221d.png
