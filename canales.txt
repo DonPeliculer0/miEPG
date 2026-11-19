@@ -13,7 +13,7 @@ DKISS,DKISS
 TRECE,TR3CE
 La Séptima,La Séptima
 Veo7,Veo7
-SQUIRREL,Squirrel TV
+Squirrel TV,Squirrel TV
 Squirrel 2,Squirrel 2
 Be Mad,Be Mad
 Mega,Mega
