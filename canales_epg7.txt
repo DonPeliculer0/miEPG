@@ -484,7 +484,6 @@
 6a1610bebdf296985fd95603-66be944f8711311880995280,Action Hollywood Movies,https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png
 6a1610bebdf296985fd95603-64d4e82ac5d4668c9cb7b5df,Novelisima,https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png
 6a1610bebdf296985fd95603-5f5132e362fe160040f26c15,Runtime Español,https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png
-6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5,Entravision Ahora,https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png
 6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1,ADN NOTICIAS,https://provider-static.plex.tv/epg/cms/production/223b82fa-afa1-46e5-a7f1-11e0365bc77c/Logo_ADN_NEUTRO.png
 6a1610bebdf296985fd95603-68b9f5a3d60e5dd29263c7ac,NEW KFOOD,https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png
 6a1610bebdf296985fd95603-5fe27da18cdd46002d85efed,The Grio,https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e2b22c28c76774811fcd7847400aeda6.png

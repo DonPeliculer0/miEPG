@@ -104,7 +104,6 @@
 307.dstv_com,NickJr,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NJR.png
 308.dstv_com,NickTOONS,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/NTO.png
 309.dstv_com,Disney Junior,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/DPH.png
-310.dstv_com,Jim Jam,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/JJM.png
 311.dstv_com,eToonz,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E06.png
 314.dstv_com,Moonbug,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/ROK.png
 319.dstv_com,Mindset,https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E11.png
