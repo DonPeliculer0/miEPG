@@ -64,7 +64,9 @@ M+ Drama HD,M+ Drama HD
 M+ Clásicos HD,M+ Clásicos HD
 M+ Cine Español,M+ Cine Español
 M+ PopUp,M+ PopUp
+M+ Navidad,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
+M+ Thriller,M+ PopUp 2
 Somos,Somos
 Canal FlixOlé 1,FlixOlé 1
 Canal FlixOlé 2,FlixOlé 2
@@ -958,7 +960,6 @@ ENGLISH.CLUB.TV.tr,ENGLISH.CLUB.TV.tr
 ENGLISH.CLUB.TV.HD.tr,ENGLISH.CLUB.TV.HD.tr
 M+ Navidad,M+ Navidad
 M+ PopUp,M+ Navidad
-M+ PopUp 2,M+ Navidad
 RTVE_Navidad.TV,RTVE Navidad
 RTVE_PopUp.TV,RTVE Navidad
 RTVE_PopUp.TV,RTVE PopUp
