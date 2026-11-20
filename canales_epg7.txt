@@ -8,6 +8,7 @@
 6a1610bebdf296985fd95603-61e805952502a7a6fa84d70f,NFL Channel,https://provider-static.plex.tv/epg/cms/production/a7617b69-6d23-46d0-8e8e-e4ec9fa29d59/NFL_WHITE.png
 6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf26,Ion Mystery,https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1247cd5fa3876d1c486559e0460b300b.png
 6a1610bebdf296985fd95603-5fc705ff2f220e002d5e6bce,The Walking Dead Universe,https://provider-static.plex.tv/epg/cms/production/17192c32-77cd-4da0-bc8e-e64836d08592/AMCN_TWDU_Plex_logo_dark_v01.png
+6a1610bebdf296985fd95603-6af4b7a7367b6ced1fe30616,Ghosts,https://provider-static.plex.tv/epg/cms/production/24eb2e18-7f25-4df0-8378-bd53345815ea/Plex_GHOSTS_Logo_Color_1500x1000.png
 6a1610bebdf296985fd95603-661fcbcf414d94009d1206ee,National Lampoon,https://provider-static.plex.tv/epg/cms/production/c6de5fd0-3b71-4e86-8909-bc280408a8c2/NATIONAL_LAMPOON_LOGO_VARIATION_1_-_Gabe_Evans.png
 6a1610bebdf296985fd95603-6623c335ed4918437ed56ec0,The Wicked Tuna Channel,https://provider-static.plex.tv/epg/cms/production/07609811-826b-4726-a471-1c009b77fdeb/WickedTuna_Logo_Blue_1500x1000_-_Chris_Connors.png
 6a1610bebdf296985fd95603-6668b7a5e4f56766e556a415,The Conners,https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png
