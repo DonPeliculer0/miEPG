@@ -640,7 +640,6 @@
 69c6a93486431735d974bc2a,Deal Masters,https://images.pluto.tv/channels/69c6a93486431735d974bc2a/colorLogoPNG_1778165757861.png
 672cb91149c40600081cbee5,Whose Line Is It Anyway?,https://images.pluto.tv/channels/672cb91149c40600081cbee5/colorLogoPNG_1772035532114.png
 5e6f38792075160007d85823,Hell's Kitchen,https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png
-6aacfeef90639e3b19441c57,Chico de revista,https://images.pluto.tv/channels/6aacfeef90639e3b19441c57/colorLogoPNG_1794574400602.png
 67b4aff37d8025b161069365,NCIS,https://images.pluto.tv/channels/67b4aff37d8025b161069365/colorLogoPNG.png
 5f984f4a09e92d0007d74647,Archivos Forenses,https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png
 628751bb7154a40007168843,South Park,https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png
@@ -658,6 +657,7 @@
 6511a5d8d1f20c000864b951,Victorious,https://images.pluto.tv/channels/6511a5d8d1f20c000864b951/colorLogoPNG.png
 6511a53f473a54000854e2ee,Zoey 101,https://images.pluto.tv/channels/6511a53f473a54000854e2ee/colorLogoPNG.png
 5f1aa7aab66c76000790ee7e,Big Time Rush,https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png
+6aacfeef90639e3b19441c57,Chico de revista,https://images.pluto.tv/channels/6aacfeef90639e3b19441c57/colorLogoPNG_1794574400602.png
 6aacff312714ce519250beb1,Bienvenidos a la zona,https://images.pluto.tv/channels/6aacff312714ce519250beb1/colorLogoPNG_1794574330902.png
 6aacfebd67b298a0f0a96c14,Zona Rainpod,https://images.pluto.tv/channels/6aacfebd67b298a0f0a96c14/colorLogoPNG_1794574475146.png
 612ce5214bb5790007ad3016,Pluto TV Paranormal,https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png

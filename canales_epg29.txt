@@ -681,7 +681,7 @@ en:.Asianet.Cinema.ae,en: Asianet Cinema,https://starzplay-img-prod-ssl.akamaize
 en:.Colors.HD.ae,en: Colors HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorshd/active/3e8fd0ab64f1ae2e85200b9253d9868a.png
 en:.Colors.Kannada.ae,en: Colors Kannada,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorskannada/active/8d17c173f4b177554c4550436de3142e.png
 en:.Sky.News.ae,en: Sky News,
-en:.CNN.International.ae,en: CNN International,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnninternational/active/a214e2ce83044afc7df54bad50236dbc.png
+en:.CNN.International.ae,en: CNN International,
 en:.India.Today.TV.ae,en: India Today TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/india-today-active.png
 en:.Republic.TV.ae,en: Republic TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/republictv/active/460c1490653cec76b7f7426ce5ff2640.png
 en:.Asianet.News.ae,en: Asianet News,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/anews-active.png
@@ -802,7 +802,7 @@ ar:.آسيانت.سينما.ae,ar: آسيانت سينما,https://starzplay-img
 ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorshd/active/3e8fd0ab64f1ae2e85200b9253d9868a.png
 ar:.كولورز.كانادا.ae,ar: كولورز كانادا,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorskannada/active/8d17c173f4b177554c4550436de3142e.png
 ar:.سكاي.نيوز.ae,ar: سكاي نيوز,
-ar:.سي.إن.إن.إنترناشيونال.ae,ar: سي إن إن إنترناشيونال,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnninternational/active/a214e2ce83044afc7df54bad50236dbc.png
+ar:.سي.إن.إن.إنترناشيونال.ae,ar: سي إن إن إنترناشيونال,
 ar:.قناة.إنديا.توداي.التلفزيونية.ae,ar: قناة إنديا توداي التلفزيونية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/india-today-active.png
 ar:.ريبابليك.تي.في.ae,ar: ريبابليك تي في,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/republictv/active/460c1490653cec76b7f7426ce5ff2640.png
 ar:.آسيانيت.نيوز.ae,ar: آسيانيت نيوز,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/anews-active.png
