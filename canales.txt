@@ -976,8 +976,8 @@ RTVE_PopUp2.TV,RTVE PopUp2
 RTVE_PopUp3.TV,RTVE PopUp3
 A3P_Navidad.TV,Navidad atresplayer
 Runtime Familia,Runtime Familia
-ES260001081,Rakuten 100% Navidad
-GB2600017PX,Rakuten 100% Christmas
+ES260001081,ES260001081
+GB2600017PX,GB2600017PX
 5f984b18dfe75800070e8645,Pluto TV Cine Navideño
 64305451fc3be5947773c339-6648d6f0a16b3a50177f4dc0,Great! Christmas
 62fb6d4308f5ec0007453c09,Christmas 365
