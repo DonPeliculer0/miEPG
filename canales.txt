@@ -575,17 +575,6 @@ RTVE_PopUp2.TV,RTVE_PopUp2.TV
 RNE.TV,RNE.TV
 Atreseries.us2,Atreseries Internacional
 Antena.3.Internacional.us2,Antena 3 Internacional
-Flooxer.TV,Flooxer
-A3P_ClubComedia.TV,El club de la comedia
-A3P_Hormiguero.TV,El Hormiguero
-A3P_EqInvestigacion.TV,Equipo de investigación
-A3P_MentesInqui.TV,Inquietos atresplayer
-A3P_Multicine.TV,Multicine atresplayer
-A3P_Clasicos.TV,Clásicos atresplayer
-A3P_Comedia.TV,Comedia atresplayer
-A3P_AquiNoHayQ.TV,Aquí no hay quién viva
-A3P_FisicaOQuimica.TV,FoQ
-Kidz.TV,Kidz
 Flooxer,Flooxer
 El club de la comedia,El club de la comedia
 El Hormiguero,El Hormiguero
@@ -597,6 +586,17 @@ Comedia atresplayer,Comedia atresplayer
 Aquí no hay quién viva,Aquí no hay quién viva
 FoQ,FoQ
 Kidz,Kidz
+Flooxer.TV,Flooxer
+A3P_ClubComedia.TV,El club de la comedia
+A3P_Hormiguero.TV,El Hormiguero
+A3P_EqInvestigacion.TV,Equipo de investigación
+A3P_MentesInqui.TV,Inquietos atresplayer
+A3P_Multicine.TV,Multicine atresplayer
+A3P_Clasicos.TV,Clásicos atresplayer
+A3P_Comedia.TV,Comedia atresplayer
+A3P_AquiNoHayQ.TV,Aquí no hay quién viva
+A3P_FisicaOQuimica.TV,FoQ
+Kidz.TV,Kidz
 ,Gran Hermano 24h
 BBCOneHD.uk,BBCOneHD.uk
 BBCOne.uk,BBCOneHD.uk
