@@ -582,6 +582,7 @@ Equipo de investigación,Equipo de investigación
 Inquietos atresplayer,Inquietos atresplayer
 Multicine atresplayer,Multicine atresplayer
 Clásicos atresplayer,Clásicos atresplayer
+Nostalgia atresplayer,Nostalgia atresplayer
 Comedia atresplayer,Comedia atresplayer
 Aquí no hay quién viva,Aquí no hay quién viva
 FoQ,FoQ
@@ -593,6 +594,7 @@ A3P_EqInvestigacion.TV,Equipo de investigación
 A3P_MentesInqui.TV,Inquietos atresplayer
 A3P_Multicine.TV,Multicine atresplayer
 A3P_Clasicos.TV,Clásicos atresplayer
+A3P_Nostalgia.TV,Nostalgia atresplayer
 A3P_Comedia.TV,Comedia atresplayer
 A3P_AquiNoHayQ.TV,Aquí no hay quién viva
 A3P_FisicaOQuimica.TV,FoQ
