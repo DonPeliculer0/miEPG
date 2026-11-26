@@ -21,7 +21,7 @@ Saudi.Al.Ekhbariya.HD.ae,Saudi Al Ekhbariya HD,https://www.sat.tv/wp-content/the
 BBC.Arabic.ae,BBC Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-281.png
 Extra.News.HD.ae,Extra News HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-98176.png
 RT.Arabic.HD.ae,RT Arabic HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-283.png
-CGTN.Arabic.ae,CGTN Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-459.png
+CGTN.Arabic.ae,CGTN Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-61358.png
 France.24.Arabic.ae,France 24 Arabic,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-282.png
 B4U.Plus.ae,B4U Plus,
 Zee.Aflam.ae,Zee Aflam,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-73038.png
@@ -510,7 +510,7 @@ Jannah.TV.ae,Jannah TV,
 Libya.Ly.ae,Libya Ly,
 Libya.Future.TV.HD.ae,Libya Future TV HD,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-206.png
 Nabaa.TV.ae,Nabaa TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-2506519.png
-Oyoun.Al.Watan.TV.ae,Oyoun Al Watan TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-226452.png
+Oyoun.Al.Watan.TV.ae,Oyoun Al Watan TV,https://www.sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-159.png
 Salam.HD.ae,Salam HD,
 Watan.TV.ae,Watan TV,
 Aryen.TV.ae,Aryen TV,
@@ -675,7 +675,7 @@ en:.2M.Monde.ae,en: 2M Monde,https://starzplay-img-prod-ssl.akamaized.net/prd-pe
 en:.ejunior.ae,en: ejunior,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/e-junior/active/c9230b8eb40375d23c8217af7307003f.png
 en:.Majid.TV.ae,en: Majid TV,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png
 en:.Spacetoon.ae,en: Spacetoon,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/spacetoon/active/49f3866d8762fa3a0ee59cf27d218550.png
-en:.Cartoon.Network.Arabic.ae,en: Cartoon Network Arabic,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/93e98df5ba32fbc19119bd5257ad5011.png
+en:.Cartoon.Network.Arabic.ae,en: Cartoon Network Arabic,
 en:.Asianet.ME.ae,en: Asianet ME,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianethd/active/ffd7f8f6bb94c02f62df1ac9cbd40d81.png
 en:.Asianet.Cinema.ae,en: Asianet Cinema,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetcinema-active.png
 en:.Colors.HD.ae,en: Colors HD,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorshd/active/3e8fd0ab64f1ae2e85200b9253d9868a.png
@@ -796,7 +796,7 @@ ar:.2M.Monde.ae,ar: 2M Monde,https://starzplay-img-prod-ssl.akamaized.net/prd-pe
 ar:.إي.جونيور.ae,ar: إي جونيور,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/e-junior/active/c9230b8eb40375d23c8217af7307003f.png
 ar:.قناة.ماجد.ae,ar: قناة ماجد,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png
 ar:.سبيستون.ae,ar: سبيستون,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/spacetoon/active/49f3866d8762fa3a0ee59cf27d218550.png
-ar:.كرتون.نتورك.بالعربية.ae,ar: كرتون نتورك بالعربية,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cartoonnetworkarabic/active/93e98df5ba32fbc19119bd5257ad5011.png
+ar:.كرتون.نتورك.بالعربية.ae,ar: كرتون نتورك بالعربية,
 ar:.آسيا.نت.مي.ae,ar: آسيا نت مي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianethd/active/ffd7f8f6bb94c02f62df1ac9cbd40d81.png
 ar:.آسيانت.سينما.ae,ar: آسيانت سينما,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetcinema-active.png
 ar:.كلرز.إتش.دي.ae,ar: كلرز إتش دي,https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorshd/active/3e8fd0ab64f1ae2e85200b9253d9868a.png
